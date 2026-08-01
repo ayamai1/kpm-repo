@@ -1,0 +1,10 @@
+{
+  "repometa": {
+    "rm_name": "KPM port",
+    "rm_url": "https://github.com/ayamai1/kpm-repo",
+    "rm_rid": "kpm_auto_port"
+  },
+  "repomap": {
+    "plugins": "https://raw.githubusercontent.com/ayamai1/kpm-repo/main/plugins.json"
+  }
+}
