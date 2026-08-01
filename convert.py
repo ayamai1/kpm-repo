@@ -10,9 +10,11 @@ for id, plugin in data.items():
     p = {
         "id": id,
         "name": plugin.get("name", None),
+        "version": plugin.get("version", None),
         "icon": plugin.get("icon", None),
         "description": plugin.get("description", None),
         "link": plugin.get("url", None),
+        "hash": plugin.get("hash", None),
     }
 
     output.append(p)
