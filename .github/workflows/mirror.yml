@@ -26,4 +26,6 @@ jobs:
         run: |
           git add plugins.json
           git diff --cached --quiet || git commit -m "Update plugins.json"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git push origin main
