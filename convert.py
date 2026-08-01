@@ -12,7 +12,7 @@ for id, plugin in data.items():
         "name": plugin.get("name", None),
         "version": plugin.get("version", None),
         "icon": plugin.get("icon", ""),
-        "description": plugin.get("description", None),
+        "description": plugin.get("description", ""),
         "link": plugin.get("url", None),
         "hash": plugin.get("hash", None),
         "app_version": plugin.get(
