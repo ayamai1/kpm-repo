@@ -2375,7 +2375,7 @@
       "name": "Profile Customizer",
       "version": "1.2.0",
       "icon": "",
-      "description": null,
+      "description": "",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/ProfileCustomizer.plugin",
       "hash": "8531e6fe29d5b2804b9377dded4c00b1c0691a39ba85e82465607c34c441e4d2",
       "app_version": ">=11.12.0"
@@ -2825,7 +2825,7 @@
       "name": "UserInfoSaver",
       "version": "1.0.0",
       "icon": "zwyPluginsIcons/7",
-      "description": null,
+      "description": "",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/user_info_saver.plugin",
       "hash": "23e0513ff58dd845c9ad0bb1a76496d815d403af326bf9523d472834346d8fca",
       "app_version": ">=12.0.1"
@@ -4245,7 +4245,7 @@
       "name": "Translatica",
       "version": "1.0.6",
       "icon": "ApplePlugins/19",
-      "description": null,
+      "description": "",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Translatica.plugin",
       "hash": "dff1a11bb06623261b0b58636b7a29e154437665b26f08246a6044077a411371",
       "app_version": ">=11.12.0"
@@ -5795,7 +5795,7 @@
       "name": "No Color Button",
       "version": "1.0",
       "icon": "",
-      "description": null,
+      "description": "",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/NoColorButton.plugin",
       "hash": "f50f150fe27bdf267ba7835bbb9f03ab6bef79c2b2ba1c6f58e5c56166f3da1c",
       "app_version": ">=12.4.0"
@@ -5955,7 +5955,7 @@
       "name": "SQL Viewer",
       "version": "1.1.1",
       "icon": "exteraPlugins/1",
-      "description": null,
+      "description": "",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/sql_viewer.plugin",
       "hash": "e5459145943f29a625af71205f913229d9de4b6d018da0b4761b3ccd13b1b9ff",
       "app_version": ">=11.12.0"
