@@ -1,0 +1,29 @@
+name: sync-upstream
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync-upstream:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: upstream
+      - name: fast forward from upstream
+        run: |
+          git remote add upstream https://github.com/KangelPlugins/Plugins-Store.git
+          git fetch upstream main
+          git checkout upstream
+          git merge --ff-only upstream/main
+      - name: try push
+        run: |
+          if git diff --quiet origin/upstream upstream; then
+            echo "no changes"
+            exit 0
+          fi
+          git push origin upstream

@@ -1,0 +1,29 @@
+name: mirror
+on:
+  push:
+    branches: ["upstream"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  miror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: convert
+        run: |
+          git show origin/upstream:store.json > store.json
+          python convert.py
+      - name: push changes
+        run: |
+          git add plugins.json
+          git diff --cached --quiet || git commit -m "Update plugins.json"
+          git push origin main

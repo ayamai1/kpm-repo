@@ -1,0 +1,21 @@
+import json
+
+with open("store.json", "r", encoding="utf-8") as f:
+    data = json.load(f)
+
+output = []
+
+for id, plugin in data.items():
+    print(id, plugin)
+    p = {
+        "id": id,
+        "name": plugin.get("name", None),
+        "icon": plugin.get("icon", None),
+        "description": plugin.get("description", None),
+        "link": plugin.get("url", None),
+    }
+
+    output.append(p)
+
+with open("plugins.json", "w", encoding="utf-8") as f:
+    json.dump({"plugins": output}, f, indent=2, ensure_ascii=False)
