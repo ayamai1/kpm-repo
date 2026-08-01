@@ -15,8 +15,9 @@ for id, plugin in data.items():
         "description": plugin.get("description", None),
         "link": plugin.get("url", None),
         "hash": plugin.get("hash", None),
-        "min_version": plugin.get("min_version", None),
-        "app_version": plugin.get("app_version", None),
+        "app_version": plugin.get(
+            "app_version", f">={plugin.get('min_version', '11.12.0')}"
+        ),
     }
 
     output.append(p)
