@@ -11,7 +11,7 @@ for id, plugin in data.items():
         "id": id,
         "name": plugin.get("name", None),
         "version": plugin.get("version", None),
-        "icon": plugin.get("icon", None),
+        "icon": plugin.get("icon", ""),
         "description": plugin.get("description", None),
         "link": plugin.get("url", None),
         "hash": plugin.get("hash", None),
