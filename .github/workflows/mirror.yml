@@ -1,7 +1,7 @@
 name: mirror
 on:
-  push:
-    branches: ["upstream"]
+  repository_dispatch:
+    types: [mirror-auto]
   workflow_dispatch:
 permissions:
   contents: write
