@@ -1,6 +1,17 @@
 {
   "plugins": [
     {
+      "id": "GreenPass",
+      "name": "GreenPass",
+      "author": "@Altyplugins / Codex",
+      "version": "2.5.1",
+      "icon": "bratpass/0",
+      "description": "Практически универсальный прокси плагин, поддержка протоколов vless/vmess/hysteria2/etc., встроенные tg-ws-proxy, AmneziaWG и olcrtc, а также полноценнымм проксированием звонков",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/GreenPass.plugin",
+      "hash": "1edbf1f56d99d608d497416bc3c062ce07db02d4b52f9303fa82344598c28c47",
+      "app_version": ">=12.1.1"
+    },
+    {
       "id": "optimist_2048",
       "name": "2048",
       "author": "@rei_plugins (@optimist_opti)",
@@ -1068,17 +1079,6 @@
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/reswag.plugin",
       "hash": "5cb822c4d4890e9290ad160987395115227087cf15f2e145bcb243c8b9c1d293",
       "app_version": ">=12.0.1"
-    },
-    {
-      "id": "GreenPass",
-      "name": "GreenPass",
-      "author": "@Altyplugins / Codex",
-      "version": "2.2.0",
-      "icon": "bratpass/0",
-      "description": "Практически универсальный прокси плагин, поддержка протоколов vless/vmess/hysteria2/etc., встроенные tg-ws-proxy, AmneziaWG и olcrtc, а также полноценнымм проксированием звонков",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/GreenPass.plugin",
-      "hash": "2e399bfa7da39004234fd3189992cfb70da8ff1de08ecece113a5932caa02a04",
-      "app_version": ">=12.1.1"
     },
     {
       "id": "hide_system_notifications",
