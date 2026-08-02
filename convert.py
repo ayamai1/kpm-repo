@@ -9,16 +9,18 @@ for id, plugin in data.items():
     print(id, plugin)
     p = {
         "id": id,
-        "name": plugin.get("name", None),
-        "version": plugin.get("version", None),
-        "icon": plugin.get("icon", ""),
-        "description": plugin.get("description", ""),
-        "link": plugin.get("url", None),
-        "hash": plugin.get("hash", None),
+        "name": plugin.get("name"),
+        "version": plugin.get("version"),
+        "icon": plugin.get("icon"),
+        "description": plugin.get("description"),
+        "link": plugin.get("url"),
+        "hash": plugin.get("hash"),
         "app_version": plugin.get(
             "app_version", f">={plugin.get('min_version', '11.12.0')}"
         ),
     }
+
+    p = {k: v for k, v in p.items() if v is not None}
 
     output.append(p)
 
