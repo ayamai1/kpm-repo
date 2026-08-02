@@ -10,6 +10,7 @@ for id, plugin in data.items():
     p = {
         "id": id,
         "name": plugin.get("name"),
+        "author": plugin.get("author"),
         "version": plugin.get("version"),
         "icon": plugin.get("icon"),
         "description": plugin.get("description"),
