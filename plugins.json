@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "advanced_chat_search",
+      "name": "Advanced Chat Search",
+      "author": "@anivplugins & @mraniv",
+      "version": "1.0.0",
+      "icon": "UtyaDuckFull/17",
+      "description": "Extends chat search-by-sender with people from all dialogs and Telegram's global user search.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/advanced_chat_search.plugin",
+      "hash": "bcb1d8cbfa32a63dfa60fee4493acc8af866a14a17b80b6e5a8940d8b36e4d08",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "custom_profile",
       "name": "Custom Profile",
       "author": "@RoflPlugins",
