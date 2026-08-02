@@ -4,11 +4,11 @@
       "id": "custom_profile",
       "name": "Custom Profile",
       "author": "@RoflPlugins",
-      "version": "1.6",
+      "version": "1.6.1",
       "icon": "RoflPlugins/18",
       "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_profile.plugin",
-      "hash": "b63eacd608c974e45155adda37b1334dcdeeaa0b91e413b264f6925eff74b304",
+      "hash": "86912ffd9463404c78afac3fedac731458d0aac9a56ff4f32825428c9971144c",
       "app_version": ">=12.5.1",
       "tags": [
         [
