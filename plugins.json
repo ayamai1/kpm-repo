@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "modular_sections",
+      "name": "Modular Sections",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/14",
+      "description": "Преобразует элементы интерфейса в модульные секции (Material 3).\nStyles user interface elements into modular Material 3 sections.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/modular_sections.plugin",
+      "hash": "310ed6d0d9ad134c6514937bb0bd7c36d09ba77fd2ac9906a2f4b3336ae7c633",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "clearURLs",
       "name": "ClearURLs",
       "author": "@zwylair",
