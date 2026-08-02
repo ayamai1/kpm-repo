@@ -1,12 +1,26 @@
 import json
 
+category_labels = {
+    "library": ("Library", "key_avatar_backgroundInProfileBlue"),
+    "utilities": ("Utilities", "key_avatar_background2Orange"),
+    "customization": ("Customization", "key_avatar_backgroundViolet"),
+    "informational": ("Informational", "key_color_lightblue"),
+    "fun": ("Fun", "key_avatar_background2Cyan"),
+    "messages": ("Messages", "key_avatar_backgroundGreen"),
+}
+
+
+def category_label(s: str):
+    return category_labels.get(s.lower()) if type(s) is str else None
+
+
 with open("store.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 output = []
 
 for id, plugin in data.items():
-    print(id, plugin)
+    print(id)
     p = {
         "id": id,
         "name": plugin.get("name"),
@@ -19,7 +33,11 @@ for id, plugin in data.items():
         "app_version": plugin.get(
             "app_version", f">={plugin.get('min_version', '11.12.0')}"
         ),
+        "tags": category_label(plugin.get("status")),
     }
+
+    if p["tags"] is not None:
+        p["tags"] = [p["tags"]]
 
     p = {k: v for k, v in p.items() if v is not None}
 
