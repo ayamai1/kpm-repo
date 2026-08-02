@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "custom_profile",
+      "name": "Custom Profile",
+      "author": "@RoflPlugins",
+      "version": "1.6",
+      "icon": "RoflPlugins/18",
+      "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_profile.plugin",
+      "hash": "b63eacd608c974e45155adda37b1334dcdeeaa0b91e413b264f6925eff74b304",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "boykisser_meow",
       "name": "Boykisser Corner",
       "author": "@duckerer <--- Boykisser",
@@ -519,23 +536,6 @@
       "description": "Перемещает Pill Stack из строки поиска на панель главного экрана.\n\n**Ссылка на документацию в настройках плагина!**",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/pill_stack_to_header.plugin",
       "hash": "b42be455525a2b1a629ad90bcfc8ff2e12837f06d796893e758d4f43612b3b68",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "custom_profile",
-      "name": "Custom Profile",
-      "author": "@RoflPlugins",
-      "version": "1.5.1",
-      "icon": "RoflPlugins/18",
-      "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Custom Profile.plugin",
-      "hash": "a2c8ed08c22cef58a914c83a8b6777ca3441b17d01c65c2b53a43716752400d4",
       "app_version": ">=12.5.1",
       "tags": [
         [
