@@ -1,6 +1,66 @@
 {
   "plugins": [
     {
+      "id": "channelstats",
+      "name": "Channel Stats",
+      "version": "4.4.0",
+      "icon": "exteraPlugins/1",
+      "description": "Auto-scroll cache collector with persistent storage",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/channelstats.plugin",
+      "hash": "de71512dc25a280f22905cabc5c9790741dab8e1caeea3ebcd0e268c791d0be7",
+      "app_version": ">=12.5.1"
+    },
+    {
+      "id": "re_extera_loader",
+      "name": "aartzz's re:extera",
+      "version": "2.8.5",
+      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
+      "description": "Actively maintained FOSS fork. Enable ghost mode, save deleted messages and more!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/re_extera_loader.plugin",
+      "hash": "eeea7339e5ac5679397570cba6735421eb2ef2756d2798c977ea7d136a2c4615",
+      "app_version": ">=12.8.1"
+    },
+    {
+      "id": "boykisser_meow",
+      "name": "Boykisser Corner",
+      "version": "1.4.0",
+      "icon": "animated_boykisser_by_fStikBot/12",
+      "description": "Мяукающий boykisser в углу экрана",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/boykisser_meow.plugin",
+      "hash": "38caed5a6272d00bc41b1706cca1e290a739a4f540250f6824b921642f9aad70",
+      "app_version": ">=12.5.1"
+    },
+    {
+      "id": "search_plus",
+      "name": "Search+",
+      "version": "1.31",
+      "icon": "UtyaDuckFull/17",
+      "description": "Поиск людей по ID, телефону и @username + фильтр сообщений по типу в поиске по чату.\n\nФильтр по типу — в поиске по чату кнопка «Тип ▾»: фото, видео, файлы, ссылки, аудио, голосовые, гифки.\nПоиск по ID — введите ID, телефон или @username в поиск, откроется профиль.\nУпоминание по ID — в поле ввода наберите @ и сразу цифры: @1234567890 или @+79001234567.\nРазблокировать по ID — меню ⋮ в группе или канале.\n\nПоиск по ID работает для тех, с кем уже есть переписка, общая группа или контакт — незнакомцев Telegram по ID не отдаёт.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/search_plus.plugin",
+      "hash": "8ae56bd764f2fec2e1baef6efc5c4bc91b2840e5befdc3aa3ecba183aeffd65e",
+      "app_version": ">=12.5.1"
+    },
+    {
+      "id": "radio_station",
+      "name": "Radio Station",
+      "version": "5.0.0",
+      "icon": "Plugins50kk_by_fStikBot/4",
+      "description": "Фоновое интернет-радио прямо в ExteraGram",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/radio_station.plugin",
+      "hash": "bfd3102d3fd24cf29a294e238e7def518e43dc8ec9ad53ab78efae6f01357706",
+      "app_version": ">=12.5.1"
+    },
+    {
+      "id": "translatorplus",
+      "name": "TranslatorPlus",
+      "version": "1.4.4",
+      "icon": "luvztroyicons/1",
+      "description": "Ultra-fast multi-provider translation for Telegram with in-message support",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/translatorplus.plugin",
+      "hash": "b20764758ceb6a2bc57dccabd587b6d90cbf45ea8a2752ae96baefa4abec4875",
+      "app_version": ">=12.2.10"
+    },
+    {
       "id": "python_interpreter",
       "name": "Python Interpreter",
       "version": "0.1.3",
@@ -101,16 +161,6 @@
       "app_version": ">=12.5.1"
     },
     {
-      "id": "radio_station",
-      "name": "Radio Station",
-      "version": "4.2.3",
-      "icon": "Plugins50kk_by_fStikBot/4",
-      "description": "Фоновое интернет-радио. Команды: .radio — текущая станция, .radio N — станция по номеру, .vp — следующая, .nz — предыдущая, .stop — остановить. Статус отправляется в Избранное.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/radio_station.plugin",
-      "hash": "8e7860caae3b70585ef52b08a1956d6721390127ab7c8bc1f76465d6c9632280",
-      "app_version": ">=12.5.1"
-    },
-    {
       "id": "proxy_sub",
       "name": "Proxy Sub",
       "version": "1.0.1",
@@ -128,16 +178,6 @@
       "description": "Anixart. Поиск и просмотр аниме, случайный релиз, инфо по ID, списки, профиль, жанры, отслеживание серий, просмотр. @bobrplugins",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anixart_plugin.plugin",
       "hash": "b219e174aa9b287a006769ab3dad52d731967cef74acf18b4997d4cefc167704",
-      "app_version": ">=12.5.1"
-    },
-    {
-      "id": "boykisser_meow",
-      "name": "Boykisser Corner",
-      "version": "1.3.0",
-      "icon": "animated_boykisser_by_fStikBot/12",
-      "description": "Мяукающий boykisser в углу экрана",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/boykisser_meow.plugin",
-      "hash": "06379063117c788b14bb4cacb7e2763b40ccc9e84398cc37ec5602d554a774c0",
       "app_version": ">=12.5.1"
     },
     {
@@ -329,26 +369,6 @@
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Message undo.plugin",
       "hash": "c8d81e05982e80ba654091abe716b6b59fa5781626426fc7f4a36af52d3ed30b",
       "app_version": ">=12.5.1"
-    },
-    {
-      "id": "search_plus",
-      "name": "Search+",
-      "version": "1.3",
-      "icon": "UtyaDuckFull/17",
-      "description": "Поиск людей по ID, телефону и @username + фильтр сообщений по типу в поиске по чату.\n\nФильтр по типу — в поиске по чату кнопка «Тип ▾»: фото, видео, файлы, ссылки, аудио, голосовые, гифки.\nПоиск по ID — введите ID, телефон или @username в поиск, откроется профиль.\nУпоминание по ID — в поле ввода наберите @ и сразу цифры: @1234567890 или @+79001234567.\nРазблокировать по ID — меню ⋮ в группе или канале.\n\nПоиск по ID работает для тех, с кем уже есть переписка, общая группа или контакт — незнакомцев Telegram по ID не отдаёт.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/search_plus.plugin",
-      "hash": "f1dcc6dd1a36fc37e4eb5ba0a8b6ea162023ff785c19251c25fc990fa0ecfed5",
-      "app_version": ">=12.5.1"
-    },
-    {
-      "id": "re_extera_loader",
-      "name": "aartzz's re:extera",
-      "version": "2.8.4",
-      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
-      "description": "Actively maintained FOSS fork. Enable ghost mode, save deleted messages and more!",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/re_extera_loader.plugin",
-      "hash": "90d4f6687fab996a79fdc75f94a6c9ece3a78b135332b80af3d7333cc22e6f42",
-      "app_version": ">=12.8.1"
     },
     {
       "id": "mention_blocker",
@@ -1339,16 +1359,6 @@
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/plugin_creator.plugin",
       "hash": "d196dc116b5b441eb9402944f4da8e511fd69516718d72dc096832d49d620a52",
       "app_version": ">=12.5.0"
-    },
-    {
-      "id": "channelstats",
-      "name": "Channel Stats",
-      "version": "4.3.0",
-      "icon": "exteraPlugins/1",
-      "description": "Auto-scroll cache collector with persistent storage",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/channelstats.plugin",
-      "hash": "c2580ecbbee4a62bbd91a5a970aebf2c570c3991e9d08f5ed54fdf467c5a5dbd",
-      "app_version": ">=12.5.1"
     },
     {
       "id": "send_file_text",
@@ -5038,16 +5048,6 @@
       "description": "Удаляет заданное количество ваших аватарок",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/avatar_cleanup.plugin",
       "hash": "12a4a9ada045f8fde2adefa5a385ecdf830897d4464fc67260fe6f60829b43a8",
-      "app_version": ">=11.12.0"
-    },
-    {
-      "id": "translatorplus",
-      "name": "TranslatorPlus",
-      "version": "1.4.2",
-      "icon": "luvztroyicons/1",
-      "description": "Ultra-fast multi-provider translation for Telegram with in-message support",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/translatorplus.plugin",
-      "hash": "2d5d7e6fb5caf3025a70e31be05633615f0d336d61ab0f6860f773d281cec240",
       "app_version": ">=11.12.0"
     },
     {
