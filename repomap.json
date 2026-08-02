@@ -1,6 +1,7 @@
 {
   "repometa": {
-    "rm_name": "KPM port",
+    "rm_name": "KPM Mirror",
+    "rm_maintainer": "ROBOT (список от @KangelPluginsManager)",
     "rm_url": "https://github.com/ayamai1/kpm-repo",
     "rm_rid": "kpm_auto_port"
   },
