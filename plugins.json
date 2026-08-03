@@ -1,6 +1,73 @@
 {
   "plugins": [
     {
+      "id": "edge_tts_voiceover",
+      "name": "Edge TTS Озвучка",
+      "author": "@S0cket_UWU & Claude & @The_Wisest",
+      "version": "2.1.0",
+      "icon": "exteraPlugins/1",
+      "description": "Озвучивает сообщения через Microsoft Edge TTS и проигрывает звук локально на устройстве (пункт в контекстном меню сообщения).",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/edge_tts_voiceover.plugin",
+      "hash": "78be4541ac46c6cfd2b3afc49e67be7b3ee88b94c2d1b6951e50d6d70466e863",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "profile_photo_remover",
+      "name": "Profile Photo Remover",
+      "author": "@itsbodyq",
+      "version": "1.0",
+      "description": "Простой плагин, позволяющий одним нажатием удалить все фотографии профиля или только выбранные.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/profile_photo_remover.plugin",
+      "hash": "40b98f03313a52b6463841ad190e0f51d3312104acacbb58f95ec2a66fee03ed",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "voice_soundpad",
+      "name": "Voice Soundpad",
+      "author": "@TapeSix",
+      "version": "1.0.0",
+      "icon": "Idi_gahuy/8",
+      "description": "Проигрывает и подмешивает звуки прямо в голосовое сообщение во время записи",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/voice_soundpad.plugin",
+      "hash": "cf5c2ea969290d503bd0aede90958d896cad6a14323f25789c6ef586205d2da4",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "flappy_bird_game",
+      "name": "Flappy Bird",
+      "author": "@souItag",
+      "version": "1.1.0",
+      "icon": "pack_1_10737418241_7085307553_by_sticker_bot/27",
+      "description": "Легендарная Flappy Bird прямо в клиенте.\nОтправь .flappy или запусти через боковое меню.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/flappy_bird_game.plugin",
+      "hash": "84226a5b79709fa85196520bd41ec54f27da71ea5e7d5ceea5a84b79cc9e759f",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "advanced_chat_search",
       "name": "Advanced Chat Search",
       "author": "@anivplugins & @mraniv",
