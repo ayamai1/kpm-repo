@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "akres_ip_checker",
+      "name": "IP Checker",
+      "author": "@akresik",
+      "version": "1.1.0",
+      "icon": "SpottyAndPersikAnimated/22",
+      "description": "Плагин для проверки IP-адресов и доменов.\n\n .wh <IP/домен> – инфо о цели: страна, город, провайдер и так далее через несколько API, .whh тоже самое но IP скрыт.\n .bs <IP/домен> – проверка на белый IP по операторам, .bsh тоже самое но IP скрыт.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/akres_ip_checker.plugin",
+      "hash": "597870861e39cdee40eed25b14d2089e070fd089ac05ac9b54ba1f1c1e758141",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "clear_playlist",
+      "name": "Clear Playlist",
+      "author": "@anivplugins & @mraniv",
+      "version": "1.0.0",
+      "icon": "pk_2731651_by_Ctikerubot/15",
+      "description": "Adds a 'Delete All' button to your profile playlist to clear it.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/clear_playlist.plugin",
+      "hash": "df35d166b7496af67b6fb1ff7aa6d41285f90f15f26b3bbc011c5f0c505db4de",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "chimeranft",
       "name": "Chimera NFT",
       "author": "@xarmaq",
