@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "chimeranft",
+      "name": "Chimera NFT",
+      "author": "@xarmaq",
+      "version": "1.0.0",
+      "icon": "HappyHappyPepe/31",
+      "description": "Chimera NFT (бывший eblanNFT) — NFT-подарки, оформление профиля и синхронизация между пользователями.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/chimeranft.eaf",
+      "hash": "27e346b3abbd721aa9147646be7da94f69b9cd54fc0033bbd87d33c13dffb6b3",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "edge_tts_voiceover",
       "name": "Edge TTS Озвучка",
       "author": "@S0cket_UWU & Claude & @The_Wisest",
