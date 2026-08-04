@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "zwylib",
+      "name": "ZwyLib",
+      "author": "@zwylair",
+      "version": "2.0.6",
+      "icon": "zwyPluginsIcons/0",
+      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
+      "hash": "d06e2b6a246e9ba9a2c78f7ad3e8b1372a16e508e7366e9c797e2e059295e19a",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Library",
+          "key_avatar_backgroundInProfileBlue"
+        ]
+      ]
+    },
+    {
       "id": "hide_system_bars",
       "name": "Hide System Bars",
       "author": "@NEBULASoftware @FrontendVSCode",
@@ -251,23 +268,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "zwylib",
-      "name": "ZwyLib",
-      "author": "@zwylair",
-      "version": "2.0.5",
-      "icon": "zwyPluginsIcons/0",
-      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
-      "hash": "7c23918fcd11fb03d76bdc6733c96d70e7bf28d5eccd0e4f9b209f3083992b39",
-      "app_version": ">=12.0.1",
-      "tags": [
-        [
-          "Library",
-          "key_avatar_backgroundInProfileBlue"
         ]
       ]
     },
