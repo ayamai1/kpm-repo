@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "Gos_censorship",
+      "name": "Gos Censorship",
+      "author": "@azcany @iniplug",
+      "version": "1.1",
+      "icon": "memshvh_by_fStikBot/14",
+      "description": "гос цензура",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Gos_censorship.plugin",
+      "hash": "3cc2e114d669bffad990a372c97c46b86735770246ff225fd65dbe12e6cab0ed",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "zwylib",
       "name": "ZwyLib",
       "author": "@zwylair",
@@ -9718,23 +9735,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "Gos_censorship",
-      "name": "Gos Censorship",
-      "author": "@azcany @iniplug",
-      "version": "1.0",
-      "icon": "exteraPlugins/1",
-      "description": "гос цензура",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Gos_censorship.plugin",
-      "hash": "65bd7185a2ac074d2cbef3127eb110db022ce8b70f05f1295621f33e00c9e3e6",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
