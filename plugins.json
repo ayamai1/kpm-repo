@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "media_folders",
+      "name": "Media Folders",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "2.1",
+      "icon": "MaxExteraPluginsStickers/20",
+      "description": "Adds folder tabs to GIF, Sticker, and Emoji panels for organizing your media into custom categories.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_folders.plugin",
+      "hash": "845297be65c2a004c196d72f899ff545f9f67134979ea1071ef15c143d2e7dcb",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "local_pin",
       "name": "Local Pin",
       "author": "@thrzxd",
@@ -2230,23 +2247,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "media_folders",
-      "name": "Media Folders",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.0",
-      "icon": "MaxExteraPluginsStickers/20",
-      "description": "Adds folder tabs to GIF, Sticker, and Emoji panels for organizing your media into custom categories.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_folders.plugin",
-      "hash": "9255e45df962b9eaf5d6a7753954cc84d5a17a65d83b69f4c0403d14daea5a0b",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
