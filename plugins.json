@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "gifter_avatar",
+      "name": "Gifter Avatar",
+      "author": "@alexeykasp",
+      "version": "1.0.1",
+      "description": "Отображает аватар подарившего подарок в меню добавления подарков в коллекцию\nПрямо как в профиле",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/gifter_avatar.plugin",
+      "hash": "b29f788c316feb62e9ed94f179d489081fb6ed148fe11341c4723e1c18d98583",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "media_folders",
       "name": "Media Folders",
       "author": "@itNotMax - @MaxExteraPlugins",
