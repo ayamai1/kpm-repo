@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "privacy_firewall",
+      "name": "Privacy Firewall",
+      "author": "@qwertsyiks",
+      "version": "0.7.3",
+      "icon": "teststiofgu/0",
+      "description": "Персональный Privacy Firewall для Telegram. Защищает сообщения и файлы от случайной отправки личных данных, опасных ссылок, координат, документов, банковских реквизитов, паролей и токенов. Все проверки выполняются локально.\n\nПо всем вопросам или найденным уязвимостям: @qwertsyiks",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/privacy_firewall.plugin",
+      "hash": "27547a722e71e1801a056874a816fe6752efefec9564e647ce585270f7144cb9",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "voice_soundpad",
       "name": "Voice Soundpad",
       "author": "@TapeSix",
