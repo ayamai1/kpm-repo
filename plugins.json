@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "voice_soundpad",
+      "name": "Voice Soundpad",
+      "author": "@TapeSix",
+      "version": "1.5.0",
+      "icon": "Idi_gahuy/8",
+      "description": "Проигрывает и подмешивает звуки в голосовые сообщения, кружки, звонки и войс-чаты. Команды: .sounds .soundpad",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/voice_soundpad.plugin",
+      "hash": "1ca655437c7ca9b6eb9683bfeaf384ab5307b709887023b7affc03d623deb00a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "Gos_censorship",
       "name": "Gos Censorship",
       "author": "@azcany @iniplug",
@@ -128,23 +145,6 @@
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/profile_photo_remover.plugin",
       "hash": "40b98f03313a52b6463841ad190e0f51d3312104acacbb58f95ec2a66fee03ed",
       "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "voice_soundpad",
-      "name": "Voice Soundpad",
-      "author": "@TapeSix",
-      "version": "1.0.0",
-      "icon": "Idi_gahuy/8",
-      "description": "Проигрывает и подмешивает звуки прямо в голосовое сообщение во время записи",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/voice_soundpad.plugin",
-      "hash": "cf5c2ea969290d503bd0aede90958d896cad6a14323f25789c6ef586205d2da4",
-      "app_version": ">=12.1.1",
       "tags": [
         [
           "Utilities",
