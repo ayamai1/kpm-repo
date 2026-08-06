@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "nodisturb",
+      "name": "NoDisturb",
+      "author": "@cobra_S0FT & @excess_plugins",
+      "version": "1.8.0",
+      "icon": "alegquin33/81",
+      "description": "Ru:\nТеневой бан. Позволяет скрыть имя, аватарку, сообщения и уведомления цели, а также всё вместе.\nАвтор идеи: @WneDom\nНа основе Shadowban (@kester & @pulseplugin)\n\nEn:\nShadowban. Allows you to hide the target's name, avatar, messages, and notifications—or all of the above.\nIdea by: @WneDom\nBased on Shadowban (@kester & @pulseplugin)",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/nodisturb.plugin",
+      "hash": "ecb6689af42a4375de88bf9181107163fb87e3a76f864817020c5ae335994576",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "femboyaudioscope",
       "name": "AudioScope",
       "author": "@Beefba",
