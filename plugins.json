@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "compact_bottom_nav",
+      "name": "CompactBottomNav",
+      "author": "@YouRooni",
+      "version": "1.0.0",
+      "icon": "RnDev/18",
+      "description": "Компактная нижняя панель без подписей и с плавающей кнопкой поиска.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/compact_bottom_nav.plugin",
+      "hash": "775f8f68760d4f86d530c7d68e5ed740964627e3c8f7d4ba2991e93a3e217a99",
+      "app_version": ">=12.6.4",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "kangel_plugins_manager",
       "name": "Kangel Plugins Manager",
       "author": "@ArThirtyFour | @KangelPlugins",
@@ -15,7 +32,54 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.1.plugin"
+        },
+        "1.11": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.11.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.2.plugin"
+        },
+        "1.21": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.21.plugin"
+        },
+        "1.30": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.30.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.3.1.plugin"
+        },
+        "1.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.3.2.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.4.plugin"
+        },
+        "1.4 [HOTFIX]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.4__HOTFIX_.plugin"
+        },
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.4.1.plugin"
+        },
+        "1.4.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.4.1.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/KangelPluginsManager.plugin"
+        },
+        "1.0.5 [PATCHED]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.0.5 [PATCHED].plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/KangelPluginsManager_v1.4.4.plugin"
+        }
+      }
     },
     {
       "id": "nodisturb",
@@ -66,7 +130,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/local_pin/local_pin_v1.6.0.plugin"
+        }
+      }
     },
     {
       "id": "gifter_avatar",
@@ -99,7 +168,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v1.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v2.0_1.plugin"
+        }
+      }
     },
     {
       "id": "privacy_firewall",
@@ -133,7 +210,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/voice_soundpad/voice_soundpad_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "Gos_censorship",
@@ -150,7 +232,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Gos_censorship/Gos_censorship_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "zwylib",
@@ -167,7 +254,30 @@
           "Library",
           "key_avatar_backgroundInProfileBlue"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
+        },
+        "2.0.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
+        },
+        "2.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
+        },
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
+        }
+      }
     },
     {
       "id": "hide_system_bars",
@@ -252,7 +362,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/edge_tts_voiceover/edge_tts_voiceover_v1.2.0.plugin"
+        }
+      }
     },
     {
       "id": "profile_photo_remover",
@@ -319,7 +434,39 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.1.plugin"
+        },
+        "1.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.2.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.plugin"
+        },
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.1.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.1.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.plugin"
+        }
+      }
     },
     {
       "id": "boykisser_meow",
@@ -336,7 +483,24 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.1.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.2.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.3.0.plugin"
+        },
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.4.0.plugin"
+        }
+      }
     },
     {
       "id": "commands",
@@ -353,7 +517,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/commands/commands.plugin"
+        }
+      }
     },
     {
       "id": "anixart_plugin",
@@ -370,7 +539,21 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.0.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.3.plugin"
+        }
+      }
     },
     {
       "id": "modular_sections",
@@ -404,7 +587,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/clearURLs/clearURLs_v1.0.3.plugin"
+        },
+        "1.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/clearURLs/clearURLs.plugin"
+        },
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/clearURLs/clearURLs_v1.0.5.plugin"
+        }
+      }
     },
     {
       "id": "QuickCloseButton",
@@ -421,7 +615,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.0.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.1.0.plugin"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton.plugin"
+        }
+      }
     },
     {
       "id": "GreenPass",
@@ -438,7 +643,93 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.6.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.1.6.5.plugin"
+        },
+        "1.1.6.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.1.6.6.plugin"
+        },
+        "1.1.6.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.1.6.7-fix.plugin"
+        },
+        "1.1.6.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.1.6.7.plugin"
+        },
+        "1.1.6.7-fix": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.1.7.0.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.2.1.plugin"
+        },
+        "1.1.7.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.2.plugin"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.3.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.3.1.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.5.1.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.5.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.5.plugin"
+        },
+        "1.5.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.1.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.2.plugin"
+        },
+        "1.6.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.3.plugin"
+        },
+        "1.6.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.4.plugin"
+        },
+        "1.6.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.5.plugin"
+        },
+        "1.6.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.6.plugin"
+        },
+        "1.6.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.7.plugin"
+        },
+        "1.6.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v1.6.8.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.0.1.plugin"
+        },
+        "1.6.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.0.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.1.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.1.1.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.1.1.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.1.2.plugin"
+        },
+        "2.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass.plugin"
+        }
+      }
     },
     {
       "id": "optimist_2048",
@@ -455,7 +746,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/optimist_2048/optimist_2048.plugin"
+        }
+      }
     },
     {
       "id": "channelstats",
@@ -472,7 +768,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "4.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/channelstats/channelstats.plugin"
+        }
+      }
     },
     {
       "id": "re_extera_loader",
@@ -489,7 +790,27 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader.plugin"
+        },
+        "2.6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader_v2.6.0.plugin"
+        },
+        "2.7.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader_v2.7.0.plugin"
+        },
+        "2.8.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader_v2.8.2.plugin"
+        },
+        "2.8.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader_v2.8.3.plugin"
+        },
+        "2.8.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader_v2.8.4.plugin"
+        }
+      }
     },
     {
       "id": "search_plus",
@@ -506,7 +827,21 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_plus/search_plus.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.3.plugin"
+        }
+      }
     },
     {
       "id": "radio_station",
@@ -523,7 +858,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "4.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/radio_station/radio_station.plugin"
+        }
+      }
     },
     {
       "id": "translatorplus",
@@ -540,7 +880,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatorplus/translatorplus.plugin"
+        }
+      }
     },
     {
       "id": "python_interpreter",
@@ -557,7 +902,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "0.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/python_interpreter/Python Interpreter - 1.0.0.plugin"
+        },
+        "0.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/python_interpreter/Python Interpreter - 0.1.1.plugin"
+        },
+        "0.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/python_interpreter/Python Interpreter - 0.1.2.plugin"
+        }
+      }
     },
     {
       "id": "exereal_forward_edit",
@@ -591,7 +947,30 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.3.1.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.4.1.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.4.plugin"
+        },
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.5.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.5.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/LiteGram.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/litegram/LiteGram_v1.6.plugin"
+        }
+      }
     },
     {
       "id": "liquid_glass",
@@ -608,7 +987,51 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        " - [experiment maybe last]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
+        },
+        "2.1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
+        },
+        "2.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
+        },
+        "2.3.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
+        },
+        "3.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
+        },
+        "3.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
+        },
+        "3.6.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
+        },
+        "3.8.13": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13.plugin"
+        }
+      }
     },
     {
       "id": "all_mention_fork",
@@ -642,7 +1065,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/lyrics/lyrics.plugin"
+        }
+      }
     },
     {
       "id": "ios_like_selection",
@@ -659,7 +1087,33 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "7.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.1.plugin"
+        },
+        "7.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.2.1.plugin"
+        },
+        "7.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.2.2.plugin"
+        },
+        "7.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.2.plugin"
+        },
+        "7.3 [TEST]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.3.plugin"
+        },
+        "7.2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.3__TEST_.plugin"
+        },
+        "7.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection_v7.3.plugin"
+        },
+        "7.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_like_selection/ios_like_selection.plugin"
+        }
+      }
     },
     {
       "id": "folders_below",
@@ -676,7 +1130,21 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/folders_below/folders_below_v2.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/folders_below/folders_below_v2.0.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/folders_below/folders_below.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/folders_below/folders_below_v2.2.plugin"
+        }
+      }
     },
     {
       "id": "bot_account_router",
@@ -744,7 +1212,15 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "unknown": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
+        }
+      }
     },
     {
       "id": "custom_snow",
@@ -778,7 +1254,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.7.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/voice_search_pro_v3/voice_search_pro_v3.plugin"
+        }
+      }
     },
     {
       "id": "volume_scroll",
@@ -795,7 +1276,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/volume_scroll/volume_scroll.plugin"
+        }
+      }
     },
     {
       "id": "utilities_pro",
@@ -812,7 +1298,30 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.1.10.plugin"
+        },
+        "1.1.10": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.2.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.2.3.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.4.0.plugin"
+        },
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.5.0.plugin"
+        },
+        "2.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro.plugin"
+        }
+      }
     },
     {
       "id": "pill_stack_to_header",
@@ -829,7 +1338,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.1.plugin"
+        },
+        "2.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header.plugin"
+        }
+      }
     },
     {
       "id": "ozonsearch_ozon_420",
@@ -846,7 +1363,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ozonsearch_ozon_420/ozonsearch_ozon_420.plugin"
+        }
+      }
     },
     {
       "id": "plugin_update_checker",
@@ -863,7 +1385,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
+        }
+      }
     },
     {
       "id": "fix_endpoint_gooey",
@@ -880,7 +1407,24 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fix_endpoint_gooey/fix_endpoint_gooey_v3.1.1.plugin"
+        },
+        "3.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fix_endpoint_gooey/fix_endpoint_gooey_v3.1.1.plugin"
+        },
+        "3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fix_endpoint_gooey/fix_endpoint_gooey_v3.2.plugin"
+        },
+        "3.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fix_endpoint_gooey/fix_endpoint.plugin"
+        },
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fix_endpoint_gooey/fix_endpoint_gooey_v3.0.1.plugin"
+        }
+      }
     },
     {
       "id": "audiovizualizer_plugin",
@@ -897,7 +1441,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "2.7.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/audiovizualizer_plugin/audiovizualizer_plugin.plugin"
+        }
+      }
     },
     {
       "id": "subfolders",
@@ -914,7 +1463,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.5.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/subfolders/subfolders.plugin"
+        }
+      }
     },
     {
       "id": "wide_messages",
@@ -931,7 +1485,24 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v1.12.plugin"
+        },
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v1.9.plugin"
+        },
+        "1.12": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v1.12.plugin"
+        },
+        "1.13": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v2.0.plugin"
+        }
+      }
     },
     {
       "id": "voice_changer_rt",
@@ -1066,7 +1637,45 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.1.2.plugin"
+        },
+        "2.9.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.12.0.plugin"
+        },
+        "2.12.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.13.0.plugin"
+        },
+        "2.13.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.15.1.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.5.0.plugin"
+        },
+        "2.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.6.0.plugin"
+        },
+        "2.6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.7.6.plugin"
+        },
+        "2.7.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.8.0.plugin"
+        },
+        "2.8.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.9.1.plugin"
+        },
+        "2.15.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.15.1.plugin"
+        },
+        "2.16.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks.plugin"
+        },
+        "2.16.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.16.1.plugin"
+        }
+      }
     },
     {
       "id": "delete_from_gallery",
@@ -1100,7 +1709,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/latex_plugin/latex_plugin.plugin"
+        }
+      }
     },
     {
       "id": "camera_enhancer",
@@ -1117,7 +1731,27 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
+        }
+      }
     },
     {
       "id": "image_fx_fork",
@@ -1134,7 +1768,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/image_fx_fork/image_fx_fork.plugin"
+        }
+      }
     },
     {
       "id": "PremiumDialogCards",
@@ -1151,7 +1790,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/PremiumDialogCards/PremiumDialogCards.plugin"
+        }
+      }
     },
     {
       "id": "custom_chats_title",
@@ -1168,7 +1812,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v2.0.0.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title.plugin"
+        }
+      }
     },
     {
       "id": "bot_login",
@@ -1185,7 +1840,24 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/bot_login/bot_login_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/bot_login/bot_login_v1.3.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/bot_login/bot_login_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/bot_login/bot_login.plugin"
+        },
+        "autoupdate": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/bot_login/bot_login_vautoupdate.plugin"
+        }
+      }
     },
     {
       "id": "eblannft_dex",
@@ -1321,7 +1993,21 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/motion_blur_fx/motion_blur_fx.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/motion_blur_fx/motion_blur_fx-38c76e51.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/motion_blur_fx/motion_blur_fx-1081c154.plugin"
+        },
+        "1.1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/motion_blur_fx/motion_blur_fx-efbebed5.plugin"
+        }
+      }
     },
     {
       "id": "ExteraRSS",
@@ -1338,7 +2024,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ExteraRSS/ExteraRSS_v1.0.5.plugin"
+        },
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ExteraRSS/ExteraRSS_v1.0.5.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ExteraRSS/ExteraRSS.plugin"
+        }
+      }
     },
     {
       "id": "pill_stack_plus",
@@ -1372,7 +2069,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "9.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation_private_let/text_animation_private_let.plugin"
+        },
+        "9.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation_private_let/text_animation_private_let-2958f49c.plugin"
+        }
+      }
     },
     {
       "id": "mnd_global_sf_font",
@@ -1389,7 +2094,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/mnd_global_sf_font/SFGlobalFont.plugin"
+        }
+      }
     },
     {
       "id": "contact_self_name",
@@ -1405,7 +2115,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/contact_self_name/contact_self_name.plugin"
+        }
+      }
     },
     {
       "id": "mooninfo",
@@ -1437,7 +2152,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/contact_time/contact_time.plugin"
+        },
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/contact_time/contact_time_v1.0.2.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/contact_time/contact_time_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "culprit_detector",
@@ -1454,7 +2180,60 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.31.plugin"
+        },
+        "1.2.31": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.49.plugin"
+        },
+        "1.2.49": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.50.plugin"
+        },
+        "1.2.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.9.plugin"
+        },
+        "1.2.50": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.28.plugin"
+        },
+        "1.3.28": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.88.plugin"
+        },
+        "1.3.88": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.90.plugin"
+        },
+        "1.3.90": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.14.plugin"
+        },
+        "1.4.14": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.36.plugin"
+        },
+        "1.4.36": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.58.plugin"
+        },
+        "1.4.58": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.83.plugin"
+        },
+        "1.4.83": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.92.plugin"
+        },
+        "1.4.92": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.4.plugin"
+        },
+        "1.5.63": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector.plugin"
+        },
+        "1.5.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.4.plugin"
+        },
+        "1.5.47": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.47.plugin"
+        },
+        "1.5.82": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.82.plugin"
+        }
+      }
     },
     {
       "id": "max_reextera",
@@ -1471,7 +2250,24 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.1.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.0.plugin"
+        },
+        "1.3.13": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.13.plugin"
+        },
+        "1.3.14": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.14.plugin"
+        }
+      }
     },
     {
       "id": "liquid_glass_blur",
@@ -1554,7 +2350,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/neural_typing/neural_typing.plugin"
+        }
+      }
     },
     {
       "id": "xitgram_fonts",
@@ -1621,7 +2422,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/local_gift_hider/local_gift_hider.plugin"
+        }
+      }
     },
     {
       "id": "osu_mur_stats",
@@ -1638,7 +2444,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/osu_mur_stats/osu! Search 1.3.0.plugin"
+        }
+      }
     },
     {
       "id": "meow_reply",
@@ -1655,7 +2466,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.6.0 Premium Fix": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/meow_reply/meow-reply.plugin"
+        }
+      }
     },
     {
       "id": "chatstickers",
@@ -1688,7 +2504,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nxfch/nxfch.plugin"
+        }
+      }
     },
     {
       "id": "memory_monitor_pro",
@@ -1705,7 +2526,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/memory_monitor_pro/memory_monitor_pro.plugin"
+        }
+      }
     },
     {
       "id": "sync_powersaver",
@@ -1739,7 +2565,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/itt/itt_v1.2.3.plugin"
+        },
+        "1.2.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/itt/itt.plugin"
+        }
+      }
     },
     {
       "id": "exereal_copy_any_code",
@@ -1773,7 +2607,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.7.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pack_cloner/pack_cloner-1.7.0.plugin"
+        }
+      }
     },
     {
       "id": "iphone_like_Portret",
@@ -1807,7 +2646,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/protect_filter/protect_filter.plugin"
+        }
+      }
     },
     {
       "id": "quotify_plus",
@@ -1824,7 +2668,42 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v1.2.1.plugin"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v2.0.1.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v2.1.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v2.1.1.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v2.1.2.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v2.1.3.plugin"
+        },
+        "2.1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v6.0.plugin"
+        },
+        "6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v6.1.plugin"
+        },
+        "6.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus.plugin"
+        },
+        "6.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v6.1.plugin"
+        }
+      }
     },
     {
       "id": "auto_read",
@@ -1841,7 +2720,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_read/auto_read.plugin"
+        },
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_read/auto_read_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "Exereal_message_style",
@@ -1875,7 +2762,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_members_count/hide_members_count_v1.0.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_members_count/hide_members_count-1.3.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_members_count/hide_members_count_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "deleted_gift_sender",
@@ -1892,7 +2790,21 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.1.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.1.2.plugin"
+        },
+        "1.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.1.2.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.2.0.plugin"
+        }
+      }
     },
     {
       "id": "participants_channels",
@@ -1909,7 +2821,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.2.plugin"
+        },
+        "3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
+        },
+        "3.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
+        }
+      }
     },
     {
       "id": "whyfantiq_lyricsplus_plugin",
@@ -1926,7 +2849,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.9.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whyfantiq_lyricsplus_plugin/whyfantiq_lyricsplus_plugin_v2.1.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whyfantiq_lyricsplus_plugin/whyfantiq_lyricsplus_plugin_v2.1.0.plugin"
+        }
+      }
     },
     {
       "id": "quotecreate",
@@ -1943,7 +2874,48 @@
           "Messages",
           "key_avatar_backgroundGreen"
         ]
-      ]
+      ],
+      "versions": {
+        "4.1 [bug fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.2__anonymize_.plugin"
+        },
+        "4.2 [anonymize]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.3__bug_fix___effect_.plugin"
+        },
+        "4.3 [bug fix + effect]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.4__bug_fix_.plugin"
+        },
+        "4.4 [bug fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v5.0__experiment_.plugin"
+        },
+        "5.0 [experiment]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.0__bug_fixes_.plugin"
+        },
+        "6.0 [bug fixes]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.1__avatar_.plugin"
+        },
+        "6.1 [avatar]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.2__a-c_.plugin"
+        },
+        "6.2 [a-c]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.0__re-dsn_.plugin"
+        },
+        "7.0 [re-dsn]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.2__re-dsn_.plugin"
+        },
+        "7.2 [re-dsn]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.3__color_fix___anon_.plugin"
+        },
+        "8.0 [redsgn+render]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__color_oxy_fix_.plugin"
+        },
+        "7.3 [color fix + anon]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__redsgn_render_.plugin"
+        },
+        "8.0 [color/oxy fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5__anon_fix___new_buttons_.plugin"
+        }
+      }
     },
     {
       "id": "message_tags",
@@ -2027,7 +2999,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/todo_list/todo_list_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/todo_list/todo_list_v1.2.plugin"
+        }
+      }
     },
     {
       "id": "floating_attach_button",
@@ -2061,7 +3041,24 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v1.9.plugin"
+        },
+        "1.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v3.6.plugin"
+        },
+        "3.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v3.8.plugin"
+        },
+        "3.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v4.3.plugin"
+        },
+        "4.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v4.3.plugin"
+        }
+      }
     },
     {
       "id": "search_bar_control",
@@ -2078,7 +3075,30 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v1.5.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v2.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.2.plugin"
+        },
+        "3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.6.plugin"
+        },
+        "3.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.9.plugin"
+        },
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v1.0.plugin"
+        },
+        "3.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.9.plugin"
+        }
+      }
     },
     {
       "id": "exitfy",
@@ -2095,7 +3115,60 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.0.9.plugin"
+        },
+        "1.0.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.1.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.1.1.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.1.1.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.2.plugin"
+        },
+        "2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.1.plugin"
+        },
+        "2.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.2.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.2.plugin"
+        },
+        "2.4.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.3.plugin"
+        },
+        "2.4.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.4.plugin"
+        },
+        "2.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.plugin"
+        },
+        "2.4.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.5.plugin"
+        },
+        "3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.1.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.plugin"
+        },
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.1.plugin"
+        }
+      }
     },
     {
       "id": "steam",
@@ -2145,7 +3218,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/meow_react/meow_react_v0.2.plugin"
+        }
+      }
     },
     {
       "id": "music_dl",
@@ -2162,7 +3240,21 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "3.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.0.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v1.2.0.plugin"
+        },
+        "3.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v3.1.0.plugin"
+        },
+        "4.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.0.0.plugin"
+        }
+      }
     },
     {
       "id": "tiktokframe",
@@ -2179,7 +3271,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tiktokframe/tiktokframe_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "pacman_archive_chance",
@@ -2213,7 +3310,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_any/read_any_v1.4.plugin"
+        }
+      }
     },
     {
       "id": "ayu_rofls",
@@ -2230,7 +3332,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ayu_rofls/ayu_rofls_v1.1.plugin"
+        }
+      }
     },
     {
       "id": "mirror",
@@ -2247,7 +3354,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/mirror/mirror_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "wide_posts",
@@ -2264,7 +3376,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wide_posts/wide_posts_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "no_profile_autoplay",
@@ -2298,7 +3415,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/gif_folders/gif_folders_v2.0.plugin"
+        }
+      }
     },
     {
       "id": "quantahut",
@@ -2315,7 +3437,18 @@
           "Library",
           "key_avatar_backgroundInProfileBlue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.5.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.6-Beta.plugin"
+        },
+        "1.5.3.6-Beta": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.7-Beta.plugin"
+        },
+        "1.5.3.7-Beta": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.7-Beta.plugin"
+        }
+      }
     },
     {
       "id": "ui_tweaks",
@@ -2332,7 +3465,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.8.5.6-Beta": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.6-Beta.plugin"
+        },
+        "1.8.5.7-Beta": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.7-Beta.plugin"
+        },
+        "1.8.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.4.plugin"
+        }
+      }
     },
     {
       "id": "text_animation",
@@ -2349,7 +3493,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "7.0.0 [Spoilers]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
+        },
+        "8.0 [back]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
+        }
+      }
     },
     {
       "id": "big_reactions",
@@ -2382,7 +3534,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.9.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/downloader/downloader_v1.9.2.plugin"
+        }
+      }
     },
     {
       "id": "mute_person",
@@ -2398,7 +3555,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/mute_person/mute_person_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "smart_sender",
@@ -2414,7 +3576,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/smart_sender/smart_sender_v2.0.plugin"
+        }
+      }
     },
     {
       "id": "folder_control",
@@ -2431,7 +3598,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "2.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/folder_control/folder_control_v2.6.plugin"
+        },
+        "2.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/folder_control/folder_control_v2.7.plugin"
+        }
+      }
     },
     {
       "id": "account_hider",
@@ -2448,7 +3623,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.1.plugin"
+        }
+      }
     },
     {
       "id": "download_chat_wallpaper",
@@ -2499,7 +3682,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ripple_actions/ripple_actions_v2.0.plugin"
+        },
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ripple_actions/ripple_actions_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "reactions_below",
@@ -2533,7 +3724,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anonymous_stickers/anonymous_stickers_v1.1__stable_.plugin"
+        }
+      }
     },
     {
       "id": "media_glow",
@@ -2550,7 +3746,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_glow/media_glow_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_glow/media_glow_v1.2.plugin"
+        }
+      }
     },
     {
       "id": "voice_timing",
@@ -2567,7 +3771,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/voice_timing/voice_timing_v1.3.0.plugin"
+        }
+      }
     },
     {
       "id": "status_adder",
@@ -2584,7 +3793,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/status_adder/status_adder_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "material_containers",
@@ -2618,7 +3832,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_creator/plugin_creator_v3.0.plugin"
+        },
+        "3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_creator/plugin_creator_v3.0.plugin"
+        }
+      }
     },
     {
       "id": "send_file_text",
@@ -2669,7 +3891,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/number_in_profile_randomizer_rn/number_in_profile_randomizer_rn_v1.0.1.plugin"
+        }
+      }
     },
     {
       "id": "py_module_installer",
@@ -2822,7 +4049,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ram_info_pill/ram_info_pill_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ram_info_pill/ram_info_pill_v1.0.1.plugin"
+        }
+      }
     },
     {
       "id": "RFS",
@@ -2839,7 +4074,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/RFS/RFS_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "auto_scroll",
@@ -2890,7 +4130,24 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.3.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.4.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.5.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
+        }
+      }
     },
     {
       "id": "audio_router",
@@ -2907,7 +4164,24 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.3.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.4.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.4.plugin"
+        }
+      }
     },
     {
       "id": "chat_member_parser",
@@ -2974,7 +4248,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.plugin"
+        },
+        "3.0.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
+        }
+      }
     },
     {
       "id": "OpenRouter_CAI",
@@ -3093,7 +4375,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "9.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rolling_cube/rolling_cube_v9.0.2.plugin"
+        }
+      }
     },
     {
       "id": "shareui_vanillamusicplayer",
@@ -3109,7 +4396,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_vanillamusicplayer/shareui_vanillamusicplayer_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "forwards",
@@ -3126,7 +4418,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/forwards/forwards_v1.1.plugin"
+        }
+      }
     },
     {
       "id": "Combined_Custom_Banner",
@@ -3143,7 +4440,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
+        }
+      }
     },
     {
       "id": "kubicki",
@@ -3177,7 +4482,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sender/sender_v1.0.2.plugin"
+        }
+      }
     },
     {
       "id": "tdesktop_copy",
@@ -3211,7 +4521,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/etg_weekday/etg_weekday_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "voice_relay",
@@ -3228,7 +4543,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/voice_relay/voice_relay_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "murintranslator",
@@ -3245,7 +4565,15 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/murintranslator/murintranslator_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/murintranslator/murintranslator_v1.2.plugin"
+        }
+      }
     },
     {
       "id": "no_ayu_rofls",
@@ -3262,7 +4590,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/no_ayu_rofls/no_ayu_rofls_v1.1.plugin"
+        }
+      }
     },
     {
       "id": "readall",
@@ -3313,7 +4646,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chat_summary/chat_summary_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "moonlib",
@@ -3329,7 +4667,12 @@
           "Library",
           "key_avatar_backgroundInProfileBlue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/moonlib/moonlib_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "plugin_share",
@@ -3464,7 +4807,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.4.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_verifier/plugin_verifier_v2.4.7.plugin"
+        }
+      }
     },
     {
       "id": "scam_marker",
@@ -3515,7 +4863,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ege_trainer/ege_trainer_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "mute_master",
@@ -3549,7 +4902,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_sender/auto_sender_v1.0__fix_topics_.plugin"
+        }
+      }
     },
     {
       "id": "persistent_attach_button",
@@ -3566,7 +4924,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/persistent_attach_button/persistent_attach_button_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "etg_max",
@@ -3583,7 +4946,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/etg_max/etg_max_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "smart_folder_manager",
@@ -3685,7 +5053,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rounder/rounder_v3.0.plugin"
+        },
+        "3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rounder/rounder_v3.1.plugin"
+        },
+        "3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rounder/rounder_v3.1.plugin"
+        }
+      }
     },
     {
       "id": "read_all",
@@ -3702,7 +5081,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "send_as_round_video",
@@ -3719,7 +5103,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/send_as_round_video/send_as_round_video_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "excomponents_lib",
@@ -3804,7 +5193,21 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "4.0.0 [release]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.0__local_scan_.plugin"
+        },
+        "6.0 [local scan]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.0__local_scan_.plugin"
+        },
+        "6.5 [fixes + visual]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.5__fixes___visual_.plugin"
+        },
+        "5.0 [button]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v5.0 [button].plugin"
+        }
+      }
     },
     {
       "id": "read_notification",
@@ -3855,7 +5258,15 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.9.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.9.0.plugin"
+        },
+        "1.8.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.8.0.plugin"
+        }
+      }
     },
     {
       "id": "Custom_Banner_Profile",
@@ -3872,7 +5283,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.7.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Custom_Banner_Profile/Custom_Banner_Profile_v1.7.0.plugin"
+        }
+      }
     },
     {
       "id": "no_calls",
@@ -3957,7 +5373,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/misha_unlimited_pins/misha_unlimited_pins_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "censor_swear",
@@ -3974,7 +5395,27 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/censor_swear/censor_swear_v1.0__author_change_.plugin"
+        },
+        "1.0 (author change)": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/censor_swear/censor_swear_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/censor_swear/censor_swear_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/censor_swear/censor_swear_v1.3.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/censor_swear/censor_swear_v1.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/censor_swear/censor_swear_v1.3.1.plugin"
+        }
+      }
     },
     {
       "id": "ReMandre",
@@ -3990,7 +5431,24 @@
           "Library",
           "key_avatar_backgroundInProfileBlue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ReMandre/ReMandre_v1.1.1.plugin"
+        },
+        "1.2 #CFFI": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ReMandre/ReMandre_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ReMandre/ReMandre_v1.2.0.plugin"
+        },
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ReMandre/ReMandre_v1.2__CFFI.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ReMandre/ReMandre_v1.1.1.plugin"
+        }
+      }
     },
     {
       "id": "EasyShortcuts",
@@ -4090,7 +5548,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/amnezia_wg_proxy/amnezia_wg_proxy_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "saya_clicker_pg",
@@ -4124,7 +5587,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "0.1 Preview hotfix": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/eblannft/eblannft_v1.0.8.plugin"
+        },
+        "1.0.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/eblannft/eblannft_v1.0.8.plugin"
+        }
+      }
     },
     {
       "id": "inlinetools",
@@ -4141,7 +5612,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/inlinetools/inlinetools_v2.0.0__fix_.plugin"
+        },
+        "2.0.0 [fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/inlinetools/inlinetools_v2.1__fix_.plugin"
+        }
+      }
     },
     {
       "id": "dialogs_cleanup",
@@ -4158,7 +5637,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0 [visual+preview]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dialogs_cleanup/dialogs_cleanup_v2.1__fixes_.plugin"
+        }
+      }
     },
     {
       "id": "meme_library",
@@ -4175,7 +5659,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/meme_library/meme_library_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "AdBlock",
@@ -4192,7 +5681,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AdBlock/AdBlock_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "text2voice",
@@ -4225,7 +5719,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0-Beta": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/asb/asb_v6.7.0-Alpha.plugin"
+        },
+        "6.7.0-Alpha": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/asb/asb_v6.7.0-Alpha.plugin"
+        }
+      }
     },
     {
       "id": "casino",
@@ -4340,7 +5842,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ProfileCustomizer/ProfileCustomizer_v1.0.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ProfileCustomizer/ProfileCustomizer_v1.2.0.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ProfileCustomizer/ProfileCustomizer_v1.6.1.plugin"
+        }
+      }
     },
     {
       "id": "token_guard",
@@ -4472,7 +5985,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "4.4.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/MD3Core/MD3Core_v4.4.4.plugin"
+        }
+      }
     },
     {
       "id": "burmalda_blocker",
@@ -4489,7 +6007,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/burmalda_blocker/burmalda_blocker_v2.0.0.plugin"
+        }
+      }
     },
     {
       "id": "tgws",
@@ -4540,7 +6063,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.1.plugin"
+        },
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.1.plugin"
+        }
+      }
     },
     {
       "id": "fuck_gifts",
@@ -4557,7 +6091,30 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "2.3.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.3.4.plugin"
+        },
+        "2.3.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.3.5.plugin"
+        },
+        "2.3.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.4.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.1.plugin"
+        },
+        "2.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.2.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.plugin"
+        },
+        "2.5.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.2.plugin"
+        }
+      }
     },
     {
       "id": "currency_converter_ru",
@@ -4574,7 +6131,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/currency_converter_ru/currency_converter_ru_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "online_notifier",
@@ -4591,7 +6153,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/online_notifier/online_notifier_v1.0.6.plugin"
+        }
+      }
     },
     {
       "id": "online_tracker",
@@ -4675,7 +6242,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/KWFilter/KWFilter_v2.1.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/KWFilter/KWFilter_v2.5.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/KWFilter/KWFilter_v2.5.plugin"
+        }
+      }
     },
     {
       "id": "haduku_ui_master",
@@ -4708,7 +6286,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_dkta/shareui_dkta_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "indexes",
@@ -4758,7 +6341,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.7.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/meme_menu/meme_menu_v1.7.1.plugin"
+        }
+      }
     },
     {
       "id": "shadow_ban",
@@ -4775,7 +6363,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shadow_ban/shadow_ban_v1.0.2.plugin"
+        }
+      }
     },
     {
       "id": "archive_folder_fix",
@@ -4792,7 +6385,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/archive_folder_fix/archive_folder_fix_v1.3.1.plugin"
+        }
+      }
     },
     {
       "id": "legacygram",
@@ -4809,7 +6407,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/legacygram/legacygram_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "aes_inline_crypto",
@@ -4843,7 +6446,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatica_lite/translatica_lite_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatica_lite/translatica_lite_v1.0.1.plugin"
+        }
+      }
     },
     {
       "id": "beszel_stats",
@@ -4860,7 +6471,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/beszel_stats/beszel_stats_v1.3.1.plugin"
+        }
+      }
     },
     {
       "id": "plugin_drawer",
@@ -4876,7 +6492,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_drawer/plugin_drawer_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "AtmosFX",
@@ -4994,7 +6615,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.7.0 [pre-release]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chatexport/chatexport_v2.0__public_beta_.plugin"
+        }
+      }
     },
     {
       "id": "auto_delete",
@@ -5011,7 +6637,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_delete/auto_delete_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_delete/auto_delete_v2.0.1.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_delete/auto_delete_v2.0.1.plugin"
+        }
+      }
     },
     {
       "id": "shareui_fservice",
@@ -5027,7 +6664,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_fservice/shareui_fservice_v1.1.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_fservice/shareui_fservice_v1.3.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_fservice/shareui_fservice_v1.3.0.plugin"
+        }
+      }
     },
     {
       "id": "shareui_efch",
@@ -5044,7 +6692,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_efch/shareui_efch_v1.1.1.plugin"
+        }
+      }
     },
     {
       "id": "pomme",
@@ -5094,7 +6747,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fullscreen_music_player/fullscreen_music_player_v1.2.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fullscreen_music_player/fullscreen_music_player_v1.1.plugin"
+        }
+      }
     },
     {
       "id": "botsautofarm",
@@ -5111,7 +6772,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/botsautofarm/botsautofarm_v3.1.plugin"
+        }
+      }
     },
     {
       "id": "translatica_pro",
@@ -5128,7 +6794,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatica_pro/translatica_pro_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "activity_imitator_v2",
@@ -5144,7 +6815,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/activity_imitator_v2/activity_imitator_v2_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/activity_imitator_v2/activity_imitator_v2_v1.5.1.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/activity_imitator_v2/activity_imitator_v2_v1.5.1.plugin"
+        }
+      }
     },
     {
       "id": "favstickers",
@@ -5178,7 +6860,18 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0 [inline]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/explore_search/explore_search_v3.0__remake___bug_fixes_.plugin"
+        },
+        "3.0 [remake + bug fixes]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/explore_search/explore_search_v4.0__better_inline___fixes_.plugin"
+        },
+        "4.0 [better inline + fixes]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/explore_search/explore_search_v5.0__pill_.plugin"
+        }
+      }
     },
     {
       "id": "proxy_tools",
@@ -5195,7 +6888,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/th3_proxy_tools/th3_proxy_tools_v1.4.3.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/th3_proxy_tools/th3_proxy_tools_v2.1.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/proxy_tools/proxy_tools_v1.0.1.plugin"
+        }
+      }
     },
     {
       "id": "file_viewer_editor_pg",
@@ -5212,7 +6916,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/file_viewer_editor_pg/file_viewer_editor_pg_v2.1.plugin"
+        }
+      }
     },
     {
       "id": "quoteReply",
@@ -5229,7 +6938,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.10": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quoteReply/quoteReply_v1.0.10.plugin"
+        }
+      }
     },
     {
       "id": "zwyNoForwardLimit",
@@ -5246,7 +6960,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
+        }
+      }
     },
     {
       "id": "endlessFoldersScroll",
@@ -5263,7 +6982,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/endlessFoldersScroll/endlessFoldersScroll_v1.0.7.plugin"
+        }
+      }
     },
     {
       "id": "googlethat",
@@ -5297,7 +7021,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_bettersearch/shareui_bettersearch_v1.0.1.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_bettersearch/shareui_bettersearch_v1.0.2.plugin"
+        },
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_bettersearch/shareui_bettersearch_v1.0.2.plugin"
+        }
+      }
     },
     {
       "id": "chillbro",
@@ -5314,7 +7049,15 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chillbro/chillbro_v1.1.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chillbro/chillbro_v2.0.plugin"
+        }
+      }
     },
     {
       "id": "gift_hider",
@@ -5331,7 +7074,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/gift_hider/gift_hider_v1.1__show_.plugin"
+        }
+      }
     },
     {
       "id": "hook_inspector",
@@ -5348,7 +7096,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "9.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hook_inspector/hook_inspector_v9.0.0.plugin"
+        }
+      }
     },
     {
       "id": "doc_viewer_plus",
@@ -5365,7 +7118,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "0.1.80": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/doc_viewer_plus/doc_viewer_plus_v0.1.80.plugin"
+        }
+      }
     },
     {
       "id": "md3customidk",
@@ -5382,7 +7140,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.9.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/md3customidk/md3customidk_v1.9.2.plugin"
+        }
+      }
     },
     {
       "id": "nowfy",
@@ -5399,7 +7162,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nowfy/nowfy_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "theme_tweaker",
@@ -5416,7 +7184,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.UI.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/theme_tweaker/theme_tweaker_v1.UI.1.plugin"
+        }
+      }
     },
     {
       "id": "shareui_advcalc",
@@ -5450,7 +7223,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v2.1.plugin"
+        }
+      }
     },
     {
       "id": "safesend",
@@ -5484,7 +7262,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "4.5.0 [api+nft+redesign]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/account_age_checker/account_age_checker_v4.5.0 [api+nft+redesign].plugin"
+        }
+      }
     },
     {
       "id": "shimeji",
@@ -5501,7 +7284,12 @@
           "Fun",
           "key_avatar_background2Cyan"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shimeji/shimeji_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "mass_schedule_messages",
@@ -5518,7 +7306,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "0.4.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/mass_schedule_messages/mass_schedule_messages_v1.0.2.plugin"
+        },
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/mass_schedule_messages/mass_schedule_messages_v1.0.2.plugin"
+        }
+      }
     },
     {
       "id": "dont65_weather",
@@ -5535,7 +7331,18 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_weather/dont65_weather_v1.1.1.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_weather/dont65_weather_v1.2.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_weather/dont65_weather_v1.2.0.plugin"
+        }
+      }
     },
     {
       "id": "dont65textreplacer",
@@ -5552,7 +7359,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65textreplacer/dont65textreplacer_v1.4.0.plugin"
+        }
+      }
     },
     {
       "id": "dont65_multitool",
@@ -5569,7 +7381,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.10.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_multitool/dont65_multitool_v1.10.0.plugin"
+        }
+      }
     },
     {
       "id": "dont65_currency",
@@ -5586,7 +7403,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_currency/dont65_currency_v1.5.2.plugin"
+        },
+        "1.5.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_currency/dont65_currency_v1.5.2.plugin"
+        }
+      }
     },
     {
       "id": "dont65_dice_roller",
@@ -5603,7 +7428,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_dice_roller/dont65_dice_roller_v2.3.0.plugin"
+        }
+      }
     },
     {
       "id": "nyashnosti",
@@ -5620,7 +7450,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nyashnosti/nyashnosti_v2.1.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nyashnosti/nyashnosti_v2.1.0.plugin"
+        }
+      }
     },
     {
       "id": "hide_paid_reactions",
@@ -5637,7 +7475,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_paid_reactions/hide_paid_reactions_v1.3.0.plugin"
+        }
+      }
     },
     {
       "id": "usernotes",
@@ -5671,7 +7514,12 @@
           "Library",
           "key_avatar_backgroundInProfileBlue"
         ]
-      ]
+      ],
+      "versions": {
+        "1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/mandre_lib/mandre_lib_v1.7.plugin"
+        }
+      }
     },
     {
       "id": "githubinfo",
@@ -5824,7 +7672,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "4.0.0 [release]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/gemini_plugin_security/gemini_plugin_security_v4.0.0__release_.plugin"
+        }
+      }
     },
     {
       "id": "neofetch",
@@ -7928,7 +9781,12 @@
           "Messages",
           "key_avatar_backgroundGreen"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/cactus_export/cactus_export_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "lastname_time_edit",
@@ -8704,7 +10562,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_sh/shareui_sh_v1.1.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_sh/shareui_sh_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "whoisZ",
@@ -8940,7 +10806,12 @@
           "Library",
           "key_avatar_backgroundInProfileBlue"
         ]
-      ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dont65_lib/dont65_lib_v2.0.0.plugin"
+        }
+      }
     },
     {
       "id": "focus_mode",
@@ -8991,7 +10862,12 @@
           "Messages",
           "key_avatar_backgroundGreen"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.1.2.plugin"
+        }
+      }
     },
     {
       "id": "anti_spoiler",
@@ -9059,7 +10935,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/templates/templates_v4.0.plugin"
+        }
+      }
     },
     {
       "id": "streak_plugin_by_kvez",
@@ -9144,7 +11025,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/post_assistant/post_assistant_v1.1.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/post_assistant/post_assistant_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "neko_pictures",
@@ -9263,7 +11152,15 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/morse_converter/morse_converter_v1.0.0.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/morse_converter/morse_converter_v1.1.1.plugin"
+        }
+      }
     },
     {
       "id": "call_all",
@@ -9431,7 +11328,15 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Extera_Profile/Extera_Profile_v1.5.1.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Extera_Profile/Extera_Profile_v1.6.1.plugin"
+        }
+      }
     },
     {
       "id": "dynamic_backgrounds",
@@ -9448,7 +11353,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "5.4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/dynamic_backgrounds/dynamic_backgrounds_v5.4.0.plugin"
+        }
+      }
     },
     {
       "id": "custom_verif",
@@ -9549,7 +11459,18 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.0__big_upd_.plugin"
+        },
+        "2.0 [big upd]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.0__fix_.plugin"
+        },
+        "2.0 [fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.1__MORE_GIFTS_.plugin"
+        }
+      }
     },
     {
       "id": "aes_pushkincrupter",
@@ -9583,7 +11504,12 @@
           "Messages",
           "key_avatar_backgroundGreen"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sticker_hints_ecubz/sticker_hints_ecubz_v1.0.1.plugin"
+        }
+      }
     },
     {
       "id": "reaction_finder",
@@ -9617,7 +11543,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sorter_plus/sorter_plus_v1.1.0.plugin"
+        }
+      }
     },
     {
       "id": "fake_username",
@@ -9634,7 +11565,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fake_username/fake_username_v1.0.7.plugin"
+        }
+      }
     },
     {
       "id": "timers_stopwatches",
@@ -9651,7 +11587,12 @@
           "Informational",
           "key_color_lightblue"
         ]
-      ]
+      ],
+      "versions": {
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/timers_stopwatches/timers_stopwatches_v2.3.0.plugin"
+        }
+      }
     },
     {
       "id": "log_overlay_by_rn",
@@ -9668,7 +11609,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/log_overlay_by_rn/log_overlay_by_rn_v1.0.5.plugin"
+        }
+      }
     },
     {
       "id": "auto_sort_chats_ecubz",
@@ -9702,7 +11648,12 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "miniapp_devtools",
@@ -9920,7 +11871,12 @@
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/docky/docky_v1.0.0.plugin"
+        }
+      }
     },
     {
       "id": "quick_note2",
