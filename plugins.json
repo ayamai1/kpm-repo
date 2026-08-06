@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "kangel_plugins_manager",
+      "name": "Kangel Plugins Manager",
+      "author": "@ArThirtyFour | @KangelPlugins",
+      "version": "1.5.0",
+      "icon": "Kangelcons_by_fStikBot/5",
+      "description": "Первый магазин плагинов, предлагающий удобное управление плагинами\nТребования: exteraGram: 12.9.0 и выше | AyuGram: Пока не поддерживается",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/kangel_plugins_manager.eaf",
+      "hash": "34d6bd41699b0430907e4e0b737dfc7509634dda5a64e04ce1d37399ba9195dd",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "nodisturb",
       "name": "NoDisturb",
       "author": "@cobra_S0FT & @excess_plugins",
@@ -1603,23 +1620,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "kangel_plugins_manager",
-      "name": "Kangel Plugins Manager",
-      "author": "@ArThirtyFour | @KangelPlugins",
-      "version": "1.4.4",
-      "icon": "Kangelcons_by_fStikBot/5",
-      "description": "Первый магазин плагинов , предлагающий удобное управление плагинами\nТребования: exteraGram/Ayugram 12.5.1 и выше\n\nFirst plugin store with easy plugin management\nRequirements:exteraGram/AyuGram 12.5.1 or higher",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/KangelPluginsManager.plugin",
-      "hash": "0c649796b3c8a0a472018fa386083ea25e3a1d8f3dc3b0f0b51313ee7268afde",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
