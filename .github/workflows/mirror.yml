@@ -1,7 +1,5 @@
 name: mirror
 on:
-  repository_dispatch:
-    types: [mirror-auto]
   workflow_dispatch:
 permissions:
   contents: write
