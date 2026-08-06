@@ -36,6 +36,12 @@ for id, plugin in data.items():
         "tags": category_label(plugin.get("status")),
     }
 
+    versions = {}
+    if plugin.get("legacy_version"):
+        for version, file in plugin.get("legacy_version").items():
+            versions[version] = {"link": file["url"]}
+        p["versions"] = versions
+
     if p["tags"] is not None:
         p["tags"] = [p["tags"]]
 
