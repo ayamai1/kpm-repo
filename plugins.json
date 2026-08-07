@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "timers_stopwatches",
+      "name": "Timers & Stopwatches",
+      "author": "@Kaktusik_A & AI",
+      "version": "2.6.0",
+      "icon": "kaktusik_plug/1",
+      "description": "Добавляй и управляй таймерами и секундомерами прямо из меню действий чата.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/timers_stopwatches.eaf",
+      "hash": "a667c1639dff14d484fd1bec0b3f59ceaaa530ef6d683ac548ed4661b7758f8d",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/timers_stopwatches/timers_stopwatches_v2.3.0_1.plugin"
+        }
+      }
+    },
+    {
       "id": "whisper_transcribe",
       "name": "Transcriber",
       "author": "@ginqusPlugins",
@@ -11577,28 +11599,6 @@
       "versions": {
         "1.0.7": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fake_username/fake_username_v1.0.7.plugin"
-        }
-      }
-    },
-    {
-      "id": "timers_stopwatches",
-      "name": "Timers & Stopwatches",
-      "author": "@Kaktusik_A & AI",
-      "version": "2.3.0",
-      "icon": "sPluginIDE/10",
-      "description": "Add and manage timers and stopwatches directly from the chat action menu.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/timers_stopwatches.plugin",
-      "hash": "0ac55ecc5771328e632d642243ed0385275cbfdd1c81f90dbe32d15b71f78c62",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "2.3.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/timers_stopwatches/timers_stopwatches_v2.3.0.plugin"
         }
       }
     },
