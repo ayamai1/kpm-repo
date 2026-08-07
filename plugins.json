@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "music_uploader",
+      "name": "Music Uploader",
+      "author": "@Kaktusik_A & AI",
+      "version": "1.5",
+      "icon": "kaktusik_plug/0",
+      "description": "Кнопка в меню чата и в настройках — выгружает музыку с устройства через кастомный выбор треков (поиск, обложки, выбор всех). Режим по умолчанию сохраняется и работает и в настройках, и из меню чата.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/music_uploader.eaf",
+      "hash": "6b9a9f68c26f6a286fbe5c8fa025d1b2eefe304a7e700c04b35b7ac57728bc47",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "timers_stopwatches",
       "name": "Timers & Stopwatches",
       "author": "@Kaktusik_A & AI",
