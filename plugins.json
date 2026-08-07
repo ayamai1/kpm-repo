@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "zwylib",
+      "name": "ZwyLib",
+      "author": "@zwylair",
+      "version": "2.0.6",
+      "icon": "zwyPluginsIcons/0",
+      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
+      "hash": "d1e6b64e3ee0029b95f482aae9a5dfd9c9eadf3321badf790696747928647016",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Library",
+          "key_avatar_backgroundInProfileBlue"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
+        },
+        "2.0.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
+        },
+        "2.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
+        },
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6.plugin"
+        }
+      }
+    },
+    {
+      "id": "zwyNoForwardLimit",
+      "name": "NoForwardLimit",
+      "author": "@zwylair",
+      "version": "2.0.0",
+      "icon": "zwyPluginsIcons/6",
+      "description": "Removes the limit of 100 forward and delete messages.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
+      "hash": "3c74741742698f1c22cf1d793cd42c04224747d96b7da57de2c1c7b645635533",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
+        },
+        "1.1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.5_1.plugin"
+        }
+      }
+    },
+    {
       "id": "music_uploader",
       "name": "Music Uploader",
       "author": "@Kaktusik_A & AI",
@@ -300,46 +368,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Gos_censorship/Gos_censorship_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwylib",
-      "name": "ZwyLib",
-      "author": "@zwylair",
-      "version": "2.0.6",
-      "icon": "zwyPluginsIcons/0",
-      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
-      "hash": "d06e2b6a246e9ba9a2c78f7ad3e8b1372a16e508e7366e9c797e2e059295e19a",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Library",
-          "key_avatar_backgroundInProfileBlue"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
-        },
-        "1.2.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
-        },
-        "2.0.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
-        },
-        "2.0.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
-        },
-        "2.0.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
-        },
-        "2.0.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
-        },
-        "2.0.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
         }
       }
     },
@@ -7006,28 +7034,6 @@
       "versions": {
         "1.0.10": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quoteReply/quoteReply_v1.0.10.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwyNoForwardLimit",
-      "name": "NoForwardLimit",
-      "author": "@zwylair",
-      "version": "1.1.5",
-      "icon": "zwyPluginsIcons/6",
-      "description": "Removes the limit of 100 forward and delete messages.\n\n",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
-      "hash": "b8ede8452a12ef652463389f3499daa60c53817a2c0a3cb81226287b6784350b",
-      "app_version": ">=12.0.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
         }
       }
     },
