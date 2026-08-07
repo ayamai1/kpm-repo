@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "chimeranft",
+      "name": "Chimera NFT",
+      "author": "@xarmaq",
+      "version": "1.1.0",
+      "icon": "HappyHappyPepe/31",
+      "description": "Chimera NFT (бывший eblanNFT) — NFT-подарки, оформление профиля и синхронизация между пользователями.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/chimeranft.eaf",
+      "hash": "55580e1f5b9a6f04a43f84688a992b8c951dafe75850efc36a9ab45d68df0dbe",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chimeranft/chimeranft_v1.0.0.eaf"
+        }
+      }
+    },
+    {
       "id": "zwylib",
       "name": "ZwyLib",
       "author": "@zwylair",
@@ -419,23 +441,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "chimeranft",
-      "name": "Chimera NFT",
-      "author": "@xarmaq",
-      "version": "1.0.0",
-      "icon": "HappyHappyPepe/31",
-      "description": "Chimera NFT (бывший eblanNFT) — NFT-подарки, оформление профиля и синхронизация между пользователями.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/chimeranft.eaf",
-      "hash": "27e346b3abbd721aa9147646be7da94f69b9cd54fc0033bbd87d33c13dffb6b3",
-      "app_version": ">=11.9.0",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
