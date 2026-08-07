@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "music_speed",
+      "name": "Music Speed",
+      "author": "@binbash_0",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "Добавляет музыке штатную кнопку изменения скорости + дает возможность включать pitch и reverb",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/music_speed.plugin",
+      "hash": "fb1a9d4e7ee7a129f454930607165f8e70c16e1878887158f11f2c76c190d51a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "zwyNoForwardLimit",
       "name": "NoForwardLimit",
       "author": "@zwylair",
