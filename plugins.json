@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "whisper_transcribe",
+      "name": "Transcriber",
+      "author": "@ginqusPlugins",
+      "version": "2.3.0",
+      "icon": "ginqusExteraPlugins/1",
+      "description": "Replaces Telegram's transcription service with free state-of-the-art alternatives.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/whisper_transcribe.plugin",
+      "hash": "913cea12df376ab132a63821ca9f7e395cc5c7b18acb5451ff25d40499bc5ee2",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "2.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/transcriber_v2.2.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/whisper_transcribe_v2.3.0.plugin"
+        }
+      }
+    },
+    {
       "id": "compact_bottom_nav",
       "name": "CompactBottomNav",
       "author": "@YouRooni",
@@ -9189,23 +9214,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "whisper_transcribe",
-      "name": "Transcriber",
-      "author": "@ginqusPlugins",
-      "version": "2.2.0",
-      "icon": "ginqusExteraPlugins/1",
-      "description": "Replaces Telegram's transcription service with free state-of-the-art alternatives.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/transcriber.plugin",
-      "hash": "3744693e364e925ad10c398c6d1af566937a337277959d288fd65c02340fcd15",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
