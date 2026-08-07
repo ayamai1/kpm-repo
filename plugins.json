@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "media_folders",
+      "name": "Media Folders",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "3.0",
+      "icon": "MaxExteraPluginsStickers/20",
+      "description": "Adds folder tabs to GIF, Sticker, and Emoji panels for organizing your media into custom categories.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_folders.plugin",
+      "hash": "19d020c447a03edd803779aaf58196feb373a48b9a10760d50c1912314774f77",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v1.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v2.0_1.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v2.1.plugin"
+        }
+      }
+    },
+    {
       "id": "Fork_Round_Videos_Configurator",
       "name": "Round Videos Configurator",
       "author": "@KUNSESHBOY",
@@ -328,31 +356,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "media_folders",
-      "name": "Media Folders",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.1",
-      "icon": "MaxExteraPluginsStickers/20",
-      "description": "Adds folder tabs to GIF, Sticker, and Emoji panels for organizing your media into custom categories.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_folders.plugin",
-      "hash": "845297be65c2a004c196d72f899ff545f9f67134979ea1071ef15c143d2e7dcb",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v1.0.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v2.0_1.plugin"
-        }
-      }
     },
     {
       "id": "privacy_firewall",
