@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "pill_stack_to_header",
+      "name": "Pill Stack to Header",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "3.0",
+      "icon": "MaxExteraPluginsStickers/18",
+      "description": "Перемещает Pill Stack из строки поиска на панель главного экрана.\n\n**Ссылка на документацию в настройках плагина!**",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/pill_stack_to_header.plugin",
+      "hash": "15171b7ee086117f946741b541721e54e7bb080ca4278ec47a4ccde0074d050a",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.1.plugin"
+        },
+        "2.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header.plugin"
+        },
+        "2.13": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.13.plugin"
+        }
+      }
+    },
+    {
       "id": "Combined_Custom_Banner",
       "name": "Combined Custom Banner",
       "author": "@KUNSESHBOY & @chestertech",
@@ -1600,31 +1628,6 @@
         },
         "2.3.1": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro.plugin"
-        }
-      }
-    },
-    {
-      "id": "pill_stack_to_header",
-      "name": "Pill Stack to Header",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.13",
-      "icon": "MaxExteraPluginsStickers/18",
-      "description": "Перемещает Pill Stack из строки поиска на панель главного экрана.\n\n**Ссылка на документацию в настройках плагина!**",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/pill_stack_to_header.plugin",
-      "hash": "b42be455525a2b1a629ad90bcfc8ff2e12837f06d796893e758d4f43612b3b68",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.1.plugin"
-        },
-        "2.9": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header.plugin"
         }
       }
     },
