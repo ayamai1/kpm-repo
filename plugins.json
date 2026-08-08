@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "Combined_Custom_Banner",
+      "name": "Combined Custom Banner",
+      "author": "@KUNSESHBOY & @chestertech",
+      "version": "2.9.0",
+      "icon": "c420220972_1776124547_6jmoz/25",
+      "description": "[Pre-release] Особенности плагина: прозрачные папки, кастомные баннеры чатов и профиля, дополненный вид каналов в профилях спомощью баннера из аватара канала, а также эффекты размытия баннеров.\n\n|Спасибо chestertetch за помощь в оптимизации|",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Combined_Custom_Banner.plugin",
+      "hash": "7a58c6e249606e264d44874f74aa6a7e8d0fe4757bc14a9052e671594d902aaa",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.2_1.plugin"
+        }
+      }
+    },
+    {
       "id": "quantahut",
       "name": "QuantaHut",
       "author": "@luvztroy",
@@ -4587,31 +4615,6 @@
       "versions": {
         "1.1": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/forwards/forwards_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "Combined_Custom_Banner",
-      "name": "Combined Custom Banner",
-      "author": "@KUNSESHBOY",
-      "version": "2.1.2",
-      "icon": "c420220972_1776124547_6jmoz/25",
-      "description": "CCB (Fork by: KUNSESHBOY) ",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/Combined_Custom_Banner.plugin",
-      "hash": "b4dc304f94b63801fd6dc600b93f63bd72d6b53041f97a63eecf835678654eb0",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.0.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
-        },
-        "2.1.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
         }
       }
     },
