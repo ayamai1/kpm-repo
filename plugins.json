@@ -1,6 +1,43 @@
 {
   "plugins": [
     {
+      "id": "temp_sub",
+      "name": "TempSub",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "3.1.0",
+      "icon": "MaxExteraPluginsStickers/5",
+      "description": "Временные подписки на каналы с автоматической отпиской по расписанию.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/temp_sub.plugin",
+      "hash": "6e69e7ca25fe383a0cebb8c9baed9cd270b77ffe77280aa6e71f898d977781d0",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.3.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.4.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.5.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.4_1.plugin"
+        }
+      }
+    },
+    {
       "id": "participants_channels",
       "name": "Participants Channels",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -4352,40 +4389,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "temp_sub",
-      "name": "TempSub",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.4",
-      "icon": "MaxExteraPluginsStickers/5",
-      "description": "Временные подписки на каналы с автоматической отпиской по расписанию.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/temp_sub.plugin",
-      "hash": "faacafec6861e80bfef25eeab137f5baed35490494cf78903f93430e93fc8ead",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.3.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.4.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.5.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
-        },
-        "2.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
-        }
-      }
     },
     {
       "id": "audio_router",
