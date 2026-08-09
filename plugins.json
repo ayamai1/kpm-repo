@@ -1,6 +1,37 @@
 {
   "plugins": [
     {
+      "id": "participants_channels",
+      "name": "Participants Channels",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "4.2",
+      "icon": "MaxExteraPluginsStickers/19",
+      "description": "Adds a **Channels** tab to the group/channel profile showing participants' personal channels.\n\nTap a channel = open the channel.\nLong press = open the admin profile.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/participants_channels.plugin",
+      "hash": "669f4ecb1429b06d0f6734fc3ea11bc68f11fe5491e9e9fddf2bbc23fe5e5f2d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.2.plugin"
+        },
+        "3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
+        },
+        "3.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
+        },
+        "3.20": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.20_1.plugin"
+        }
+      }
+    },
+    {
       "id": "RGBD",
       "name": "RGBD",
       "author": "@RoflPlugins",
@@ -3091,34 +3122,6 @@
         },
         "1.2.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.2.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "participants_channels",
-      "name": "Participants Channels",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "3.20",
-      "icon": "MaxExteraPluginsStickers/19",
-      "description": "Adds a **Channels** tab to the group/channel profile showing participants' personal channels.\n\nTap a channel = open the channel.\nLong press = open the admin profile.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/participants_channels.plugin",
-      "hash": "830d77060b440bb67bf2cacd9d62535bd24353f7aec121ee8d96ee43cbee6c13",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "3.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.2.plugin"
-        },
-        "3.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
-        },
-        "3.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
         }
       }
     },
