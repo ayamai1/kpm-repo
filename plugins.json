@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "RGBD",
+      "name": "RGBD",
+      "author": "@RoflPlugins",
+      "version": "1.3.7",
+      "icon": "RoflPlugins/19",
+      "description": "Reply .d to a photo",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/RGBD.plugin",
+      "hash": "c0aaa00c5b656ed75e1e1d99d2f5dba2d992c33c00728cde66c79dd4acc01d71",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/RGBD/RGBD_v1.0.4.plugin"
+        }
+      }
+    },
+    {
       "id": "pill_stack_to_header",
       "name": "Pill Stack to Header",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -236,23 +258,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
         }
       }
-    },
-    {
-      "id": "RGBD",
-      "name": "RGBD",
-      "author": "@RoflPlugins",
-      "version": "1.0.4",
-      "icon": "RoflPlugins/19",
-      "description": "Reply .d to a photo",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/RGBD.plugin",
-      "hash": "691521f0a04b82de83dbd6ea7bb022ad15c681339401bdc1870dd2f5edebbb5e",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "media_folders",
