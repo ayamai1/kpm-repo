@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "extera_stt",
+      "name": "ExteraSTT",
+      "author": "Qybic",
+      "version": "1.1.1",
+      "icon": "exteraPlugins/1",
+      "description": "Расшифровка и LLM коррекция голосовых/кружочков через любого провайдера (OpenRouter по умолчанию).",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/extera_stt.plugin",
+      "hash": "0a767cb4440fa38791b599d9a763886f31032261dc5820d1db6611082cd839be",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "shortcuts",
       "name": "Shortcuts",
       "author": "@nonPlugins",
