@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "material_expressive",
+      "name": "Material Expressive",
+      "author": "@itskotovski & @yzewe",
+      "version": "1.0",
+      "icon": "materialexpressive/0",
+      "description": "плагин с тактильной анимацией нажатий, появления и прокрутки",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/material_expressive.plugin",
+      "hash": "9313f6eeed42f2a0428da98f9dd21b95e3b6d027fff25e297c41dc7c54e4ca43",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "custom_recent_reactions",
       "name": "Custom Recent Reactions",
       "author": "@itNotMax - @MaxExteraPlugins",
