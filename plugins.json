@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "roleforge",
+      "name": "RoleForge",
+      "author": "@RapFurBitches & @ccsFM",
+      "version": "1.4.0",
+      "icon": "Oregairu_Sanrais/0",
+      "description": "Переписывает сообщения в разные личности (Хикка, Чеченец, Советский + свои) через ИИ",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/roleforge.eaf",
+      "hash": "f72e6bba21f3855fe2d8ce8fed445e05ed7f3fe16e62fc3b955ae886323b1624",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "material_expressive",
       "name": "Material Expressive",
       "author": "@itskotovski & @yzewe",
