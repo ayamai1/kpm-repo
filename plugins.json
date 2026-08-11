@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "custom_recent_reactions",
+      "name": "Custom Recent Reactions",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.1",
+      "icon": "MaxExteraPluginsStickers/25",
+      "description": "Replace the recent reactions in the message reaction panel with your own set.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
+      "hash": "70e95d46510ecddd9ba8bb5083d84750491f38341448edd8d10d9879bd20faf5",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "nodisturb",
       "name": "NoDisturb",
       "author": "@cobra_S0FT & @excess_plugins",
