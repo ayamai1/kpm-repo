@@ -1,6 +1,79 @@
 {
   "plugins": [
     {
+      "id": "svg_inline",
+      "name": "SVG Inline Renderer",
+      "author": "@YAYRIRZ",
+      "version": "1.5.12",
+      "icon": "msg_photos",
+      "description": "Рендерит svg иконки в текстовом сообщении и это видят все у кого есть плагин. <svg>...</svg>",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/svg_inline.plugin",
+      "hash": "67cae2c488a5f5200b1dd197d71a958d9eadbcf95f1d1221e39a82bb9992493e",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "femboyaudioscope",
+      "name": "AudioScope",
+      "author": "@Beefba",
+      "version": "1.1.0",
+      "icon": "Wypher4/28",
+      "description": "Shows the format, codec, bitrate, sample rate, bit depth, channels, and tags of the current track from the player menu.\n**Usage:** Player menu -> Track information",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/femboyaudioscope.plugin",
+      "hash": "65d40303def499f9341c5adc9e171c594c06fdde9edccf1c464aa4c670a560c5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/femboyaudioscope/femboyaudioscope_v1.0.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "AI_TG_PLUS",
+      "name": "Telegram AI Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.0",
+      "icon": "pixelcamera/13",
+      "description": "Позволяет для ИИ фишек, такие как редактор и сжатие текста, использовать внешний gemini API, чтобы обойти лимиты ТГ",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AI_TG_PLUS.plugin",
+      "hash": "c8b2c404415e01d51db4c843129539e98966ba1f762a7cac371a6c9c30dfd0f0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "confirm_unpin_all",
+      "name": "Confirm Unpin All",
+      "author": "@bober41",
+      "version": "1.0",
+      "icon": "bobrplugins/16",
+      "description": "Показывает диалог подтверждения после уведомления об откреплении всех сообщений (окошко высвечивается только когда уведомление исчезает!). @bobrplugins",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/confirm_unpin_all.plugin",
+      "hash": "8592c1aede367f86c3f0c47edcf6e36969516c7178a1cbc78366ea76ce6b9910",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "quotecreate",
       "name": "Quote",
       "author": "@mihailkotovski & @JasonVurhyz",
@@ -882,23 +955,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/KangelPluginsManager_v1.4.4.plugin"
         }
       }
-    },
-    {
-      "id": "femboyaudioscope",
-      "name": "AudioScope",
-      "author": "@Beefba",
-      "version": "1.0.1",
-      "icon": "Wypher4/28",
-      "description": "Показывает формат, кодек, битрейт, частоту дискретизации, разрядность, каналы и теги текущего трека прямо из меню плеера.\n**Использование:** Три точки в плеере -> «Информация о треке»",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/femboyaudioscope.plugin",
-      "hash": "29cda25dc43eda58e7031f87ea8e0f294535aebd0fbc93de4afac369daf4b417",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ]
     },
     {
       "id": "local_pin",
