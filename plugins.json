@@ -1,6 +1,207 @@
 {
   "plugins": [
     {
+      "id": "quotecreate",
+      "name": "Quote",
+      "author": "@mihailkotovski & @JasonVurhyz",
+      "version": "10.0",
+      "icon": "DateRegBot_by_MoiStikiBot/16",
+      "description": "Создаёт пиксельно-точные цитаты из выбранных сообщений, используя нативный рендеринг.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/quotecreate.plugin",
+      "hash": "24957b3fbd7685ae4f52aef57229522dd6c4946c3c0f714f5f9721267260a98e",
+      "app_version": ">=12.2.10",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "4.1 [bug fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.2__anonymize_.plugin"
+        },
+        "4.2 [anonymize]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.3__bug_fix___effect_.plugin"
+        },
+        "4.3 [bug fix + effect]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.4__bug_fix_.plugin"
+        },
+        "4.4 [bug fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v5.0__experiment_.plugin"
+        },
+        "5.0 [experiment]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.0__bug_fixes_.plugin"
+        },
+        "6.0 [bug fixes]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.1__avatar_.plugin"
+        },
+        "6.1 [avatar]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.2__a-c_.plugin"
+        },
+        "6.2 [a-c]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.0__re-dsn_.plugin"
+        },
+        "7.0 [re-dsn]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.2__re-dsn_.plugin"
+        },
+        "7.2 [re-dsn]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.3__color_fix___anon_.plugin"
+        },
+        "8.0 [redsgn+render]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__color_oxy_fix_.plugin"
+        },
+        "7.3 [color fix + anon]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__redsgn_render_.plugin"
+        },
+        "8.0 [color/oxy fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5__anon_fix___new_buttons_.plugin"
+        },
+        "8.5 [anon fix + new buttons]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5_[anon_fix_+_new_buttons].plugin"
+        }
+      }
+    },
+    {
+      "id": "text_animation",
+      "name": "Text Animation",
+      "author": "@mihailkotovski & @mishabotov",
+      "version": "9.0 [beta]",
+      "icon": "DateRegBot_by_MoiStikiBot/18",
+      "description": "текстовые анимации для ввода",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/text_animation.plugin",
+      "hash": "9619ca96902b6e667ef792dd6daa3ef879cc163669aa0b4ef0d7465291422456",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "7.0.0 [Spoilers]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
+        },
+        "8.0 [back]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
+        },
+        "9.0 [beta]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0_[beta].plugin"
+        }
+      }
+    },
+    {
+      "id": "chatexport",
+      "name": "Chat Export",
+      "author": "@mihailkotovski & @mishabotov",
+      "version": "2.0 [public beta]",
+      "icon": "nibbler_vk_Nyasticks_by_MoiStikiBot/35",
+      "description": "экспорт чатов в HTML/JSON/TXT в стиле Telegram Desktop",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/chatexport.plugin",
+      "hash": "0ae0f252dd9c739e25c7a728e77573ce3134ea4e90d92e5d0f305c5c264abb84",
+      "app_version": ">=11.12.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.7.0 [pre-release]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chatexport/chatexport_v2.0__public_beta_.plugin"
+        },
+        "2.0 [public beta]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chatexport/chatexport_v2.0_[public_beta].plugin"
+        }
+      }
+    },
+    {
+      "id": "log_overlay",
+      "name": "Log Overlay",
+      "author": "@koshbko & fork by @mihailkotovski",
+      "version": "3.0.0",
+      "icon": "Developer/8",
+      "description": "Modern log overlay: draggable card with header actions (pause/copy/clear/close), severity colors, theming, and plugin filtering",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/log_overlay.plugin",
+      "hash": "07d52b4df30bb70b42e2ce5f8bcdce4b6080c61a7f6373e8b869cdc241465ff6",
+      "app_version": ">=12.0.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/log_overlay/log_overlay_v3.1.1_1.plugin"
+        }
+      }
+    },
+    {
+      "id": "plugin_security",
+      "name": "Plugin Security",
+      "author": "@mihailkotovski & @mishabotov",
+      "version": "7.0 [fixes + visual]",
+      "icon": "DateRegBot_by_MoiStikiBot/8",
+      "description": "Checks extera plugin code locally and with Google Gemini / OpenAI-compatible AI\n",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/plugin_security.plugin",
+      "hash": "b839d2920fca49c07b97be175b936b673c6cce1687a3348d307856f08df609eb",
+      "app_version": ">=11.12.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "4.0.0 [release]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.0__local_scan_.plugin"
+        },
+        "6.0 [local scan]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.0__local_scan_.plugin"
+        },
+        "6.5 [fixes + visual]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.5__fixes___visual_.plugin"
+        },
+        "5.0 [button]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v5.0 [button].plugin"
+        },
+        "7.0 [fixes + visual]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/PSecurity_v7.0_[fixes_+_visual].plugin"
+        }
+      }
+    },
+    {
+      "id": "buy_gifts",
+      "name": "Gift",
+      "author": "@itskotovski",
+      "version": "3.0 [reimagined]",
+      "icon": "DMJDuckX/0",
+      "description": "скрытые подарки в списке гифтов + нативный выбор количества и получателей для массовой отправки",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/buy_gifts.plugin",
+      "hash": "fdcf7363317ab4fa1cdc5616a0655988411dba4e5b4ec7d0c8e3cc36f3cdcc41",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.0__big_upd_.plugin"
+        },
+        "2.0 [big upd]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.0__fix_.plugin"
+        },
+        "2.0 [fix]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.1__MORE_GIFTS_.plugin"
+        },
+        "2.1 [MORE GIFTS]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.1_[MORE_GIFTS].plugin"
+        }
+      }
+    },
+    {
       "id": "nodisturb",
       "name": "NoDisturb",
       "author": "@cobra_S0FT & @excess_plugins",
@@ -3252,64 +3453,6 @@
       }
     },
     {
-      "id": "quotecreate",
-      "name": "Quote",
-      "author": "@mihailkotovski & @JasonVurhyz",
-      "version": "8.5 [anon fix + new buttons]",
-      "icon": "DateRegBot_by_MoiStikiBot/16",
-      "description": "Создает пиксельно-точные цитаты из выбранных сообщений, используя нативный рендеринг.\nCreate pixel-perfect quotes from selected messages using native rendering.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/quotecreate.plugin",
-      "hash": "efe66883e33faaa608d4270f6d4d0c0c7e813254c545a48e42bec67a6cc739c9",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "4.1 [bug fix]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.2__anonymize_.plugin"
-        },
-        "4.2 [anonymize]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.3__bug_fix___effect_.plugin"
-        },
-        "4.3 [bug fix + effect]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.4__bug_fix_.plugin"
-        },
-        "4.4 [bug fix]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v5.0__experiment_.plugin"
-        },
-        "5.0 [experiment]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.0__bug_fixes_.plugin"
-        },
-        "6.0 [bug fixes]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.1__avatar_.plugin"
-        },
-        "6.1 [avatar]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.2__a-c_.plugin"
-        },
-        "6.2 [a-c]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.0__re-dsn_.plugin"
-        },
-        "7.0 [re-dsn]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.2__re-dsn_.plugin"
-        },
-        "7.2 [re-dsn]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.3__color_fix___anon_.plugin"
-        },
-        "8.0 [redsgn+render]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__color_oxy_fix_.plugin"
-        },
-        "7.3 [color fix + anon]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__redsgn_render_.plugin"
-        },
-        "8.0 [color/oxy fix]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5__anon_fix___new_buttons_.plugin"
-        }
-      }
-    },
-    {
       "id": "message_tags",
       "name": "Local Tags",
       "author": "@venerr",
@@ -3811,31 +3954,6 @@
       "versions": {
         "2.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/gif_folders/gif_folders_v2.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "text_animation",
-      "name": "Text Animation",
-      "author": "@mihailkotovski & @mishabotov",
-      "version": "9.0 [beta]",
-      "icon": "DateRegBot_by_MoiStikiBot/18",
-      "description": "текстовые анимации для ввода",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/text_animation.plugin",
-      "hash": "9619ca96902b6e667ef792dd6daa3ef879cc163669aa0b4ef0d7465291422456",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "7.0.0 [Spoilers]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
-        },
-        "8.0 [back]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
         }
       }
     },
@@ -5417,37 +5535,6 @@
       ]
     },
     {
-      "id": "plugin_security",
-      "name": "Plugin Security",
-      "author": "@mihailkotovski & @mishabotov",
-      "version": "7.0 [fixes + visual]",
-      "icon": "DateRegBot_by_MoiStikiBot/8",
-      "description": "Checks extera plugin code locally and with Google Gemini / OpenAI-compatible AI\n",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/PSecurity.plugin",
-      "hash": "b839d2920fca49c07b97be175b936b673c6cce1687a3348d307856f08df609eb",
-      "app_version": ">=11.12.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "4.0.0 [release]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.0__local_scan_.plugin"
-        },
-        "6.0 [local scan]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.0__local_scan_.plugin"
-        },
-        "6.5 [fixes + visual]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v6.5__fixes___visual_.plugin"
-        },
-        "5.0 [button]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_security/plugin_security_v5.0 [button].plugin"
-        }
-      }
-    },
-    {
       "id": "read_notification",
       "name": "Read Receipt Notify",
       "author": "@catalystdevplugins",
@@ -6809,28 +6896,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "chatexport",
-      "name": "Chat Export",
-      "author": "@mihailkotovski & @mishabotov",
-      "version": "2.0 [public beta]",
-      "icon": "nibbler_vk_Nyasticks_by_MoiStikiBot/35",
-      "description": "Export chats to HTML/JSON/TXT with Telegram Desktop style and media.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/chatexport.plugin",
-      "hash": "ac75a25516c77cca792c3be78d79b5e870b2bd18da7f075d6f01500eae6ac6df",
-      "app_version": ">=11.12.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.7.0 [pre-release]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chatexport/chatexport_v2.0__public_beta_.plugin"
-        }
-      }
     },
     {
       "id": "auto_delete",
@@ -10486,23 +10551,6 @@
       ]
     },
     {
-      "id": "log_overlay",
-      "name": "Log Overlay",
-      "author": "@koshbko & fork by @mihailkotovski",
-      "version": "3.1.1",
-      "icon": "Developer/8",
-      "description": "Modern log overlay: draggable card with header actions (pause/copy/clear/close), severity colors, theming, and plugin filtering",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/log_overlay.plugin",
-      "hash": "6fe31ac63ebe6269098ede00b607bda16d1ba79197a48cdb3d128ca7e6b0064b",
-      "app_version": ">=12.0.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "logoverlay",
       "name": "Log Overlay",
       "author": "@RooniPlugin & fork by @luvztroy",
@@ -11614,34 +11662,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "buy_gifts",
-      "name": "Gift",
-      "author": "@mihailkotovski",
-      "version": "2.1 [MORE GIFTS]",
-      "icon": "DMJDuckX/0",
-      "description": "диалог -> три точки -> плагины -> скрытый подарок / профиль -> кнопка подарить подарок (как обычно отправляют гифты)",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/buy_gifts.plugin",
-      "hash": "f260f9d8f4af2a9b387a37449d5348686d251c6da5884534e2f5389087b9ec87",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.0__big_upd_.plugin"
-        },
-        "2.0 [big upd]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.0__fix_.plugin"
-        },
-        "2.0 [fix]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/buy_gifts/buy_gifts_v2.1__MORE_GIFTS_.plugin"
-        }
-      }
     },
     {
       "id": "aes_pushkincrupter",
