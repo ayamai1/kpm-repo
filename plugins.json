@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "translatorplus",
+      "name": "TranslatorPlus",
+      "author": "@xwvux",
+      "version": "1.4.5",
+      "icon": "luvztroyicons/1",
+      "description": "Ultra-fast multi-provider translation for Telegram with in-message support",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/translatorplus.plugin",
+      "hash": "0785db154f536cd2048d2681492f0621216d80e0ec5aa4b0a9175b83d78ca0a0",
+      "app_version": ">=12.2.10",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatorplus/translatorplus.plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatorplus/translatorplus_v1.4.4.plugin"
+        }
+      }
+    },
+    {
       "id": "kangel_plugins_manager",
       "name": "Kangel Plugins Manager",
       "author": "@ArThirtyFour | @KangelPlugins",
@@ -1642,28 +1667,6 @@
       "versions": {
         "4.2.3": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/radio_station/radio_station.plugin"
-        }
-      }
-    },
-    {
-      "id": "translatorplus",
-      "name": "TranslatorPlus",
-      "author": "@xwvux",
-      "version": "1.4.4",
-      "icon": "luvztroyicons/1",
-      "description": "Ultra-fast multi-provider translation for Telegram with in-message support",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/translatorplus.plugin",
-      "hash": "b20764758ceb6a2bc57dccabd587b6d90cbf45ea8a2752ae96baefa4abec4875",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/translatorplus/translatorplus.plugin"
         }
       }
     },
