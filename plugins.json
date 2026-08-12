@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "AI_TG_PLUS",
+      "name": "Telegram AI Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.1",
+      "icon": "pixelcamera/13",
+      "description": "Позволяет для ИИ фишек, такие как редактор и сжатие текста, использовать внешний gemini API, чтобы обойти лимиты ТГ",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AI_TG_PLUS.plugin",
+      "hash": "40be5846223553a49ac57c4c4886c491ffae1e351222d2593538fd0b7dcd81c8",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AI_TG_PLUS/AI_TG_PLUS_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "utilities_pro",
       "name": "UtilitiesPro",
       "author": "@VibeSPluginS; при участии @kvuco и @chestertech; идея: @zwylair",
@@ -514,23 +536,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/femboyaudioscope/femboyaudioscope_v1.0.1.plugin"
         }
       }
-    },
-    {
-      "id": "AI_TG_PLUS",
-      "name": "Telegram AI Plus",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.0",
-      "icon": "pixelcamera/13",
-      "description": "Позволяет для ИИ фишек, такие как редактор и сжатие текста, использовать внешний gemini API, чтобы обойти лимиты ТГ",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AI_TG_PLUS.plugin",
-      "hash": "c8b2c404415e01d51db4c843129539e98966ba1f762a7cac371a6c9c30dfd0f0",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "quotecreate",
