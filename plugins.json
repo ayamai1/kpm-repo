@@ -1,6 +1,53 @@
 {
   "plugins": [
     {
+      "id": "anti_spoiler",
+      "name": "Anti-Spoiler",
+      "author": "@mihailkotovski & @mishabotov",
+      "version": "2.0 [dex]",
+      "icon": "UtyaDuck/57",
+      "description": "автоматически раскрывает текстовые и медиа-спойлеры",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anti_spoiler.plugin",
+      "hash": "27f155ce6e4b0aec543603585f287db8f1c406f04a99b3e2bc06a865c284cd44",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anti_spoiler/anti_spoiler_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "account_age_checker",
+      "name": "Account Age [AAC]",
+      "author": "@mihailkotovski & @mew_help",
+      "version": "5.2 [inline fixes]",
+      "icon": "mishaplugins_by_fStikBot/0",
+      "description": "определяет дату регистрации телеграм-аккаунта",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/account_age_checker.plugin",
+      "hash": "6e535d4305186e689643022accffcb05e4f2469c1df99f2d7793d7667f847e92",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "4.5.0 [api+nft+redesign]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/account_age_checker/account_age_checker_v4.5.0 [api+nft+redesign].plugin"
+        },
+        "5.0 [inline]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/account_age_checker/dateaccount_v5.0_[inline].plugin"
+        }
+      }
+    },
+    {
       "id": "translatorplus",
       "name": "TranslatorPlus",
       "author": "@xwvux",
@@ -7423,28 +7470,6 @@
       ]
     },
     {
-      "id": "account_age_checker",
-      "name": "Account Age [AAC]",
-      "author": "@mihailkotovski & @mew_help",
-      "version": "5.0 [inline]",
-      "icon": "mishaplugins_by_fStikBot/0",
-      "description": "Определяет дату регистрации Telegram-аккаунта",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/dateaccount.plugin",
-      "hash": "1b04acbef3c8da82a93ed40cdfd37cd2abb4b6ee642ef49564eb3e6b84c0227c",
-      "app_version": ">=11.12.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "4.5.0 [api+nft+redesign]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/account_age_checker/account_age_checker_v4.5.0 [api+nft+redesign].plugin"
-        }
-      }
-    },
-    {
       "id": "shimeji",
       "name": "Shimeji",
       "author": "@rei_plugins (@optimist_opti)",
@@ -10960,23 +10985,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.1.2.plugin"
         }
       }
-    },
-    {
-      "id": "anti_spoiler",
-      "name": "Anti-Spoiler",
-      "author": "@mihailkotovski & @mishabotov",
-      "version": "1.0.0",
-      "icon": "UtyaDuck/57",
-      "description": "Automatically removes spoilers from text and media.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anti_spoiler.plugin",
-      "hash": "090d24eebc02b6c2d0b7ff85e9c22bf5e09e705b38930cc47fd9be748bb060f4",
-      "app_version": ">=11.12.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "text_editor",
