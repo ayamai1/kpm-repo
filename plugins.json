@@ -8,7 +8,7 @@
       "icon": "ExerealPlugins/4",
       "description": "Добавляет в Pill Stack дополнительные виджеты с полезной информацией BETA версия, возможны ошибки и баги. Если вы нашли баг, пожалуйста, сообщите о нём разработчику @Exorned",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/pill_stack_plus.eaf",
-      "hash": "71cc62fac0fa09311e57cab3dcc7bc011a038b69ff77abd5ac286639518158e9",
+      "hash": "c4b7e5fe8e9ea710db04495ed13415119fb26bd12f1d4f540c4d38f8a3387231",
       "app_version": ">=12.9.0",
       "tags": [
         [
