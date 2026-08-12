@@ -1,6 +1,37 @@
 {
   "plugins": [
     {
+      "id": "nodisturb",
+      "name": "NoDisturb",
+      "author": "@cobra_S0FT & @excess_plugins",
+      "version": "1.8.7",
+      "icon": "alegquin33/81",
+      "description": "Плагин скрывает профили, сообщения и онлайн-статус выбранных пользователей в Telegram.\nАвтор плагина: @cobra_S0FT\nАвтор идеи: @WneDom",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/nodisturb.plugin",
+      "hash": "c4e5497aa0b366311c9932bde61fe055f649f08934330f88676df8140a7657e5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.8.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.0.plugin"
+        },
+        "1.8.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.3.plugin"
+        },
+        "1.8.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.4.plugin"
+        },
+        "1.8.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.5.plugin"
+        }
+      }
+    },
+    {
       "id": "mute_account",
       "name": "Mute Account",
       "author": "@bober41",
@@ -192,34 +223,6 @@
         },
         "1.5.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.5.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "nodisturb",
-      "name": "NoDisturb",
-      "author": "@cobra_S0FT & @excess_plugins",
-      "version": "1.8.5",
-      "icon": "alegquin33/81",
-      "description": "Ru:\nПлагин скрывает профили, сообщения и онлайн-статус выбранных пользователей в Telegram.\nАвтор идеи: @WneDom\n\nEn:\nThe plugin hides profiles, messages, and online status of selected users in Telegram.\nIdea by: @WneDom",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/nodisturb.plugin",
-      "hash": "0f430a830e48842defd3f19db5c305e87b8a2f2c14715bd88261ed411755618a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.8.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.0.plugin"
-        },
-        "1.8.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.3.plugin"
-        },
-        "1.8.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.4.plugin"
         }
       }
     },
