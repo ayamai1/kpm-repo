@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "mute_account",
+      "name": "Mute Account",
+      "author": "@bober41",
+      "version": "1.0",
+      "icon": "bobrplugins/15",
+      "description": "Плагин отключает push-уведомления и локальные всплытия только для выбранных аккаунтов. @bobrplugins",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/mute_account.plugin",
+      "hash": "e77afbb375ec981e3832e27a2a76be6e99f679c04d72e84ebfc8fd4f64680781",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "all_chats_loader",
+      "name": "All Chats Loader",
+      "author": "@nufxa",
+      "version": "2.0.4",
+      "icon": "exteraPlugins/1",
+      "description": "Безопасно догружает список диалогов через штатный обработчик Telegram.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/all_chats_loader.plugin",
+      "hash": "8967afbd2f35d14dd663412787547f90e756fd7f957e3efd5e0a8b52d0fa059c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "music_uploader",
       "name": "Music Uploader",
       "author": "@Kaktusik_A & AI",
