@@ -1,6 +1,77 @@
 {
   "plugins": [
     {
+      "id": "zwylib",
+      "name": "ZwyLib",
+      "author": "@zwylair",
+      "version": "2.0.8",
+      "icon": "zwyPluginsIcons/0",
+      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
+      "hash": "cf7343dbdb9b9eb689208f3e63a1ce94b0ded19aa9235fde11d5465f2087eaa2",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Library",
+          "key_avatar_backgroundInProfileBlue"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
+        },
+        "2.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
+        },
+        "2.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
+        },
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
+        },
+        "2.0.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.7.plugin"
+        }
+      }
+    },
+    {
+      "id": "text_animation",
+      "name": "Text Animation",
+      "author": "@mihailkotovski & @mishabotov",
+      "version": "10.0",
+      "icon": "DateRegBot_by_MoiStikiBot/18",
+      "description": "оживляет набор текста: буквы мягко появляются, курсор плывёт, а стёртые символы красиво рассыпаются",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/text_animation.plugin",
+      "hash": "9b0754335a414f2724a95a9ad14751d1516e8849438bb4a4c9504d170b5fb47a",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "7.0.0 [Spoilers]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
+        },
+        "8.0 [back]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
+        },
+        "9.0 [beta]": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0_[beta].plugin"
+        }
+      }
+    },
+    {
       "id": "confirm_unpin_all",
       "name": "Confirm Unpin All",
       "author": "@bober41",
@@ -461,31 +532,6 @@
       }
     },
     {
-      "id": "text_animation",
-      "name": "Text Animation",
-      "author": "@mihailkotovski & @mishabotov",
-      "version": "9.0 [beta]",
-      "icon": "DateRegBot_by_MoiStikiBot/18",
-      "description": "текстовые анимации для ввода",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/text_animation.plugin",
-      "hash": "9619ca96902b6e667ef792dd6daa3ef879cc163669aa0b4ef0d7465291422456",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "7.0.0 [Spoilers]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
-        },
-        "8.0 [back]": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
-        }
-      }
-    },
-    {
       "id": "chatexport",
       "name": "Chat Export",
       "author": "@mihailkotovski & @mishabotov",
@@ -658,46 +704,6 @@
         },
         "2.0.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwylib",
-      "name": "ZwyLib",
-      "author": "@zwylair",
-      "version": "2.0.7",
-      "icon": "zwyPluginsIcons/0",
-      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
-      "hash": "5e424a1a34ceb5b9f9c75285a28fbabd04bf7d3eaba8b2f6aeba7f9722964a7c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Library",
-          "key_avatar_backgroundInProfileBlue"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
-        },
-        "1.2.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
-        },
-        "2.0.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
-        },
-        "2.0.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
-        },
-        "2.0.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
-        },
-        "2.0.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
-        },
-        "2.0.6": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
         }
       }
     },
