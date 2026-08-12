@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "text_animation_private_let",
+      "name": "Text Animation (fork)",
+      "author": "@private_let & @TextAnimation · оригинал @mihailkotovski & @mishabotov",
+      "version": "10.0",
+      "icon": "DateRegBot_by_MoiStikiBot/18",
+      "description": "Оживляет набор текста: буквы мягко появляются, курсор плывёт, а стёртые символы красиво рассыпаются",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/text_animation_private_let.plugin",
+      "hash": "e31d17971487651b88547d45b25d05912a602cadfa24dec7c3d00db29b6a3dfd",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "9.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation_private_let/text_animation_private_let.plugin"
+        },
+        "9.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation_private_let/text_animation_private_let-2958f49c_v9.2.plugin"
+        }
+      }
+    },
+    {
       "id": "AI_TG_PLUS",
       "name": "Telegram AI Plus",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -2840,28 +2865,6 @@
         },
         "2.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ExteraRSS/ExteraRSS.plugin"
-        }
-      }
-    },
-    {
-      "id": "text_animation_private_let",
-      "name": "Text Animation (fork)",
-      "author": "@private_let & @TextAnimation · оригинал @mihailkotovski & @mishabotov",
-      "version": "9.2",
-      "icon": "emoji_mini/37",
-      "description": "текстовые анимации для ввода, forked from @mihailkotovski & @mishabotov",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/text_animation_private_let-2958f49c.plugin",
-      "hash": "85ebae30e2cda62c4ee632876146dc77de2c4938ec0ce30de64a83c797391e77",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "9.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/text_animation_private_let/text_animation_private_let.plugin"
         }
       }
     },
