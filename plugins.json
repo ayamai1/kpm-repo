@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "confirm_unpin_all",
+      "name": "Confirm Unpin All",
+      "author": "@bober41",
+      "version": "1.1",
+      "icon": "bobrplugins/16",
+      "description": "Показывает диалог подтверждения после открепления всех сообщений (именно в тот момент когда уведомление с кнопкой отмена пропадает) . @bobrplugins",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/confirm_unpin_all.plugin",
+      "hash": "d2e119e2761be09ed52af512f10be7d0a3f59d4f1b7dfc49268d5bb5129b2c50",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/confirm_unpin_all/confirm_unpin_all_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "hide_forum_topics",
       "name": "Hide Forum Topics",
       "author": "@chestertech",
@@ -374,23 +396,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "confirm_unpin_all",
-      "name": "Confirm Unpin All",
-      "author": "@bober41",
-      "version": "1.0",
-      "icon": "bobrplugins/16",
-      "description": "Показывает диалог подтверждения после уведомления об откреплении всех сообщений (окошко высвечивается только когда уведомление исчезает!). @bobrplugins",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/confirm_unpin_all.plugin",
-      "hash": "8592c1aede367f86c3f0c47edcf6e36969516c7178a1cbc78366ea76ce6b9910",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
