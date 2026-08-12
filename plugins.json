@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "music_uploader",
+      "name": "Music Uploader",
+      "author": "@Kaktusik_A & AI",
+      "version": "2.0.0",
+      "icon": "kaktusik_plug/0",
+      "description": "Кнопка в меню чата и в настройках — выгружает музыку с устройства через кастомный выбор треков (поиск, обложки, выбор всех). 4 режима отправки. Кэширование исправлено: данные чата всегда свежие.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/music_uploader.eaf",
+      "hash": "60f3de10010438bb6dd928dd28ffe64b5b7e6c60461fa0ca6ea49b73cc60e529",
+      "app_version": "2.0.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_uploader/music_uploader_v1.5.eaf"
+        }
+      }
+    },
+    {
       "id": "anti_spoiler",
       "name": "Anti-Spoiler",
       "author": "@mihailkotovski & @mishabotov",
@@ -998,23 +1020,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/chimeranft/chimeranft_v1.0.0.eaf"
         }
       }
-    },
-    {
-      "id": "music_uploader",
-      "name": "Music Uploader",
-      "author": "@Kaktusik_A & AI",
-      "version": "1.5",
-      "icon": "kaktusik_plug/0",
-      "description": "Кнопка в меню чата и в настройках — выгружает музыку с устройства через кастомный выбор треков (поиск, обложки, выбор всех). Режим по умолчанию сохраняется и работает и в настройках, и из меню чата.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/music_uploader.eaf",
-      "hash": "6b9a9f68c26f6a286fbe5c8fa025d1b2eefe304a7e700c04b35b7ac57728bc47",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "timers_stopwatches",
