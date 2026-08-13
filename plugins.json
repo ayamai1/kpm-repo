@@ -1,6 +1,49 @@
 {
   "plugins": [
     {
+      "id": "utilities_pro",
+      "name": "UtilitiesPro",
+      "author": "@VibeSPluginS; при участии @kvuco и @chestertech; идея: @zwylair",
+      "version": "6.0.2",
+      "icon": "UtilitiesProIcons/0",
+      "description": "Понятно сохраняет сведения об обычных пользователях, создаёт безопасные копии и снимает лимиты массовых действий. Боты и «Избранное» не учитываются.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/utilities_pro.eaf",
+      "hash": "6927386a3f320f1a72b34497725ce4727827ed4388ccad077c8953551874337e",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.1.10.plugin"
+        },
+        "1.1.10": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.2.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.2.3.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.4.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.5.0.plugin"
+        },
+        "2.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro.plugin"
+        },
+        "2.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v2.3.2.plugin"
+        },
+        "6.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v6.0.0.eaf"
+        }
+      }
+    },
+    {
       "id": "extended_message_details",
       "name": "Extended Message Details",
       "author": "@thrzxd • @kotilnya",
@@ -165,46 +208,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AI_TG_PLUS/AI_TG_PLUS_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "utilities_pro",
-      "name": "UtilitiesPro",
-      "author": "@VibeSPluginS; при участии @kvuco и @chestertech; идея: @zwylair",
-      "version": "6.0.0",
-      "icon": "UtilitiesProIcons/0",
-      "description": "Понятно сохраняет сведения об обычных пользователях, создаёт безопасные копии и снимает лимиты массовых действий. Боты и «Избранное» не учитываются.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/utilities_pro.eaf",
-      "hash": "381ebadd707f2cc1460c04199f885b6fc7f415323074ecb558ac3e1a1d3a92e6",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.7": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.1.10.plugin"
-        },
-        "1.1.10": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.2.0.plugin"
-        },
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.2.3.plugin"
-        },
-        "1.2.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.4.0.plugin"
-        },
-        "1.5.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v1.5.0.plugin"
-        },
-        "2.3.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro.plugin"
-        },
-        "2.3.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v2.3.2.plugin"
         }
       }
     },
