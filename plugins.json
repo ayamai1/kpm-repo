@@ -1,6 +1,30 @@
 {
   "plugins": [
     {
+      "id": "hide_forum_topics",
+      "name": "Hide Forum Topics",
+      "author": "@chestertech & @useful_plugins",
+      "version": "1.3.1",
+      "description": "Hides selected topics from forums and all notifications from these topics",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/hide_forum_topics.plugin",
+      "hash": "d03f00bce121ad78aa6e567d04d494d9ce56094e5eb7199e1edfdfa0b963c352",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.2.1.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.3.0.plugin"
+        }
+      }
+    },
+    {
       "id": "shareui_dkta_fixed",
       "name": "Don't kill the download! [fixed]",
       "author": "@itNotMax - @MaxExteraPlugins, original: @shareui",
@@ -39,27 +63,6 @@
         },
         "2.3.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/whisper_transcribe_v2.3.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "hide_forum_topics",
-      "name": "Hide Forum Topics",
-      "author": "@chestertech & @useful_plugins",
-      "version": "1.3.0",
-      "description": "Hides selected topics from forums and all notifications from these topics",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/hide_forum_topics.plugin",
-      "hash": "862e674edc91551a6a1574508c5b797547159eb2f662fb4bcbcb7c519941f4fa",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.2.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.2.1.plugin"
         }
       }
     },
