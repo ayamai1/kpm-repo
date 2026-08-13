@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "extended_message_details",
+      "name": "Extended Message Details",
+      "author": "@thrzxd • @kotilnya",
+      "version": "1.0.0",
+      "icon": "dvvsssvd_by_fStikBot/38",
+      "description": "Expands the message details menu with technical metadata. Allows copying full JSON metadata with a long press. Tap 'Details' in the context menu.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/extended_message_details.plugin",
+      "hash": "c3f2d51f73ddd0875df6db4cf5bc2442deec3ca09dbe57d478d011634a9ae83e",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
       "id": "custom_recent_reactions",
       "name": "Custom Recent Reactions",
       "author": "@itNotMax - @MaxExteraPlugins",
