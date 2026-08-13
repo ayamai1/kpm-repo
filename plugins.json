@@ -1,6 +1,93 @@
 {
   "plugins": [
     {
+      "id": "custom_recent_reactions",
+      "name": "Custom Recent Reactions",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.2",
+      "icon": "MaxExteraPluginsStickers/25",
+      "description": "Replace the recent reactions in the message reaction panel with your own set.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
+      "hash": "e7862027cb817cc77e83f50aa8b5f165c45eb5eafd448a0d66db229ed184ec69",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "plugin_update_checker",
+      "name": "Plugin Update Checker",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.2",
+      "icon": "MaxExteraPluginsStickers/24",
+      "description": "Checking for updates for your installed plugins from multiple channels.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
+      "hash": "dac09ddf80e952b5204121cb5a993b14102ccfbc74da0e2f9be426e91cb15d8d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "max_reextera",
+      "name": "MAX re:extera",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.3.52",
+      "icon": "MaxExteraPluginsStickers/22",
+      "description": "Ghost mode, spy features, message filters and more! Fork of famous plugin re:extera",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/max_reextera.plugin",
+      "hash": "de0291c3d3b12f206c7f2f21aa011862d5425f301da8b8f143f63e87bbde1f0a",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.1.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.0.plugin"
+        },
+        "1.3.13": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.13.plugin"
+        },
+        "1.3.14": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.14.plugin"
+        },
+        "1.3.25": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.25.plugin"
+        }
+      }
+    },
+    {
       "id": "meeow_reswaga",
       "name": "reSwaga",
       "author": "@meeowPlugins",
@@ -492,23 +579,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "custom_recent_reactions",
-      "name": "Custom Recent Reactions",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.1",
-      "icon": "MaxExteraPluginsStickers/25",
-      "description": "Replace the recent reactions in the message reaction panel with your own set.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
-      "hash": "70e95d46510ecddd9ba8bb5083d84750491f38341448edd8d10d9879bd20faf5",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
@@ -2257,28 +2327,6 @@
       }
     },
     {
-      "id": "plugin_update_checker",
-      "name": "Plugin Update Checker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.1",
-      "icon": "MaxExteraPluginsStickers/24",
-      "description": "Checking for updates for your installed plugins from multiple channels.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
-      "hash": "7a8d071d06288a4f06835a23e746a76faacb63cc10ef6c317db6ab18513aecc1",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
-        }
-      }
-    },
-    {
       "id": "fix_endpoint_gooey",
       "name": "Notch Fix",
       "author": "@nonPlugins",
@@ -3035,40 +3083,6 @@
         },
         "1.5.82": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.82.plugin"
-        }
-      }
-    },
-    {
-      "id": "max_reextera",
-      "name": "MAX re:extera",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.3.25",
-      "icon": "MaxExteraPluginsStickers/22",
-      "description": "Ghost mode, spy features, message filters and more! Fork of famous plugin re:extera",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/max_reextera.plugin",
-      "hash": "ed2d5e699731bde6d9076b6b8448258f45c0268711bd4b7b34dc43a38a93ec9c",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.1.0.plugin"
-        },
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.0.plugin"
-        },
-        "1.3.13": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.13.plugin"
-        },
-        "1.3.14": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.14.plugin"
         }
       }
     },
