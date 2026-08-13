@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "meeow_reswaga",
+      "name": "reSwaga",
+      "author": "@meeowPlugins",
+      "version": "2.0.0",
+      "icon": "remusic/7",
+      "description": "Плагин для отправки карточек и аудиофайлов треков что вы сейчас слушаете",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/meeow_reswaga.eaf",
+      "hash": "63cbf16b2959325d265b3ad52087553a3203e6027fd800d7d98bb555ae5455cf",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "text_animation_private_let",
       "name": "Text Animation (fork)",
       "author": "@private_let & @TextAnimation · оригинал @mihailkotovski & @mishabotov",
