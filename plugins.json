@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "whisper_transcribe",
+      "name": "Transcriber",
+      "author": "@ginqusPlugins",
+      "version": "2.3.1",
+      "icon": "ginqusExteraPlugins/1",
+      "description": "Replaces Telegram's transcription service with free state-of-the-art alternatives.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/whisper_transcribe.plugin",
+      "hash": "d118fd42222bbdd82cc29b83c77329b0cd1a6f86cff570d98886fac4192259c2",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "2.2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/transcriber_v2.2.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/whisper_transcribe_v2.3.0.plugin"
+        }
+      }
+    },
+    {
       "id": "hide_forum_topics",
       "name": "Hide Forum Topics",
       "author": "@chestertech & @useful_plugins",
@@ -973,28 +998,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/auto_marquee/auto_marquee_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "whisper_transcribe",
-      "name": "Transcriber",
-      "author": "@ginqusPlugins",
-      "version": "2.3.0",
-      "icon": "ginqusExteraPlugins/1",
-      "description": "Replaces Telegram's transcription service with free state-of-the-art alternatives.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/whisper_transcribe.plugin",
-      "hash": "913cea12df376ab132a63821ca9f7e395cc5c7b18acb5451ff25d40499bc5ee2",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "2.2.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/transcriber_v2.2.0.plugin"
         }
       }
     },
