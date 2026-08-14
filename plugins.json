@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "music_uploader",
+      "name": "Music Uploader",
+      "author": "@Kaktusik_A & AI",
+      "version": "2.0.0",
+      "icon": "kaktusik_plug/0",
+      "description": "Кнопка в меню чата и в настройках — выгружает музыку с устройства через кастомный выбор треков (поиск, обложки, выбор всех). 4 режима отправки. Кэширование исправлено: данные чата всегда свежие.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/music_uploader.eaf",
+      "hash": "609df637f16b7f7111b528e160b03b4bb030c47347d109ea7838e7b38f19e5d4",
+      "app_version": "2.0.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_uploader/music_uploader_v1.5.eaf"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_uploader/music_uploader_v2.0.0.eaf"
+        }
+      }
+    },
+    {
       "id": "meeow_reswaga",
       "name": "reSwaga",
       "author": "@meeowPlugins",
@@ -495,28 +520,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "music_uploader",
-      "name": "Music Uploader",
-      "author": "@Kaktusik_A & AI",
-      "version": "2.0.0",
-      "icon": "kaktusik_plug/0",
-      "description": "Кнопка в меню чата и в настройках — выгружает музыку с устройства через кастомный выбор треков (поиск, обложки, выбор всех). 4 режима отправки. Кэширование исправлено: данные чата всегда свежие.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/music_uploader.eaf",
-      "hash": "60f3de10010438bb6dd928dd28ffe64b5b7e6c60461fa0ca6ea49b73cc60e529",
-      "app_version": "2.0.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/music_uploader/music_uploader_v1.5.eaf"
-        }
-      }
     },
     {
       "id": "anti_spoiler",
