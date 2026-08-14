@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "meeow_reswaga",
+      "name": "reSwaga",
+      "author": "@meeowPlugins",
+      "version": "2.0.1",
+      "icon": "remusic/7",
+      "description": "Плагин для отправки карточек и аудиофайлов треков что вы сейчас слушаете",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/meeow_reswaga.eaf",
+      "hash": "67bbbf1e443c8720867bc4ee3cf37f90b5d8ebc169f410456c9b737c898624d7",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/meeow_reswaga/meeow_reswaga_v2.0.0.eaf"
+        }
+      }
+    },
+    {
       "id": "read_all",
       "name": "Read All",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -246,23 +268,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
         }
       }
-    },
-    {
-      "id": "meeow_reswaga",
-      "name": "reSwaga",
-      "author": "@meeowPlugins",
-      "version": "2.0.0",
-      "icon": "remusic/7",
-      "description": "Плагин для отправки карточек и аудиофайлов треков что вы сейчас слушаете",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/meeow_reswaga.eaf",
-      "hash": "63cbf16b2959325d265b3ad52087553a3203e6027fd800d7d98bb555ae5455cf",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "text_animation_private_let",
