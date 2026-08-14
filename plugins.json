@@ -1,6 +1,37 @@
 {
   "plugins": [
     {
+      "id": "read_all",
+      "name": "Read All",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.10",
+      "icon": "MaxExteraPluginsStickers/0",
+      "description": "Добавляет кнопку «Прочитать всё»: по нажатию все сообщения помечаются как прочитанные.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/read_all.plugin",
+      "hash": "c8922a3ff706473dc71422a48c6e849c6d024ec4013f28dd608e0fb90e584670",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.0.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.2_1.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.5.plugin"
+        }
+      }
+    },
+    {
       "id": "hide_forum_topics",
       "name": "Hide Forum Topics",
       "author": "@chestertech & @useful_plugins",
@@ -654,34 +685,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "read_all",
-      "name": "Read All",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.5",
-      "icon": "MaxExteraPluginsStickers/0",
-      "description": "Добавляет кнопку «Прочитать всё»: по нажатию все сообщения помечаются как прочитанные.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/read_all.plugin",
-      "hash": "74f501b1785a3a94fbe9dbc965c86dc357b9ab25b4be3829bc938782dae575ae",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.0.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.2_1.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.4.plugin"
-        }
-      }
     },
     {
       "id": "svg_inline",
