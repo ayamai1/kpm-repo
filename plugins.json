@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "nodisturb",
+      "name": "NoDisturb",
+      "author": "@cobra_S0FT & @excess_plugins",
+      "version": "1.9.1",
+      "icon": "alegquin33/81",
+      "description": "Плагин скрывает профили, сообщения и онлайн-статус выбранных пользователей в Telegram.\nАвтор плагина: @cobra_S0FT | Автор идеи: @WneDom\n\nТребования: Zwylib и MandreLib",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/nodisturb.plugin",
+      "hash": "ca19136342467d06e8db3c626572e6b6bad6e8039ac8a86bce21b67b6efcbe06",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.8.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.0.plugin"
+        },
+        "1.8.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.3.plugin"
+        },
+        "1.8.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.4.plugin"
+        },
+        "1.8.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.5.plugin"
+        },
+        "1.8.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.7.plugin"
+        }
+      }
+    },
+    {
       "id": "flappy_bird_game",
       "name": "Flappy Bird",
       "author": "@souItag & @soulplugins",
@@ -450,37 +484,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/confirm_unpin_all/confirm_unpin_all_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "nodisturb",
-      "name": "NoDisturb",
-      "author": "@cobra_S0FT & @excess_plugins",
-      "version": "1.8.7",
-      "icon": "alegquin33/81",
-      "description": "Плагин скрывает профили, сообщения и онлайн-статус выбранных пользователей в Telegram.\nАвтор плагина: @cobra_S0FT\nАвтор идеи: @WneDom",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/nodisturb.plugin",
-      "hash": "c4e5497aa0b366311c9932bde61fe055f649f08934330f88676df8140a7657e5",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.8.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.0.plugin"
-        },
-        "1.8.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.3.plugin"
-        },
-        "1.8.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.4.plugin"
-        },
-        "1.8.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/nodisturb/nodisturb_v1.8.5.plugin"
         }
       }
     },
