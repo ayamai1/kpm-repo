@@ -1,40 +1,6 @@
 {
   "plugins": [
     {
-      "id": "anixart_plugin",
-      "name": "Anixart",
-      "author": "@bober41",
-      "version": "1.5",
-      "icon": "bobrplugins/0",
-      "description": "Anixart. Поиск и просмотр аниме, случайный релиз, инфо по ID, списки, профиль, жанры, отслеживание серий, просмотр. @bobrplugins",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anixart_plugin.plugin",
-      "hash": "5f54b10eb8eece67dfaaa38ed769edc03882b3fee1f243634412696730bdcda4",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin.plugin"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.0.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.4.plugin"
-        }
-      }
-    },
-    {
       "id": "music_uploader",
       "name": "Music Uploader",
       "author": "@Kaktusik_A & AI",
@@ -139,7 +105,7 @@
     {
       "id": "shareui_dkta_fixed",
       "name": "Don't kill the download! [fixed]",
-      "author": "@itNotMax - @MaxExteraPlugins, original: @shareui",
+      "author": "@itNotMax - @MaxExteraPlugins, original: @homewatcha",
       "version": "1.9",
       "icon": "MaxExteraPluginsStickers/27",
       "description": "[fixed by @maxExteraPlugins] Continues downloading files in the background when exiting the chat.",
@@ -1724,6 +1690,37 @@
       }
     },
     {
+      "id": "anixart_plugin",
+      "name": "Anixart",
+      "author": "@bober41",
+      "version": "1.4",
+      "icon": "bobrplugins/0",
+      "description": "Anixart. Поиск и просмотр аниме, случайный релиз, инфо по ID, списки, профиль, жанры, отслеживание серий, просмотр. @bobrplugins",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anixart_plugin.plugin",
+      "hash": "443181d130433d991d1a5d2103d754b7136851d96ffa2740238109ae411e0073",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.0.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.3.plugin"
+        }
+      }
+    },
+    {
       "id": "modular_sections",
       "name": "Modular Sections",
       "author": "@RnPlugins",
@@ -2812,7 +2809,7 @@
     {
       "id": "bot_login",
       "name": "Bot Login",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.5",
       "icon": "PISUN424242/9",
       "description": "Log in to bot accounts using their API token.\nUse plugin settings or open the login page, tap the three-dot menu, and choose \"Log in as bot\".",
@@ -3187,7 +3184,7 @@
     {
       "id": "accounts_limit_16",
       "name": "16 Accounts",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "PremiumGifts/23",
       "description": "Raises the account limit to 16.",
@@ -3292,7 +3289,7 @@
     {
       "id": "local_gift_hider",
       "name": "Local Gift Hider",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.1.4",
       "icon": "Jingliunation_by_fStikBot/93",
       "description": "Locally hide gifts from your profile.",
@@ -3793,7 +3790,7 @@
     {
       "id": "floating_attach_button",
       "name": "Floating Attach Button",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "ayu_gram/1",
       "description": "Moves the attach button to a floating button while typing.",
@@ -4050,7 +4047,7 @@
     {
       "id": "pacman_archive_chance",
       "name": "Pac-Man Archive Chance",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "emojisdoidos/80",
       "description": "Controls the chance of the hidden Pac-Man archive animation.",
@@ -4089,7 +4086,7 @@
     {
       "id": "ayu_rofls",
       "name": "Ayu Rofls",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.1",
       "icon": "ayu_gram/17",
       "description": "Adds AyuGram rofl links support.",
@@ -4111,7 +4108,7 @@
     {
       "id": "mirror",
       "name": "Mirror",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.0.5",
       "icon": "zelenkaguru/7",
       "description": "Automatically copy messages between Telegram conversations.",
@@ -4133,7 +4130,7 @@
     {
       "id": "wide_posts",
       "name": "Wide Posts",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "Linganguli123_by_fStikBot/14",
       "description": "Expands channel posts.",
@@ -4736,7 +4733,7 @@
     {
       "id": "RFS",
       "name": "Remove Flag Secure",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.1",
       "icon": "kvucoplugins/0",
       "description": "Allows you to take screenshots of «one-time» content, secret chats, channels with a copy ban.",
@@ -5017,27 +5014,6 @@
       }
     },
     {
-      "id": "shareui_vanillamusicplayer",
-      "name": "Vanilla Music Player",
-      "author": "@shareui(@doctashare)",
-      "version": "1.0.4",
-      "description": "Replaces the exteraGram music player in profiles with the original Telegram player [only for exteraGram Beta 12.4.1]",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_vmp.plugin",
-      "hash": "ef6825008cdd2c36da4c79b95ee8fc2dbc05511479a6ba1527c7ae9f546bc7ea",
-      "app_version": ">=12.4.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shareui_vanillamusicplayer/shareui_vanillamusicplayer_v1.0.0.plugin"
-        }
-      }
-    },
-    {
       "id": "forwards",
       "name": "Forwards",
       "author": "@PESSDES_Plugins",
@@ -5184,7 +5160,7 @@
     {
       "id": "no_ayu_rofls",
       "name": "No Ayu Rofls",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.2",
       "icon": "pk_5101869_by_Ctikerubot/3",
       "description": "Disables AyuGram joke links.",
@@ -5206,7 +5182,7 @@
     {
       "id": "readall",
       "name": "Read All",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "kvucoplugins/2",
       "description": "Adds a «Read all» button to the drawer.",
@@ -6193,7 +6169,7 @@
     {
       "id": "AdBlock",
       "name": "AdBlock",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.1",
       "icon": "SpottyAnimated/47",
       "description": "Hides ads in Telegram.",
@@ -6740,7 +6716,7 @@
     {
       "id": "shareui_dkta",
       "name": "Don't kill the download![DKTA]",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "1.0.0",
       "description": "Continues downloading files in the background when exiting the chat.",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_dkta.plugin",
@@ -6778,7 +6754,7 @@
     {
       "id": "shareui_shareui",
       "name": "ShareUI",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "1.0.0",
       "description": "And... no, this is not just my nickname. **Replaces system share with Telegram ShareAlert when sharing plugins in PluginCell** [Client restart required]",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_shareui.plugin",
@@ -7093,7 +7069,7 @@
     {
       "id": "shareui_fservice",
       "name": "Foreground service",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "1.3.1",
       "description": "Ensures reliable background notifications **on Chinese ROM**. \n**Only for exteraGram!**",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_fservice.plugin",
@@ -7117,7 +7093,7 @@
     {
       "id": "shareui_efch",
       "name": "exteraFetch",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "1.2.0",
       "icon": "miyabiZZZ/1",
       "description": "displays sys info [.efch] or a interface in the plugin settings",
@@ -7418,7 +7394,7 @@
     {
       "id": "shareui_bettersearch",
       "name": "Better Search",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "2.0.1",
       "icon": "AgnesTachyon/1",
       "description": "Significantly improves search in the plugin list. Library source code: [shareui/plugins/assets/bettersearch.c](https://github.com/shareui/plugins/blob/main/assets/bettersearch.c)",
@@ -7597,7 +7573,7 @@
     {
       "id": "shareui_advcalc",
       "name": "Advanced Calculator",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "2.0.0",
       "icon": "plugin232/1",
       "description": "**Advanced math, BMI, Currency, etc.**\n[Documentation](https://github.com/shareui/plugins/blob/main/assets/advcalcdocs.md)",
@@ -9733,7 +9709,7 @@
     {
       "id": "shareui_exteragit",
       "name": "exteraGit",
-      "author": "@shareui",
+      "author": "@homewatcha",
       "version": "1.0.0 realease",
       "icon": "plugin232/10",
       "description": "Search GitHub and GitLab resources. Commands in the plugin settings.",
@@ -9750,7 +9726,7 @@
     {
       "id": "Cherry_Badges",
       "name": "Cherry Badges",
-      "author": "@kvucoPlugins, @logicPlugins",
+      "author": "@anivplugins, @logicPlugins",
       "version": "1.0",
       "icon": "cherrybadges/0",
       "description": "Integration of Cherrygram badges into exteraGram.",
@@ -10160,7 +10136,7 @@
     {
       "id": "shareui_frel",
       "name": "Exit process[MEMORY LEAKS]",
-      "author": "@shareui",
+      "author": "@homewatcha",
       "version": "1.0.0",
       "icon": "EllenZZZ/1",
       "description": "Adds quick app restart button to side menu\n\nДобавляет кнопку быстрого перезапуска приложения в боковое меню",
@@ -10851,7 +10827,7 @@
     {
       "id": "shareui_sh",
       "name": "Shell Executor",
-      "author": "@shareui(@doctashare)",
+      "author": "@homewatcha",
       "version": "1.1.1",
       "icon": "plugin232/5",
       "description": "Execute shell commands and subprocesses [.sh/.sproc]\n Usage: [link](https://t.me/fuchslog/527)",
@@ -11277,7 +11253,7 @@
     {
       "id": "shareui_exterium",
       "name": "Exterium Reborn",
-      "author": "@shareui",
+      "author": "@homewatcha",
       "version": "1.1.0",
       "icon": "plugin232/6",
       "description": "Minor optimization: When the app is in the background, it disables plugins and enables them upon login. [You can add exceptions by ID.]",
@@ -11333,7 +11309,7 @@
     {
       "id": "no_proxy_sponsor",
       "name": "No Proxy Sponsor",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "kvucoplugins/3",
       "description": "Hides proxy sponsor channel.",
@@ -11494,7 +11470,7 @@
     {
       "id": "ReadAllButton",
       "name": "Read all",
-      "author": "@kvucoplugins",
+      "author": "@anivplugins",
       "version": "1.0",
       "icon": "kvucoplugins/2",
       "description": "Adds a «Read all» button to the side menu.",
@@ -11511,7 +11487,7 @@
     {
       "id": "sans_fight",
       "name": "Sans Fight",
-      "author": "@kvucoPlugins",
+      "author": "@anivplugins",
       "version": "game",
       "icon": "SansUndertalePack/0",
       "description": "Do you wanna have a bad time?\nSend .sans or launch the game via the side menu",
@@ -12004,7 +11980,7 @@
     {
       "id": "shareui_accountunread",
       "name": "Account Unread Badge",
-      "author": "@shareui",
+      "author": "@homewatcha",
       "version": "1.0.0",
       "description": "Shows unread (non-muted) notifications count in account switcher",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_accountunread.plugin",
