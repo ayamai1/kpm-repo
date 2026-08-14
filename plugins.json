@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "flappy_bird_game",
+      "name": "Flappy Bird",
+      "author": "@souItag & @soulplugins",
+      "version": "2.0",
+      "icon": "pack_1_10737418241_7085307553_by_sticker_bot/27",
+      "description": "Легендарная Flappy Bird прямо в клиенте.\nОтправь .flappy или запусти через боковое меню.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/flappy_bird_game.plugin",
+      "hash": "aafdfc569cd5d3db5eb0c566253dac592575b16f027a555d728464b7e2880490",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/flappy_bird_game/flappy_bird_game_v1.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "music_uploader",
       "name": "Music Uploader",
       "author": "@Kaktusik_A & AI",
@@ -1525,23 +1547,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "flappy_bird_game",
-      "name": "Flappy Bird",
-      "author": "@souItag",
-      "version": "1.1.0",
-      "icon": "pack_1_10737418241_7085307553_by_sticker_bot/27",
-      "description": "Легендарная Flappy Bird прямо в клиенте.\nОтправь .flappy или запусти через боковое меню.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/flappy_bird_game.plugin",
-      "hash": "84226a5b79709fa85196520bd41ec54f27da71ea5e7d5ceea5a84b79cc9e759f",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
