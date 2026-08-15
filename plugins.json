@@ -1,6 +1,45 @@
 {
   "plugins": [
     {
+      "id": "extended_message_details",
+      "name": "Extended Message Details",
+      "author": "@thrzxd • @kotilnya",
+      "version": "1.0.1",
+      "icon": "dvvsssvd_by_fStikBot/38",
+      "description": "Expands the message details menu with technical metadata. Allows copying full JSON metadata with a long press. Tap 'Details' in the context menu.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/extended_message_details.plugin",
+      "hash": "9e17d3c24ed9171c726b9fdf4938f97b71852fcf459e6f44992d5688bc6ea4ee",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/extended_message_details/extended_message_details_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "nowfylite",
+      "name": "Nowfy Lite",
+      "author": "@AGeekApple",
+      "version": "1.0.0",
+      "icon": "ApplePackage/6",
+      "description": "Nowfy Lite, простой мониторинг музыки",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/nowfylite.eaf",
+      "hash": "7d5eeb997b58db382ce2ce319f5a52c62b12cbc3935f072f70fcc4d6dad9bad4",
+      "app_version": ">=12.2.10",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "nodisturb",
       "name": "NoDisturb",
       "author": "@cobra_S0FT & @excess_plugins",
@@ -437,23 +476,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v6.0.0.eaf"
         }
       }
-    },
-    {
-      "id": "extended_message_details",
-      "name": "Extended Message Details",
-      "author": "@thrzxd • @kotilnya",
-      "version": "1.0.0",
-      "icon": "dvvsssvd_by_fStikBot/38",
-      "description": "Expands the message details menu with technical metadata. Allows copying full JSON metadata with a long press. Tap 'Details' in the context menu.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/extended_message_details.plugin",
-      "hash": "c3f2d51f73ddd0875df6db4cf5bc2442deec3ca09dbe57d478d011634a9ae83e",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ]
     },
     {
       "id": "custom_recent_reactions",
