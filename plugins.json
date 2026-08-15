@@ -1,6 +1,50 @@
 {
   "plugins": [
     {
+      "id": "scam_marker",
+      "name": "Scam Marker",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "2.1",
+      "icon": "MaxExteraPluginsStickers/18",
+      "description": "Помечает распространителей вредоносных плагинов: красная метка в профиле, красный ник в списке чатов и в чате.\n\nБаза автоматически загружается из @exteragram_pidors.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/scam_marker.plugin",
+      "hash": "931d7f238f4f79e47948171173fc65e049f1b0ba711f059531b1f311048a6677",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/scam_marker/scam_marker_v2.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "tgws",
+      "name": "TG-WS",
+      "author": "@la_cringe | @dmkrjplug",
+      "version": "2.0",
+      "icon": "ResistanceDog/24",
+      "description": "Read the name",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/tgws.plugin",
+      "hash": "71e26cdfd1ee0574bc4230c7785e5a8ed1c14a46aabba2ddaf45d66e3d949dfb",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tgws/tgws_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "voice_timing",
       "name": "Voice Timing",
       "author": "@itskotovski & @mishabotov",
@@ -5393,23 +5437,6 @@
       }
     },
     {
-      "id": "scam_marker",
-      "name": "Scam Marker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.0",
-      "icon": "MaxExteraPluginsStickers/9",
-      "description": "Помечает распространителей вредоносных плагинов.\nДанные из [@exteragram_pidors](https://t.me/exteragram_pidors).",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/scam_marker.plugin",
-      "hash": "99ace5a9f4dc711217533232032b5de395d688c950adb36335985e4f3aefe7d0",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "iconmover",
       "name": "Icon Mover",
       "author": "@Darksourse399, @logicPlugins",
@@ -6523,23 +6550,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/burmalda_blocker/burmalda_blocker_v2.0.0.plugin"
         }
       }
-    },
-    {
-      "id": "tgws",
-      "name": "TG-WS",
-      "author": "@la_cringe | @dmkrjplug",
-      "version": "1.0",
-      "icon": "ResistanceDog/24",
-      "description": "Read the name",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/tgws.plugin",
-      "hash": "4824447a34e3749699ec26d318e9f7ed2ca190e826f46ab2ebb48378218b6d0e",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "voice-to-text",
