@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "shareui_sdkinstaller",
+      "name": "Installer",
+      "author": "@shareui",
+      "version": "2.0.0",
+      "description": "Select a file and install it: exteraGram SDK or elyxcore plugin",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_sdkinstaller.plugin",
+      "hash": "c3f0f4de0a060706a0cda66c2111c438769c54fced0b5808a1459a27fce92ba1",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "unlinked_stickers",
       "name": "Unlinked Stickers",
       "author": "@itNotMax - @MaxExteraPlugins",
