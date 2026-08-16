@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "AI_TG_PLUS",
+      "name": "Telegram AI Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.2",
+      "icon": "pixelcamera/13",
+      "description": "Позволяет для ИИ фишек (редактор, сжатие текста) использовать Gemini, OpenAI и кастом API эндпоинты",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AI_TG_PLUS.plugin",
+      "hash": "7e53175be3891d550d3514127b5e37d2daf43fb19e32c0372b5ee2201bc21d64",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AI_TG_PLUS/AI_TG_PLUS_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AI_TG_PLUS/AI_TG_PLUS_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "shareui_sdkinstaller",
       "name": "Installer",
       "author": "@shareui",
@@ -577,28 +602,6 @@
         },
         "1.1": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "AI_TG_PLUS",
-      "name": "Telegram AI Plus",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.1",
-      "icon": "pixelcamera/13",
-      "description": "Позволяет для ИИ фишек, такие как редактор и сжатие текста, использовать внешний gemini API, чтобы обойти лимиты ТГ",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AI_TG_PLUS.plugin",
-      "hash": "40be5846223553a49ac57c4c4886c491ffae1e351222d2593538fd0b7dcd81c8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AI_TG_PLUS/AI_TG_PLUS_v1.0.plugin"
         }
       }
     },
