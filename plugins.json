@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "sync_powersaver",
+      "name": "Powersaver Sync",
+      "author": "@nonPlugins",
+      "version": "2.0",
+      "icon": "nonPlugins/1",
+      "description": "Synchronizes Telegram's power saving mode with system ones",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/sync_powersaver.plugin",
+      "hash": "a95f1b45fe2b518d85bef3767008b5248acf880acaf51db97e89d4598b214293",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sync_powersaver/sync_powersaver_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "AI_TG_PLUS",
       "name": "Telegram AI Plus",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -3596,23 +3618,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/memory_monitor_pro/memory_monitor_pro.plugin"
         }
       }
-    },
-    {
-      "id": "sync_powersaver",
-      "name": "Powersaver Sync",
-      "author": "@nonPlugins",
-      "version": "1.0",
-      "icon": "nonPlugins/1",
-      "description": "Synchronizes Telegram's power saving mode with system ones",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/sync_powersaver.plugin",
-      "hash": "a7dd538a3521216ab6aae54aae69f1152514611a79ba3c89833907f6dd01d900",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "itt",
