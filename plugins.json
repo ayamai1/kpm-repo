@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "unlinked_stickers",
+      "name": "Unlinked Stickers",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.0",
+      "icon": "MaxExteraPluginsStickers/26",
+      "description": "Send stickers from any pack as your own uploaded documents, detached from the original sticker set. Works with static (webp), animated (tgs) and video (webm) stickers.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/unlinked_stickers.plugin",
+      "hash": "3aaa472389ef36ecee754e08bd62d941a0d1ecb04cf354f72417703b5845870a",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "game_stat_informer",
       "name": "Game Stat Informer",
       "author": "@Tapokdurachek",
