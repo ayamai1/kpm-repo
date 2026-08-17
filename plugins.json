@@ -1,6 +1,55 @@
 {
   "plugins": [
     {
+      "id": "custom_profile",
+      "name": "Custom Profile",
+      "author": "@RoflPlugins",
+      "version": "1.7",
+      "icon": "RoflPlugins/18",
+      "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_profile.plugin",
+      "hash": "ed6468021132b2e97ea1105a368f6935fdef6a03b2035a453b9f3e76cf65f9f8",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.1.plugin"
+        },
+        "1.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.2.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.plugin"
+        },
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.1.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.1.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.1.plugin"
+        }
+      }
+    },
+    {
       "id": "AtmosFX",
       "name": "AtmosFX",
       "author": "~GRED~(@GREDpl)",
@@ -1846,52 +1895,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "custom_profile",
-      "name": "Custom Profile",
-      "author": "@RoflPlugins",
-      "version": "1.6.1",
-      "icon": "RoflPlugins/18",
-      "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_profile.plugin",
-      "hash": "86912ffd9463404c78afac3fedac731458d0aac9a56ff4f32825428c9971144c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.plugin"
-        },
-        "1.3.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.1.plugin"
-        },
-        "1.3.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.2.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.plugin"
-        },
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.1.plugin"
-        },
-        "1.5.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.1.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.plugin"
-        }
-      }
     },
     {
       "id": "boykisser_meow",
