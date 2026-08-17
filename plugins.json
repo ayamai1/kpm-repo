@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "AtmosFX",
+      "name": "AtmosFX",
+      "author": "~GRED~(@GREDpl)",
+      "version": "2.0",
+      "icon": "exteraPlugins/0",
+      "description": "Замена снега на эмодзи. (форк snowflakes от @swagnoher + пресеты от @anivPluginsс с большим функционалом) ",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AtmosFX.plugin",
+      "hash": "2e6bf09139bb732b5a0b88c1162f1415c99e9c1ba7367aed66527de45a3b5085",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/AtmosFX/AtmosFX_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "sync_powersaver",
       "name": "Powersaver Sync",
       "author": "@nonPlugins",
@@ -7061,23 +7083,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_drawer/plugin_drawer_v1.0.0.plugin"
         }
       }
-    },
-    {
-      "id": "AtmosFX",
-      "name": "AtmosFX",
-      "author": "~GRED~",
-      "version": "1.0.0",
-      "icon": "exteraPlugins/0",
-      "description": "Замена снега на эмодзи. (по сути это форк snowflakes от @swagnoher но переделан под новые версии + с большим функционалом) ",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/AtmosFX.plugin",
-      "hash": "c4351432dba938eb12d23477fd7921e018daf0ef48620bcc3bc434d1dffab0b9",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "asciigenerator",
