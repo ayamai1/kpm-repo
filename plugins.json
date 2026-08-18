@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "hide_feed_ads",
+      "name": "Hide Feed Ads",
+      "author": "@rezolvePlugins",
+      "version": "1.0",
+      "description": "Hides promotional posts inserted into the feed.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/hide_feed_ads.plugin",
+      "hash": "7be4141393101716f0f8304d8ec411e548b6031715fffd5d22b492e551a4c562",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "sticker_bar",
       "name": "Sticker_bar",
       "author": "@demitrovsky",
