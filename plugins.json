@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "wiki_search",
+      "name": "Wikipedia Search Fixed",
+      "author": "@exteraDev, fixed by @Slowmyy",
+      "version": "2.5",
+      "icon": "exteraDevPlugins/1",
+      "description": "Поиск .wiki [term] с выбором языка из всех доступных",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/wiki_search.plugin",
+      "hash": "8837a1b728634b70bdc1bb19da26c85b1b6b3925a4ee51eca2dc6206a2d50563",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "unknown": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.4.plugin"
+        }
+      }
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
@@ -2571,31 +2599,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "wiki_search",
-      "name": "Wikipedia Search Fixed",
-      "author": "@exteraDev, fixed by @Slowmyy",
-      "version": "2.4",
-      "icon": "exteraDevPlugins/1",
-      "description": "Поиск .wiki [term] с выбором языка из всех доступных",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/wiki_search.plugin",
-      "hash": "2fd4fb33fed3e0aa89801f5d6cb0df3bbd6082a01802116b85963d503d1f20aa",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "unknown": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
-        }
-      }
     },
     {
       "id": "custom_snow",
