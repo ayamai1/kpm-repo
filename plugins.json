@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "plugin_update_checker",
+      "name": "Plugin Update Checker",
+      "author": "@itNotMax - @MaxExteraPlugins & @AlexeiCrystal",
+      "version": "1.4",
+      "icon": "MaxExteraPluginsStickers/24",
+      "description": "Checking for updates for your installed plugins from multiple channels.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
+      "hash": "47c2c1c5e34fdfa108a59d9696b0d12850546a25a79453038f17a9dfa24aac67",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
+        }
+      }
+    },
+    {
       "id": "wiki_search",
       "name": "Wikipedia Search Fixed",
       "author": "@exteraDev, fixed by @Slowmyy",
@@ -753,31 +781,6 @@
         },
         "1.2": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "plugin_update_checker",
-      "name": "Plugin Update Checker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.2",
-      "icon": "MaxExteraPluginsStickers/24",
-      "description": "Checking for updates for your installed plugins from multiple channels.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
-      "hash": "dac09ddf80e952b5204121cb5a993b14102ccfbc74da0e2f9be426e91cb15d8d",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
         }
       }
     },
