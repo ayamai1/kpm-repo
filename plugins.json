@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "material_settings_list",
+      "name": "MaterialSettingsList",
+      "author": "@zwylair",
+      "version": "1.0.0",
+      "icon": "zwyPluginsIcons/8",
+      "description": "Redesigns main settings list to match material concepts.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/material_settings_list.plugin",
+      "hash": "b419e29c721da473a4a162f64e60da52e345a434f7909a2c4c6617eff4e71647",
+      "app_version": ">=12.4.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "anixart_plugin",
       "name": "Anixart",
       "author": "@bober41",
