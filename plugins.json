@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "fast_answers",
+      "name": "Fast Answers",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.0",
+      "icon": "MaxExteraPluginsStickers/28",
+      "description": "Fast answers for chats: start typing a message and a panel with ready answers appears above the keyboard.\n\nБыстрые ответы в чате: начните писать сообщение — над клавиатурой появится панель с готовыми ответами.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/fast_answers.plugin",
+      "hash": "04be09635431647ac191937cb9e9a325319563fa07d8339942212aca1f77970c",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "browser_shortcut",
       "name": "Browser Shortcut",
       "author": "Е-бать",
