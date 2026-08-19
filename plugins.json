@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "browser_shortcut",
+      "name": "Browser Shortcut",
+      "author": "Е-бать",
+      "version": "1.2",
+      "icon": "NE_SMOTRI_SYUDA81/1",
+      "description": "Создайте ярлык на главном экране с пользовательским именем и значком, который будет открывать URL-адрес во встроенном браузере приложения.\n\nCreate a home screen shortcut with a custom name and icon that opens a URL in the client's in-app browser",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/browser_shortcut.plugin",
+      "hash": "c66b98caf89d889a62881efe41db2a9ea9ad8d29bb1f86299680919308e2e3d3",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "hide_feed_ads",
       "name": "Hide Feed Ads",
       "author": "@rezolvePlugins",
