@@ -1,6 +1,27 @@
 {
   "plugins": [
     {
+      "id": "gifter_avatar",
+      "name": "Gifter Avatar",
+      "author": "@alexeykasp",
+      "version": "1.2.1",
+      "description": "Отображает аватар подарившего подарок в меню добавления подарков в коллекцию\nПрямо как в профиле. По удержанию на подарке открывается меню подарка",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/gifter_avatar.plugin",
+      "hash": "b07b96099d3391f267aa73ffbb8c9fb06c9abfc6040188bb51cc6ae105e3a0a4",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/gifter_avatar/gifter_avatar_v1.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "material_settings_list",
       "name": "MaterialSettingsList",
       "author": "@zwylair",
@@ -1885,22 +1906,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/local_pin/local_pin_v1.6.0.plugin"
         }
       }
-    },
-    {
-      "id": "gifter_avatar",
-      "name": "Gifter Avatar",
-      "author": "@alexeykasp",
-      "version": "1.0.1",
-      "description": "Отображает аватар подарившего подарок в меню добавления подарков в коллекцию\nПрямо как в профиле",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/gifter_avatar.plugin",
-      "hash": "b29f788c316feb62e9ed94f179d489081fb6ed148fe11341c4723e1c18d98583",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "privacy_firewall",
