@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "topic_reopen_menu",
+      "name": "Topic Reopen in Menu",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/19",
+      "description": "Скрывает раздражающую кнопку «Возобновить тему» и переносит открытие темы в меню «три точки».",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/topic_reopen_menu.plugin",
+      "hash": "fa968dcb42da3dd8e9541f015e65b955be4b16c617953e74518a91c06f852c50",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "gifter_avatar",
       "name": "Gifter Avatar",
       "author": "@alexeykasp",
