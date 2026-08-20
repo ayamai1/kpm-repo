@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "quiet_reactions",
+      "name": "Quiet Reactions",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/20",
+      "description": "Управление большими реакциями, эффектами, вибрацией и автопрочтением в группах и ЛС.\n\nManage big fullscreen reactions, background effects, vibration and auto-read in groups and PMs.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/quiet_reactions.plugin",
+      "hash": "0d56bc079e38b1e05550343af6a216fbfc12648ab66f52a92b78d5afc206fada",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "stars_unlock_rub",
       "name": "Stars Unlock & RUB",
       "author": "Kyle @NextTheFox (@Fox_Plugin)",
