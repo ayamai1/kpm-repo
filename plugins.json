@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "ios_input_panel",
+      "name": "iOS панель [beta]",
+      "author": "@swagnonher",
+      "version": "1.0.0",
+      "icon": "Swagapluginsicon/24",
+      "description": "Переносит IOS панель ввода в родной exteraGram <3",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/ios_input_panel.eaf",
+      "hash": "400f615422408354058d7a9caf352bb959e242ac4ec5fb2fdd6175bf28a27c94",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "unlinked_stickers",
       "name": "Unlinked Stickers",
       "author": "@itNotMax - @MaxExteraPlugins",
