@@ -1,6 +1,52 @@
 {
   "plugins": [
     {
+      "id": "zwylib",
+      "name": "ZwyLib",
+      "author": "@zwylair",
+      "version": "2.0.9",
+      "icon": "zwyPluginsIcons/0",
+      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
+      "hash": "322ec306fe905b2190152b612287b49905c0d08161f3dec85d1e196e852e6221",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Library",
+          "key_avatar_backgroundInProfileBlue"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
+        },
+        "2.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
+        },
+        "2.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
+        },
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
+        },
+        "2.0.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.7.plugin"
+        },
+        "2.0.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.8.plugin"
+        }
+      }
+    },
+    {
       "id": "ios_input_panel",
       "name": "iOS панель [beta]",
       "author": "@swagnonher",
@@ -1023,49 +1069,6 @@
       "versions": {
         "0.0.1 BETA": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/pill_stack_plus/pill_stack_plus_v0.0.1_BETA.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwylib",
-      "name": "ZwyLib",
-      "author": "@zwylair",
-      "version": "2.0.8",
-      "icon": "zwyPluginsIcons/0",
-      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwylib.plugin",
-      "hash": "cf7343dbdb9b9eb689208f3e63a1ce94b0ded19aa9235fde11d5465f2087eaa2",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Library",
-          "key_avatar_backgroundInProfileBlue"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
-        },
-        "1.2.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
-        },
-        "2.0.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
-        },
-        "2.0.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
-        },
-        "2.0.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
-        },
-        "2.0.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
-        },
-        "2.0.6": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
-        },
-        "2.0.7": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.7.plugin"
         }
       }
     },
