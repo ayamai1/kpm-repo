@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "unlinked_stickers",
+      "name": "Unlinked Stickers",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.1",
+      "icon": "MaxExteraPluginsStickers/26",
+      "description": "Send stickers from any pack as your own uploaded documents, detached from the original sticker set. \n\nIdea's author: @mishabotov",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/unlinked_stickers.plugin",
+      "hash": "54b61cd4e2c120db5cf9dea90b891cf25c54adefddc726961bcd46c0793a33e8",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/unlinked_stickers/unlinked_stickers_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "shikimori_search",
       "name": "Shikimori Search",
       "author": "@obsidiphoria",
@@ -470,23 +492,6 @@
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shareui_sdkinstaller.plugin",
       "hash": "c3f0f4de0a060706a0cda66c2111c438769c54fced0b5808a1459a27fce92ba1",
       "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "unlinked_stickers",
-      "name": "Unlinked Stickers",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/26",
-      "description": "Send stickers from any pack as your own uploaded documents, detached from the original sticker set. Works with static (webp), animated (tgs) and video (webm) stickers.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/unlinked_stickers.plugin",
-      "hash": "3aaa472389ef36ecee754e08bd62d941a0d1ecb04cf354f72417703b5845870a",
-      "app_version": ">=12.1.1",
       "tags": [
         [
           "Utilities",
