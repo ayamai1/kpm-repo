@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "recent_actions_plus",
+      "name": "Recent Actions+",
+      "author": "@anivplugins @mraniv",
+      "version": "1.0.0",
+      "icon": "NyaEmojiStickers/16",
+      "description": "Расширяет фильтры «Недавних действий» и добавляет поиск событий, связанных с конкретным участником.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/recent_actions_plus.plugin",
+      "hash": "2bfbffd31a66dfedbe9ee2b2a4b3740b2272ad0dfee286d60eb9cb4b2ec742da",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "PluginChecker",
       "name": "Plugin Checker",
       "author": "@HysteriaPlugins",
