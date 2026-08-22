@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "PluginChecker",
+      "name": "Plugin Checker",
+      "author": "@HysteriaPlugins",
+      "version": "0.1.0",
+      "icon": "pluginchecker/0",
+      "description": "Сканер безопасности плагинов. Находит скрытый и вредоносный код с помощью статического анализа.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/PluginChecker.plugin",
+      "hash": "f3fb0744a1284c148452bedeaefbc911dc313969d55a1394a2e3177b30d79ce0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "ios_input_panel",
       "name": "iOS панель [beta]",
       "author": "@swagnonher",
