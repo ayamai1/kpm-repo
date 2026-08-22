@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "ai_clone",
+      "name": "Ai Clone",
+      "author": "@ExerealPlugins | @HzzzPlugins",
+      "version": "0.3.6",
+      "icon": "hzzzicons/1",
+      "description": "AI клон юзера. Может отвечать/писать первым, используя контекст и другие факторы",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/ai_clone.plugin",
+      "hash": "56d738a9bd0291dbc28732780b6d1a4820b609fcc60754660183b45a50df4c3d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "round_client_detector",
       "name": "Round Video Client Detector",
       "author": "@netconfiger",
