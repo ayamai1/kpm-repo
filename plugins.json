@@ -6868,43 +6868,6 @@
       ]
     },
     {
-      "id": "fuck_gifts",
-      "name": "No Gifts",
-      "author": "@feature_plugins",
-      "version": "2.5.3",
-      "icon": "feature_plugins/1",
-      "description": "убирает подарки из чатов, профилей и строки ввода",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/fuck_gifts.plugin",
-      "hash": "34336b12b6885cae655b028465a3037de94dce123b0938750930969f7c0566e5",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.3.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.3.4.plugin"
-        },
-        "2.3.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.3.5.plugin"
-        },
-        "2.3.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.4.plugin"
-        },
-        "2.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.1.plugin"
-        },
-        "2.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.plugin"
-        },
-        "2.5.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/fuck_gifts/fuck_gifts_v2.5.2.plugin"
-        }
-      }
-    },
-    {
       "id": "online_notifier",
       "name": "Online Notifier",
       "author": "@KUNSESHBOY (fork by @Kaktusik_A)",
