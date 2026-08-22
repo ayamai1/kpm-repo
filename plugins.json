@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "round_client_detector",
+      "name": "Round Video Client Detector",
+      "author": "@netconfiger",
+      "version": "3.3.0",
+      "icon": "exteraPlugins/1",
+      "description": "Показывает, с какого устройства (iOS, Android, ПК) был записан кружок.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/round_client_detector.plugin",
+      "hash": "8c3f098371ca9b0030c32bac1d14c78d92cc65899bd3b73ffd8ac87d9ed7fe02",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
       "id": "recent_actions_plus",
       "name": "Recent Actions+",
       "author": "@anivplugins @mraniv",
