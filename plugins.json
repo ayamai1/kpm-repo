@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "rule34_search",
+      "name": "BooruSearch",
+      "author": "@ArThirtyFour | @KangelPlugins",
+      "version": "1.9.2",
+      "icon": "Sayanoutaaaa/7",
+      "description": "Поиск изображений на booru-сайтах.\n\nПоддерживаемые источники:\n- rule34.xxx\n- yande.re\n- danbooru.donmai.us\n- safebooru.org\n- gelbooru.com\n- konachan.com\n- xbooru.com\n- e621.net\n\nИспользование:\n- .r34/yandere/danbooru/safebooru/gelbooru/konachan/xbooru/e621/random [теги] (кол-во)",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/rule34_search.eaf",
+      "hash": "19562f1caf6764d545077270462e9950b1d4ef925bfd0bde6cc35e486564ff8a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.9.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.9.0.plugin"
+        },
+        "1.8.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.8.0.plugin"
+        },
+        "1.9.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_v1.9.1.plugin"
+        }
+      }
+    },
+    {
       "id": "shortcuts",
       "name": "Shortcuts",
       "author": "@nonPlugins",
@@ -6112,31 +6140,6 @@
           "key_color_lightblue"
         ]
       ]
-    },
-    {
-      "id": "rule34_search",
-      "name": "BooruSearch",
-      "author": "@ArThirtyFour | @KangelPlugins",
-      "version": "1.9.1",
-      "icon": "Sayanoutaaaa/7",
-      "description": "Плагин для поиска изображений на Booru-based сайтах.\n\nПоддерживаемые источники:\n- rule34.xxx\n- yande.re\n- danbooru.donmai.us\n- safebooru.org\n- gelbooru.com\n- konachan.com\n- xbooru.com\n- (Кастом источники)\n\nИспользование:\n- .r34/yandere/danbooru/safebooru/gelbooru/konachan/xbooru/random/свой айпи [теги] (кол-во)",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/rule34.plugin",
-      "hash": "a3ea864b262eb800455621640d490fb98a92ce2241c78e67041ebbe3536c209a",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "1.9.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.9.0.plugin"
-        },
-        "1.8.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.8.0.plugin"
-        }
-      }
     },
     {
       "id": "Custom_Banner_Profile",
