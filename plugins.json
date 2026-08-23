@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "PluginChecker",
+      "name": "Plugin Checker",
+      "author": "@HysteriaPlugins",
+      "version": "0.1.1",
+      "icon": "pluginchecker/0",
+      "description": "Сканер безопасности плагинов. Находит скрытый и вредоносный код с помощью статического анализа.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/PluginChecker.plugin",
+      "hash": "a2b4147aecccf36f46c9b38de918f121399dec7d52a4d1e3188559fb46715d43",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "0.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/PluginChecker/PluginChecker_v0.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "ai_clone",
       "name": "Ai Clone",
       "author": "@ExerealPlugins | @HzzzPlugins",
@@ -43,23 +65,6 @@
       "description": "Расширяет фильтры «Недавних действий» и добавляет поиск событий, связанных с конкретным участником.",
       "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/recent_actions_plus.plugin",
       "hash": "2bfbffd31a66dfedbe9ee2b2a4b3740b2272ad0dfee286d60eb9cb4b2ec742da",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "PluginChecker",
-      "name": "Plugin Checker",
-      "author": "@HysteriaPlugins",
-      "version": "0.1.0",
-      "icon": "pluginchecker/0",
-      "description": "Сканер безопасности плагинов. Находит скрытый и вредоносный код с помощью статического анализа.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/PluginChecker.plugin",
-      "hash": "f3fb0744a1284c148452bedeaefbc911dc313969d55a1394a2e3177b30d79ce0",
       "app_version": ">=12.5.1",
       "tags": [
         [
