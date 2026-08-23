@@ -1,6 +1,75 @@
 {
   "plugins": [
     {
+      "id": "hide_proxy_sponsor",
+      "name": "Hide Proxy Sponsor",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/22",
+      "description": "Скрывает спонсора прокси в начале списка чатов.\n\nHides MTProto proxy sponsor channel at the top of the chat list.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/hide_proxy_sponsor.plugin",
+      "hash": "83946689f1eecd9ec7deeeb95d1b426a388200382c09fb80b39a38a53069efc0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "custom_profile",
+      "name": "Custom Profile",
+      "author": "@RoflPlugins",
+      "version": "1.8",
+      "icon": "RoflPlugins/18",
+      "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_profile.plugin",
+      "hash": "c6cfad6893aeb8ebc09768066d2cba211ceee435b5cf3cda2c8b574a227caa4e",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.1.plugin"
+        },
+        "1.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.2.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.plugin"
+        },
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.1.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.1.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.1.plugin"
+        },
+        "1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.7.plugin"
+        }
+      }
+    },
+    {
       "id": "chip_folders",
       "name": "Chip Folders",
       "author": "@RnPlugins",
@@ -579,55 +648,6 @@
         },
         "2.16.2": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.16.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "custom_profile",
-      "name": "Custom Profile",
-      "author": "@RoflPlugins",
-      "version": "1.7",
-      "icon": "RoflPlugins/18",
-      "description": "Раскрасьте свой профиль используя этот плагин!\n\n ↑ Настройки на разных версиях: \n |  ExteraGram 12.5.1> - Профиль -> ⋮ -> Оформить профиль\n |  ExteraGram 12.8.1 - Настройки плагина",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/custom_profile.plugin",
-      "hash": "ed6468021132b2e97ea1105a368f6935fdef6a03b2035a453b9f3e76cf65f9f8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.plugin"
-        },
-        "1.3.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.1.plugin"
-        },
-        "1.3.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.3.2.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.plugin"
-        },
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.4.1.plugin"
-        },
-        "1.5.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.1.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/Custom Profile_v1.5.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.plugin"
-        },
-        "1.6.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.6.1.plugin"
         }
       }
     },
