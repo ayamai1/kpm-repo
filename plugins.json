@@ -1,6 +1,49 @@
 {
   "plugins": [
     {
+      "id": "max_reextera",
+      "name": "MAX re:extera",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.4.0",
+      "icon": "MaxExteraPluginsStickers/22",
+      "description": "Ghost mode, spy features, message filters and more! Fork of famous plugin re:extera",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/max_reextera.plugin",
+      "hash": "40befa7e69a6d15edec968253c3c419e515cdfad11791a29207872ed1cc514e0",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.1.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.0.plugin"
+        },
+        "1.3.13": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.13.plugin"
+        },
+        "1.3.14": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.14.plugin"
+        },
+        "1.3.25": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.25.plugin"
+        },
+        "1.3.52": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.52.plugin"
+        },
+        "1.3.54": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.54.plugin"
+        }
+      }
+    },
+    {
       "id": "hide_proxy_sponsor",
       "name": "Hide Proxy Sponsor",
       "author": "@RnPlugins",
@@ -1113,46 +1156,6 @@
         },
         "2.3.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/whisper_transcribe/whisper_transcribe_v2.3.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "max_reextera",
-      "name": "MAX re:extera",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.3.54",
-      "icon": "MaxExteraPluginsStickers/22",
-      "description": "Ghost mode, spy features, message filters and more! Fork of famous plugin re:extera",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/max_reextera.plugin",
-      "hash": "ce51952d8376790baf7eea724e5975f365c80182d8fe14e203600dd85f016b4f",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.1.0.plugin"
-        },
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.0.plugin"
-        },
-        "1.3.13": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.13.plugin"
-        },
-        "1.3.14": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.14.plugin"
-        },
-        "1.3.25": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.25.plugin"
-        },
-        "1.3.52": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.52.plugin"
         }
       }
     },
