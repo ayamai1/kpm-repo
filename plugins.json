@@ -1,6 +1,46 @@
 {
   "plugins": [
     {
+      "id": "anixart_plugin",
+      "name": "Anixart",
+      "author": "@bober41",
+      "version": "1.8",
+      "icon": "bobrplugins/0",
+      "description": "Anixart. Поиск и просмотр аниме, случайный релиз, инфо по ID, тренды, списки, профиль, жанры, отслеживание серий, просмотр, пользовательские списки. @bobrplugins",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anixart_plugin.plugin",
+      "hash": "395e0423bc2ebe7eeb9bfba6555a42c73a873d3f07b16f67a7f9141b3b766ba9",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.0.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.4.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.6.plugin"
+        },
+        "1.7": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.7.plugin"
+        }
+      }
+    },
+    {
       "id": "custom_profile",
       "name": "Custom Profile",
       "author": "@RoflPlugins",
@@ -481,43 +521,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "anixart_plugin",
-      "name": "Anixart",
-      "author": "@bober41",
-      "version": "1.7",
-      "icon": "bobrplugins/0",
-      "description": "Anixart. Поиск и просмотр аниме, случайный релиз, инфо по ID, списки, профиль, жанры, отслеживание серий, просмотр, пользовательские списки. @bobrplugins",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/anixart_plugin.plugin",
-      "hash": "b3cfd49f4741d07caff3eea59ba39165bb451a5b4f93578953de565de87f2c03",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin.plugin"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.0.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.4.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.6.plugin"
-        }
-      }
     },
     {
       "id": "fast_answers",
