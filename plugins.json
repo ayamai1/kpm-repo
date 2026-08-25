@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "expressive_tab",
+      "name": "Expressive Tab",
+      "author": "@Plus_Plugins",
+      "version": "1.0",
+      "description": "Заменяет нижнюю навигацию Exteragram на Floating Toolbar в стиле Material 3 Expressive. ПЕРЕЗАПУСТИТЕ EXTERAGRAM ПОСЛЕ УСТАНОВКИ!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/expressive_tab.plugin",
+      "hash": "292f83303a0c27efc5f9f272111adc8d0b3fae0cef7c8d31cbaf5ed4fd6254e6",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "all_chats_loader",
       "name": "All Chats Loader",
       "author": "@nufxa",
