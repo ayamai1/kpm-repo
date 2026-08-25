@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "personal_quick_reactions",
+      "name": "Personal Quick Reactions",
+      "author": "@itsbodyq",
+      "version": "1.0",
+      "icon": "exteraplicons/4",
+      "description": "Позволяет назначать персональную быструю реакцию для каждого пользователя.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/personal_quick_reactions.plugin",
+      "hash": "3d2190f32de7da91730570c358e9e83e266d0afc3fb9f389d0d2803e69a6d0c4",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
