@@ -19,6 +19,9 @@
       "versions": {
         "2.0.4": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/all_chats_loader/all_chats_loader_v2.0.4.plugin"
+        },
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/all_chats_loader/all_chats_loader_v2.0.5.plugin"
         }
       }
     },
