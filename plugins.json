@@ -1,6 +1,64 @@
 {
   "plugins": [
     {
+      "id": "tg-streaks",
+      "name": "Streaks",
+      "author": "@n08i40k_extera & @RoflPlugins",
+      "version": "2.19.0",
+      "icon": "tiktok_streak/4",
+      "description": "Аналог стриков TikTok для Telegram",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/tg-streaks.plugin",
+      "hash": "7fd85348a7303706e7936fa0aece5beb7920947c6652275e7ea3d9b74fd1364e",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.1.2.plugin"
+        },
+        "2.9.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.12.0.plugin"
+        },
+        "2.12.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.13.0.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.5.0.plugin"
+        },
+        "2.5.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.6.0.plugin"
+        },
+        "2.6.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.7.6.plugin"
+        },
+        "2.7.6": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.8.0.plugin"
+        },
+        "2.8.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.9.1.plugin"
+        },
+        "2.15.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.15.1.plugin"
+        },
+        "2.16.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks.plugin"
+        },
+        "2.16.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.16.1.plugin"
+        },
+        "2.16.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.16.2.plugin"
+        },
+        "2.17.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.17.0.plugin"
+        }
+      }
+    },
+    {
       "id": "kangel_plugins_manager",
       "name": "Kangel Plugins Manager",
       "author": "@KangelPluginsManager",
@@ -712,61 +770,6 @@
         },
         "2.4": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.4.plugin"
-        }
-      }
-    },
-    {
-      "id": "tg-streaks",
-      "name": "Streaks",
-      "author": "@n08i40k_extera & @RoflPlugins",
-      "version": "2.17.0",
-      "icon": "tiktok_streak/4",
-      "description": "Аналог стриков TikTok для Telegram",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/tg-streaks.plugin",
-      "hash": "aff8c58f62e5ac15bbffe8957405121d8f67843d5ac3e0257b5dc6af2c277196",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.4.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.1.2.plugin"
-        },
-        "2.9.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.12.0.plugin"
-        },
-        "2.12.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.13.0.plugin"
-        },
-        "2.1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.5.0.plugin"
-        },
-        "2.5.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.6.0.plugin"
-        },
-        "2.6.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.7.6.plugin"
-        },
-        "2.7.6": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.8.0.plugin"
-        },
-        "2.8.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.9.1.plugin"
-        },
-        "2.15.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.15.1.plugin"
-        },
-        "2.16.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks.plugin"
-        },
-        "2.16.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.16.1.plugin"
-        },
-        "2.16.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.16.2.plugin"
         }
       }
     },
