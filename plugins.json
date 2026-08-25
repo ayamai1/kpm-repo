@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "add_to_folder",
+      "name": "Add to Folder in Folders",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.0",
+      "icon": "MaxExteraPluginsStickers/14",
+      "description": "Shows the \\\"Add to folder\\\" button when selecting chats inside a folder, not only on the main screen.\n\nПоказывает кнопку «Добавить в папку» при выборе чатов внутри папки, а не только на главном экране.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/add_to_folder.plugin",
+      "hash": "e58bad5e0fd3b637d343a1f3a20e45155f2b260da7d9f95087ee18a1edc1c1de",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "personal_quick_reactions",
       "name": "Personal Quick Reactions",
       "author": "@itsbodyq",
