@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "media_transformer_ecubz",
+      "name": "Media Transformer",
+      "author": "@eCubzBio - @eCubzPlugins",
+      "version": "9.0.4",
+      "icon": "eCubzPlugin/2",
+      "description": "Трансформирует видео в кружки, а аудиофайлы в голосовые сообщения. Поддерживает режим «Посмотреть один раз», нарезку длинных видео, меню предпросмотра и редактор медиа.\n\nTransforms videos into round videos and audio files into voice messages. Supports View Once, long-video splitting, send preview and the media editor.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_transformer_ecubz.plugin",
+      "hash": "fa6e8278e1ac7b72790f4478d38a95be9a1c8df632fc34c3285e0355a79267ba",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v2.1.plugin"
+        },
+        "5.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v5.3.plugin"
+        }
+      }
+    },
+    {
       "id": "expressive_tab",
       "name": "Expressive Tab",
       "author": "@Plus_Plugins",
@@ -8033,28 +8058,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "media_transformer_ecubz",
-      "name": "Media Transformer",
-      "author": "@eCubzBio - @eCubzPlugins",
-      "version": "5.3",
-      "icon": "eCubzPlugin/2",
-      "description": "Трансформирует видео в кружочки, а аудио в голосовые сообщения.\nПоддерживает режим «Посмотреть один раз» и интеграцию в редактор.\nП.С. Все правки, улучшения и т.д делаю у себя в канале @eCubzPlugins",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_transformer_ecubz.plugin",
-      "hash": "e6282096797e9e47f9f8c6107b752fbd39250a9ca3afc4f01b9a82c6fce93a70",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v2.1.plugin"
-        }
-      }
     },
     {
       "id": "safesend",
