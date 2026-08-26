@@ -1,6 +1,61 @@
 {
   "plugins": [
     {
+      "id": "wp",
+      "name": "WEB Proxy",
+      "author": "@la_cringe",
+      "version": "1.0b",
+      "icon": "akresloh/0",
+      "description": "Ээээ короч диплинки там локал протик ещё какая-то хуйня типа крутяк ок",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/wp.plugin",
+      "hash": "47038d69e91fe8f68a5ba6e6cc4e67af5cdc776d4b104b13dff7b4043ef29363",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "media_duration_ecubz",
+      "name": "Media Duration Sort",
+      "author": "@eCubzPlugins - @eCubz",
+      "version": "1.0.1",
+      "icon": "msg_photo_settings",
+      "description": "Сортировка медиафайлов по длительности таймлайна в меню общих медиа на нативном DEX-ядре.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/media_duration_ecubz.plugin",
+      "hash": "240e9dbbc5494489715c185eaa8e0c595d8da410a47206bc1a8001419559998e",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "expressive_tab",
+      "name": "Expressive Tab",
+      "author": "@Plus_Plugins",
+      "version": "1.1",
+      "description": "Заменяет нижнюю навигацию Exteragram на Floating Toolbar в стиле Material 3 Expressive. ПЕРЕЗАПУСТИТЕ EXTERAGRAM ПОСЛЕ УСТАНОВКИ!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/expressive_tab.plugin",
+      "hash": "5c651667f4c6b4c4a356daf508761139b5f7adca1457688f9c75a4e3a525151a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/expressive_tab/expressive_tab_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "media_transformer_ecubz",
       "name": "Media Transformer",
       "author": "@eCubzBio - @eCubzPlugins",
@@ -94,22 +149,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/admin_tools_v3.0.0.plugin"
         }
       }
-    },
-    {
-      "id": "expressive_tab",
-      "name": "Expressive Tab",
-      "author": "@Plus_Plugins",
-      "version": "1.0",
-      "description": "Заменяет нижнюю навигацию Exteragram на Floating Toolbar в стиле Material 3 Expressive. ПЕРЕЗАПУСТИТЕ EXTERAGRAM ПОСЛЕ УСТАНОВКИ!",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/expressive_tab.plugin",
-      "hash": "292f83303a0c27efc5f9f272111adc8d0b3fae0cef7c8d31cbaf5ed4fd6254e6",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "all_chats_loader",
