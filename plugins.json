@@ -1,31 +1,6 @@
 {
   "plugins": [
     {
-      "id": "zwyAdminTools",
-      "name": "AdminTools",
-      "author": "@zwylair",
-      "version": "3.0.1",
-      "icon": "zwyPluginsIcons/4",
-      "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\\"Help\\\" segment in the plugin settings).\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** 2.0.0 or greater!",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwyAdminTools.plugin",
-      "hash": "43fe79ce0e81d2b331ac1274979018be74c86e5070facb6c334afa8cc151d688",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "3.0.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
-        },
-        "3.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/admin_tools_v3.0.0.plugin"
-        }
-      }
-    },
-    {
       "id": "media_transformer_ecubz",
       "name": "Media Transformer",
       "author": "@eCubzBio - @eCubzPlugins",
@@ -47,6 +22,76 @@
         },
         "5.3": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v5.3.plugin"
+        },
+        "9.0.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v9.0.4.plugin"
+        }
+      }
+    },
+    {
+      "id": "photo_picker_plus",
+      "name": "Photo Picker Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.0",
+      "icon": "pixelcamera/15",
+      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
+      "hash": "40de84c15972ac98a94614bbc12dfe6dbf36b644f5961ae7a25f7d1d6e6bdb6b",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "sticker_hints_ecubz",
+      "name": "Sticker Hints DEX",
+      "author": "@eCubz @eCubzBio",
+      "version": "2.0.7",
+      "icon": "eCubzPlugin/1",
+      "description": "Точные и динамические подсказки стикеров по фразам. Одна фраза может содержать несколько стикеров. Для привязки ответьте на стикер командой .bind фраза или используйте пункт контекстного меню.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/sticker_hints_ecubz.plugin",
+      "hash": "704aa93c6a0911293f075a548f54df1be6f0eb8313ffa5152d0df49703747440",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sticker_hints_ecubz/sticker_hints_ecubz_v1.0.1.plugin"
+        },
+        "2.2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sticker_hints_ecubz/bind_sticker_v2.2.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "zwyAdminTools",
+      "name": "AdminTools",
+      "author": "@zwylair",
+      "version": "3.0.1",
+      "icon": "zwyPluginsIcons/4",
+      "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\\"Help\\\" segment in the plugin settings).\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** 2.0.0 or greater!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwyAdminTools.plugin",
+      "hash": "43fe79ce0e81d2b331ac1274979018be74c86e5070facb6c334afa8cc151d688",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "3.0.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/admin_tools_v3.0.0.plugin"
         }
       }
     },
@@ -12167,28 +12212,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "sticker_hints_ecubz",
-      "name": "bind stickers",
-      "author": "@bsod4ik & @bsod4ik_plugins",
-      "version": "2.2.2",
-      "icon": "eCubzPlugin/1",
-      "description": "Привязка стикеров, фото, видео, гифок, кружков, гс и аудио к словам с авто-отправкой после твоего сообщения.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/bind_sticker.plugin",
-      "hash": "24acf3e264417e425151685b9cf6bd0691a9dcdbeb8005c566e8fab2b15679b8",
-      "app_version": ">=10.0.0",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/sticker_hints_ecubz/sticker_hints_ecubz_v1.0.1.plugin"
-        }
-      }
     },
     {
       "id": "reaction_finder",
