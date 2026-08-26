@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "zwyAdminTools",
+      "name": "AdminTools",
+      "author": "@zwylair",
+      "version": "3.0.1",
+      "icon": "zwyPluginsIcons/4",
+      "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\\"Help\\\" segment in the plugin settings).\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** 2.0.0 or greater!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/zwyAdminTools.plugin",
+      "hash": "43fe79ce0e81d2b331ac1274979018be74c86e5070facb6c334afa8cc151d688",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "3.0.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/admin_tools_v3.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "media_transformer_ecubz",
       "name": "Media Transformer",
       "author": "@eCubzBio - @eCubzPlugins",
@@ -5490,28 +5515,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "zwyAdminTools",
-      "name": "AdminTools",
-      "author": "@zwylair",
-      "version": "3.0.0",
-      "icon": "zwyPluginsIcons/4",
-      "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/admin_tools.plugin",
-      "hash": "eb00a11572b81033e884991dc79fe7d7fd65c7736ecb604f0bc0c59cbd2a9fc5",
-      "app_version": ">=12.0.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "3.0.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
-        }
-      }
     },
     {
       "id": "OpenRouter_CAI",
