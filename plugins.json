@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "exitFy_v2",
+      "name": "exitFy",
+      "author": "@exteraPluginsSup",
+      "version": "4.0.1",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
+      "hash": "c4f800107a88db2c62166b288db277d9696b26d3ada948b863b52cc2866a3147",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "backrooms",
       "name": "Backrooms",
       "author": "@RoflPlugins & @CatalystDevPlugins",
