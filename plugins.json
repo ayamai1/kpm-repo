@@ -1,6 +1,93 @@
 {
   "plugins": [
     {
+      "id": "exitFy_v2",
+      "name": "exitFy v2",
+      "author": "@exteraPluginsSup",
+      "version": "4.0.0",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
+      "hash": "f1dc925e8cbe457b091ec759533d2dcd01dd93aed97a5354f505229568858576",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "exitfy",
+      "name": "exitFy (legacy)",
+      "author": "@exteraPluginsSup",
+      "version": "3.0.3",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitfy.plugin",
+      "hash": "5aa85c8e9150ca6bff63a2001172f579f888b33eb2db5ab23efd70000b450531",
+      "app_version": ">=12.2.10",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.8": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.0.9.plugin"
+        },
+        "1.0.9": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.1.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.1.1.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.1.1.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.2.plugin"
+        },
+        "2.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.1.plugin"
+        },
+        "2.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.2.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.2.plugin"
+        },
+        "2.4.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.3.plugin"
+        },
+        "2.4.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.4.plugin"
+        },
+        "2.3.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.plugin"
+        },
+        "2.4.4": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.5.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.plugin"
+        },
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.1.plugin"
+        },
+        "3.0.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.2.plugin"
+        }
+      }
+    },
+    {
       "id": "round_client_detector",
       "name": "Round Video Client Detector",
       "author": "@netconfiger",
@@ -4644,73 +4731,6 @@
         },
         "3.9": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.9.plugin"
-        }
-      }
-    },
-    {
-      "id": "exitfy",
-      "name": "exitFy",
-      "author": "@exteraPluginsSup",
-      "version": "3.0.2",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitfy.plugin",
-      "hash": "7a077114cc1595ef4cb0e5982e0c639e3507284b621b60f0340adeb10726d942",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.8": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.0.9.plugin"
-        },
-        "1.0.9": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.1.0.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v1.1.1.plugin"
-        },
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.0.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.1.1.plugin"
-        },
-        "2.1.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.2.plugin"
-        },
-        "2.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.1.plugin"
-        },
-        "2.3.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.2.plugin"
-        },
-        "2.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.3.plugin"
-        },
-        "2.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.2.plugin"
-        },
-        "2.4.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.3.plugin"
-        },
-        "2.4.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.4.plugin"
-        },
-        "2.3.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.4.plugin"
-        },
-        "2.4.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v2.5.plugin"
-        },
-        "2.5": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.plugin"
-        },
-        "3.0.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitfy/exitfy_v3.0.1.plugin"
         }
       }
     },
