@@ -1,6 +1,53 @@
 {
   "plugins": [
     {
+      "id": "round_client_detector",
+      "name": "Round Video Client Detector",
+      "author": "@netconfiger",
+      "version": "3.3.1",
+      "icon": "exteraPlugins/1",
+      "description": "Показывает, с какого устройства (iOS, Android, ПК) был записан кружок.",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/round_client_detector.plugin",
+      "hash": "2d5a0b0ef9fd03c0b956b77f2561e5c8968ca177b92dde43891c088d6a494556",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "3.3.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/round_client_detector/round_client_detector_v3.3.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "ozonsearch_ozon_420",
+      "name": "OzonSearch",
+      "author": "@RapFurBitches & @ccsFM",
+      "version": "4.6.3",
+      "icon": "Plugins50kk_by_fStikBot/11",
+      "description": "Поиск товаров на Ozon через чат в экстере!\nКоманды: .ozon <запрос>",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/ozonsearch_ozon_420.plugin",
+      "hash": "47097e10bd605ea500212d7a19d9a5acce4992d32a5ef1e3afc28a22d24219b0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ozonsearch_ozon_420/ozonsearch_ozon_420.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ozonsearch_ozon_420/ozonsearch_ozon_420_v1.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "gifs_unlocker",
       "name": "GIFs Unlocker",
       "author": "@kchemi_projects",
@@ -612,23 +659,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "round_client_detector",
-      "name": "Round Video Client Detector",
-      "author": "@netconfiger",
-      "version": "3.3.0",
-      "icon": "exteraPlugins/1",
-      "description": "Показывает, с какого устройства (iOS, Android, ПК) был записан кружок.",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/round_client_detector.plugin",
-      "hash": "8c3f098371ca9b0030c32bac1d14c78d92cc65899bd3b73ffd8ac87d9ed7fe02",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
@@ -3233,28 +3263,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/volume_scroll/volume_scroll.plugin"
-        }
-      }
-    },
-    {
-      "id": "ozonsearch_ozon_420",
-      "name": "OzonSearch",
-      "author": "@RapFurBitches",
-      "version": "1.1.0",
-      "icon": "Animasha26/22",
-      "description": "Поиск товаров на Ozon прямо в чате: .ozon <запрос> — название, цена, скидка, рейтинг, отзывы и ссылка. Фильтры: до/от цены, дешёвые, дорогие, новинки, скидки, оценка N, отзывов N. Languages: RU / EN / UK / HE",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/ozonsearch_ozon_420.plugin",
-      "hash": "6911f548930dcdec986a51c58a6d3fcd5e046d325852da3264cbe032488831f7",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ozonsearch_ozon_420/ozonsearch_ozon_420.plugin"
         }
       }
     },
