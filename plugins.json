@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "backrooms",
+      "name": "Backrooms",
+      "author": "@RoflPlugins & @CatalystDevPlugins",
+      "version": "1.1.0",
+      "description": "Процедурный хоррор-лабиринт Backrooms на Three.js внутри WebView",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/backrooms.plugin",
+      "hash": "2204c64847328380088969655d05bc4ada5d2f3502bd9ddd50f6898089d60888",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "user_info_saver",
       "name": "UserInfoSaver",
       "author": "@zwylair",
