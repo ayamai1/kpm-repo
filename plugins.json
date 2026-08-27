@@ -1,23 +1,6 @@
 {
   "plugins": [
     {
-      "id": "exitFy_v2",
-      "name": "exitFy v2",
-      "author": "@exteraPluginsSup",
-      "version": "4.0.0",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
-      "hash": "f1dc925e8cbe457b091ec759533d2dcd01dd93aed97a5354f505229568858576",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "exitfy",
       "name": "exitFy (legacy)",
       "author": "@exteraPluginsSup",
