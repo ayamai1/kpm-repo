@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "user_info_saver",
+      "name": "UserInfoSaver",
+      "author": "@zwylair",
+      "version": "1.1.0",
+      "icon": "zwyPluginsIcons/7",
+      "description": "Saves user's short info (phone country, registration date, etc) before server doesn't return it more.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/user_info_saver.plugin",
+      "hash": "ea0f6a34ba34d48de1a9e2ed6ea39e70906b15c6af2d2d4cc05cb1768636404a",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/user_info_saver/user_info_saver_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "exitfy",
       "name": "exitFy (legacy)",
       "author": "@exteraPluginsSup",
@@ -7713,22 +7735,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "user_info_saver",
-      "name": "UserInfoSaver",
-      "author": "@zwylair",
-      "version": "1.0.0",
-      "icon": "zwyPluginsIcons/7",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/user_info_saver.plugin",
-      "hash": "23e0513ff58dd845c9ad0bb1a76496d815d403af326bf9523d472834346d8fca",
-      "app_version": ">=12.0.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
