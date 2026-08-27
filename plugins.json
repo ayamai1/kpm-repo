@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "exitFy_v2",
+      "name": "exitFy",
+      "author": "@exteraPluginsSup",
+      "version": "4.0.2",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
+      "hash": "9340c51b5f7bddb74f6690bb95046d4fe84bf19c59a7944de053ca5d251b6095",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "quotify_plus",
       "name": "[FORK] Quotify+",
       "author": "@mur_live & @Raitorinkus",
@@ -51,23 +73,6 @@
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/quotify_plus/quotify_plus_v6.1.2.plugin"
         }
       }
-    },
-    {
-      "id": "exitFy_v2",
-      "name": "exitFy",
-      "author": "@exteraPluginsSup",
-      "version": "4.0.1",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
-      "hash": "c4f800107a88db2c62166b288db277d9696b26d3ada948b863b52cc2866a3147",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "backrooms",
