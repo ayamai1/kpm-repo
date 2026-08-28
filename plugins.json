@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "shortcuts",
+      "name": "Shortcuts",
+      "author": "@nonPlugins",
+      "version": "1.3.2",
+      "icon": "feature_plugins/3",
+      "description": "Создает ярлыки на все плагины и практически весь их функционал",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shortcuts.plugin",
+      "hash": "f46f1daedf466de7ef8443fa0ad42dfaf7753aca0ed41287fad215726c9747bb",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.plugin"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.2_1.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.3.1.plugin"
+        }
+      }
+    },
+    {
       "id": "pause_voices",
       "name": "Pause Voices",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -955,37 +989,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ios_input_panel/ios_input_panel_v1.0.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "shortcuts",
-      "name": "Shortcuts",
-      "author": "@nonPlugins",
-      "version": "1.3.1",
-      "icon": "feature_plugins/3",
-      "description": "Создает ярлыки на все плагины и практически весь их функционал",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/shortcuts.plugin",
-      "hash": "e9c096191900215ea8e19674ae523c07d1caec497f49a6a6ce2daad706a77136",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.plugin"
-        },
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.2_1.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.3.plugin"
         }
       }
     },
