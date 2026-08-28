@@ -1,28 +1,6 @@
 {
   "plugins": [
     {
-      "id": "ProfileForge",
-      "name": "Profile Forge",
-      "author": "@HysteriaPlugins",
-      "version": "1.4",
-      "icon": "BannerCustomizer/0",
-      "description": "Плагин для кастомизации профиля: баннеры, шрифты никнейма, градиентные никнеймы",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/ProfileForge.plugin",
-      "hash": "55f783c80c349f8a2d1d8fafa66e7626d305a858274372784f15cbbc2b9c07a8",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/ProfileForge/ProfileForge_v1.4.plugin"
-        }
-      }
-    },
-    {
       "id": "pause_voices",
       "name": "Pause Voices",
       "author": "@itNotMax - @MaxExteraPlugins",
