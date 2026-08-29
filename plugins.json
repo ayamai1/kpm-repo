@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "gift_stats",
+      "name": "Gift Stats",
+      "author": "@alexeykasp",
+      "version": "1.6.16",
+      "description": "Статистика подарков: топ дарителей в профиле/чате, анонимные отдельно, разбивка по подаркам",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/gift_stats.plugin",
+      "hash": "f714f090d6ccd85c66a32292f791092c6036bf02985da82a865963296454f4cf",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
       "id": "shortcuts",
       "name": "Shortcuts",
       "author": "@nonPlugins",
