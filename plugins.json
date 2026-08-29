@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "wp",
+      "name": "WEB Proxy",
+      "author": "@la_cringe | @dmkrjplug",
+      "version": "2.1b",
+      "icon": "akresloh/0",
+      "description": "Ээээ короч диплинки там локал протик ещё какая-то хуйня типа крутяк ок",
+      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/wp.plugin",
+      "hash": "a9961004824eb9ed1918d9e9b214e15ca8d3f14c691fab25399a18d9d10ae456",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0b": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wp/wp_v1.0b.plugin"
+        },
+        "2.0b": {
+          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wp/wp_v2.0b.plugin"
+        }
+      }
+    },
+    {
       "id": "gift_stats",
       "name": "Gift Stats",
       "author": "@alexeykasp",
@@ -66,28 +91,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "wp",
-      "name": "WEB Proxy",
-      "author": "@la_cringe",
-      "version": "2.0b",
-      "icon": "akresloh/0",
-      "description": "Ээээ короч диплинки там локал протик ещё какая-то хуйня типа крутяк ок",
-      "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/Plugins/wp.plugin",
-      "hash": "d431850d8ddd8f5be1b6d04d81da14d2a59a829362a5e4fa85d94e9d4654bc28",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0b": {
-          "link": "https://raw.githubusercontent.com/KangelPlugins/Plugins-Store/main/legacy_versions/wp/wp_v1.0b.plugin"
-        }
-      }
     },
     {
       "id": "QuickCloseButton",
