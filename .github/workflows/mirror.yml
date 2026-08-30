@@ -18,7 +18,7 @@ jobs:
           python-version: "3.x"
       - name: update
         run: |
-          git remote add upstream-store https://github.com/KangelPlugins/Plugins-Store.git
+          git remote add upstream-store https://codeberg.org/Kangel/Plugins-Store.git
           git fetch upstream-store main
           git show upstream-store/main:store.json > store.json
           python convert.py
