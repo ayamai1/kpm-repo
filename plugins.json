@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "chip_folders",
+      "name": "Chip Folders",
+      "author": "@RnPlugins",
+      "version": "1.0.1",
+      "icon": "RnDev/5",
+      "description": "Панель папок чатов в стиле чипсов Material 3 с плавным морфингом скруглений.\n\nMaterial 3 chip style folders bar with smooth corner morphing.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/chip_folders.plugin",
+      "hash": "232ed32bcd63cf5f6422e0ec8f0ae9e1ae8d65d9d3345ff633b0fe43926cfb5d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/chip_folders/chip_folders_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "kangel_plugins_manager",
       "name": "Kangel Plugins Manager",
       "author": "@KangelPluginsManager",
@@ -883,23 +905,6 @@
       "description": "Скрывает спонсора прокси в начале списка чатов.\n\nHides MTProto proxy sponsor channel at the top of the chat list.",
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/hide_proxy_sponsor.plugin",
       "hash": "83946689f1eecd9ec7deeeb95d1b426a388200382c09fb80b39a38a53069efc0",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "chip_folders",
-      "name": "Chip Folders",
-      "author": "@RnPlugins",
-      "version": "1.0.0",
-      "icon": "RnDev/5",
-      "description": "Панель папок чатов в стиле чипсов Material 3 с плавным морфингом скруглений.\n\nMaterial 3 chip style folders bar with smooth corner morphing.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/chip_folders.plugin",
-      "hash": "474d11bbdd9f0e9ee8a8942505e2834957d41bd38282c0b05882e0a00602ba54",
       "app_version": ">=12.5.1",
       "tags": [
         [
