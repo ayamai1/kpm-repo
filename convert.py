@@ -33,6 +33,7 @@ for id, plugin in data.items():
         "app_version": plugin.get(
             "app_version", f">={plugin.get('min_version', '11.12.0')}"
         ),
+        "deps": plugin.get("dependencies"),
         "tags": category_label(plugin.get("status")),
     }
 
