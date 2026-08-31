@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "PremiumDialogCards",
+      "name": "Premium Dialog Cards",
+      "author": "@nneeuurr",
+      "version": "2.1.1",
+      "icon": "msg_theme",
+      "description": "Современный дизайн карточек чатов. Только для тёмной темы.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/PremiumDialogCards.plugin",
+      "hash": "f99050a11e85c0e5c59927a32fe419a2f15cb0cf21945d650c19e2fa928429ba",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PremiumDialogCards/PremiumDialogCards.plugin"
+        },
+        "2.0.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PremiumDialogCards/PremiumDialogCards_v2.0.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PremiumDialogCards/PremiumDialogCards_v2.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
@@ -58,31 +86,6 @@
         },
         "2.19.0": {
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.19.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "PremiumDialogCards",
-      "name": "Premium Dialog Cards",
-      "author": "@nneeuurr",
-      "version": "2.1.0",
-      "icon": "msg_theme",
-      "description": "Современный дизайн карточек чатов. Только для тёмной темы.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/PremiumDialogCards.plugin",
-      "hash": "d5ffce6bd2603230e8275a04386523362903e6f0b480e5cb5f98e50e218135cf",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.3.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PremiumDialogCards/PremiumDialogCards.plugin"
-        },
-        "2.0.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PremiumDialogCards/PremiumDialogCards_v2.0.0.plugin"
         }
       }
     },
