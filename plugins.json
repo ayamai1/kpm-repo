@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "ExteraMax",
+      "name": "ExteraMax",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.0.0",
+      "icon": "MaxExteraPluginsStickers/30",
+      "description": "[EN]: Updated version of the «re:extera» plugin («ghost» mode, spy features, message filters, and much more).\n\n[RU]: Обновленная версия плагина «re:extera» (режим «призрака», функции шпиона, фильтры сообщений и многое другое).",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ExteraMax.plugin",
+      "hash": "09825fc11fe1945632f05924d79c077cf292d7067c5e4ea11570afdda0e0fb66",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "emulate_core",
       "name": "EmuLATE",
       "author": "@binbash_0",
