@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "adb_lite",
+      "name": "ADB Lite",
+      "author": "@mr_Vestr",
+      "version": "1.0",
+      "icon": "mr_vestr/13",
+      "description": "Удалённый установщик плагинов для exteraGram и AyuGram.\n\nRemote plugin installer for exteraGram and AyuGram",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/adb_lite.plugin",
+      "hash": "977aeb38875f67f3092920c155548e4fa138cf1691bd22bf760a31d7aef01737",
+      "app_version": ">=12.5.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "cashier",
       "name": "Cashier",
       "author": "@itskotovski",
