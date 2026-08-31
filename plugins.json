@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "remove_trusted_timer",
+      "name": "Remove Trusted Timer",
+      "author": "@ArThirtyFour | @KangelPlugins",
+      "version": "1.0.0",
+      "icon": "bwaaa_pack/83",
+      "description": "Плагин , позволяющий пропустить 30 секундный таймер не траст плагинов",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/remove_trusted_timer.plugin",
+      "hash": "bf5e1bfbe1bd8ceabe26bd94dbbe90f489edaa0cd2bac4ece6efd5438606c17e",
+      "app_version": ">=12.10.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "PremiumDialogCards",
       "name": "Premium Dialog Cards",
       "author": "@nneeuurr",
