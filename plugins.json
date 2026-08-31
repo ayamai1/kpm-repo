@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "cashier",
+      "name": "Cashier",
+      "author": "@itskotovski",
+      "version": "1.0",
+      "icon": "BlogDuck/11",
+      "description": "Показывает, куда уходят звёзды: подарки, реакции, платные сообщения и подписки. Отдельный экран с графиками за месяц, год или всё время, историей операций и балансом.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/cashier.plugin",
+      "hash": "142796f5f7c2e3376321d5aeb315377ec76b6e206e429272939e030f319fe441",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
       "id": "pill_to_header",
       "name": "Pill To Header",
       "author": "@RnPlugins",
