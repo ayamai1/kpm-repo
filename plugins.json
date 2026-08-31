@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "pill_to_header",
+      "name": "Pill To Header",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/26",
+      "description": "Перенос етг островка из поиска в верхнюю панель.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/pill_to_header.plugin",
+      "hash": "e3dc2898c5f581f7b3ae644f27b8eda36e9ebb140a8c8e23723a4cf15dc7095f",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "ExteraMax",
       "name": "ExteraMax",
       "author": "@itNotMax - @MaxExteraPlugins",
