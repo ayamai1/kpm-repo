@@ -391,6 +391,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/user_info_saver.plugin",
       "hash": "ea0f6a34ba34d48de1a9e2ed6ea39e70906b15c6af2d2d4cc05cb1768636404a",
       "app_version": ">=12.1.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Informational",
@@ -655,6 +658,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/zwyAdminTools.plugin",
       "hash": "43fe79ce0e81d2b331ac1274979018be74c86e5070facb6c334afa8cc151d688",
       "app_version": ">=12.1.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -1259,6 +1265,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/material_settings_list.plugin",
       "hash": "b419e29c721da473a4a162f64e60da52e345a434f7909a2c4c6617eff4e71647",
       "app_version": ">=12.4.0",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -1501,6 +1510,10 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/nodisturb.plugin",
       "hash": "8903d6c4cd462662b5050f693914ef10713706368c608100d2abc48f240b23ab",
       "app_version": ">=12.5.1",
+      "deps": [
+        "mandre_lib",
+        "zwylib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -2347,6 +2360,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/zwyNoForwardLimit.plugin",
       "hash": "94468b6466429d9b492c65a7101f0d5147b1763b1c7f2941b7ecf6561fb9884f",
       "app_version": ">=12.5.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -2611,6 +2627,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ui_tweaks.plugin",
       "hash": "2f682f3adf882cea72d24812e2598dddd0f3ccfdac634d4c0b698a903ed15706",
       "app_version": ">=12.5.1",
+      "deps": [
+        "quantahut"
+      ],
       "tags": [
         [
           "Customization",
@@ -3010,6 +3029,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/clearURLs.plugin",
       "hash": "f5f9309369aa8ef3790f5b6d1f5f9a62ded55550d714ac1693c8787ac75a33ca",
       "app_version": ">=12.0.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -5812,6 +5834,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/MandreCharacter AI.plugin",
       "hash": "a9d409f5111bce9fa07d71d49680354334e266314e719d85823dcbb06d29fe1b",
       "app_version": ">=11.9.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Messages",
@@ -8068,6 +8093,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/quoteReply.plugin",
       "hash": "a6736f3d4d74f81342b03fc69e1d595237a4a0ed45b255ab1432549fd039b2b9",
       "app_version": ">=12.0.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -8090,6 +8118,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/endlessFoldersScroll.plugin",
       "hash": "bcc168b751b50ecf0b4fbb7d9e879209fb01a82a03bea7663e0ef010086be715",
       "app_version": ">=12.0.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -8112,6 +8143,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/googlethat.plugin",
       "hash": "83167cd8490b18fdd2d28cbf4451671e78f40757edf7083608b587abc0d0f363",
       "app_version": ">=12.0.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -8220,6 +8254,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/doc_viewer_plus.plugin",
       "hash": "d7228850da611c52a6843d71b87a9c6ff43e2904c1c0523ff202d223fd69adc2",
       "app_version": ">=11.12.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -8386,6 +8423,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/dont65_weather.plugin",
       "hash": "a06e3b6b9588b5f18a1071012b479132f236890f9fd4b4185754087a0a85b461",
       "app_version": ">=11.12.0",
+      "deps": [
+        "dont65_lib"
+      ],
       "tags": [
         [
           "Informational",
@@ -8411,6 +8451,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/dont65textreplacer.plugin",
       "hash": "cf8aa2e79ea4f24dfb6eb42ff26bd55b6eab653ffd6ec88ec48638bbbf5589ab",
       "app_version": ">=11.12.0",
+      "deps": [
+        "dont65_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -8433,6 +8476,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/dont65_multitool.plugin",
       "hash": "34e77022cd62ae7e78dd7cc529a8c5480ae439dee3b6c3f60f8de37aaff31884",
       "app_version": ">=11.12.0",
+      "deps": [
+        "dont65_lib"
+      ],
       "tags": [
         [
           "Customization",
@@ -8455,6 +8501,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/dont65_currency.plugin",
       "hash": "0c1a79de07159c409055befa1240b46ec7b5ba12dc8e7fa41d12c9094aca8ac9",
       "app_version": ">=11.0.0",
+      "deps": [
+        "dont65_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -8477,6 +8526,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/dont65_dice_roller.plugin",
       "hash": "fa88cc89e5c15b2931dcbfdb1447a8dab45c300bffde915248043bbdd3901912",
       "app_version": ">=11.0.0",
+      "deps": [
+        "dont65_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -8701,6 +8753,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/gemini_plugin_security.plugin",
       "hash": "36e882eeab9c170df73c189f27048ac5a205f68be7046804977c6664826deaea",
       "app_version": ">=11.12.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Informational",
@@ -9488,6 +9543,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/WallFeed.plugin",
       "hash": "f82b5673ee6c910039ab7754431c4a9c21462571a14f32471493ccf962377034",
       "app_version": ">=11.12.1",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Customization",
@@ -9828,6 +9886,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/target_watch.plugin",
       "hash": "b026a57a1fc837248762e631ea4035a24909b8a6e2c3d47da333ae6adb1f71ea",
       "app_version": ">=11.12.1",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -10015,6 +10076,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/LocalEdictor.plugin",
       "hash": "1239a1351867954cce6614a59d696cd48497b4bf8a147d7bb3e63561df2aaa7c",
       "app_version": ">=12.1.1",
+      "deps": [
+        "zwylib"
+      ],
       "tags": [
         [
           "Customization",
@@ -10592,6 +10656,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/memory_monitor.plugin",
       "hash": "6d6e3ef88aca97ecda4256f385af32815fbe73a75440529bd10344da33f11481",
       "app_version": ">=11.9.0",
+      "deps": [
+        "quantahut"
+      ],
       "tags": [
         [
           "Informational",
@@ -10626,6 +10693,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/просьба.plugin",
       "hash": "339c4b0f072967a3bd35e34f6f085403a2bdd4c1dcad4e6bf35f59919f6947ed",
       "app_version": ">=11.9.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Informational",
@@ -11120,6 +11190,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/MandreOffline.plugin",
       "hash": "90acdbfe90d949699d07d85f8d0ac41fd3ef8e62857b21f23d4ef320fb6774b0",
       "app_version": ">=11.12.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -11137,6 +11210,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ForseSpoiler.plugin",
       "hash": "e057db650034c166ac523cf784b5dcec0cb2bc6cedbe007ea3e182f11a301eaa",
       "app_version": ">=11.12.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -11171,6 +11247,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/SnowFlakes.plugin",
       "hash": "087f564ed18929f62db87a684d1e3424c9c830ab89d8e701eedddbb51ed7d6da",
       "app_version": ">=11.13.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -11188,6 +11267,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/MandreHost.plugin",
       "hash": "7accbd9c290864b73bf9416637853c081cd855e2d32b468628e37bc0bba91934",
       "app_version": ">=1.7",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Utilities",
@@ -11205,6 +11287,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ASC.plugin",
       "hash": "6c99b359d533fb2f80a066801478e77f511d08e4e2246b8bab390c4687375e16",
       "app_version": ">=11.12.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Messages",
@@ -11290,6 +11375,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/MandreEncrypt.plugin",
       "hash": "10bf8eb751243d5eee07e2cab6bd00068d36d483a9a1dbaf6e179ef62de8879d",
       "app_version": ">=11.12.0",
+      "deps": [
+        "mandre_lib"
+      ],
       "tags": [
         [
           "Customization",
@@ -12233,6 +12321,9 @@
       "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/Vless.plugin",
       "hash": "728967ff3f5736cd15d24b5765047cc73c8d7bb75b902597d89884b55ca883ea",
       "app_version": ">=12.0.1",
+      "deps": [
+        "ReMandre"
+      ],
       "tags": [
         [
           "Utilities",
