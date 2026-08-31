@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "emulate_core",
+      "name": "EmuLATE",
+      "author": "@binbash_0",
+      "version": "1.0.0",
+      "icon": "binbashPlugins/3",
+      "description": "Многофункциональный эмулятор 2D-платформ для exteraGram",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/emulate_core.eaf",
+      "hash": "d765b43a2e4d64218267ce6ac1509d19712a6261644385bbcc2b513cf37c9915",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "chip_folders",
       "name": "Chip Folders",
       "author": "@RnPlugins",
