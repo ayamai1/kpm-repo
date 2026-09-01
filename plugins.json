@@ -1,6 +1,64 @@
 {
   "plugins": [
     {
+      "id": "liquid_glass",
+      "name": "Liquid Glass [Fork]",
+      "author": "@PluginProject · @w3b_0s1nt",
+      "version": "4.0.0",
+      "icon": "vkVSfmG_by_achestickbot/5",
+      "description": "Liquid Glass 4.0.0: стеклянные шапки и панели. exteraGram 12.9.0+",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/liquid_glass.plugin",
+      "hash": "9a2cb71d1c4d78a877d9832b86831da2a4094a904bc4c81cc8c448ded43bac93",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        " - [experiment maybe last]": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
+        },
+        "1.0.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
+        },
+        "2.0.6": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
+        },
+        "2.1.7": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
+        },
+        "2.2.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
+        },
+        "2.3.4": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
+        },
+        "3.1.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
+        },
+        "3.6.4": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass.plugin"
+        },
+        "3.8.13": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
+        }
+      }
+    },
+    {
       "id": "uname-in-name",
       "name": "UserName-In-Name",
       "author": "@n08i40k_extera",
@@ -3444,61 +3502,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "liquid_glass",
-      "name": "Liquid Glass [Fork]",
-      "author": "@PluginProject · @w3b_0s1nt",
-      "version": "3.8.13",
-      "icon": "vkVSfmG_by_achestickbot/5",
-      "description": "Liquid Glass: стеклянные шапки и панели. exteraGram 12.9.0+",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/liquid_glass 3.8.13.plugin",
-      "hash": "d9f782e5c811b3059f3a73dace070652feb703cfe97fe2c56637435801d96c10",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        " - [experiment maybe last]": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
-        },
-        "1.0.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
-        },
-        "1.5.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
-        },
-        "1.6.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
-        },
-        "2.0.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
-        },
-        "2.0.6": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
-        },
-        "2.1.7": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
-        },
-        "2.2.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
-        },
-        "2.3.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
-        },
-        "2.3.4": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
-        },
-        "3.1.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
-        },
-        "3.6.4": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/liquid_glass/liquid_glass.plugin"
-        }
-      }
     },
     {
       "id": "all_mention_fork",
