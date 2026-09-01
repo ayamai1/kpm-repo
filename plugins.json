@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "uname-in-name",
+      "name": "UserName-In-Name",
+      "author": "@n08i40k_extera",
+      "version": "1.0.0",
+      "icon": "LedScreenEmoji/47",
+      "description": "Отображение юзернейма в имени пользователя по заданному шаблону",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/uname-in-name.plugin",
+      "hash": "6271d8ed5a9426991295647e65b35c2d1818dfb0973be5c2c3d5426894a46037",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "dialogs_theme_background",
       "name": "Dialogs Theme Background",
       "author": "@RnPlugins",
