@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "dialogs_theme_background",
+      "name": "Dialogs Theme Background",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/29",
+      "description": "Делает фон главной страницы диалогов фоновым из темы, как на других экранах.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/dialogs_theme_background.plugin",
+      "hash": "678bdfc614b37b28413543e4fde50655174da595dedee2356822faaba3f893c5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "remove_trusted_timer",
       "name": "Remove Trusted Timer",
       "author": "@ArThirtyFour | @KangelPlugins",
