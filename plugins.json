@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "ios_circle",
+      "name": "iOS Circle",
+      "author": "@exoseo -> @HzzzPlugins",
+      "version": "3.2",
+      "icon": "HzzzIcons/6",
+      "description": "Плавное переключение модулей в кружках как на IOS",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ios_circle.plugin",
+      "hash": "f171c3dfaf9e5a8f4f7defc60b035b0969cd8f06bea0b594c109d723857c81e0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.9": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/ios_circle/ios_circle_v2.9.plugin"
+        }
+      }
+    },
+    {
       "id": "exitFy_v2",
       "name": "exitFy V2",
       "author": "@exteraPluginsSup",
@@ -24,23 +46,6 @@
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
         }
       }
-    },
-    {
-      "id": "ios_circle",
-      "name": "iOS Circle",
-      "author": "@exoseo -> @HzzzPlugins",
-      "version": "2.9",
-      "icon": "HzzzIcons/6",
-      "description": "Плавное переключение модулей в кружках как на IOS",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ios_circle.plugin",
-      "hash": "384b646461e78d7cd0116fe1778e576b3b81890d3453e551e5d8fef746fa9462",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "hide_bot_open_button",
