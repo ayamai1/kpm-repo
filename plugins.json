@@ -1,6 +1,91 @@
 {
   "plugins": [
     {
+      "id": "hide_bot_open_button",
+      "name": "Hide Bot Open Button",
+      "author": "@pluginsc",
+      "version": "1.1.1",
+      "icon": "Open512/2",
+      "description": "RU: Скрывает кнопку «Открыть» (Mini Apps) у ботов в списке чатов и глобальном поиске.\n\nEN: Hides the 'Open' (Mini Apps) button for bots in chat list and global search.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/hide_bot_open_button.plugin",
+      "hash": "18dbc6cbe3f4983989b9321da8f11bbe0ae6a2d96b6eb323f375c3c8cb1f0b78",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "convert_anything",
+      "name": "Convert Anything",
+      "author": "@MangoPlugins",
+      "version": "1.0.0",
+      "icon": "mangoplugins/0",
+      "description": "Hold a message containing a file, tap Plugins, and select Convert Anything. Then choose the output format and what to do with the converted file.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/convert_anything.plugin",
+      "hash": "491c7e6699da5638df4e8fd7fce4d6abb50f108ff58bffba5a41d4e287a98b92",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "advanced_search",
+      "name": "Продвинутый поиск",
+      "author": "@dekma0091 && @DefinitelyNotDekma && @semyy174 (idea)",
+      "version": "1.0",
+      "icon": "pixelcamera/16",
+      "description": "Продвинутый поиск по чатам, документам с фильтрами по дате, юзеру, типу медиа",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/advanced_search.plugin",
+      "hash": "42411d0abd0d9758b824b446e9da389b4b549f429fc3121d6940aaf2f36903ae",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "circlet",
+      "name": "Circlet",
+      "author": "@zxtoichi",
+      "version": "1.0",
+      "icon": "UtyaDuckFull/49",
+      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Только потом отправка.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/circlet.plugin",
+      "hash": "cadacaefe5fd67ba4624053606deaf0c725b377ee6b9d67acfedc55dda694757",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "centered_header_fork",
+      "name": "Centered header (fork)",
+      "author": "@ScorpiOVN_sc (@n0white)",
+      "version": "1.0.0",
+      "icon": "VislBejbi9/17",
+      "description": "Centered header for chats",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/centered_header_fork.plugin",
+      "hash": "7eba3c1073c4c943bbf84540e96a964ffea648f420e942188bcac17b888cdb21",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "re_extera_loader",
       "name": "aartzz's re:extera",
       "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins\nFOSS recovery by @fossSquad & @migor1103",
