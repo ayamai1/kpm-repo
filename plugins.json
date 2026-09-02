@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "ios_circle",
+      "name": "iOS Circle",
+      "author": "@exoseo -> @HzzzPlugins",
+      "version": "2.9",
+      "icon": "HzzzIcons/6",
+      "description": "Плавное переключение модулей в кружках как на IOS",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/ios_circle.plugin",
+      "hash": "384b646461e78d7cd0116fe1778e576b3b81890d3453e551e5d8fef746fa9462",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "hide_bot_open_button",
       "name": "Hide Bot Open Button",
       "author": "@pluginsc",
