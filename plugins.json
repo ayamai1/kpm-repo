@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "exitFy_v2",
+      "name": "exitFy V2",
+      "author": "@exteraPluginsSup",
+      "version": "4.1.0",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/exitFy_v2.plugin",
+      "hash": "6eed0d0d15d304a7d855ce81f305e3188b9396cbb7c20dfcc287ba6d3c642ad7",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
+        },
+        "4.0.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
+        }
+      }
+    },
+    {
       "id": "ios_circle",
       "name": "iOS Circle",
       "author": "@exoseo -> @HzzzPlugins",
@@ -662,28 +687,6 @@
       "versions": {
         "1.0 [beta]": {
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/plugin_settings_translate/pst_v1.0_[beta].plugin"
-        }
-      }
-    },
-    {
-      "id": "exitFy_v2",
-      "name": "exitFy",
-      "author": "@exteraPluginsSup",
-      "version": "4.0.2",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/exitFy_v2.plugin",
-      "hash": "9340c51b5f7bddb74f6690bb95046d4fe84bf19c59a7944de053ca5d251b6095",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "4.0.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
         }
       }
     },
