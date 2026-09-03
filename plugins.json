@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "circlet",
+      "name": "Circlet",
+      "author": "@zxtoichi",
+      "version": "1.1",
+      "icon": "UtyaDuckFull/49",
+      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Только потом отправка.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/circlet.plugin",
+      "hash": "f5918952663ab8639f1d327a58ef6a221c5f2c96df3e3c36f3e7853981dbf887",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/circlet/circlet_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "audio_quality_chip",
       "name": "Audio Quality Chip",
       "author": "@TH157LECLAW",
@@ -173,23 +195,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "circlet",
-      "name": "Circlet",
-      "author": "@zxtoichi",
-      "version": "1.0",
-      "icon": "UtyaDuckFull/49",
-      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Только потом отправка.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/circlet.plugin",
-      "hash": "cadacaefe5fd67ba4624053606deaf0c725b377ee6b9d67acfedc55dda694757",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
