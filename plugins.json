@@ -1,6 +1,109 @@
 {
   "plugins": [
     {
+      "id": "GreenPass",
+      "name": "GreenPass",
+      "author": "@Altyplugins / Codex",
+      "version": "2.5.5",
+      "icon": "bratpass/0",
+      "description": "Практически универсальный прокси плагин ",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/GreenPass.plugin",
+      "hash": "ca4f30054f5b949572eb924734dbe589be944f0389389d8fe21452fb16e5b528",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.1.6.4": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.5.plugin"
+        },
+        "1.1.6.5": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.6.plugin"
+        },
+        "1.1.6.7": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.7-fix.plugin"
+        },
+        "1.1.6.6": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.7.plugin"
+        },
+        "1.1.6.7-fix": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.7.0.plugin"
+        },
+        "1.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.2.1.plugin"
+        },
+        "1.1.7.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.2.plugin"
+        },
+        "1.2.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.3.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.3.1.plugin"
+        },
+        "1.5": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.5.1.plugin"
+        },
+        "1.5.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.5.3.plugin"
+        },
+        "1.3.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.5.plugin"
+        },
+        "1.5.3": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.1.plugin"
+        },
+        "1.6.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.2.plugin"
+        },
+        "1.6.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.3.plugin"
+        },
+        "1.6.3": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.4.plugin"
+        },
+        "1.6.4": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.5.plugin"
+        },
+        "1.6.5": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.6.plugin"
+        },
+        "1.6.6": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.7.plugin"
+        },
+        "1.6.7": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.8.plugin"
+        },
+        "2.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.0.1.plugin"
+        },
+        "1.6.8": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.0.plugin"
+        },
+        "2.0.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.1.0.plugin"
+        },
+        "2.1.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.1.1.plugin"
+        },
+        "2.1.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.1.2.plugin"
+        },
+        "2.2.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass.plugin"
+        },
+        "2.5.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.5.1.plugin"
+        }
+      }
+    },
+    {
       "id": "stars_unlock_rub",
       "name": "Stars Unlock & RUB",
       "author": "Kyle @NextTheFox (@Fox_Plugin)",
@@ -3401,106 +3504,6 @@
         },
         "1.0.5": {
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/clearURLs/clearURLs_v1.0.5.plugin"
-        }
-      }
-    },
-    {
-      "id": "GreenPass",
-      "name": "GreenPass",
-      "author": "@Altyplugins / Codex",
-      "version": "2.5.1",
-      "icon": "bratpass/0",
-      "description": "Практически универсальный прокси плагин, поддержка протоколов vless/vmess/hysteria2/etc., встроенные tg-ws-proxy, AmneziaWG и olcrtc, а также полноценнымм проксированием звонков",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/GreenPass.plugin",
-      "hash": "384e895bab0501353fb8fdccd554857d6e80a8a717b44dc344bf010a139c134d",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "1.1.6.4": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.5.plugin"
-        },
-        "1.1.6.5": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.6.plugin"
-        },
-        "1.1.6.7": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.7-fix.plugin"
-        },
-        "1.1.6.6": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.6.7.plugin"
-        },
-        "1.1.6.7-fix": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.1.7.0.plugin"
-        },
-        "1.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.2.1.plugin"
-        },
-        "1.1.7.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.2.plugin"
-        },
-        "1.2.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.3.0.plugin"
-        },
-        "1.3.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.3.1.plugin"
-        },
-        "1.5": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.5.1.plugin"
-        },
-        "1.5.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.5.3.plugin"
-        },
-        "1.3.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.5.plugin"
-        },
-        "1.5.3": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.0.plugin"
-        },
-        "1.6.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.1.plugin"
-        },
-        "1.6.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.2.plugin"
-        },
-        "1.6.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.3.plugin"
-        },
-        "1.6.3": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.4.plugin"
-        },
-        "1.6.4": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.5.plugin"
-        },
-        "1.6.5": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.6.plugin"
-        },
-        "1.6.6": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.7.plugin"
-        },
-        "1.6.7": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v1.6.8.plugin"
-        },
-        "2.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.0.1.plugin"
-        },
-        "1.6.8": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.0.plugin"
-        },
-        "2.0.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.1.0.plugin"
-        },
-        "2.1.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.1.1.plugin"
-        },
-        "2.1.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass_v2.1.2.plugin"
-        },
-        "2.2.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/GreenPass/GreenPass.plugin"
         }
       }
     },
