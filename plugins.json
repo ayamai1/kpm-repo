@@ -1,6 +1,79 @@
 {
   "plugins": [
     {
+      "id": "archiver",
+      "name": "Archiver",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.0",
+      "icon": "MaxExteraPluginsStickers/31",
+      "description": "[EN]: Automatic chat archiver: archive bots, channels, groups and more.\n\n[RU]: Автоматический архиватор: архивируйте ботов, каналы, группы и другое.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/archiver.plugin",
+      "hash": "f63969829db2669feb7fdfe1931a51a2afcdcac1c9c6d6edc247eaf0d236ea1b",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "notification_center",
+      "name": "Notification Center",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "4.6",
+      "icon": "MaxExteraPluginsStickers/10",
+      "description": "Discord-style notification center: saves replies to your messages and mentions of you.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/notification_center.plugin",
+      "hash": "aba9d4a22244b8f552b0e5f574e397b513cbe5161a4d287855e3fa0e29a0d3b9",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.7": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v1.9.plugin"
+        },
+        "1.9": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v3.6.plugin"
+        },
+        "3.6": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v3.8.plugin"
+        },
+        "4.3": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v4.3.plugin"
+        },
+        "4.5": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v4.5.plugin"
+        }
+      }
+    },
+    {
+      "id": "advanced_search",
+      "name": "Продвинутый поиск",
+      "author": "@dekma0091",
+      "version": "1.1",
+      "icon": "pixelcamera/16",
+      "description": "Продвинутый поиск по чатам, документам с фильтрами по дате, юзеру, типу медиа",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/advanced_search.plugin",
+      "hash": "5e975e0a793ae7cc2bc6c19bf347d3004fdf7618172023db8640ed20eb9128da",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/advanced_search/advanced_search_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "GreenPass",
       "name": "GreenPass",
       "author": "@Altyplugins / Codex",
@@ -303,23 +376,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "advanced_search",
-      "name": "Продвинутый поиск",
-      "author": "@dekma0091 && @DefinitelyNotDekma && @semyy174 (idea)",
-      "version": "1.0",
-      "icon": "pixelcamera/16",
-      "description": "Продвинутый поиск по чатам, документам с фильтрами по дате, юзеру, типу медиа",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/advanced_search.plugin",
-      "hash": "42411d0abd0d9758b824b446e9da389b4b549f429fc3121d6940aaf2f36903ae",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
@@ -5087,37 +5143,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "notification_center",
-      "name": "Notification Center",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "4.5",
-      "icon": "MaxExteraPluginsStickers/10",
-      "description": "Discord-style notification center: saves replies to your messages and mentions of you.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/notification_center.plugin",
-      "hash": "f84573e9b9e61abc2584d74071c2151cf225b8457d5c8033cca50afb74e5ad5a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.7": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v1.9.plugin"
-        },
-        "1.9": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v3.6.plugin"
-        },
-        "3.6": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v3.8.plugin"
-        },
-        "4.3": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/notification_center/notification_center_v4.3.plugin"
-        }
-      }
     },
     {
       "id": "search_bar_control",
