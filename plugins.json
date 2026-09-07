@@ -1,6 +1,65 @@
 {
   "plugins": [
     {
+      "id": "photo_picker_plus",
+      "name": "Photo Picker Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.0",
+      "icon": "pixelcamera/15",
+      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/photo_picker_plus.plugin",
+      "hash": "bd8e47f62deaf2b4d6723c7a7485a8f0ff4c13407e1cb66cbd4469303132d31b",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "camera_enhancer",
+      "name": "RVCE",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.0",
+      "icon": "pixelcamera/17",
+      "description": "Round videos camera enhancer. Round Configurator",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/camera_enhancer.plugin",
+      "hash": "08ed7a81e4113b42d7a897bb380d14f5c9815e00de0e15950e2f44c63a7fd309",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
+        },
+        "1.6": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
+        }
+      }
+    },
+    {
       "id": "archiver",
       "name": "Archiver",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -1193,23 +1252,6 @@
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/media_transformer_ecubz/media_transformer_ecubz_v9.0.4.plugin"
         }
       }
-    },
-    {
-      "id": "photo_picker_plus",
-      "name": "Photo Picker Plus",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.0",
-      "icon": "pixelcamera/15",
-      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/photo_picker_plus.plugin",
-      "hash": "40de84c15972ac98a94614bbc12dfe6dbf36b644f5961ae7a25f7d1d6e6bdb6b",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "sticker_hints_ecubz",
@@ -4179,40 +4221,6 @@
       "versions": {
         "1.2.0": {
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/latex_plugin/latex_plugin.plugin"
-        }
-      }
-    },
-    {
-      "id": "camera_enhancer",
-      "name": "RVCE",
-      "author": "@dekma0091",
-      "version": "1.6",
-      "icon": "pixelcamera/0",
-      "description": "Round videos camera enhancer. Wide Angle, Round Configurator, HEVC",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/camera_enhancer.plugin",
-      "hash": "3886f708414a84d90e4e5172fc224183bc398a1ab95b73077faaa67e790267e8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
-        },
-        "1.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
-        },
-        "1.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
         }
       }
     },
