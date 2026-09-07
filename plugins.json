@@ -1,6 +1,70 @@
 {
   "plugins": [
     {
+      "id": "tg-streaks",
+      "name": "Streaks",
+      "author": "@n08i40k_extera & @RoflPlugins",
+      "version": "2.20.0",
+      "icon": "tiktok_streak/4",
+      "description": "Аналог стриков TikTok для Telegram",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/tg-streaks.plugin",
+      "hash": "c49b5b8cc21c57d45f294b186ebabcf3c24b54de7a689ef24bcebb53f77bab5a",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.4.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.1.2.plugin"
+        },
+        "2.9.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.12.0.plugin"
+        },
+        "2.12.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.13.0.plugin"
+        },
+        "2.1.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.5.0.plugin"
+        },
+        "2.5.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.6.0.plugin"
+        },
+        "2.6.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.7.6.plugin"
+        },
+        "2.7.6": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.8.0.plugin"
+        },
+        "2.8.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.9.1.plugin"
+        },
+        "2.15.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.15.1.plugin"
+        },
+        "2.16.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks.plugin"
+        },
+        "2.16.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.16.1.plugin"
+        },
+        "2.16.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.16.2.plugin"
+        },
+        "2.17.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.17.0.plugin"
+        },
+        "2.19.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.19.0.plugin"
+        },
+        "2.19.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.19.2.plugin"
+        }
+      }
+    },
+    {
       "id": "photo_picker_plus",
       "name": "Photo Picker Plus",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -571,67 +635,6 @@
         },
         "2.1.0": {
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PremiumDialogCards/PremiumDialogCards_v2.1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "tg-streaks",
-      "name": "Streaks",
-      "author": "@n08i40k_extera & @RoflPlugins",
-      "version": "2.19.2",
-      "icon": "tiktok_streak/4",
-      "description": "Аналог стриков TikTok для Telegram",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/tg-streaks.plugin",
-      "hash": "07dc613795ae5e885f7a61a4e3ac60930642c51c717356854d99fe896877e324",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.4.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.1.2.plugin"
-        },
-        "2.9.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.12.0.plugin"
-        },
-        "2.12.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.13.0.plugin"
-        },
-        "2.1.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.5.0.plugin"
-        },
-        "2.5.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.6.0.plugin"
-        },
-        "2.6.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.7.6.plugin"
-        },
-        "2.7.6": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.8.0.plugin"
-        },
-        "2.8.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.9.1.plugin"
-        },
-        "2.15.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.15.1.plugin"
-        },
-        "2.16.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks.plugin"
-        },
-        "2.16.1": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.16.1.plugin"
-        },
-        "2.16.2": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.16.2.plugin"
-        },
-        "2.17.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.17.0.plugin"
-        },
-        "2.19.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/tg-streaks/tg-streaks_v2.19.0.plugin"
         }
       }
     },
