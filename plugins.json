@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "hide_business_bot_banner",
+      "name": "Hide Business Bot Banner",
+      "author": "@anivPlugins",
+      "version": "1.0",
+      "icon": "TheMoomintroll/11",
+      "description": "Hides the business-bot panel and adds a native Start/Stop action to the chat menu.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/hide_business_bot_banner.plugin",
+      "hash": "cd8185d425914bd1373946a86ce9d3f65eb33b72d83cf863c4b3d04b8829a4ce",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "custom_profile",
       "name": "Custom Profile",
       "author": "@RoflPlugins",
