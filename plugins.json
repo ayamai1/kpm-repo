@@ -1,6 +1,53 @@
 {
   "plugins": [
     {
+      "id": "plugins_command_scanner",
+      "name": "Plugin Commands Scanner",
+      "author": "@pluginsc",
+      "version": "1.1.0",
+      "icon": "open496/1",
+      "description": "RU: Выводит интерактивное всплывающее меню всех команд плагинов.\n\nEN: Displays an interactive popup menu of all plugin commands.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/plugins_command_scanner.plugin",
+      "hash": "5bce5d649ca2d804f9f852920cc07226c28c812e41737a2c8b75381ae10857e5",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/plugins_command_scanner/plugins_command_scanner_v1.0.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "templates",
+      "name": "Templates",
+      "author": "@mr_Vestr",
+      "version": "4.2",
+      "icon": "mr_vestr/7",
+      "description": "A plugin for creating, editing, and quickly sending message templates.\n\nПлагин для создания, редактирования и быстрой отправки шаблонов сообщений.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/templates.plugin",
+      "hash": "cfec62bfdc6628d987bb2cbaec29a209866f75550c2a136efd1b461f3b0dd62f",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "4.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/templates/templates_v4.0.plugin"
+        },
+        "4.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/templates/templates_v4.1.plugin"
+        }
+      }
+    },
+    {
       "id": "search_plus",
       "name": "Search+",
       "author": "@SearchPlusss",
@@ -36,23 +83,6 @@
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/search_plus/search_plus_v2.0.plugin"
         }
       }
-    },
-    {
-      "id": "plugins_command_scanner",
-      "name": "Plugin Commands Scanner",
-      "author": "@pluginsc",
-      "version": "1.0.1",
-      "icon": "open496/1",
-      "description": "RU: Выводит интерактивное всплывающее меню всех команд плагинов.\n\nEN: Displays an interactive popup menu of all plugin commands.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/plugins_command_scanner.plugin",
-      "hash": "bf88ed09e23da691159f594876030d3f5a16db414a50f92ad66ed8e25d8d4f6d",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "QPS",
@@ -12324,28 +12354,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "templates",
-      "name": "Templates | Шаблоны",
-      "author": "@mr_Vestr",
-      "version": "4.1",
-      "icon": "mr_vestr/7",
-      "description": "A plugin for creating, editing, and quickly sending message templates.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/templates.plugin",
-      "hash": "393bd128415d7729da614a7423444c5fc0d692bf9b519d40bee3f2a5a4802244",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "4.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/templates/templates_v4.0.plugin"
-        }
-      }
     },
     {
       "id": "streak_plugin_by_kvez",
