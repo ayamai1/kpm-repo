@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "plugins_command_scanner",
+      "name": "Plugin Commands Scanner",
+      "author": "@pluginsc",
+      "version": "1.0.1",
+      "icon": "open496/1",
+      "description": "RU: Выводит интерактивное всплывающее меню всех команд плагинов.\n\nEN: Displays an interactive popup menu of all plugin commands.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/plugins_command_scanner.plugin",
+      "hash": "bf88ed09e23da691159f594876030d3f5a16db414a50f92ad66ed8e25d8d4f6d",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "QPS",
+      "name": "QPS",
+      "author": "@bokudzhava feat. @exxxsens",
+      "version": "4.0",
+      "icon": "AnimatedEmojies/404",
+      "description": "Добавляет удобное шорткат меню для быстрого управления плагинами",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/QPS.plugin",
+      "hash": "c7b7008920898916b9f694d4e4a8f101f7a34810b6a024cfcdc658162ef2b6ac",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "local_time_shift",
+      "name": "Local Time Shift",
+      "author": "@timesplinter",
+      "version": "1.0.8",
+      "icon": "AnimatedEmojies/22",
+      "description": "Локально сдвигает время сообщений, точное время последнего посещения и другие поддерживаемые подписи времени в Telegram.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/local_time_shift.plugin",
+      "hash": "187d01464536190f485613f4916aa3b10d2ff012f69c51da3e631567b5702e0d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "hide_admin_rank_chat",
+      "name": "Hide Admin Rank (Chat)",
+      "author": "@ksuebes",
+      "version": "1.0",
+      "icon": "SpottyAnimated/47",
+      "description": "Отключает клик по роли рядом с сообщениями в чате.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/hide_admin_rank_chat.plugin",
+      "hash": "f72b08a15faf0373193a0c2750b3f3e1a9bdd9493f35f4fa1be1ee82f77cce4d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "hide_business_bot_banner",
       "name": "Hide Business Bot Banner",
       "author": "@anivPlugins",
