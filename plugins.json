@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "cashier",
+      "name": "Cashier",
+      "author": "@itskotovski",
+      "version": "1.1",
+      "icon": "BlogDuck/11",
+      "description": "Показывает, куда уходят звёзды: подарки, реакции, платные сообщения и подписки. Отдельный экран с графиками за месяц, год или всё время, историей операций и балансом.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/cashier.plugin",
+      "hash": "5a192f5a9e192649a14f12045b27337692441b1a0a962b2b1ede35e40f0b0a88",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/cashier/cashier_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "kangel_plugins_manager",
       "name": "Kangel Plugins Manager",
       "author": "@KangelPluginsManager",
@@ -938,23 +960,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "cashier",
-      "name": "Cashier",
-      "author": "@itskotovski",
-      "version": "1.0",
-      "icon": "BlogDuck/11",
-      "description": "Показывает, куда уходят звёзды: подарки, реакции, платные сообщения и подписки. Отдельный экран с графиками за месяц, год или всё время, историей операций и балансом.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/cashier.plugin",
-      "hash": "142796f5f7c2e3376321d5aeb315377ec76b6e206e429272939e030f319fe441",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
