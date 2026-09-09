@@ -1628,28 +1628,6 @@
       }
     },
     {
-      "id": "PluginChecker",
-      "name": "Plugin Checker",
-      "author": "@HysteriaPlugins",
-      "version": "0.1.1",
-      "icon": "pluginchecker/0",
-      "description": "Сканер безопасности плагинов. Находит скрытый и вредоносный код с помощью статического анализа.",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/PluginChecker.plugin",
-      "hash": "a2b4147aecccf36f46c9b38de918f121399dec7d52a4d1e3188559fb46715d43",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "0.1.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/PluginChecker/PluginChecker_v0.1.0.plugin"
-        }
-      }
-    },
-    {
       "id": "ai_clone",
       "name": "Ai Clone",
       "author": "@ExerealPlugins | @HzzzPlugins",
