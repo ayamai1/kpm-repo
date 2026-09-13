@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "bubble_chat_editor",
+      "name": "Bubble Outline",
+      "author": "@xw_wvv",
+      "version": "3.4.1",
+      "description": "Пузырьковый контур (bubbleIn/Outline) для exteraGram 12.9.0. Только для контура: цвета чата остаются прежними в текущей теме.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/bubble_chat_editor.plugin",
+      "hash": "b88d82bc8ba2de72f919be2d8e78ae235ca623b2b5f93e1c54d984c52166b0b7",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "expressive_tab",
       "name": "Expressive Tab",
       "author": "@Plus_Plugins",
