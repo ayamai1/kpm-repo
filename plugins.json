@@ -1,6 +1,30 @@
 {
   "plugins": [
     {
+      "id": "expressive_tab",
+      "name": "Expressive Tab",
+      "author": "@Plus_Plugins",
+      "version": "1.2",
+      "description": "Заменяет нижнюю навигацию Exteragram на Floating Toolbar в стиле Material 3 Expressive. ПЕРЕЗАПУСТИТЕ EXTERAGRAM ПОСЛЕ УСТАНОВКИ!",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/expressive_tab.plugin",
+      "hash": "afea7188d4ec96fd8ea168374f940d0eda365747110d0fe568c7f0bbc4f72d19",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/expressive_tab/expressive_tab_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/expressive_tab/expressive_tab_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "plugin_guard",
       "name": "Plugin Guard",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -1521,27 +1545,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "expressive_tab",
-      "name": "Expressive Tab",
-      "author": "@Plus_Plugins",
-      "version": "1.1",
-      "description": "Заменяет нижнюю навигацию Exteragram на Floating Toolbar в стиле Material 3 Expressive. ПЕРЕЗАПУСТИТЕ EXTERAGRAM ПОСЛЕ УСТАНОВКИ!",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/expressive_tab.plugin",
-      "hash": "5c651667f4c6b4c4a356daf508761139b5f7adca1457688f9c75a4e3a525151a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/expressive_tab/expressive_tab_v1.0.plugin"
-        }
-      }
     },
     {
       "id": "media_transformer_ecubz",
