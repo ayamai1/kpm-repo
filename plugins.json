@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "QPS",
+      "name": "QPS",
+      "author": "@senscoder feat. @bokudzhava(original idea)",
+      "version": "4.2",
+      "icon": "AnimatedEmojies/404",
+      "description": "Добавляет удобное шорткат меню для быстрого управления плагинами",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/QPS.plugin",
+      "hash": "8d60e795635edfe377488d75ccca819e643507197a47f99f74749143d01cc65a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/QPS/QPS_v4.0.plugin"
+        }
+      }
+    },
+    {
       "id": "cashier",
       "name": "Cashier",
       "author": "@itskotovski",
@@ -181,23 +203,6 @@
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/search_plus/search_plus_v2.0.plugin"
         }
       }
-    },
-    {
-      "id": "QPS",
-      "name": "QPS",
-      "author": "@bokudzhava feat. @exxxsens",
-      "version": "4.0",
-      "icon": "AnimatedEmojies/404",
-      "description": "Добавляет удобное шорткат меню для быстрого управления плагинами",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/QPS.plugin",
-      "hash": "c7b7008920898916b9f694d4e4a8f101f7a34810b6a024cfcdc658162ef2b6ac",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "local_time_shift",
