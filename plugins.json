@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "steam",
+      "name": "Steam",
+      "author": "@KangelPlugins & @MGEPlugins",
+      "version": "2.0",
+      "icon": "Kangelcons_by_fStikBot/0",
+      "description": "🎮 Shows the current game on Steam\n\n📋 Commands:\n• [.nowsteam/.snp] — current game\n• [.sprofile/.sp] — profile card\n• [.slibrary] — games library\n• [.sflibrary] — full library\n• [.sinv] — inventory (CS2 / TF2 / Dota 2)",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/steam.plugin",
+      "hash": "96d482ec9324bd6fe4344d33cf1f248fd545cf7a8089ab3445fbb64d18267523",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.6.2": {
+          "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/steam/steam_v1.6.2.plugin"
+        }
+      }
+    },
+    {
       "id": "QPS",
       "name": "QPS",
       "author": "@senscoder feat. @bokudzhava(original idea)",
@@ -5306,23 +5328,6 @@
           "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/legacy_versions/search_bar_control/search_bar_control_v3.9.plugin"
         }
       }
-    },
-    {
-      "id": "steam",
-      "name": "Steam",
-      "author": "@KangelPlugins & @MGEPlugins",
-      "version": "1.6.2",
-      "icon": "Kangelcons_by_fStikBot/0",
-      "description": "🎮 Shows the current game on Steam\n\n📋 Commands:\n• [.nowsteam/.snp] — current game\n• [.slibrary] — games library\n• [.sflibrary] — full library\n\n🎨 Design by @reNightly, @qmrrchh",
-      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/steam.plugin",
-      "hash": "5e21e523396bb11fa32c4742715900043e6f8c033b509ea6ed22b09c3de0c2b7",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ]
     },
     {
       "id": "card_reading",
