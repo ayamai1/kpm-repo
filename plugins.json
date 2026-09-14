@@ -1,6 +1,57 @@
 {
   "plugins": [
     {
+      "id": "tbg",
+      "name": "Chat Gradient/Blur Remover",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "AnimatedEmojies/384",
+      "description": "Убирает весь градиент/блюр в чате\nRemoves all gradient/blur in chat",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/tbg.plugin",
+      "hash": "160c7775aec237156e1a92c224a10755e04e5c920081d9d96b795e5ab851f91f",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "x_assist",
+      "name": "X-Assist",
+      "author": "@Somewhat_empty",
+      "version": "1.1.0",
+      "icon": "ForAiAssistant/0",
+      "description": "Твой персональный AI в Telegram. Умные ответы с веб-поиском, расшифровка голосовых и кружочков, поиск музыки, генерация картинок и многое другое. Помощь с настройкой и команды - /help",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/x_assist.plugin",
+      "hash": "64e591d17fa76fdc82a523772e6c8bd82c94c8259b7aa7b7c14eb06ea1da96ac",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "audio_downloader",
+      "name": "Audio Downloader",
+      "author": "@pluginsc",
+      "version": "1.0.0",
+      "icon": "open496/2",
+      "description": "RU: Загружает всю музыку из текущего чата/канала напрямую в кэш. Рекомендуется не выходить из чата/канала во время скачивания.\n\nEN: Downloads all music from the current chat/channel directly into the cache. It is recommended to stay in the chat/channel during downloading.",
+      "link": "https://codeberg.org/Kangel/Plugins-Store/raw/branch/main/Plugins/audio_downloader.plugin",
+      "hash": "418c9c6418ca936ed7941524d7bd890d7bbd0bf125522d8554587806b9ef4d9c",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "bubble_chat_editor",
       "name": "Bubble Outline",
       "author": "@xw_wvv",
