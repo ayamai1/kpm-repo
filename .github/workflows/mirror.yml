@@ -27,5 +27,5 @@ jobs:
           git add plugins.json
           printf '%s' "$(git rev-parse upstream-store/main)" > UPSTREAM_COMMIT_HASH
           git add UPSTREAM_COMMIT_HASH
-          git diff --cached --quiet || git commit -m "ci: update plugins.json"
+          git diff --cached --quiet || git commit -m "ci: update plugins store"
           git push origin main
