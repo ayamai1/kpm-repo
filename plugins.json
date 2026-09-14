@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "circlet",
+      "name": "Circlet",
+      "author": "@zxtoichi",
+      "version": "1.2",
+      "icon": "UtyaDuckFull/49",
+      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Если видео длиннее минуты, отправится выбранный кусок, а без обрезки — первая минута. Только потом отправка.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/circlet.plugin",
+      "hash": "61e6311f53be583266a1bc9623284b08663cf13d1cebb055894e21fde912bd57",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "bubble_chat_editor",
       "name": "Bubble Outline",
       "author": "@xw_wvv",
@@ -819,28 +844,6 @@
       "versions": {
         "1.3.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/stars_unlock_rub/stars_unlock_rub_v1.3.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "circlet",
-      "name": "Circlet",
-      "author": "@zxtoichi",
-      "version": "1.1",
-      "icon": "UtyaDuckFull/49",
-      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Только потом отправка.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/circlet.plugin",
-      "hash": "f5918952663ab8639f1d327a58ef6a221c5f2c96df3e3c36f3e7853981dbf887",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.0.plugin"
         }
       }
     },
