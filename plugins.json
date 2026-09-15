@@ -5243,34 +5243,6 @@
       }
     },
     {
-      "id": "deleted_gift_sender",
-      "name": "Deleted Gift Sender",
-      "author": "@binbash_0",
-      "version": "1.2.1",
-      "icon": "binbashPlugins/0",
-      "description": "Небольшой плагин, который позволяет легко отправить уже удаленные (скрытые с ui) подарки, возвращая их в этот самый ui",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/deleted_gift_sender.plugin",
-      "hash": "68acad879cfa2aa14e756843e520228d3fd35c812b965f85b9ea1084c91bc7e1",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.1.0.plugin"
-        },
-        "1.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.1.2.plugin"
-        },
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/deleted_gift_sender/deleted_gift_sender_v1.2.0.plugin"
-        }
-      }
-    },
-    {
       "id": "whyfantiq_lyricsplus_plugin",
       "name": "LyricsPlus",
       "author": "@whyfantiq",
