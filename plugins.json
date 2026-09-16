@@ -1,6 +1,44 @@
 {
   "plugins": [
     {
+      "id": "audio_downloader",
+      "name": "Audio Downloader",
+      "author": "@pluginsc",
+      "version": "1.1.0",
+      "icon": "open496/2",
+      "description": "RU: Загружает всю музыку из текущего чата/ канала напрямую в кэш.\n\nEN: Downloads all music from the current chat/ channel directly into the cache.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/audio_downloader.plugin",
+      "hash": "2a501ab95b19cd6a92103856fb62e3fbdf6db09181fc4f3bd8720c3db60b9dad",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audio_downloader/audio_downloader_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "IPhonePeek",
+      "name": "IPhonePeek",
+      "author": "@lunaref",
+      "version": "1.0.0",
+      "description": "Предпросмотр медиа как на iPhone. Выделить фото или видео, затем зажать медиа.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/IPhonePeek.plugin",
+      "hash": "188bd3e835fa6208246c56b873e5c57480d47c99b87716c6be319e3ca0bc09c7",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "circlet",
       "name": "Circlet",
       "author": "@zxtoichi",
@@ -73,23 +111,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/x_assist.plugin",
       "hash": "64e591d17fa76fdc82a523772e6c8bd82c94c8259b7aa7b7c14eb06ea1da96ac",
       "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "audio_downloader",
-      "name": "Audio Downloader",
-      "author": "@pluginsc",
-      "version": "1.0.0",
-      "icon": "open496/2",
-      "description": "RU: Загружает всю музыку из текущего чата/канала напрямую в кэш. Рекомендуется не выходить из чата/канала во время скачивания.\n\nEN: Downloads all music from the current chat/channel directly into the cache. It is recommended to stay in the chat/channel during downloading.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/audio_downloader.plugin",
-      "hash": "418c9c6418ca936ed7941524d7bd890d7bbd0bf125522d8554587806b9ef4d9c",
-      "app_version": ">=12.1.1",
       "tags": [
         [
           "Utilities",
