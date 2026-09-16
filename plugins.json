@@ -1,6 +1,26 @@
 {
   "plugins": [
     {
+      "id": "animtou",
+      "name": "Анимированные касания",
+      "author": "@jaxbastard & @zwylair",
+      "version": "2.2.0",
+      "icon": "RandomStikery324/35",
+      "description": "добавляет прикольную анимацию при каждом нажатии\n(идея — @itskotovski и @mishabotov)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animtou.plugin",
+      "hash": "332e613c7e77a65f7b3f2bdd39a09fdc97507ac61701578d23248f2b402b024f",
+      "app_version": ">=12.5.1",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "audio_downloader",
       "name": "Audio Downloader",
       "author": "@pluginsc",
