@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "air_raid_alert",
+      "name": "Air Raid Alert – NEPTUN",
+      "author": "@cobra_S0FT | @excess_plugins",
+      "version": "1.1.0",
+      "icon": "excess_icon/3",
+      "description": "Уведомляет о воздушной тревоге для выбранной области/района через открытый API NEPTUN.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
+      "hash": "a71e0c75452268e1e20e44a74d48161aa0f2bdd10a198dd9bc3913b72eee1609",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "OCR_2_Clip",
       "name": "OCR2Clip",
       "author": "@Iorela",
