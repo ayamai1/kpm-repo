@@ -8,8 +8,8 @@
       "icon": "amechan_wakuwaku_by_fStikBot/1",
       "description": "Получить текст песни из Genius, юзай .lyrics [имя песни].",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/genius_lyrics.plugin",
-      "hash": "78d30aed2daa90d4c7dd0b2c6bddd48668cd7d4f40e2a7f4c366507576c1110c",
-      "app_version": ">=11.12.1",
+      "hash": "5b092228221fbd9f9f3bad3eaef3137428e17da2dfff451aae76cb8719971bfa",
+      "app_version": ">=12.1.1",
       "tags": [
         [
           "Informational",
