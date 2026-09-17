@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "genius_lyrics",
+      "name": "Genius Lyrics",
+      "author": "@ArThirtyFour | @KangelPlugins",
+      "version": "1.2.0",
+      "icon": "amechan_wakuwaku_by_fStikBot/1",
+      "description": "Получить текст песни из Genius, юзай .lyrics [имя песни].",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/genius_lyrics.plugin",
+      "hash": "78d30aed2daa90d4c7dd0b2c6bddd48668cd7d4f40e2a7f4c366507576c1110c",
+      "app_version": ">=11.12.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/genius_lyrics/genius_lyrics_v1.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "animtou",
       "name": "Анимированные касания",
       "author": "@jaxbastard & @zwylair",
@@ -9878,23 +9900,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "genius_lyrics",
-      "name": "Genius Lyrics",
-      "author": "@ArThirtyFour | @KangelPlugins",
-      "version": "1.1.0",
-      "icon": "amechan_wakuwaku_by_fStikBot/1",
-      "description": "Получить текст песни из Genius , юзай .lyrics [имя песни].",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/genius_lyrics.plugin",
-      "hash": "7a930d7882ff4f93dcecaa8542a5efc645321fe724732c1040e293bc321f7d70",
-      "app_version": ">=11.12.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
