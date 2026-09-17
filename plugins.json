@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.4.2",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "c2c5cbbb54a55d0d3905d30dc05ae7f2fcf2334f45e170ac11781c016eca2d95",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        }
+      }
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert – NEPTUN",
       "author": "@cobra_S0FT | @excess_plugins",
@@ -217,23 +239,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/expressive_tab/expressive_tab_v1.1.plugin"
         }
       }
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.4.1",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "b7d0af2b889781268996061548bcdea135414be4f97958c99992be8547684f88",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "AI_TG_PLUS",
