@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "OCR_2_Clip",
+      "name": "OCR2Clip",
+      "author": "@Iorela",
+      "version": "1.2.0",
+      "icon": "sillyplugins/0",
+      "description": "Extract text from images directly to your clipboard, can crop and translate. Use ocr.space or Gemini",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/OCR_2_Clip.plugin",
+      "hash": "03ce9b61948cc8362bfc56333d9a377835ecbf9dcdc9a41d426979cac7614bc1",
+      "app_version": ">=12.10.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "genius_lyrics",
       "name": "Genius Lyrics",
       "author": "@ArThirtyFour | @KangelPlugins",
