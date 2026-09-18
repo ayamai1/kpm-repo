@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "long_quote_auto",
+      "name": "LongQuoteAuto",
+      "author": "@KUNSESHBOY",
+      "version": "1.4.0",
+      "icon": "SunnyAnime/3",
+      "description": "Сворачивает сообщение в цитату при наличии триггер-слов (крашлоги чтоб не срать длинным текстом в чат).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/long_quote_auto.plugin",
+      "hash": "c492b8068dabb16d7a2faeba82a113cec24645e142f5dbdb63b46afe71cd25c2",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "OCR_2_Clip",
       "name": "OCR2Clip",
       "author": "@Iorela",
