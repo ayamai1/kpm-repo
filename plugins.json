@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "OCR_2_Clip",
+      "name": "OCR2Clip",
+      "author": "@Iorela",
+      "version": "1.3",
+      "icon": "sillyplugins/0",
+      "description": "Extract text from images directly to your clipboard, can crop and translate. Use ocr.space or Gemini",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/OCR_2_Clip.plugin",
+      "hash": "ab32b844c06f47b96c95c68768f9d2f8ef93daa7635152638b6e8d0d8b7d0ef6",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/OCR_2_Clip/OCR_2_Clip_v1.2.0.plugin"
+        }
+      }
+    },
+    {
       "id": "link_guard",
       "name": "Link Guard",
       "author": "@Robobloxi",
@@ -164,23 +186,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
         }
       }
-    },
-    {
-      "id": "OCR_2_Clip",
-      "name": "OCR2Clip",
-      "author": "@Iorela",
-      "version": "1.2.0",
-      "icon": "sillyplugins/0",
-      "description": "Extract text from images directly to your clipboard, can crop and translate. Use ocr.space or Gemini",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/OCR_2_Clip.plugin",
-      "hash": "03ce9b61948cc8362bfc56333d9a377835ecbf9dcdc9a41d426979cac7614bc1",
-      "app_version": ">=12.10.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "genius_lyrics",
