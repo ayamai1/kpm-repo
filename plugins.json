@@ -1,6 +1,46 @@
 {
   "plugins": [
     {
+      "id": "camera_enhancer",
+      "name": "RVCE",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.0",
+      "icon": "pixelcamera/17",
+      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
+      "hash": "a5fa85b1c1ced0957b32ddede9af3ec582fffd6b416fda8991728e36c4d2271f",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_1.plugin"
+        }
+      }
+    },
+    {
       "id": "account_hider",
       "name": "AccountHider",
       "author": "@RnPlugins",
@@ -317,46 +357,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "camera_enhancer",
-      "name": "RVCE",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "2.0",
-      "icon": "pixelcamera/17",
-      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
-      "hash": "35fb04a1e550c0319c0b1c7050a7acb3d6ea7e873dfb66bfd909af0a654de01b",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0.plugin"
         }
       }
     },
