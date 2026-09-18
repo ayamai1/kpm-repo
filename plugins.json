@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "air_raid_alert",
+      "name": "Air Raid Alert – NEPTUN",
+      "author": "@cobra_S0FT | @excess_plugins",
+      "version": "1.1.1",
+      "icon": "excess_icon/3",
+      "description": "Уведомляет о воздушной тревоге для выбранной области/района через открытый API NEPTUN.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
+      "hash": "820debffa9157321c8b9aec8d2527bed85472c5a9a0306b44a1eaa986279a96b",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
+        }
+      }
+    },
+    {
       "id": "plugin_guard",
       "name": "Plugin Guard",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -21,23 +43,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
         }
       }
-    },
-    {
-      "id": "air_raid_alert",
-      "name": "Air Raid Alert – NEPTUN",
-      "author": "@cobra_S0FT | @excess_plugins",
-      "version": "1.1.0",
-      "icon": "excess_icon/3",
-      "description": "Уведомляет о воздушной тревоге для выбранной области/района через открытый API NEPTUN.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
-      "hash": "a71e0c75452268e1e20e44a74d48161aa0f2bdd10a198dd9bc3913b72eee1609",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "OCR_2_Clip",
