@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "account_hider",
+      "name": "AccountHider",
+      "author": "@RnPlugins",
+      "version": "1.0.1",
+      "icon": "RnDev/10",
+      "description": "Скрывает выбранные аккаунты из системных диалогов выбора аккаунта.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/account_hider.plugin",
+      "hash": "ac62a944dd4ec8155cfcac044a357d9fe943f34937116e1a22cf6024893ee6c6",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert – NEPTUN",
       "author": "@cobra_S0FT | @excess_plugins",
@@ -5848,28 +5873,6 @@
         },
         "2.6": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/folder_control/folder_control_v2.7.plugin"
-        }
-      }
-    },
-    {
-      "id": "account_hider",
-      "name": "AccountHider",
-      "author": "@RnPlugins",
-      "version": "1.0.1",
-      "icon": "RnDev/10",
-      "description": "Скрывает выбранные аккаунты из системных диалогов выбора аккаунта.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/account_hider.plugin",
-      "hash": "5ce583768e1b9b97edaa2165222506c09242dec1c3f00e82f0caa0e4b52cfaa3",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.0.plugin"
         }
       }
     },
