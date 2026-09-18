@@ -1,6 +1,57 @@
 {
   "plugins": [
     {
+      "id": "google_photo_picker",
+      "name": "Google Фото picker",
+      "author": "@varwqxddd",
+      "version": "3.7.1",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» после «Галереи» в меню вложений и открывает системный выбор Android: фото и видео, несколько сразу, отправка одним блоком.\n\nШтатное меню вложений Telegram не заменяется.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.plugin",
+      "hash": "65d4e7420b8f670573afd3e8406dfa0d3d3a211b9035c270e2b7f11da20924e5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "scam_base_writer",
+      "name": "Скам метка из реестра GiD",
+      "author": "0patient v Hoffman",
+      "version": "1.0.0",
+      "icon": "ManekenyByAlewaaar/12",
+      "description": "Парсит канал @GID_ScamBase и помечает мошенников красной строкой в профиле",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/scam_base_writer.plugin",
+      "hash": "dc244d9f3791679388df0f30e5061602bddac5bb1143d2a46b32a3d0c0114fa3",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "link_guard",
+      "name": "Link Guard",
+      "author": "@Robobloxi",
+      "version": "1.5.1",
+      "icon": "likguar/0",
+      "description": "Разбирает ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
+      "hash": "bec67edbe224c4c4ec91c0fedd2023842aac870e6dd3d2c9ce373e6b3a773e6f",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "camera_enhancer",
       "name": "RVCE",
       "author": "@dekma0091 && @DefinitelyNotDekma",
