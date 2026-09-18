@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "link_guard",
+      "name": "Link Guard",
+      "author": "@Robobloxi",
+      "version": "1.6.0",
+      "icon": "likguar/0",
+      "description": "Разбирает ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
+      "hash": "828f742b613867ca7b7efd3a52abd2c85828a52fa7714d3e4c33714758b29b46",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.5.1.plugin"
+        }
+      }
+    },
+    {
       "id": "google_photo_picker",
       "name": "Google Фото picker",
       "author": "@varwqxddd",
@@ -26,23 +48,6 @@
       "description": "Парсит канал @GID_ScamBase и помечает мошенников красной строкой в профиле",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/scam_base_writer.plugin",
       "hash": "dc244d9f3791679388df0f30e5061602bddac5bb1143d2a46b32a3d0c0114fa3",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "link_guard",
-      "name": "Link Guard",
-      "author": "@Robobloxi",
-      "version": "1.5.1",
-      "icon": "likguar/0",
-      "description": "Разбирает ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
-      "hash": "bec67edbe224c4c4ec91c0fedd2023842aac870e6dd3d2c9ce373e6b3a773e6f",
       "app_version": ">=12.1.1",
       "tags": [
         [
