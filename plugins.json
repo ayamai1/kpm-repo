@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "compact_bottom_nav",
+      "name": "CompactBottomNav",
+      "author": "@YouRooni",
+      "version": "1.0.1",
+      "icon": "RnDev/18",
+      "description": "Компактная нижняя панель без подписей с поддержкой Glass и Material 3.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/compact_bottom_nav.plugin",
+      "hash": "5fe93f79316dc71a39c93806899e863169424889bb179ed2912845be07217acf",
+      "app_version": ">=12.6.4",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_bottom_nav/compact_bottom_nav_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "long_quote_auto",
       "name": "LongQuoteAuto",
       "author": "@KUNSESHBOY",
@@ -3798,23 +3820,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/timers_stopwatches/timers_stopwatches_v2.3.0_1.plugin"
         }
       }
-    },
-    {
-      "id": "compact_bottom_nav",
-      "name": "CompactBottomNav",
-      "author": "@YouRooni",
-      "version": "1.0.0",
-      "icon": "RnDev/18",
-      "description": "Компактная нижняя панель без подписей и с плавающей кнопкой поиска.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/compact_bottom_nav.plugin",
-      "hash": "775f8f68760d4f86d530c7d68e5ed740964627e3c8f7d4ba2991e93a3e217a99",
-      "app_version": ">=12.6.4",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "local_pin",
