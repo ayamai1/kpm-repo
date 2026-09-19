@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "sync_powersaver",
+      "name": "Powersaver Sync",
+      "author": "@nonPlugins",
+      "version": "2.1",
+      "icon": "nonPlugins/1",
+      "description": "Synchronizes Telegram's power saving mode with system ones",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/sync_powersaver.plugin",
+      "hash": "822e99c2b62ea9746121da34f138b1ae37dd70f3892cdc1f89826f900afcc982",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/sync_powersaver/sync_powersaver_v1.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/sync_powersaver/sync_powersaver_v2.0_1.plugin"
+        }
+      }
+    },
+    {
       "id": "sticky_notes_overlay",
       "name": "Sticky Notes Native",
       "author": "@the_kubick  @mr_Vestr",
@@ -2567,28 +2592,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/AtmosFX/AtmosFX_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "sync_powersaver",
-      "name": "Powersaver Sync",
-      "author": "@nonPlugins",
-      "version": "2.0",
-      "icon": "nonPlugins/1",
-      "description": "Synchronizes Telegram's power saving mode with system ones",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/sync_powersaver.plugin",
-      "hash": "a95f1b45fe2b518d85bef3767008b5248acf880acaf51db97e89d4598b214293",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/sync_powersaver/sync_powersaver_v1.0.plugin"
         }
       }
     },
