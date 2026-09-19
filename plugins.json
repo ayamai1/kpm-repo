@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "sticky_notes_overlay",
+      "name": "Sticky Notes Native",
+      "author": "@the_kubick  @mr_Vestr",
+      "version": "3.4.0",
+      "icon": "UtyaDuck/26",
+      "description": "Плавающие заметки поверх Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/sticky_notes_overlay.plugin",
+      "hash": "ae95de019f36de371c3f3b2b1ae33f78c5025a246cfef5e06e1ab6f8dedda71e",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "hide_forum_topics",
       "name": "Hide Forum Topics",
       "author": "@chestertech & @useful_plugins",
