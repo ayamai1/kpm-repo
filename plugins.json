@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "side_panel",
+      "name": "side panel",
+      "author": "@d1zzy412",
+      "version": "1.0.0",
+      "icon": "ikonki_319a5_by_TgEmodziBot/1",
+      "description": "панель с чатами на правой стороне (идея панели взята из plus messenger)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/side_panel.plugin",
+      "hash": "ee3b94f239b78699d61ab45c939263d900000d3d889483037be99a59efa802db",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "long_quote_auto",
       "name": "LongQuoteAuto",
       "author": "@KUNSESHBOY",
