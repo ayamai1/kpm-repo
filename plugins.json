@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "long_quote_auto",
+      "name": "LongQuoteAuto",
+      "author": "@KUNSESHBOY",
+      "version": "1.4.0",
+      "icon": "SunnyAnime/3",
+      "description": "Сворачивает сообщение в цитату при наличии триггер-слов(крашлоги), чтоб не срать длинным текстом в чат.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/long_quote_auto.plugin",
+      "hash": "5c7ed96990900a78d2b2e3029ea4b5df80270b6e622f6721e6fa984d4d2f33fc",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/long_quote_auto/long_quote_auto_v1.4.0.plugin"
+        }
+      }
+    },
+    {
       "id": "sdk_check",
       "name": "SDK Check",
       "author": "@plugins_borbehr",
@@ -107,23 +129,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_bottom_nav/compact_bottom_nav_v1.0.0.plugin"
         }
       }
-    },
-    {
-      "id": "long_quote_auto",
-      "name": "LongQuoteAuto",
-      "author": "@KUNSESHBOY",
-      "version": "1.4.0",
-      "icon": "SunnyAnime/3",
-      "description": "Сворачивает сообщение в цитату при наличии триггер-слов (крашлоги чтоб не срать длинным текстом в чат).",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/long_quote_auto.plugin",
-      "hash": "c492b8068dabb16d7a2faeba82a113cec24645e142f5dbdb63b46afe71cd25c2",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "OCR_2_Clip",
