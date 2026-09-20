@@ -1,6 +1,53 @@
 {
   "plugins": [
     {
+      "id": "google_photo_picker",
+      "name": "Google Фото picker",
+      "author": "@varwqxddd",
+      "version": "4.1.0",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» в меню вложений\nДоступна возможность поиска фоток по тексту (как в приложении)\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.plugin",
+      "hash": "c9ff32d9ee1bb91e471d1c8ddd5a9880ff2b03dbbe758593418e3294b22c381a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "link_guard",
+      "name": "Link Guard",
+      "author": "@Robobloxi",
+      "version": "1.6.1",
+      "icon": "likguar/0",
+      "description": "Разбирает ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
+      "hash": "188c7ea280f3ddb1b65e58bf26f887489e8b919c0e4d8ee8c6317422346bd0a3",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.5.1.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.0.plugin"
+        }
+      }
+    },
+    {
       "id": "side_panel",
       "name": "side panel",
       "author": "@d1zzy412",
@@ -168,45 +215,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/OCR_2_Clip/OCR_2_Clip_v1.2.0.plugin"
         }
       }
-    },
-    {
-      "id": "link_guard",
-      "name": "Link Guard",
-      "author": "@Robobloxi",
-      "version": "1.6.0",
-      "icon": "likguar/0",
-      "description": "Разбирает ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
-      "hash": "828f742b613867ca7b7efd3a52abd2c85828a52fa7714d3e4c33714758b29b46",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.5.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.5.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "google_photo_picker",
-      "name": "Google Фото picker",
-      "author": "@varwqxddd",
-      "version": "3.7.1",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» после «Галереи» в меню вложений и открывает системный выбор Android: фото и видео, несколько сразу, отправка одним блоком.\n\nШтатное меню вложений Telegram не заменяется.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.plugin",
-      "hash": "65d4e7420b8f670573afd3e8406dfa0d3d3a211b9035c270e2b7f11da20924e5",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "scam_base_writer",
