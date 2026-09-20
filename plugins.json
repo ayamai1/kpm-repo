@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "side_panel",
+      "name": "side_panel",
+      "author": "@d1zzy412",
+      "version": "2.1.0",
+      "icon": "ikonki_319a5_by_TgEmodziBot/1",
+      "description": "боковая панель с чатами",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/side_panel.plugin",
+      "hash": "043a177e8aba9a15a0ac09dca216a0c2616d08dd09e0949096f4b2c6aff0e4d4",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "google_photo_picker",
       "name": "Google Фото picker",
       "author": "@varwqxddd",
@@ -46,23 +68,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.0.plugin"
         }
       }
-    },
-    {
-      "id": "side_panel",
-      "name": "side panel",
-      "author": "@d1zzy412",
-      "version": "1.0.0",
-      "icon": "ikonki_319a5_by_TgEmodziBot/1",
-      "description": "панель с чатами на правой стороне (идея панели взята из plus messenger)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/side_panel.plugin",
-      "hash": "ee3b94f239b78699d61ab45c939263d900000d3d889483037be99a59efa802db",
-      "app_version": ">=11.9.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "long_quote_auto",
