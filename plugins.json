@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "mention_avatars",
+      "name": "MentionAvatars",
+      "author": "@limeplug",
+      "version": "1.0.4",
+      "icon": "masquernya/13",
+      "description": "Shows the user's avatar next to an `@mention` in messages. ",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mention_avatars.plugin",
+      "hash": "9e37e96e24cc641ed189604302d21955c1bb0676b7e129ca34f24a4a5a06cb50",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "side_panel",
       "name": "side_panel",
       "author": "@d1zzy412",
