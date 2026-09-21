@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "visual_ecstasy",
+      "name": "Visual Ecstasy",
+      "author": "@exoseo -> @HzzzPlugins",
+      "version": "1.4",
+      "icon": "HzzzIcons/7",
+      "description": "Различная визуальная кастомизация: разноцветный liquid glass, виньетка и тд..",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/visual_ecstasy.plugin",
+      "hash": "3f17d11e95a6edb897c8119b13033aa3dd611509a1ca406f84ce65ca5e95d717",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "chip_folders",
       "name": "Chip Folders",
       "author": "@RnPlugins",
