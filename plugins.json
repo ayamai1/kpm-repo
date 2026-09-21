@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "chip_folders",
+      "name": "Chip Folders",
+      "author": "@RnPlugins",
+      "version": "1.0.2",
+      "icon": "RnDev/5",
+      "description": "Панель папок чатов в стиле чипсов Material 3 с плавным морфингом скруглений.\n\nMaterial 3 chip style folders bar with smooth corner morphing.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chip_folders.plugin",
+      "hash": "2e4852ba0af378bdc32601f99e8f2c11d47ae8f3e4fc2987d38b003fd36e50d1",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chip_folders/chip_folders_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chip_folders/chip_folders_v1.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "translatorplus",
       "name": "TranslatorPlus",
       "author": "@xwvux",
@@ -1607,28 +1632,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "chip_folders",
-      "name": "Chip Folders",
-      "author": "@RnPlugins",
-      "version": "1.0.1",
-      "icon": "RnDev/5",
-      "description": "Панель папок чатов в стиле чипсов Material 3 с плавным морфингом скруглений.\n\nMaterial 3 chip style folders bar with smooth corner morphing.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chip_folders.plugin",
-      "hash": "232ed32bcd63cf5f6422e0ec8f0ae9e1ae8d65d9d3345ff633b0fe43926cfb5d",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chip_folders/chip_folders_v1.0.0.plugin"
-        }
-      }
     },
     {
       "id": "wp",
