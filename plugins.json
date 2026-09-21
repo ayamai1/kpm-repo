@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "md3_navbars_everywhere",
+      "name": "MD3 Navbars Everywhere",
+      "author": "@Slucket",
+      "version": "1.0.0",
+      "description": "Applies MD3-styled navbars to attach menu, statistics and gifts preview screens. Requires exteraGram's MD3 navbar to be on.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/md3_navbars_everywhere.plugin",
+      "hash": "3136135aa962f818123f8666c28f57cb5a41fbfa9d1de3d48810458110b6e814",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "kangel_plugins_manager",
       "name": "Kangel Plugins Manager",
       "author": "@KangelPluginsManager",
