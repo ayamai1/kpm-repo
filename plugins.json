@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "uname-in-name",
+      "name": "UserName-In-Name",
+      "author": "@n08i40k_extera",
+      "version": "1.1.0",
+      "icon": "LedScreenEmoji/47",
+      "description": "Отображение юзернейма в имени пользователя по заданному шаблону",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/uname-in-name.plugin",
+      "hash": "00467ef1057c66bae747bf7e00c27db27f9aedf6617d8b64a5950d85f1ccc5dc",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/uname-in-name/uname-in-name_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "quotecreate",
       "name": "Quote",
       "author": "@mihailkotovski & @JasonVurhyz",
@@ -1585,23 +1607,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_loader/re_extera_loader_v2.8.5.plugin"
         }
       }
-    },
-    {
-      "id": "uname-in-name",
-      "name": "UserName-In-Name",
-      "author": "@n08i40k_extera",
-      "version": "1.0.0",
-      "icon": "LedScreenEmoji/47",
-      "description": "Отображение юзернейма в имени пользователя по заданному шаблону",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/uname-in-name.plugin",
-      "hash": "6271d8ed5a9426991295647e65b35c2d1818dfb0973be5c2c3d5426894a46037",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "dialogs_theme_background",
