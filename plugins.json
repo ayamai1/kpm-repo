@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "panic_passcode_pro",
+      "name": "Panic Passcode Pro",
+      "author": "@chestertech",
+      "version": "1.0.70",
+      "icon": "msg_lock",
+      "description": "✅ Universal panic passcode for all Telegram forks",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/panic_passcode_pro.plugin",
+      "hash": "316ae750c2362bc948018db59d724ab5c2e8f9385ac6b16a38a495b4143c630d",
+      "app_version": ">=12.2.3",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.67": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/panic_passcode_pro/panic_passcode_pro_v1.0.67.plugin"
+        }
+      }
+    },
+    {
       "id": "google_photo_picker",
       "name": "Google Фото picker",
       "author": "@varwqxddd",
@@ -12664,23 +12686,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/saved_cleaner_ultimate.plugin",
       "hash": "5687fb4e6b528ed7c4a12742f04d518fdf20c2bcd9bb64beccf2cdfadac4ba54",
       "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "panic_passcode_pro",
-      "name": "Panic Passcode Pro",
-      "author": "@chestertech",
-      "version": "1.0.67",
-      "icon": "msg_lock",
-      "description": "✅ Universal panic passcode for all Telegram forks",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/panic_passcode_pro.plugin",
-      "hash": "95ea766f6501d0e6bc118fa62d48ad52cc5885f1a7677ae9efb86baecb2c36cf",
-      "app_version": ">=12.2.3",
       "tags": [
         [
           "Utilities",
