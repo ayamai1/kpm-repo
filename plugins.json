@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "google_photo_picker",
+      "name": "Google Фото picker",
+      "author": "@varwqxddd",
+      "version": "4.2.0",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» в меню вложений\nДоступна возможность поиска фоток по тексту (как в приложении)\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!\n",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.plugin",
+      "hash": "191612385e1385755b1387aa3bae9bac8bb4aa6fab215cb9737f4f57832e8f7a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert – alerts.in.ua",
       "author": "@cobra_S0FT | @excess_plugins",
@@ -382,28 +407,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "google_photo_picker",
-      "name": "Google Фото picker",
-      "author": "@varwqxddd",
-      "version": "4.1.0",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» в меню вложений\nДоступна возможность поиска фоток по тексту (как в приложении)\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.plugin",
-      "hash": "c9ff32d9ee1bb91e471d1c8ddd5a9880ff2b03dbbe758593418e3294b22c381a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "3.7.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
         }
       }
     },
