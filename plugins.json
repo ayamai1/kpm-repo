@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "animtou",
+      "name": "Анимированные касания",
+      "author": "@jaxbastard & @zwylair",
+      "version": "2.3.0",
+      "icon": "RandomStikery324/35",
+      "description": "Добавляет прикольную анимацию при каждом нажатии\n(идея — @itskotovski и @mishabotov)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animtou.plugin",
+      "hash": "96d45015cee96aba141b2a4818de84390f45495cc0cdd4c699dda7c972e3d8ba",
+      "app_version": ">=12.5.1",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/animtou/animtou_v2.2.0.plugin"
+        }
+      }
+    },
+    {
       "id": "link_guard",
       "name": "Link Guard",
       "author": "@Robobloxi",
@@ -639,26 +664,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/genius_lyrics/genius_lyrics_v1.1.0.plugin"
         }
       }
-    },
-    {
-      "id": "animtou",
-      "name": "Анимированные касания",
-      "author": "@jaxbastard & @zwylair",
-      "version": "2.2.0",
-      "icon": "RandomStikery324/35",
-      "description": "добавляет прикольную анимацию при каждом нажатии\n(идея — @itskotovski и @mishabotov)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animtou.plugin",
-      "hash": "332e613c7e77a65f7b3f2bdd39a09fdc97507ac61701578d23248f2b402b024f",
-      "app_version": ">=12.5.1",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "audio_downloader",
