@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "mute_ls",
+      "name": "Мут в ЛС",
+      "author": "@shit_plugins",
+      "version": "1.0",
+      "icon": "exteraPlugins/1",
+      "description": "Мьютит собеседника в личке: все входящие сообщения от него удаляются.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mute_ls.plugin",
+      "hash": "5a1d61323c557330db45f7e48f60e418da35bac7b2584b27416a36915db71690",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "petpet",
       "name": "petpet",
       "author": "@limeplug",
@@ -19,6 +36,9 @@
       "versions": {
         "1.1.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.1.2_1.plugin"
+        },
+        "1.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.0.6.plugin"
         }
       }
     },
