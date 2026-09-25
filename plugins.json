@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "gradient_mini_player",
+      "name": "Gradient Mini Player",
+      "author": "@thelevikane",
+      "version": "3.4.0",
+      "icon": "qwertysticks3/0",
+      "description": "Динамический градиент из цветов обложки: штатный Mini Player, полноэкранный плеер и цвет уведомления. Плавная смена цветов, лёгкая анимация, настройка прозрачности.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gradient_mini_player.plugin",
+      "hash": "c1c5dd76f21a9447f68df9f33bd8798dff62f8ed7e59f065865805ca9d29aed0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "mute_ls",
       "name": "Мут в ЛС",
       "author": "@shit_plugins",
