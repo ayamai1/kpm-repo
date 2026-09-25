@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "petpet",
+      "name": "petpet",
+      "author": "@limeplug",
+      "version": "1.0.6",
+      "icon": "masquernya/14",
+      "description": "Creates a petpet gif from avatars, photos, stickers, or image URLs",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/petpet.plugin",
+      "hash": "c862230a83cd1fc177c3e8fa3dfea9f5eb33462b73f4dc438445aa8f6586626a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.1.2_1.plugin"
+        }
+      }
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
@@ -12751,28 +12773,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "petpet",
-      "name": "PetPet",
-      "author": "@Toxano_modules",
-      "version": "1.1.2",
-      "icon": "t_modules/4",
-      "description": "Гладит медиа/гифки/стикеры/аву. Команди: .petpet (reply); .petpet -a (кличество) (reply) (калаче гладит авю, а в количестве какую авю)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/petpet.plugin",
-      "hash": "fd7e77ce568dceb850dcbe5e2290c2e2b0ae01d1621ed18adbd91c5de4b8848b",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.1.2.plugin"
-        }
-      }
     },
     {
       "id": "text_editor",
