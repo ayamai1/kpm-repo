@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "visual_ecstasy",
+      "name": "Visual Ecstasy",
+      "author": "@exoseo -> @HzzzPlugins",
+      "version": "1.5",
+      "icon": "HzzzIcons/7",
+      "description": "Различная визуальная кастомизация: разноцветный liquid glass, виньетка и тд..",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/visual_ecstasy.plugin",
+      "hash": "434d48caffe2bc5d016e8a716493dd32e58283191e1b0551bbd0b4a1fb62ee3c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/visual_ecstasy/visual_ecstasy_v1.4.plugin"
+        }
+      }
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
@@ -521,23 +543,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/kangel_plugins_manager/kangel_plugins_manager_v1.5.3.eaf"
         }
       }
-    },
-    {
-      "id": "visual_ecstasy",
-      "name": "Visual Ecstasy",
-      "author": "@exoseo -> @HzzzPlugins",
-      "version": "1.4",
-      "icon": "HzzzIcons/7",
-      "description": "Различная визуальная кастомизация: разноцветный liquid glass, виньетка и тд..",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/visual_ecstasy.plugin",
-      "hash": "3f17d11e95a6edb897c8119b13033aa3dd611509a1ca406f84ce65ca5e95d717",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "chip_folders",
