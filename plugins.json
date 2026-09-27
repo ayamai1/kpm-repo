@@ -1,6 +1,43 @@
 {
   "plugins": [
     {
+      "id": "boykisser_meow",
+      "name": "Boykisser Corner",
+      "author": "@duckerer <--- Boykisser",
+      "version": "1.4.3",
+      "icon": "animated_boykisser_by_fStikBot/12",
+      "description": "Мяукающий boykisser в углу экрана",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/boykisser_meow.plugin",
+      "hash": "d3198377f9bece4c15d144f6d6d68a2dff003b7a40b39b15c59c3d45f58b9947",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.1.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.2.0.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.3.0.plugin"
+        },
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.4.0.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.4.2.plugin"
+        }
+      }
+    },
+    {
       "id": "header_call_button",
       "name": "Header Call Button",
       "author": "@l_limon_l",
@@ -4382,40 +4419,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "boykisser_meow",
-      "name": "Boykisser Corner",
-      "author": "@duckerer <--- Boykisser",
-      "version": "1.4.2",
-      "icon": "animated_boykisser_by_fStikBot/12",
-      "description": "Мяукающий boykisser в углу экрана",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/boykisser_meow.plugin",
-      "hash": "a3fe2fbcc19ac01fad2b3690e0848f08f0154d943f7f3c1cba3515667ec8fb7a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.1.0.plugin"
-        },
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.2.0.plugin"
-        },
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.3.0.plugin"
-        },
-        "1.4.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.4.0.plugin"
-        }
-      }
     },
     {
       "id": "commands",
