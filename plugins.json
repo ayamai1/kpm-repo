@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "proxy_sub",
+      "name": "Proxy Sub",
+      "author": "@akresik",
+      "version": "2.0.0",
+      "icon": "OliverEmoji/21",
+      "description": "Загружает список прокси MTProto и WebProxy из удалённого источника и добавляет их в ваш клиент.\n\nВозможности:\n • Выбор источника (GitVerse / GitHub) с автофоллбэком\n • Фильтрация типов прокси через настройки плагина\n • Экспорт текущего списка прокси в Избранное (сообщением или файлом, если список большой)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/proxy_sub.plugin",
+      "hash": "10d15c5d245627eff024ea2ef64383e881dffa41f63b75d95590374d0d519c64",
+      "app_version": ">=12.10.5",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/proxy_sub/proxy_sub_v1.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "custom_chats_title",
       "name": "Custom Header",
       "author": "@l_limon_l",
@@ -4769,23 +4791,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/floating_rounds.plugin",
       "hash": "baf80c98951dbe5509688a03c8c92c4fa372a454a5ea3d4d2fdd273d7ac4572e",
       "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "proxy_sub",
-      "name": "Proxy Sub",
-      "author": "@akresik",
-      "version": "1.0.1",
-      "icon": "OliverEmoji/21",
-      "description": "Добавляет кнопку получения свежих прокси в соответствующем меню, а также их экспорт в избранное.\nВАЖНО: после обновления списка необходимо перезапустить клиент.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/proxy_sub.plugin",
-      "hash": "02d327aab1b18608641269229a3d8f13733310a50908bf8ffe3f90887cf14bde",
-      "app_version": ">=12.1.1",
       "tags": [
         [
           "Utilities",
