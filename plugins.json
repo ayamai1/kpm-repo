@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "mute_ls",
+      "name": "Мут в ЛС",
+      "author": "@shit_plugins",
+      "version": "1.1",
+      "icon": "exteraPlugins/1",
+      "description": "Мьютит собеседника в личке: все входящие сообщения от него удаляются. При желании отправляет уведомления о муте и размьюте.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mute_ls.plugin",
+      "hash": "55f80a771c36edb64fd41e12b4fa9a5bb2b1ea2022bb4041d0e6ec9ab897dbf5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/mute_ls/mute_ls_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "quick_back",
       "name": "Quick Back",
       "author": "@nonPlugins",
@@ -145,23 +167,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "mute_ls",
-      "name": "Мут в ЛС",
-      "author": "@shit_plugins",
-      "version": "1.0",
-      "icon": "exteraPlugins/1",
-      "description": "Мьютит собеседника в личке: все входящие сообщения от него удаляются.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mute_ls.plugin",
-      "hash": "5a1d61323c557330db45f7e48f60e418da35bac7b2584b27416a36915db71690",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
