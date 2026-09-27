@@ -4,11 +4,11 @@
       "id": "custom_chats_title",
       "name": "Custom Header",
       "author": "@l_limon_l",
-      "version": "3.0.0",
+      "version": "3.1.0",
       "icon": "limPlugIc/0",
-      "description": "Replaces the exteraGram / AyuGram title above the chat list with your own text. A separate title can be set for every account.",
+      "description": "Replaces the exteraGram / AyuGram title above the chat list with your own text. A separate title can be set for every account, or the original Telegram logo can be shown instead.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_chats_title.plugin",
-      "hash": "a20c3b47e35fd22dc10b35a916b7fd76dbc6c96422318bb6497793585bba76d1",
+      "hash": "82eec0730800e2830eedf370066f2887e2991d6227ed7a891a43a1c42357e5dd",
       "app_version": ">=12.5.1",
       "tags": [
         [
@@ -25,6 +25,9 @@
         },
         "2.1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v2.1.0.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v3.0.0.plugin"
         }
       }
     },
