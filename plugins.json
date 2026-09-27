@@ -1,6 +1,71 @@
 {
   "plugins": [
     {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.4.3",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "f8bb4b382c523adeffc8f2d8e2deb17d844083cf18d715204e2df77ce686268c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "camera_enhancer",
+      "name": "RVCE",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.1",
+      "icon": "pixelcamera/17",
+      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
+      "hash": "f3d7badef61a12974809e256967d2726e2069b418a3c416d8c3baae38470d63a",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_2.plugin"
+        }
+      }
+    },
+    {
       "id": "proxy_sub",
       "name": "Proxy Sub",
       "author": "@akresik",
@@ -959,46 +1024,6 @@
       ]
     },
     {
-      "id": "camera_enhancer",
-      "name": "RVCE",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "2.0",
-      "icon": "pixelcamera/17",
-      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
-      "hash": "a5fa85b1c1ced0957b32ddede9af3ec582fffd6b416fda8991728e36c4d2271f",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_1.plugin"
-        }
-      }
-    },
-    {
       "id": "account_hider",
       "name": "AccountHider",
       "author": "@RnPlugins",
@@ -1020,28 +1045,6 @@
         },
         "1.0.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.4.2",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "c2c5cbbb54a55d0d3905d30dc05ae7f2fcf2334f45e170ac11781c016eca2d95",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
         }
       }
     },
