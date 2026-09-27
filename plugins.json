@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "custom_chats_title",
+      "name": "Custom Header",
+      "author": "@l_limon_l",
+      "version": "3.0.0",
+      "icon": "limPlugIc/0",
+      "description": "Replaces the exteraGram / AyuGram title above the chat list with your own text. A separate title can be set for every account.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_chats_title.plugin",
+      "hash": "a20c3b47e35fd22dc10b35a916b7fd76dbc6c96422318bb6497793585bba76d1",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v2.0.0.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v2.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "meeow_reswaga",
       "name": "reSwaga",
       "author": "@meeownnews",
@@ -5083,31 +5111,6 @@
       "versions": {
         "2.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/image_fx_fork/image_fx_fork.plugin"
-        }
-      }
-    },
-    {
-      "id": "custom_chats_title",
-      "name": "Custom Header",
-      "author": "@l_limon_l",
-      "version": "2.1.0",
-      "icon": "limPlugIc/0",
-      "description": "Replaces the exteraGram or AyuGram title with a custom one.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_chats_title.plugin",
-      "hash": "d9e7fb6731dc8dc499e5654c2eccfd959bafde25c468e70244539b1aae2a830d",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title_v2.0.0.plugin"
-        },
-        "2.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_chats_title/custom_chats_title.plugin"
         }
       }
     },
