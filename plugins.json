@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "header_call_button",
+      "name": "Header Call Button",
+      "author": "@l_limon_l",
+      "version": "1.2.0",
+      "description": "Кнопка звонка в шапке личного чата, как в официальном Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/header_call_button.plugin",
+      "hash": "6dabe3552ffce6751a66adcb802484ab02492e40eab2db2db80f1e70acbef3de",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "mute_ls",
       "name": "Мут в ЛС",
       "author": "@shit_plugins",
