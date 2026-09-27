@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "meeow_reswaga",
+      "name": "reSwaga",
+      "author": "@meeownnews",
+      "version": "2.0.2",
+      "icon": "remusic/7",
+      "description": "Плагин для отправки карточек и аудиофайлов треков что вы сейчас слушаете",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/meeow_reswaga.eaf",
+      "hash": "6f10f6805b2e02c51348ac21d3b84552935bf44aaee294ac74f36368a8420c28",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/meeow_reswaga/meeow_reswaga_v2.0.0.eaf"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/meeow_reswaga/meeow_reswaga_v2.0.1.eaf"
+        }
+      }
+    },
+    {
       "id": "boykisser_meow",
       "name": "Boykisser Corner",
       "author": "@duckerer <--- Boykisser",
@@ -3363,28 +3388,6 @@
         },
         "2.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_uploader/music_uploader_v2.0.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "meeow_reswaga",
-      "name": "reSwaga",
-      "author": "@meeowPlugins",
-      "version": "2.0.1",
-      "icon": "remusic/7",
-      "description": "Плагин для отправки карточек и аудиофайлов треков что вы сейчас слушаете",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/meeow_reswaga.eaf",
-      "hash": "67bbbf1e443c8720867bc4ee3cf37f90b5d8ebc169f410456c9b737c898624d7",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/meeow_reswaga/meeow_reswaga_v2.0.0.eaf"
         }
       }
     },
