@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "quick_back",
+      "name": "Quick Back",
+      "author": "@nonPlugins",
+      "version": "1.0",
+      "icon": "nonPlugins/2",
+      "description": "Instant return to home screen or section start via back gestures",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quick_back.plugin",
+      "hash": "f36611baa348616bf7dc4ca46dc39809c9635572309db2fc3db64a241c3538d9",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "visual_ecstasy",
       "name": "Visual Ecstasy",
       "author": "@exoseo -> @HzzzPlugins",
