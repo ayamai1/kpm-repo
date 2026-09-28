@@ -1,6 +1,72 @@
 {
   "plugins": [
     {
+      "id": "google_photo_picker",
+      "name": "Google Фото picker",
+      "author": "@varwqxddd",
+      "version": "4.2.3",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» в меню вложений\\nДоступна возможность поиска фоток по тексту (как в приложении)\\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
+      "hash": "d5f90e3dc241b583e9ebcacfbfa8064ea24e8bc726cf4b7b3683c1e1cf4e46b7",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
+        },
+        "4.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "header_call_button",
+      "name": "Header Call Button",
+      "author": "@l_limon_l",
+      "version": "1.2.3",
+      "description": "Кнопка звонка в шапке личного чата, как в официальном Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/header_call_button.plugin",
+      "hash": "2204d2d26ad9d4dbea7bfd4df1ecbc0fb1f0881c9a7fbdc9990015d005f57e06",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/header_call_button/header_call_button_v1.2.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "songlinker",
+      "name": "Song Linker",
+      "author": "@thrzxd • @kotilnya",
+      "version": "1.0.2",
+      "icon": "Konataizumi0_by_fStikBot/6",
+      "description": "Converts a link into hypertext.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/songlinker.plugin",
+      "hash": "bed44f181ad80de7f6c67abc114a8e286701be24bd318dc73f18ca5f63d99e9b",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "custom_gifts",
       "name": "Custom Gifts",
       "author": "@binbash_0",
@@ -213,22 +279,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/boykisser_meow/boykisser_meow_v1.4.2.plugin"
         }
       }
-    },
-    {
-      "id": "header_call_button",
-      "name": "Header Call Button",
-      "author": "@l_limon_l",
-      "version": "1.2.0",
-      "description": "Кнопка звонка в шапке личного чата, как в официальном Telegram",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/header_call_button.plugin",
-      "hash": "6dabe3552ffce6751a66adcb802484ab02492e40eab2db2db80f1e70acbef3de",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "mute_ls",
@@ -492,31 +542,6 @@
         },
         "1.6.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.6.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "google_photo_picker",
-      "name": "Google Фото picker",
-      "author": "@varwqxddd",
-      "version": "4.2.0",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» в меню вложений\nДоступна возможность поиска фоток по тексту (как в приложении)\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!\n",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.plugin",
-      "hash": "191612385e1385755b1387aa3bae9bac8bb4aa6fab215cb9737f4f57832e8f7a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "3.7.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
         }
       }
     },
