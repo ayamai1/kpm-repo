@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "air_raid_alert",
+      "name": "Air Raid Alert",
+      "author": "@cobra_S0FT | @excess_plugins",
+      "version": "1.2.0",
+      "icon": "excess_icon/3",
+      "description": "Уведомляет о воздушной тревоге для выбранной области/района через официальный API alerts.in.ua.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
+      "hash": "7eb4e661da37b3f8a8b6a2225c248759ccd464b5f2edee8e997b0a575a53dc35",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.1.eaf"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0.eaf"
+        }
+      }
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
@@ -548,31 +576,6 @@
         },
         "1.6.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.6.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "air_raid_alert",
-      "name": "Air Raid Alert – alerts.in.ua",
-      "author": "@cobra_S0FT | @excess_plugins",
-      "version": "1.2.0",
-      "icon": "excess_icon/3",
-      "description": "Уведомляет о воздушной тревоге для выбранной области/района через официальный API alerts.in.ua.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
-      "hash": "518b08112e1f06e56d3f1328390191fda2e5fd9e9a667fe4bb647011ca943771",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
-        },
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.1.eaf"
         }
       }
     },
