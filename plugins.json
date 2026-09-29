@@ -4,11 +4,11 @@
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
-      "version": "2.21.0",
+      "version": "2.21.1",
       "icon": "tiktok_streak/4",
       "description": "Аналог стриков TikTok для Telegram",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/tg-streaks.plugin",
-      "hash": "f252b8ff4003946e8b32c6c9c8cb5b9c32c9e064f318af1c20654967bc8e7dee",
+      "hash": "b8b547aee4b91d14a62424477e9c609f453b1a3d495be2f05c93821e2bd00006",
       "app_version": ">=12.1.1",
       "tags": [
         [
@@ -67,6 +67,9 @@
         },
         "2.20.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.20.1.plugin"
+        },
+        "2.21.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.21.0.plugin"
         }
       }
     },
