@@ -1,6 +1,36 @@
 {
   "plugins": [
     {
+      "id": "hide_forum_topics",
+      "name": "Hide Forum Topics",
+      "author": "@chestertech & @useful_plugins",
+      "version": "1.3.8",
+      "description": "Hides selected topics from forums and all notifications from these topics",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hide_forum_topics.plugin",
+      "hash": "740a6f65f2fd53d3e677dca0f343e74f590b80676b7c4b0a67af2609c52060fe",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.2.1.plugin"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.3.0.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.3.1.plugin"
+        },
+        "1.3.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.3.6.plugin"
+        }
+      }
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert",
       "author": "@cobra_S0FT | @excess_plugins",
@@ -1002,33 +1032,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "hide_forum_topics",
-      "name": "Hide Forum Topics",
-      "author": "@chestertech & @useful_plugins",
-      "version": "1.3.6",
-      "description": "Hides selected topics from forums and all notifications from these topics",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hide_forum_topics.plugin",
-      "hash": "779190cb1f2707fea8dc7e5f2fd9f75f70970f4851f0a291b42950dbd51bdafd",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.2.1.plugin"
-        },
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.3.0.plugin"
-        },
-        "1.3.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hide_forum_topics/hide_forum_topics_v1.3.1.plugin"
-        }
-      }
     },
     {
       "id": "compact_bottom_nav",
