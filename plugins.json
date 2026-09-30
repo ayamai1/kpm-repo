@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "bot_tags",
+      "name": "Bot Tags",
+      "author": "@cobra_S0FT | @excess_plugins",
+      "version": "1.0.0",
+      "icon": "excess_icon/4",
+      "description": "Добавляет тег к каждому сообщению в выбранных чатах. Быстрая настройка командой .tag прямо в чате.\nПолезно в ботах общения/поддержки.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bot_tags.plugin",
+      "hash": "4de9e922b4029540201e121e0a2e9dbdc02272b2bc1d7b37f12fa19d771977b7",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "global_font_picker",
       "name": "Global Font Picker",
       "author": "@JavaScript_XD",
