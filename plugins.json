@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "global_font_picker",
+      "name": "Global Font Picker",
+      "author": "@JavaScript_XD",
+      "version": "2.7.3",
+      "icon": "epwpew/62",
+      "description": "Applies a selected font across Telegram UI. v2.7.3: chat preview reworked like in Quote (real wallpaper snapshot, proper message cells), and a \"restart the app\" bulletin when the plugin or the font is turned off.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/global_font_picker.plugin",
+      "hash": "22630bf527e96fcb727b24a2766cd01a7a137db2ab74276306137b0f1f546ad6",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "rule34_search",
       "name": "BooruSearch",
       "author": "@ArThirtyFour | @KangelPlugins",
