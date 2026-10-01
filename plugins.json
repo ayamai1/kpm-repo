@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "extera_clean",
+      "name": "exteraClean",
+      "author": "@plugin_ai",
+      "version": "1.0.2",
+      "icon": "msg_delete",
+      "description": "Массовая очистка неактивных и бесполезных чатов",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/extera_clean.plugin",
+      "hash": "1c6894abbc507e49d95c22bf02ba9f69539da7d966948f6784c0c80c8197ea15",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/extera_clean/extera_clean_v1.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "sorter_plus",
       "name": "Sorter+",
       "author": "@plugin_ai",
@@ -14035,23 +14057,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "extera_clean",
-      "name": "exteraClean",
-      "author": "@etopizdesblin & @plugin_ai",
-      "version": "1.0.1",
-      "icon": "msg_delete",
-      "description": "Массовая очистка неактивных и бесполезных чатов",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/extera_clean.plugin",
-      "hash": "54383c2760eb6db97e12cf26f7cea66c4ae3e607ea190e78a78328a3dc435ec2",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
         ]
       ]
     },
