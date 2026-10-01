@@ -1,6 +1,98 @@
 {
   "plugins": [
     {
+      "id": "jpeg_quality",
+      "name": "JPEG Quality Slider",
+      "author": "@dekma0091",
+      "version": "2.1",
+      "icon": "pixelcamera/10",
+      "description": "Добавляет слайдер регулировки качества JPEG в ползунки редактирования фото с real-time предпросмотром",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/jpeg_quality.plugin",
+      "hash": "b34d7ca3114625957e6d569bc003d912d93237966818a5b59ea3419a166ae0b7",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "advanced_search",
+      "name": "Продвинутый поиск",
+      "author": "@dekma0091",
+      "version": "1.2",
+      "icon": "pixelcamera/16",
+      "description": "Продвинутый поиск по чатам, документам с различными фильтрами",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/advanced_search.plugin",
+      "hash": "aee561b7e1a34ae719b567b9b41389f2e7141cf80ce4f81374b72901e7a9761c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "iphone_like_Portret",
+      "name": "iPhone Like Portret",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.2",
+      "icon": "pixelcamera/8",
+      "description": "Портретный режим аля Айфон на основе MLkit модели. Требуются сервисы Google. РАЗМЫТИЕ ВИДНО ТОЛЬКО ПОСЛЕ ОТПРАВКИ КРУЖКА!!!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/iphone_like_Portret.plugin",
+      "hash": "93e8616afcd951b104cdb45632287137d5b1dd0039abba2aa47f585b71e05727",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.4.4",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "ed1c76325073cf44365ef0d1895271ef5b2718eb3744ef6443728ba444c5e9cd",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
+        }
+      }
+    },
+    {
       "id": "spen_support",
       "name": "Samsung S-Pen Support",
       "author": "@huecoder",
@@ -352,31 +444,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.4.3",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "f8bb4b382c523adeffc8f2d8e2deb17d844083cf18d715204e2df77ce686268c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
-        },
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
-        }
-      }
     },
     {
       "id": "camera_enhancer",
@@ -1747,28 +1814,6 @@
         },
         "4.5": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v4.5.plugin"
-        }
-      }
-    },
-    {
-      "id": "advanced_search",
-      "name": "Продвинутый поиск",
-      "author": "@dekma0091",
-      "version": "1.1",
-      "icon": "pixelcamera/16",
-      "description": "Продвинутый поиск по чатам, документам с фильтрами по дате, юзеру, типу медиа",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/advanced_search.plugin",
-      "hash": "5e975e0a793ae7cc2bc6c19bf347d3004fdf7618172023db8640ed20eb9128da",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.0.plugin"
         }
       }
     },
@@ -5804,23 +5849,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pack_cloner/pack_cloner-1.7.0.plugin"
         }
       }
-    },
-    {
-      "id": "iphone_like_Portret",
-      "name": "iPhone Like Portret",
-      "author": "@dekma0091",
-      "version": "1.1",
-      "icon": "pixelcamera/8",
-      "description": "Портретный режим аля Айфон на основе MLkit модели. Требуются сервисы Google. РАЗМЫТИЕ ВИДНО ТОЛЬКО ПОСЛЕ ОТПРАВКИ КРУЖКА!!!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/iPhoneLikePortrait.plugin",
-      "hash": "ada17e19f49635d7db02716d99a5e05e2607e19ae0085638523054e3ed1bbd4e",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "protect_filter",
