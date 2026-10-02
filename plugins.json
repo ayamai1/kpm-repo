@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "gift_search",
+      "name": "GiftSearch",
+      "author": "@uipurple",
+      "version": "1.0.1r",
+      "icon": "ui_purpleicons/0",
+      "description": "Поиск подарков в один клик — добавляет отдельную вкладку «Подарки» прямо в глобальный поиск Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gift_search.plugin",
+      "hash": "3ed5e78fa51fa4e56af3a71599986d0978a8c6f0918256ffce5b9d68340f436e",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "save_selected_files",
       "name": "Save Selected Files",
       "author": "@akresik",
