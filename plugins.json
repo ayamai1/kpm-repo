@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "quantahut",
+      "name": "QuantaHut",
+      "author": "@luvztroy",
+      "version": "1.5.4",
+      "icon": "luvztroyIcons/14",
+      "description": "Library for Quanta plugins",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quantahut.plugin",
+      "hash": "6d77ec8e97925d069c7561e1bb5828e69fed115e565dd93fbb6ad9ea65f1a307",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Library",
+          "key_avatar_backgroundInProfileBlue"
+        ]
+      ],
+      "versions": {
+        "1.5.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.6-Beta.plugin"
+        },
+        "1.5.3.6-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.7-Beta.plugin"
+        },
+        "1.5.3.8-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/QuantaHut_v1.5.3.8-Beta.plugin"
+        },
+        "1.5.3.9-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.9-Beta.plugin"
+        }
+      }
+    },
+    {
+      "id": "ui_tweaks",
+      "name": "UiTweaks",
+      "author": "@luvztroy",
+      "version": "1.8.6",
+      "icon": "luvztroyIcons/13",
+      "description": "Well sometimes you just need to tweak things... (requires [QuantaHut](https://t.me/QuantaPlugins/228))",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ui_tweaks.plugin",
+      "hash": "00f2f1a6cecc42f003f1c570667934f00aedf3439905fb007a4b94d30523ccf8",
+      "app_version": ">=12.9.0",
+      "deps": [
+        "quantahut"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.8.5.6-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.6-Beta.plugin"
+        },
+        "1.8.5.7-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.7-Beta.plugin"
+        },
+        "1.8.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.4.plugin"
+        },
+        "1.8.5.8-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/UiTweaks_v1.8.5.8-Beta.plugin"
+        },
+        "1.8.5.9-Beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.9-Beta.plugin"
+        }
+      }
+    },
+    {
       "id": "neural_typing",
       "name": "Neural Typing",
       "author": "@van1lLove (идея: @calm_rio)",
@@ -4474,68 +4542,6 @@
         },
         "2.9.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "quantahut",
-      "name": "QuantaHut",
-      "author": "@luvztroy",
-      "version": "1.5.3.9-Beta",
-      "icon": "luvztroyIcons/14",
-      "description": "Library for Quanta plugins",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quantahut.plugin",
-      "hash": "9136d15a6b24b86c86747d8de2ab2d5bd90f0b98ef921be05162a373c2d0babe",
-      "app_version": ">=12.3.1",
-      "tags": [
-        [
-          "Library",
-          "key_avatar_backgroundInProfileBlue"
-        ]
-      ],
-      "versions": {
-        "1.5.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.6-Beta.plugin"
-        },
-        "1.5.3.6-Beta": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/quantahut_v1.5.3.7-Beta.plugin"
-        },
-        "1.5.3.8-Beta": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quantahut/QuantaHut_v1.5.3.8-Beta.plugin"
-        }
-      }
-    },
-    {
-      "id": "ui_tweaks",
-      "name": "UiTweaks",
-      "author": "@luvztroy",
-      "version": "1.8.5.9-Beta",
-      "icon": "luvztroyIcons/13",
-      "description": "Well sometimes you just need to tweak things... (requires [QuantaHut](https://t.me/QuantaPlugins/228))",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ui_tweaks.plugin",
-      "hash": "2f682f3adf882cea72d24812e2598dddd0f3ccfdac634d4c0b698a903ed15706",
-      "app_version": ">=12.5.1",
-      "deps": [
-        "quantahut"
-      ],
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.8.5.6-Beta": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.6-Beta.plugin"
-        },
-        "1.8.5.7-Beta": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.5.7-Beta.plugin"
-        },
-        "1.8.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/ui_tweaks_v1.8.4.plugin"
-        },
-        "1.8.5.8-Beta": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ui_tweaks/UiTweaks_v1.8.5.8-Beta.plugin"
         }
       }
     },
