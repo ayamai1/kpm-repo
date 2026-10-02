@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "neural_typing",
+      "name": "Neural Typing",
+      "author": "@van1lLove (идея: @calm_rio)",
+      "version": "2.3.1",
+      "icon": "exteraPlugins/1",
+      "description": "Входящие сообщения появляются так, будто их в реальном времени пишет нейросеть. Десять готовых стилей (проявление, машинка, волна, всплытие, расшифровка, свечение и другие) и тонкая настройка каждого эффекта с живым примером прямо в настройках. Длительность зависит от длины сообщения. Чистая косметика на вашей стороне, собеседник ничего не видит.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/neural_typing.plugin",
+      "hash": "88ce09b6cebcf1a373c79730453a74049bbcc59f289cd7394b6648cff09e5c1f",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/neural_typing/neural_typing.plugin"
+        },
+        "1.3.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/neural_typing/neural_typing_v1.3.7.plugin"
+        }
+      }
+    },
+    {
       "id": "limedex",
       "name": "limedex",
       "author": "@limeplug",
@@ -5728,27 +5753,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "neural_typing",
-      "name": "Neural Typing",
-      "author": "@van1lLove (идея: @calm_rio)",
-      "version": "1.3.7",
-      "description": "Входящие сообщения появляются на экране постепенно, словно их в реальном времени генерирует нейросеть (эффект стриминга ответа ИИ). Чистая косметика на вашей стороне — собеседник ничего не видит.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/neural_typing.plugin",
-      "hash": "825ffbe5bc85f862ae2c3fb86af868f003ec4b7210622ebcf84602c3406657b1",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/neural_typing/neural_typing.plugin"
-        }
-      }
     },
     {
       "id": "xitgram_fonts",
