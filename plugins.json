@@ -1,6 +1,57 @@
 {
   "plugins": [
     {
+      "id": "save_selected_files",
+      "name": "Save Selected Files",
+      "author": "@akresik",
+      "version": "1.0.0",
+      "icon": "Catz5Emoji/35",
+      "description": "Добавляет кнопку сохранения в панель действий при выделении файлов в медиа-профиле (вкладка «Файлы») и в результатах поиска. Нажимаете её, и все выбранные файлы сохраняются в «Загрузки» в один клик. Если файл ещё не загружен, плагин докачает его сам.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/save_selected_files.plugin",
+      "hash": "e360f2ed644478403b49911eb46fb13cc99589d8326e85f5f64b40a5299fcbc4",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "plugstonav",
+      "name": "Plugins Tab",
+      "author": "@limeplug",
+      "version": "1.3.0",
+      "icon": "masquernya/8",
+      "description": "Adds a Plugins item to the bottom navigation bar.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugstonav.plugin",
+      "hash": "9ef468a7e5212fae1225d05831a83b53570261888d40bbb4964bbe8c34958852",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "local_contact_override",
+      "name": "Local Contact Override",
+      "author": "@daxo_os",
+      "version": "7.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "Локальные имена для людей, ботов, групп и каналов. Меняется только отображение на вашем устройстве. Редактор открывается из меню профиля или чата, все правки собраны в настройках плагина, есть экспорт и импорт.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/local_contact_override.plugin",
+      "hash": "5cd8fb147d01ec10e570191b3610fd74ed7557629fd3811993a5306d72fa62bc",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "extera_clean",
       "name": "exteraClean",
       "author": "@plugin_ai",
