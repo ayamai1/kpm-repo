@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "higal",
+      "name": "Hide Gallery",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "animated_boykisser_by_fStikBot/31",
+      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
+      "hash": "16361d3dcc3610cb2cf50a22cdfac5087c1eca34d8834f0639c7c1c757b3f3ac",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "music_speed",
       "name": "Music Speed",
       "author": "@binbash_0",
