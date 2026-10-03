@@ -8,14 +8,19 @@
       "icon": "animated_boykisser_by_fStikBot/31",
       "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
-      "hash": "16361d3dcc3610cb2cf50a22cdfac5087c1eca34d8834f0639c7c1c757b3f3ac",
-      "app_version": ">=12.9.0",
+      "hash": "b04a6d17203c32a526b4c77b5680f72678f9813f2081d0ba49a93ab21d4d9a93",
+      "app_version": ">=12.5.1",
       "tags": [
         [
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "music_speed",
