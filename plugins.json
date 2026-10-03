@@ -19,6 +19,9 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.1.plugin"
         }
       }
     },
