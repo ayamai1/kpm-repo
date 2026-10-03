@@ -1,6 +1,59 @@
 {
   "plugins": [
     {
+      "id": "music_speed",
+      "name": "Music Speed",
+      "author": "@binbash_0",
+      "version": "1.0.1",
+      "icon": "exteraPlugins/1",
+      "description": "Добавляет музыке штатную кнопку изменения скорости + дает возможность включать pitch и reverb",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_speed.plugin",
+      "hash": "c4a8e438da8394006d3605c046280c90c2b90864d143e233cd4d86fce6dba2b8",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.4.5",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "3bcd97ff899f1049d664d5762f699c07c213f9ba6757da98c562f9cdc705a9ca",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
+        }
+      }
+    },
+    {
       "id": "save_selected_files",
       "name": "Save Selected Files",
       "author": "@akresik",
@@ -434,34 +487,6 @@
       "versions": {
         "1.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.4.4",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "ed1c76325073cf44365ef0d1895271ef5b2718eb3744ef6443728ba444c5e9cd",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
-        },
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
-        },
-        "1.4.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
         }
       }
     },
@@ -4555,23 +4580,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.1.plugin"
         }
       }
-    },
-    {
-      "id": "music_speed",
-      "name": "Music Speed",
-      "author": "@binbash_0",
-      "version": "1.0.0",
-      "icon": "exteraPlugins/1",
-      "description": "Добавляет музыке штатную кнопку изменения скорости + дает возможность включать pitch и reverb",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_speed.plugin",
-      "hash": "fb1a9d4e7ee7a129f454930607165f8e70c16e1878887158f11f2c76c190d51a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "media_folders",
