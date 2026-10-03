@@ -1,6 +1,59 @@
 {
   "plugins": [
     {
+      "id": "save_selected_files",
+      "name": "Save Selected Files",
+      "author": "@akresik",
+      "version": "1.2.0",
+      "icon": "Catz5Emoji/35",
+      "description": "Добавляет кнопку сохранения в панель действий при выделении файлов в медиа-профиле (вкладки «Медиа» и «Файлы») в результатах поиска и в управлении кэшем (Настройки → Данные и память → Использование памяти). Нажимаете её, и все выбранные файлы сохраняются в «Загрузки» в один клик. Если файл ещё не загружен, плагин докачает его сам.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/save_selected_files.plugin",
+      "hash": "096340e5e4d6c4b889f07723bf6486e93fee1ad0d9303c3e64950f1a5d45564c",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/save_selected_files/save_selected_files_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "link_guard",
+      "name": "Link Guard",
+      "author": "@Robobloxi",
+      "version": "1.7.0",
+      "icon": "likguar/0",
+      "description": "Проверяет ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры.\n\nChecks links before you open them: reveals the real domain, catches phishing and look-alike characters, strips trackers.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
+      "hash": "ee1073af64f891d42c05758e0321e1f17cd373c311eb54024a1903e13e330fb4",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.5.1.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.0.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.1.plugin"
+        },
+        "1.6.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.2.plugin"
+        }
+      }
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
@@ -249,23 +302,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gift_search.plugin",
       "hash": "3ed5e78fa51fa4e56af3a71599986d0978a8c6f0918256ffce5b9d68340f436e",
       "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "save_selected_files",
-      "name": "Save Selected Files",
-      "author": "@akresik",
-      "version": "1.0.0",
-      "icon": "Catz5Emoji/35",
-      "description": "Добавляет кнопку сохранения в панель действий при выделении файлов в медиа-профиле (вкладка «Файлы») и в результатах поиска. Нажимаете её, и все выбранные файлы сохраняются в «Загрузки» в один клик. Если файл ещё не загружен, плагин докачает его сам.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/save_selected_files.plugin",
-      "hash": "e360f2ed644478403b49911eb46fb13cc99589d8326e85f5f64b40a5299fcbc4",
-      "app_version": ">=12.1.1",
       "tags": [
         [
           "Utilities",
@@ -1073,34 +1109,6 @@
       "versions": {
         "2.2.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/animtou/animtou_v2.2.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "link_guard",
-      "name": "Link Guard",
-      "author": "@Robobloxi",
-      "version": "1.6.2",
-      "icon": "likguar/0",
-      "description": "Разбирает ссылки перед переходом: показывает настоящий домен, ловит фишинг и подмену символов, вычищает трекеры",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/link_guard.plugin",
-      "hash": "dabeebe7cecd3cdf6ae91f6b9f258d6efbb2b4018dd96d0920c2b2c6685c839e",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.5.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.5.1.plugin"
-        },
-        "1.6.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.0.plugin"
-        },
-        "1.6.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/link_guard/link_guard_v1.6.1.plugin"
         }
       }
     },
