@@ -11007,23 +11007,6 @@
       ]
     },
     {
-      "id": "ppg",
-      "name": "Palette Generator",
-      "author": "@lisurgut",
-      "version": "7.0",
-      "icon": "HDkolobok/14",
-      "description": "Генерирует цветовые палитры по текстовому запросу с помощью AI, извлекает из изображения или создаёт случайный градиент.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ppg.plugin",
-      "hash": "7cbb14e40b7ca0eb4bb2b2120698882856cb31cd0e1a4fc02bf290617e2e63d7",
-      "app_version": ">=11.12.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "rounds_manager",
       "name": "Редактор кружков",
       "author": "@timofey776",
