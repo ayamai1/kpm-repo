@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "SearchID",
+      "name": "SearchID",
+      "author": "@jaxbastard",
+      "version": "1.0.1",
+      "icon": "DendziDzheksJaxbastard/4",
+      "description": "Теперь можно искать плагины и по их ID",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/SearchID.plugin",
+      "hash": "e8fd309485618767d2924998ff29f570ffa58321330fd8785b1ac79b4f4be924",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "gifts_studio",
       "name": "Gifts Studio",
       "author": "Daxo-Developer & @Daxo_OS",
