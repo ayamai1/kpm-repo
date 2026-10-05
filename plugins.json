@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "type_effect",
+      "name": "TypeEffect",
+      "author": "@plin4ick",
+      "version": "1.1.3",
+      "icon": "exteraPlugins/1",
+      "description": "Отправка сообщений с постепенной анимацией",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/type_effect.plugin",
+      "hash": "c5aea9b583c2085b4fb6f25a4930659a59e960b7cc89f0a710ab0121ed9f0997",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/type_effect/type_effect_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "higal",
       "name": "Hide Gallery",
       "author": "@ka1Plugins",
@@ -35,23 +57,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "type_effect",
-      "name": "TypeEffect",
-      "author": "@plin4ick",
-      "version": "1.0.0",
-      "icon": "exteraPlugins/1",
-      "description": "Отправка сообщений с постепенной анимацией",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/type_effect.plugin",
-      "hash": "41511660df639baac4481bf822669468a14a9f9809595d7c40e9d188241c9cb2",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
