@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "GoToAvatarMessage",
+      "name": "Go To Avatar Message",
+      "author": "@nlvxm",
+      "version": "1.0",
+      "description": "добавляет пункт в просмотре аватарки в профиле для перехода к сервисному сообщению об установке аватарки, как в telegram desktop\nработает только в группах/каналах\n\nadds an option in avatar viewer in profile, to go to \"Photo Updated\" service message, like in telegram desktop\nworks only in groups/channels",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/GoToAvatarMessage.plugin",
+      "hash": "97c4d19dda52b5855ef1ba68784b986ed11de42012bc0f9c45d16d41267c5fb9",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "type_effect",
       "name": "TypeEffect",
       "author": "@plin4ick",
