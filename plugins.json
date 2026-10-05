@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "higal",
+      "name": "Hide Gallery",
+      "author": "@ka1Plugins",
+      "version": "1.1",
+      "icon": "animated_boykisser_by_fStikBot/31",
+      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
+      "hash": "834448ccb5afe5dff85ead0a19b884f2c9e3aa9c3d8b27e116a849eab5eb8ea3",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
+        }
+      }
+    },
+    {
       "id": "GoToAvatarMessage",
       "name": "Go To Avatar Message",
       "author": "@nlvxm",
@@ -261,28 +283,6 @@
         },
         "1.2.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0_1.eaf"
-        }
-      }
-    },
-    {
-      "id": "higal",
-      "name": "Hide Gallery",
-      "author": "@ka1Plugins",
-      "version": "1.0",
-      "icon": "animated_boykisser_by_fStikBot/31",
-      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
-      "hash": "b04a6d17203c32a526b4c77b5680f72678f9813f2081d0ba49a93ab21d4d9a93",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0.plugin"
         }
       }
     },
