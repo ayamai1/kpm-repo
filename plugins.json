@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "favstickers",
+      "name": "Unlim favorite stickers",
+      "author": "@DaShMore & @teleplugit",
+      "version": "2.2.1",
+      "icon": "plugins_covers/0",
+      "description": "Remove limits on adding stickers to favorites, with backup",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/favstickers.plugin",
+      "hash": "d89a6698cc14543657f0685058c86a09ca66f348ee687bb616f662242cd27192",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/favstickers/favstickers_v2.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "md3_navbars_everywhere",
       "name": "MD3 Navbars Everywhere",
       "author": "@Slucket",
@@ -9495,23 +9517,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/activity_imitator_v2/activity_imitator_v2_v1.5.1.plugin"
         }
       }
-    },
-    {
-      "id": "favstickers",
-      "name": "Unlim favorite stickers",
-      "author": "@DaShMore",
-      "version": "2.0.0",
-      "icon": "plugins_covers/0",
-      "description": "Remove limits on adding stickers to favorites",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/favstickers.plugin",
-      "hash": "a7316b4c4ab9a10100b34ce2e5bb11fe18a42c6275ab77d2487057a1ceda2f0d",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "explore_search",
