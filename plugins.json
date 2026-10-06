@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "compact_bottom_nav",
+      "name": "CompactBottomNav",
+      "author": "@YouRooni",
+      "version": "1.0.2",
+      "icon": "RnDev/18",
+      "description": "Компактная нижняя панель без подписей с поддержкой Glass и Material 3.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/compact_bottom_nav.plugin",
+      "hash": "de5a806e1cd27f1278b2699f9ea8d7ee0dcd3197a4cf4924d58687007a898f79",
+      "app_version": ">=12.10.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_bottom_nav/compact_bottom_nav_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_bottom_nav/compact_bottom_nav_v1.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "type_effect",
       "name": "TypeEffect",
       "author": "@plin4ick",
@@ -1785,28 +1810,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "compact_bottom_nav",
-      "name": "CompactBottomNav",
-      "author": "@YouRooni",
-      "version": "1.0.1",
-      "icon": "RnDev/18",
-      "description": "Компактная нижняя панель без подписей с поддержкой Glass и Material 3.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/compact_bottom_nav.plugin",
-      "hash": "5fe93f79316dc71a39c93806899e863169424889bb179ed2912845be07217acf",
-      "app_version": ">=12.6.4",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_bottom_nav/compact_bottom_nav_v1.0.0.plugin"
-        }
-      }
     },
     {
       "id": "OCR_2_Clip",
