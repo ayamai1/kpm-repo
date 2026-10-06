@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "custom_gifts",
+      "name": "Custom Gifts",
+      "author": "@binbash_0",
+      "version": "1.0.1",
+      "icon": "binbashPlugins/0",
+      "description": "Добавляет возможность создавать и дарить кастомные подарки! (визуально)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_gifts.plugin",
+      "hash": "4f8e7e05eecd8fe06683d33bf288c1ddd7d4e454613bf43e17093058650c02d4",
+      "app_version": ">=12.6.4",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_gifts/custom_gifts_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "type_effect",
       "name": "TypeEffect",
       "author": "@plin4ick",
@@ -959,23 +981,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "custom_gifts",
-      "name": "Custom Gifts",
-      "author": "@binbash_0",
-      "version": "1.0.0",
-      "icon": "binbashPlugins/0",
-      "description": "Добавляет возможность создавать и дарить кастомные подарки! (визуально)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_gifts.plugin",
-      "hash": "feace13ae2f5d8482aaf5ce297a28076440bec02d9a873b086cdf6b9716e076b",
-      "app_version": ">=12.6.4",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
