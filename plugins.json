@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "exitFy_v2",
+      "name": "exitFy V2",
+      "author": "@exteraPluginsSup",
+      "version": "4.2.1",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
+      "hash": "3b552be1ed1ac0be28b943ec6232f52f3d9b719ad41367ef6b1ba2451c390632",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
+        },
+        "4.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "custom_gifts",
       "name": "Custom Gifts",
       "author": "@binbash_0",
@@ -2466,31 +2494,6 @@
       "versions": {
         "2.9": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_circle/ios_circle_v2.9.plugin"
-        }
-      }
-    },
-    {
-      "id": "exitFy_v2",
-      "name": "exitFy V2",
-      "author": "@exteraPluginsSup",
-      "version": "4.1.0",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
-      "hash": "6eed0d0d15d304a7d855ce81f305e3188b9396cbb7c20dfcc287ba6d3c642ad7",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "4.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
-        },
-        "4.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
         }
       }
     },
