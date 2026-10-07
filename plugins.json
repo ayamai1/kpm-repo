@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "search_open_profile",
+      "name": "Search Open Profile",
+      "author": "@thrzxd • @kotilnya",
+      "version": "1.0.0",
+      "icon": "LuckyStarankhaubivaet_by_fStikBot/20",
+      "description": "Opens the profile instead of the chat when a private chat is selected in search.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/search_open_profile.plugin",
+      "hash": "9aaac270089ce75dfaf3ce67ebc488c85ff0e7b9740000b696436bc790999f42",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "ayu_yandex_maps",
+      "name": "Яндекс Карты",
+      "author": "@Knyaz_vsey_Tmy & ChatGPT Astra/Sol",
+      "version": "1.0.0",
+      "icon": "rebornexterayamap/0",
+      "description": "Возвращение Яндекс Карт API вместо Google. Требуется свой ключ JavaScript API.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ayu_yandex_maps.plugin",
+      "hash": "3c66b33404ec931de5f216a13d04671d7417e2ffc937bda72e8b1e2ecab81e75",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "favstickers",
       "name": "Unlim favorite stickers",
       "author": "@DaShMore & @teleplugit",
