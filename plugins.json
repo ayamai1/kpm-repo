@@ -1,14 +1,31 @@
 {
   "plugins": [
     {
+      "id": "open_street_map",
+      "name": "OpenStreetMap",
+      "author": "@etodsk, @Knyaz_vsey_Tmy & ChatGPT",
+      "version": "1.0",
+      "icon": "rebornexterayamap/0",
+      "description": "Добавление OpenStreetMap вместо Google. Fork Яндекс Карты",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/open_street_map.plugin",
+      "hash": "7828b344524f96fd2d7caadf953d1c2367daf0f9851647ae6f8e0ba9795a704d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert",
       "author": "@cobra_S0FT | @excess_plugins",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "icon": "excess_icon/5",
-      "description": "Уведомляет о воздушной тревоге для выбранной области/района.\\n exteraGram 12.9.0+",
+      "description": "Уведомляет о воздушной тревоге для выбранной области/района. \\n exteraGram 12.9.0+",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
-      "hash": "ddc380e03be7e275c64756a3d0092c7e12823b74202a478e312d90ea5a3c936f",
+      "hash": "570d9ce08ebb6056f81cb50afa7137dd29f7b20dc1f7d4f74d324ec684d2265b",
       "app_version": ">=12.9.0",
       "tags": [
         [
@@ -27,7 +44,7 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0_1.eaf"
         },
         "1.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1.eaf"
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1_1.eaf"
         }
       }
     },
