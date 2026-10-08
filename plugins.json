@@ -1,6 +1,146 @@
 {
   "plugins": [
     {
+      "id": "culprit_detector",
+      "name": "Culprit Detector",
+      "author": "@chestertech & @useful_plugins",
+      "version": "1.8.0",
+      "icon": "chestertech/15",
+      "description": "Passive culprit detector — definitely finds crashing or leaking plugin",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/culprit_detector.plugin",
+      "hash": "9be0867bffa7bd9af968093a3906c99cf3f0e70b42a7acb4bf0e75f9b7216f6a",
+      "app_version": ">=12.6.4",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.2.9": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.31.plugin"
+        },
+        "1.2.31": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.49.plugin"
+        },
+        "1.2.49": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.50.plugin"
+        },
+        "1.2.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.9.plugin"
+        },
+        "1.2.50": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.28.plugin"
+        },
+        "1.3.28": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.88.plugin"
+        },
+        "1.3.88": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.90.plugin"
+        },
+        "1.3.90": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.14.plugin"
+        },
+        "1.4.14": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.36.plugin"
+        },
+        "1.4.36": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.58.plugin"
+        },
+        "1.4.58": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.83.plugin"
+        },
+        "1.4.83": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.92.plugin"
+        },
+        "1.5.63": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector.plugin"
+        },
+        "1.5.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.4.plugin"
+        },
+        "1.5.47": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.47.plugin"
+        },
+        "1.5.82": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.82.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.6.0.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.6.1.plugin"
+        },
+        "1.7.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.7.0_1.plugin"
+        }
+      }
+    },
+    {
+      "id": "liquid_glass",
+      "name": "Liquid Glass [Fork]",
+      "author": "@PluginProject · @w3b_0s1nt",
+      "version": "5.0.2",
+      "icon": "vkVSfmG_by_achestickbot/5",
+      "description": "Стеклянные шапки и панели для exteraGram.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/liquid_glass.eaf",
+      "hash": "fe12d2854a0639409370eb227a90118daa2ad417cb1b6cf4b8bef55fab5b4459",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        " - [experiment maybe last]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
+        },
+        "2.1.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
+        },
+        "2.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
+        },
+        "2.3.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
+        },
+        "3.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
+        },
+        "3.6.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
+        },
+        "3.8.13": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
+        },
+        "4.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.0.0.plugin"
+        },
+        "4.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "open_street_map",
       "name": "OpenStreetMap",
       "author": "@etodsk, @Knyaz_vsey_Tmy & ChatGPT",
@@ -650,82 +790,6 @@
         },
         "2.5": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.5.plugin"
-        }
-      }
-    },
-    {
-      "id": "culprit_detector",
-      "name": "Culprit Detector",
-      "author": "@chestertech & @useful_plugins",
-      "version": "1.7.0",
-      "icon": "chestertech/15",
-      "description": "Passive culprit detector — definitely finds crashing or leaking plugin",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/culprit_detector.plugin",
-      "hash": "da78c1b975ccfec856498abb8e977bfcc9d54023e54c3e84765570321c721fe0",
-      "app_version": ">=12.6.4",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.2.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.31.plugin"
-        },
-        "1.2.31": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.49.plugin"
-        },
-        "1.2.49": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.50.plugin"
-        },
-        "1.2.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.2.9.plugin"
-        },
-        "1.2.50": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.28.plugin"
-        },
-        "1.3.28": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.88.plugin"
-        },
-        "1.3.88": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.3.90.plugin"
-        },
-        "1.3.90": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.14.plugin"
-        },
-        "1.4.14": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.36.plugin"
-        },
-        "1.4.36": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.58.plugin"
-        },
-        "1.4.58": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.83.plugin"
-        },
-        "1.4.83": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.4.92.plugin"
-        },
-        "1.5.63": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector.plugin"
-        },
-        "1.5.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.4.plugin"
-        },
-        "1.5.47": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.47.plugin"
-        },
-        "1.5.82": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.5.82.plugin"
-        },
-        "1.6.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.6.0.plugin"
-        },
-        "1.6.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.6.1.plugin"
-        },
-        "1.7.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.7.0.plugin"
         }
       }
     },
@@ -2565,67 +2629,6 @@
           "key_color_lightblue"
         ]
       ]
-    },
-    {
-      "id": "liquid_glass",
-      "name": "Liquid Glass [Fork]",
-      "author": "@PluginProject · @w3b_0s1nt",
-      "version": "4.1.1",
-      "icon": "vkVSfmG_by_achestickbot/5",
-      "description": "Liquid Glass 4.1.1: стеклянные шапки и панели. ExteraGram 12.9.0+",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/liquid_glass.plugin",
-      "hash": "86258e89f52c8a04ebea60221cc81136bae5ed92360da4c12af1f7526f0f0d72",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        " - [experiment maybe last]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
-        },
-        "1.5.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
-        },
-        "1.6.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
-        },
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
-        },
-        "2.0.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
-        },
-        "2.1.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
-        },
-        "2.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
-        },
-        "2.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
-        },
-        "2.3.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
-        },
-        "3.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
-        },
-        "3.6.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
-        },
-        "3.8.13": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
-        },
-        "4.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.0.0.plugin"
-        }
-      }
     },
     {
       "id": "ios_circle",
