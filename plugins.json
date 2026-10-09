@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "monocolorui",
+      "name": "MonoColor UI",
+      "author": "@limeplug",
+      "version": "1.7",
+      "icon": "pokelimeplug/1",
+      "description": "Полностью перекрашивает твой интерфейс в один цвет: аватарки, истории, списки чатов - все одного тона",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/monocolorui.plugin",
+      "hash": "66c426b66c58a7fdd9d40e0a50469f1a0ffac75cc955388cb7e92170505542e5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "doc_viewer",
       "name": "Doc Viewer",
       "author": "Daxo-Developer && @Daxo_OS",
