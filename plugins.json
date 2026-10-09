@@ -1,6 +1,45 @@
 {
   "plugins": [
     {
+      "id": "fake_motion_blur",
+      "name": "fake motion blur",
+      "author": "sixth",
+      "version": "3.0.2",
+      "icon": "msg_photo_settings",
+      "description": "направленный motion blur при скролле во всех списках (gpu renderEffect, android 12+)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fake_motion_blur.plugin",
+      "hash": "ee2228e4b756ef6f766ba35a1d356759ef604c4a0e3a20a6e653f1f31834c66c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fake_motion_blur/fake_motion_blur_v3.0.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "pixel_eyes",
+      "name": "Pixel Eyes",
+      "author": "@van1lLove (идея: @psyhomane)",
+      "version": "1.2",
+      "icon": "exteraPlugins/1",
+      "description": "Пиксельные глаза поверх приложения. Следят за пальцем и за тем, что вы печатаете, а когда перестаёте, смотрят прямо на вас. Понимают текст сообщений: пугаются гадостей, влюбляются от признаний, смеются над смешным. В списке чатов смотрят на того, кто печатает. Кружатся от тряски, засыпают без дела. 14 наборов от милых аниме до жутких, свой редактор и каталог глаз.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pixel_eyes.plugin",
+      "hash": "21bcf5eb0c9f3f59be341d6c88e68047f2f0ebeae4eb13112a7a6d7063525adc",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "higal",
       "name": "Hide Gallery",
       "author": "@ka1Plugins",
@@ -702,23 +741,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "fake_motion_blur",
-      "name": "fake motion blur",
-      "author": "sixth",
-      "version": "3.0.1",
-      "icon": "msg_photo_settings",
-      "description": "направленный motion blur при скролле во всех списках (gpu renderEffect, android 12+)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fake_motion_blur.plugin",
-      "hash": "d25cc4986b96a4a660e14af6c766d123b8fda20663e5835da3d08de152b30df6",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
