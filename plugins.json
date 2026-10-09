@@ -1,81 +1,31 @@
 {
   "plugins": [
     {
-      "id": "fake_motion_blur",
-      "name": "fake motion blur",
-      "author": "sixth",
-      "version": "3.0.2",
-      "icon": "msg_photo_settings",
-      "description": "направленный motion blur при скролле во всех списках (gpu renderEffect, android 12+)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fake_motion_blur.plugin",
-      "hash": "ee2228e4b756ef6f766ba35a1d356759ef604c4a0e3a20a6e653f1f31834c66c",
-      "app_version": ">=12.5.1",
+      "id": "doc_viewer",
+      "name": "Doc Viewer",
+      "author": "Daxo-Developer && @Daxo_OS",
+      "version": "2.0.0",
+      "icon": "DaxoOS/1",
+      "description": "Просмотр файлов внутри приложения: PDF, DOCX, XLSX, PPTX, ODF, RTF, EPUB, FB2, Markdown, HTML, SVG, CSV, JSON, код, архивы, письма, изображения",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/doc_viewer.plugin",
+      "hash": "93a610c5b8394e8697af412e61d263ae04e09c98c7574261af7ddff371353232",
+      "app_version": ">=12.1.1",
       "tags": [
         [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "3.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fake_motion_blur/fake_motion_blur_v3.0.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "pixel_eyes",
-      "name": "Pixel Eyes",
-      "author": "@van1lLove (идея: @psyhomane)",
-      "version": "1.2",
-      "icon": "exteraPlugins/1",
-      "description": "Пиксельные глаза поверх приложения. Следят за пальцем и за тем, что вы печатаете, а когда перестаёте, смотрят прямо на вас. Понимают текст сообщений: пугаются гадостей, влюбляются от признаний, смеются над смешным. В списке чатов смотрят на того, кто печатает. Кружатся от тряски, засыпают без дела. 14 наборов от милых аниме до жутких, свой редактор и каталог глаз.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pixel_eyes.plugin",
-      "hash": "21bcf5eb0c9f3f59be341d6c88e68047f2f0ebeae4eb13112a7a6d7063525adc",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
+          "Utilities",
+          "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "higal",
-      "name": "Hide Gallery",
-      "author": "@ka1Plugins",
-      "version": "1.2",
-      "icon": "animated_boykisser_by_fStikBot/31",
-      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
-      "hash": "1c56a219d63cfc64d0a2baa1a4323e91b210d84486eddd80ea89277a52a89198",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.2.plugin"
-        }
-      }
     },
     {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
-      "version": "1.8.0",
+      "version": "1.8.1",
       "icon": "chestertech/15",
       "description": "Passive culprit detector — definitely finds crashing or leaking plugin",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/culprit_detector.plugin",
-      "hash": "9be0867bffa7bd9af968093a3906c99cf3f0e70b42a7acb4bf0e75f9b7216f6a",
+      "hash": "b7559ca98e90cd9536e87f541a42885daca6df471939660b4073b441fe16952a",
       "app_version": ">=12.6.4",
       "tags": [
         [
@@ -140,6 +90,93 @@
         },
         "1.7.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.7.0_1.plugin"
+        },
+        "1.8.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.8.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "antispam",
+      "name": "Antispam",
+      "author": "@lisurgut",
+      "version": "2.3.15",
+      "icon": "SillyKittens6/1",
+      "description": "Сворачивает повторы и быстрый спам в выбранных чатах.\nFolds repeated messages and rapid spam in selected chats.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/antispam.eaf",
+      "hash": "7897a3b146f9f6dad4471a3176f6edfb1d278311603e5e41c4c6b405509657d1",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "fake_motion_blur",
+      "name": "fake motion blur",
+      "author": "sixth",
+      "version": "3.0.2",
+      "icon": "msg_photo_settings",
+      "description": "направленный motion blur при скролле во всех списках (gpu renderEffect, android 12+)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fake_motion_blur.plugin",
+      "hash": "ee2228e4b756ef6f766ba35a1d356759ef604c4a0e3a20a6e653f1f31834c66c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fake_motion_blur/fake_motion_blur_v3.0.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "pixel_eyes",
+      "name": "Pixel Eyes",
+      "author": "@van1lLove (идея: @psyhomane)",
+      "version": "1.2",
+      "icon": "exteraPlugins/1",
+      "description": "Пиксельные глаза поверх приложения. Следят за пальцем и за тем, что вы печатаете, а когда перестаёте, смотрят прямо на вас. Понимают текст сообщений: пугаются гадостей, влюбляются от признаний, смеются над смешным. В списке чатов смотрят на того, кто печатает. Кружатся от тряски, засыпают без дела. 14 наборов от милых аниме до жутких, свой редактор и каталог глаз.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pixel_eyes.plugin",
+      "hash": "21bcf5eb0c9f3f59be341d6c88e68047f2f0ebeae4eb13112a7a6d7063525adc",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "higal",
+      "name": "Hide Gallery",
+      "author": "@ka1Plugins",
+      "version": "1.2",
+      "icon": "animated_boykisser_by_fStikBot/31",
+      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
+      "hash": "1c56a219d63cfc64d0a2baa1a4323e91b210d84486eddd80ea89277a52a89198",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.2.plugin"
         }
       }
     },
