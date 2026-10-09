@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "higal",
+      "name": "Hide Gallery",
+      "author": "@ka1Plugins",
+      "version": "1.2",
+      "icon": "animated_boykisser_by_fStikBot/31",
+      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
+      "hash": "1c56a219d63cfc64d0a2baa1a4323e91b210d84486eddd80ea89277a52a89198",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.2.plugin"
+        }
+      }
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
@@ -625,28 +653,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_gifts/custom_gifts_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "higal",
-      "name": "Hide Gallery",
-      "author": "@ka1Plugins",
-      "version": "1.1",
-      "icon": "animated_boykisser_by_fStikBot/31",
-      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
-      "hash": "834448ccb5afe5dff85ead0a19b884f2c9e3aa9c3d8b27e116a849eab5eb8ea3",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
         }
       }
     },
