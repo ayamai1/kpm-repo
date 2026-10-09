@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "antispam",
+      "name": "Antispam",
+      "author": "@lisurgut",
+      "version": "2.3.21",
+      "icon": "SillyKittens6/1",
+      "description": "Сворачивает повторы и быстрый спам в выбранных чатах.\nFolds repeated messages and rapid spam in selected chats.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/antispam.eaf",
+      "hash": "e7682bd76aa441e66e8d5ad3a4ec108f91a0665311c7e905b8a8deb24ff14f96",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.3.15": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/antispam/antispam_v2.3.15.eaf"
+        }
+      }
+    },
+    {
       "id": "monocolorui",
       "name": "MonoColor UI",
       "author": "@limeplug",
@@ -112,23 +134,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.8.0.plugin"
         }
       }
-    },
-    {
-      "id": "antispam",
-      "name": "Antispam",
-      "author": "@lisurgut",
-      "version": "2.3.15",
-      "icon": "SillyKittens6/1",
-      "description": "Сворачивает повторы и быстрый спам в выбранных чатах.\nFolds repeated messages and rapid spam in selected chats.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/antispam.eaf",
-      "hash": "7897a3b146f9f6dad4471a3176f6edfb1d278311603e5e41c4c6b405509657d1",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "fake_motion_blur",
