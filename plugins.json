@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "spam_collapse",
+      "name": "Spam Collapse",
+      "author": "@dekma0091",
+      "version": "1.1",
+      "icon": "pixelcamera/18",
+      "description": "Сворачивает повторяющиеся спам-сообщения / Collapses repeated spam messages",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spam_collapse.plugin",
+      "hash": "9a109e881ec4c0ba48a594d7071a2179d742dfabd83a9669bd5daf3f653f10ff",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/spam_collapse/spam_collapse_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "plugin_guard",
       "name": "Plugin Guard",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -1568,23 +1590,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "spam_collapse",
-      "name": "Spam Collapse",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.0",
-      "icon": "pixelcamera/18",
-      "description": "Сворачивает повторяющиеся спам-сообщения / Collapses repeated spam messages",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spam_collapse.plugin",
-      "hash": "6aff4f99a44533dd4add259e0f7398bf813860b987bbf7e5df986e63d6f59ea8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
