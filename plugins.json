@@ -1,6 +1,130 @@
 {
   "plugins": [
     {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.4.9",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "d963e4cdfb628894ebe5ffa2e74c8052c787f1e9aeccf08ffec42e57f6f41e85",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
+        },
+        "1.4.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
+        }
+      }
+    },
+    {
+      "id": "camera_enhancer",
+      "name": "RVCE",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.2",
+      "icon": "pixelcamera/17",
+      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
+      "hash": "b5024a153b374e52f39e2ddd6e5aa325b5e9c201d47c5d210992e80149e0b69b",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_2.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "message_undo",
+      "name": "Message Undo",
+      "author": "@dekma0091",
+      "version": "1.2",
+      "icon": "pixelcamera/11",
+      "description": "Добавляет кнопку с таймером, которая позволяет удалить последнее отправленное сообщение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_undo.plugin",
+      "hash": "c4cdeb52264eccc2f9e7594ba5a82c7605ff480b54fcc6cb4bdd934b7cb35106",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "photo_picker_plus",
+      "name": "Photo Picker Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.0",
+      "icon": "pixelcamera/15",
+      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
+      "hash": "991ef053b4a97f0b8b5fa6e162837c0bf23fb5817af64156649f8be45ae82197",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0_1.plugin"
+        }
+      }
+    },
+    {
       "id": "antispam",
       "name": "Antispam",
       "author": "@lisurgut",
@@ -906,37 +1030,6 @@
       }
     },
     {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.4.5",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "3bcd97ff899f1049d664d5762f699c07c213f9ba6757da98c562f9cdc705a9ca",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
-        },
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
-        },
-        "1.4.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
-        },
-        "1.4.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
-        }
-      }
-    },
-    {
       "id": "save_selected_files",
       "name": "Save Selected Files",
       "author": "@akresik",
@@ -1494,46 +1587,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "camera_enhancer",
-      "name": "RVCE",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "2.1",
-      "icon": "pixelcamera/17",
-      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
-      "hash": "f3d7badef61a12974809e256967d2726e2069b418a3c416d8c3baae38470d63a",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_2.plugin"
-        }
-      }
     },
     {
       "id": "proxy_sub",
@@ -2384,28 +2437,6 @@
       }
     },
     {
-      "id": "message_undo",
-      "name": "Message Undo",
-      "author": "@dekma0091",
-      "version": "1.1",
-      "icon": "pixelcamera/11",
-      "description": "Добавляет кнопку с таймером, которая позволяет удалить последнее отправленное сообщение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_undo.plugin",
-      "hash": "d188c53963933067bf146920358e72781a5b185ba20d94d609e1deb7c84df53f",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
-        }
-      }
-    },
-    {
       "id": "steam",
       "name": "Steam",
       "author": "@KangelPlugins & @MGEPlugins",
@@ -2602,28 +2633,6 @@
         },
         "1.8.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_profile/custom_profile_v1.8.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "photo_picker_plus",
-      "name": "Photo Picker Plus",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.0",
-      "icon": "pixelcamera/15",
-      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
-      "hash": "bd8e47f62deaf2b4d6723c7a7485a8f0ff4c13407e1cb66cbd4469303132d31b",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0.plugin"
         }
       }
     },
