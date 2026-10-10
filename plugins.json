@@ -1,6 +1,37 @@
 {
   "plugins": [
     {
+      "id": "Combined_Custom_Banner",
+      "name": "Combined Custom Banner",
+      "author": "@KUNSESHBOY & @chestertech",
+      "version": "3.0.0",
+      "icon": "c420220972_1776124547_6jmoz/25",
+      "description": "Особенности плагина: прозрачные папки, кастомные баннеры чатов и профиля, дополненный вид каналов в профилях с помощью баннера из аватара канала, эффекты размытия, затемнения и прозрачности баннеров в чатах.\n\n|Спасибо chestertetch за помощь в оптимизации|.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/Combined_Custom_Banner.plugin",
+      "hash": "eeb4a0ff654040c8922ab85d91d8b4f4a35cbf912555871aa9fdf0b15eaa33e4",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.2_1.plugin"
+        },
+        "2.9.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.0.plugin"
+        },
+        "2.9.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.1_1.plugin"
+        }
+      }
+    },
+    {
       "id": "list_of_commands",
       "name": "Меню доступных команд",
       "author": "@bandaliyev",
@@ -4967,37 +4998,6 @@
         },
         "2.13": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.13.plugin"
-        }
-      }
-    },
-    {
-      "id": "Combined_Custom_Banner",
-      "name": "Combined Custom Banner",
-      "author": "@KUNSESHBOY & @chestertech",
-      "version": "2.9.1",
-      "icon": "c420220972_1776124547_6jmoz/25",
-      "description": "Особенности плагина: прозрачные папки, кастомные баннеры чатов и профиля, дополненный вид каналов в профилях спомощью баннера из аватара канала, а также эффекты размытия баннеров.\n\n|Спасибо chestertetch за помощь в оптимизации|",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/Combined_Custom_Banner.plugin",
-      "hash": "fb73732fb3ad9c6dddec0b75b1600e98630af8f125d2872479db1f32d5ae732b",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
-        },
-        "2.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.2_1.plugin"
-        },
-        "2.9.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.0.plugin"
-        },
-        "2.9.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.1.plugin"
         }
       }
     },
