@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "hisn",
+      "name": "Hider Sender Name",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "PakKot1kov/79",
+      "description": "Автоматически скрывает имя отправителя при пересылке сообщений\nAutomatically hides the sender name when forwarding messages",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hisn.plugin",
+      "hash": "83654ef07f6378b9cabb19bc25180d30aab1ed60a00ca0d5806f744758aea7f6",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "spam_collapse",
       "name": "Spam Collapse",
       "author": "@dekma0091",
