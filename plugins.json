@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "list_of_commands",
+      "name": "Меню доступных команд",
+      "author": "@bandaliyev",
+      "version": "2.0.0",
+      "icon": "pus_heen/12",
+      "description": "Оптимизированное отображение команд",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/list_of_commands.plugin",
+      "hash": "9f1e7869671b2524f52d4c040c16f3c4ba3af446650296884c514e26421f7189",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/list_of_commands/list_of_commands_v1.0.7.plugin"
+        }
+      }
+    },
+    {
       "id": "hide_forum_topics",
       "name": "Hide Forum Topics",
       "author": "@chestertech & @useful_plugins",
@@ -6207,23 +6229,6 @@
         [
           "Messages",
           "key_avatar_backgroundGreen"
-        ]
-      ]
-    },
-    {
-      "id": "list_of_commands",
-      "name": "Меню доступных команд",
-      "author": "@bandaliyev",
-      "version": "1.0.7",
-      "icon": "pus_heen/12",
-      "description": "Оптимизированное отображение команд",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/list_of_commands.plugin",
-      "hash": "9168dae2dbfe2ef81370d9d993e4a0f21f09a2a9cb043a15746db8a932b0f40a",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
