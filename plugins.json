@@ -15,7 +15,40 @@
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hisn/hisn_v1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "higal",
+      "name": "Hide Gallery",
+      "author": "@ka1Plugins",
+      "version": "1.2",
+      "icon": "animated_boykisser_by_fStikBot/31",
+      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery\n\nСпс за оптимизацию/Thx for optimization: @dekma0091",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
+      "hash": "53e5c827ed24ce5cc99d5c2a84fffbe1880e8909fb0f38512803fa7d05d0a42c",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.2_1.plugin"
+        }
+      }
     },
     {
       "id": "spam_collapse",
@@ -336,34 +369,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "higal",
-      "name": "Hide Gallery",
-      "author": "@ka1Plugins",
-      "version": "1.2",
-      "icon": "animated_boykisser_by_fStikBot/31",
-      "description": "Скрывает всю галерею под размытием\nBlurs the whole gallery",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/higal.plugin",
-      "hash": "1c56a219d63cfc64d0a2baa1a4323e91b210d84486eddd80ea89277a52a89198",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.0_1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/higal/higal_v1.2.plugin"
-        }
-      }
     },
     {
       "id": "liquid_glass",
