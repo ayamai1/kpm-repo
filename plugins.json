@@ -4,11 +4,11 @@
       "id": "GreenPass",
       "name": "GreenPass",
       "author": "@Altyplugins",
-      "version": "2.5.8",
+      "version": "2.5.9",
       "icon": "bratpass/0",
       "description": "Практически универсальный прокси-плагин для exteraGram",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/GreenPass.eaf",
-      "hash": "1c410eceb12c3a363f64473f9c3ccf3509a673e734a7ae317b8b7a99384ad414",
+      "hash": "94d2a6c540c28c52a986c6e8659f97ac25fbef2fa1eacb6ec7ba707b4058db72",
       "app_version": ">=12.5.1",
       "tags": [
         [
@@ -103,6 +103,9 @@
         },
         "2.5.5": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.5.5.eaf"
+        },
+        "2.5.8": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/GreenPass/GreenPass_v2.5.8.eaf"
         }
       }
     },
