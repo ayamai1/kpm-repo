@@ -1,6 +1,56 @@
 {
   "plugins": [
     {
+      "id": "photo_bubbles",
+      "name": "Photo Bubbles",
+      "author": "@fanatkhimitsu",
+      "version": "0.7.3",
+      "description": "Красит облачко сообщения с фото градиентом, который повторяет расположение цветов на фото. Работает и с альбомами.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_bubbles.plugin",
+      "hash": "f34216c95d57ff5d09d128bc03843884dc48355a5c01b0f8c6ae3e625fe8ef1c",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "paranoia",
+      "name": "Paranoia",
+      "author": "@scorpiovn_sc",
+      "version": "1.2.0",
+      "icon": "exteraPlugins/1",
+      "description": "Предотвращает случайную отправку несуществующих команд, начинающихся с '.'",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/paranoia.plugin",
+      "hash": "af21ce4d6f6be039040a2445afaeecdf6c8a7ba61a7264dbaf95949c70529f2e",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "device_fingerprint_spoofer",
+      "name": "Device Fingerprint Spoofer",
+      "author": "Daxo-Developer @Daxo_OS",
+      "version": "3.0.0",
+      "icon": "DaxoOS/1",
+      "description": "Подмена device_model, system_version и app_version на серверах Telegram (не локально). Редактор в «Устройствах», применяется сразу.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/device_fingerprint_spoofer.plugin",
+      "hash": "cbe6529c6c44da3f92f79ebe977619b515d98cfb465c69e05895bf77bc7f9f6c",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "md3_player",
       "name": "Material Player",
       "author": "@RnPlugins",
