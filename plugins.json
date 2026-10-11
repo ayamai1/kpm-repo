@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "md3_player",
+      "name": "Material Player",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/30",
+      "description": "Стилизация тг плеера в Material Expressive стиль",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/md3_player.plugin",
+      "hash": "f0f49bfdfffbae9ca1b9986f68289f99d0010997cd46c4e8eee7f47bc68498fd",
+      "app_version": ">=12.10.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "termux_bridge",
+      "name": "Termux Bridge",
+      "author": "@S1mclick",
+      "version": "1.0.0",
+      "icon": "ayugramtrahatgroud_by_fStikBot/30",
+      "description": "Запуск скриптов поверх exteragram с помощью termux. Для использование скачайте плагин по команде из настроек. Поддерживает нейросети, Java компоненты и Python. Автор проверял на 12.9.0",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/termux_bridge.plugin",
+      "hash": "7d630c354a5d39d0e8da28ed1fbb1788c807cb2b533eba7822d75b6e3984bd9c",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "GreenPass",
       "name": "GreenPass",
       "author": "@Altyplugins",
