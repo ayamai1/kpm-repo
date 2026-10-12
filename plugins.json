@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "playlist_to_profile",
+      "name": "Playlist to Profile",
+      "author": "@rei_plugins (@optimist_opti)",
+      "version": "1.1",
+      "icon": "rei_plugins/1",
+      "description": "Добавляет треки из плейлиста (YouTube, Яндекс Музыка, VK, Spotify, SoundCloud...) в музыку профиля",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/playlist_to_profile.plugin",
+      "hash": "c93eaac9cc1c72b0e65b130ee362adb908af2a05219fa19db5505d1b8a0c7145",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "photo_bubbles",
       "name": "Photo Bubbles",
       "author": "@fanatkhimitsu",
