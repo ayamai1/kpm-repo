@@ -1,21 +1,73 @@
 {
   "plugins": [
     {
+      "id": "audiovizualizer_plugin",
+      "name": "Audio Visualizer",
+      "author": "@MGPlugins",
+      "version": "3.2.0",
+      "icon": "MeijiPlugins/4",
+      "description": "аудиовизуализатор, с подробным конфигом и несколькими режимами работы",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/audiovizualizer_plugin.eaf",
+      "hash": "4ae04bbd89ba1390f158f9e7c67331fab5472bb1e031d45eeea5d562a6c890bd",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.7.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audiovizualizer_plugin/audiovizualizer_plugin.plugin"
+        },
+        "2.8.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audiovizualizer_plugin/audiovizualizer_plugin_v2.8.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "songlinker",
+      "name": "Song Linker",
+      "author": "@thrzxd • @kotilnya",
+      "version": "1.0.4",
+      "icon": "Konataizumi0_by_fStikBot/6",
+      "description": "Converts a link into hypertext.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/songlinker.plugin",
+      "hash": "19317876f6d86a7a81fd63773ff422292b1db1e529d7799caeb5df7c2366f0b1",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/songlinker/songlinker_v1.0.2.plugin"
+        }
+      }
+    },
+    {
       "id": "compact_plugin_list",
       "name": "Compact Plugin List",
       "author": "@rei_plugins (@optimist_opti)",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "rei_plugins/2",
       "description": "Скрывает описания и зависимости плагинов.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/compact_plugin_list.plugin",
-      "hash": "cbc252b7f8eab4831b98bd1e7f33d17fb906c863ec80439a46ce236d16d96901",
+      "hash": "1896b2ae2ba4c3806e2ac82a2dc60aae1a8dbbafed8ed5ae58cb97104f907ed0",
       "app_version": ">=12.5.1",
       "tags": [
         [
           "Customization",
           "key_avatar_backgroundViolet"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_plugin_list/compact_plugin_list_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "player_widget",
@@ -1928,23 +1980,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/header_call_button/header_call_button_v1.2.0.plugin"
         }
       }
-    },
-    {
-      "id": "songlinker",
-      "name": "Song Linker",
-      "author": "@thrzxd • @kotilnya",
-      "version": "1.0.2",
-      "icon": "Konataizumi0_by_fStikBot/6",
-      "description": "Converts a link into hypertext.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/songlinker.plugin",
-      "hash": "bed44f181ad80de7f6c67abc114a8e286701be24bd318dc73f18ca5f63d99e9b",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "proxy_sub",
@@ -5812,28 +5847,6 @@
         },
         "3.0.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fix_endpoint_gooey/fix_endpoint_gooey_v3.0.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "audiovizualizer_plugin",
-      "name": "Audio Visualizer",
-      "author": "@MGPlugins",
-      "version": "2.8.0",
-      "icon": "MeijiPlugins/4",
-      "description": "аудиовизуализатор, с подробным конфигом и несколькими режимами работы",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/audiovizualizer_plugin.plugin",
-      "hash": "a05003b16bed8f4f08abf4246a1066f74970f2df5d3c583dd2c9fae692cd7bd7",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.7.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audiovizualizer_plugin/audiovizualizer_plugin.plugin"
         }
       }
     },
