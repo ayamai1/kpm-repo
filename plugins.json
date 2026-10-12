@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "compact_plugin_list",
+      "name": "Compact Plugin List",
+      "author": "@rei_plugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "rei_plugins/2",
+      "description": "Скрывает описания и зависимости плагинов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/compact_plugin_list.plugin",
+      "hash": "cbc252b7f8eab4831b98bd1e7f33d17fb906c863ec80439a46ce236d16d96901",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "player_widget",
       "name": "Player Widget",
       "author": "@YouRooni",
