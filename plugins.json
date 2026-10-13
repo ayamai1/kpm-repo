@@ -1,6 +1,132 @@
 {
   "plugins": [
     {
+      "id": "archive_folders",
+      "name": "Archive Folders",
+      "author": "@tsarkei",
+      "version": "1.4.2",
+      "icon": "te4_lei3_xi1_ya4_by_fStikBot/15",
+      "description": "Плагин для добавления папок внутри архива. Переключатель в шапке архива (сверху справа), да и много чего полезного в настройках",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archive_folders.plugin",
+      "hash": "d4e316acb81bb219f9982f366e0855dc4ae66cd8c58dcf1e4525f29b387b51bc",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.4.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "reactions_total",
+      "name": "Reactions Total",
+      "author": "Daxo-Developer @Daxo_OS",
+      "version": "2.0.0",
+      "icon": "DaxoOS/1",
+      "description": "Сумма реакций в строке под постом, рядом с просмотрами и пересылками / Total reactions next to views and forwards",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/reactions_total.plugin",
+      "hash": "b135f9b25ff198b448f592e3188eee8a6a3baa8aad3593eb8829f01a0316c5d4",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
+      "id": "group_mentions",
+      "name": "Group Mentions",
+      "author": "@Hikerys",
+      "version": "1.1",
+      "icon": "kano_plugins/0",
+      "description": "Создавайте группы юзернеймов и упоминайте всех сразу одной командой-словом в сообщении",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/group_mentions.plugin",
+      "hash": "2b268d19a85ca45d5b05c6067b19061b3a33531eb90f91860507f29a738d8adc",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "ipo",
+      "name": "IPO",
+      "author": "@la_cringe",
+      "version": "1.0",
+      "icon": "exteraPlugins/2",
+      "description": "Тап по иконке плагина открывает стикер-пак, из которого эта иконка.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ipo.plugin",
+      "hash": "ca88a119ecbf7c914184423573c89e28797f5578e39c9e8717360c4669bc1481",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "NoColorButton",
+      "name": "No Color Button",
+      "author": "original @pixwet, fork by @Tsarkei",
+      "version": "1.4",
+      "icon": "te4_lei3_xi1_ya4_by_fStikBot/12",
+      "description": "Убирает чёртовы цветные кнопки от ботов (прям любые).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/NoColorButton.plugin",
+      "hash": "d7e7d6be72bde4d82d840743a61c1fe7d95b0952869a6b79f5f6bb9159746a6d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/NoColorButton/NoColorButton_v1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "exitFy_v2",
+      "name": "exitFy V2",
+      "author": "@exteraPluginsSup",
+      "version": "4.5",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
+      "hash": "c56128bbb54ec546fdc7a341ff3e42c40158996d4d6269138fca3f2eda70430c",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
+        },
+        "4.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.1.0.plugin"
+        },
+        "4.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.2.1.plugin"
+        }
+      }
+    },
+    {
       "id": "audiovizualizer_plugin",
       "name": "Audio Visualizer",
       "author": "@MGPlugins",
@@ -1325,34 +1451,6 @@
         },
         "1.1.3": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/type_effect/type_effect_v1.1.3.plugin"
-        }
-      }
-    },
-    {
-      "id": "exitFy_v2",
-      "name": "exitFy V2",
-      "author": "@exteraPluginsSup",
-      "version": "4.2.1",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
-      "hash": "3b552be1ed1ac0be28b943ec6232f52f3d9b719ad41367ef6b1ba2451c390632",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "4.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
-        },
-        "4.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.1.0.plugin"
         }
       }
     },
@@ -14701,21 +14799,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/multireaction.plugin",
       "hash": "071920dbc19f8f1b8dbaee6cae7783ac4499c5a65495afb8daba0fd6b794b732",
       "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "NoColorButton",
-      "name": "No Color Button",
-      "author": "@pixwet, @darksourse399 сборка",
-      "version": "1.0",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/NoColorButton.plugin",
-      "hash": "f50f150fe27bdf267ba7835bbb9f03ab6bef79c2b2ba1c6f58e5c56166f3da1c",
-      "app_version": ">=12.4.0",
       "tags": [
         [
           "Customization",
