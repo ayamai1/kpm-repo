@@ -1,6 +1,59 @@
 {
   "plugins": [
     {
+      "id": "wiki_search",
+      "name": "Wikipedia Search",
+      "author": "@exteraDev, fixed by @Slowmyy",
+      "version": "2.6",
+      "icon": "exteraDevPlugins/1",
+      "description": "Поиск .wiki [term] с выбором языка из списка",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/wiki_search.eaf",
+      "hash": "f5f387737c64e522576c91e0d07fa2a2a9197b5d7c9c68c6212b5e2913380ded",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "unknown": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.4.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.5.plugin"
+        }
+      }
+    },
+    {
+      "id": "group_mentions",
+      "name": "Group Mentions",
+      "author": "@Hikerys",
+      "version": "1.2",
+      "icon": "kano_plugins/0",
+      "description": "Создавайте группы юзернеймов и упоминайте всех сразу одной командой-словом в сообщении",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/group_mentions.plugin",
+      "hash": "b27342eb72c22c095d54c82ffb15ffdb5b2818be3f3452a9cb23542d34174d10",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/group_mentions/group_mentions_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "archive_folders",
       "name": "Archive Folders",
       "author": "@tsarkei",
@@ -36,23 +89,6 @@
         [
           "Informational",
           "key_color_lightblue"
-        ]
-      ]
-    },
-    {
-      "id": "group_mentions",
-      "name": "Group Mentions",
-      "author": "@Hikerys",
-      "version": "1.1",
-      "icon": "kano_plugins/0",
-      "description": "Создавайте группы юзернеймов и упоминайте всех сразу одной командой-словом в сообщении",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/group_mentions.plugin",
-      "hash": "2b268d19a85ca45d5b05c6067b19061b3a33531eb90f91860507f29a738d8adc",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
@@ -4294,34 +4330,6 @@
         },
         "1.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "wiki_search",
-      "name": "Wikipedia Search Fixed",
-      "author": "@exteraDev, fixed by @Slowmyy",
-      "version": "2.5",
-      "icon": "exteraDevPlugins/1",
-      "description": "Поиск .wiki [term] с выбором языка из всех доступных",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/wiki_search.plugin",
-      "hash": "8837a1b728634b70bdc1bb19da26c85b1b6b3925a4ee51eca2dc6206a2d50563",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "unknown": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
-        },
-        "2.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.4.plugin"
         }
       }
     },
