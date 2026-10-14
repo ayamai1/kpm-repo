@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "zwyNoForwardLimit",
+      "name": "NoForwardLimit",
+      "author": "@zwylair",
+      "version": "2.0.3",
+      "icon": "zwyPluginsIcons/6",
+      "description": "Removes the limit of 100 forward and delete messages.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
+      "hash": "2d5ca37e48563da6c4298c9db79feb98b0a2263af8ede6744e0df744257df9a1",
+      "app_version": ">=12.5.1",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
+        },
+        "1.1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.5_1.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.0.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
@@ -5083,37 +5117,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "zwyNoForwardLimit",
-      "name": "NoForwardLimit",
-      "author": "@zwylair",
-      "version": "2.0.1",
-      "icon": "zwyPluginsIcons/6",
-      "description": "Removes the limit of 100 forward and delete messages.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
-      "hash": "94468b6466429d9b492c65a7101f0d5147b1763b1c7f2941b7ecf6561fb9884f",
-      "app_version": ">=12.5.1",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
-        },
-        "1.1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.5_1.plugin"
-        },
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.0.plugin"
-        }
-      }
     },
     {
       "id": "litegram",
