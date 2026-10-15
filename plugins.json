@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "fast_crop",
+      "name": "FastCrop",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.0",
+      "icon": "pixelcamera/19",
+      "description": "Быстрый кроп фото\\видео\\гиф жестом зума в буфер обмена как в галерее на iOS",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fast_crop.plugin",
+      "hash": "1242459d24846b5ea0c77a8764774338f4a361cb4325efb606b46ae3a0e89080",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
