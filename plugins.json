@@ -1,56 +1,14 @@
 {
   "plugins": [
     {
-      "id": "media_duration_sort",
-      "name": "Media Duration",
-      "author": "@mishabotov & @itskotovski",
-      "version": "3.0 [remaked]",
-      "icon": "Icon1_by_TgEmojis_bot/163",
-      "description": "добавляет в меню общих медиа сортировку видео по длительности",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/media_duration_sort.plugin",
-      "hash": "c61f875f6a3bc8bb20cca69a24d1b1325048d0c675d0465e5cdecdc1a54582bc",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_duration_sort/media_duration_v1.0.plugin"
-        },
-        "2.0 [dex]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_duration_sort/media_duration_sort_v2.0_[dex].plugin"
-        }
-      }
-    },
-    {
-      "id": "fast_crop",
-      "name": "FastCrop",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.0",
-      "icon": "pixelcamera/19",
-      "description": "Быстрый кроп фото\\видео\\гиф жестом зума в буфер обмена как в галерее на iOS",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fast_crop.plugin",
-      "hash": "1242459d24846b5ea0c77a8764774338f4a361cb4325efb606b46ae3a0e89080",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
-      "version": "1.8.4",
+      "version": "1.8.5",
       "icon": "chestertech/15",
       "description": "Passive culprit detector — definitely finds crashing or leaking plugin",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/culprit_detector.plugin",
-      "hash": "51ca49db2a002916bee9a6df36bfee52da6361668f42e5d3a032cea4cac0eb32",
+      "hash": "56e0c71a2ea3b4c7794e3d52f52bd0746a132983bde72134fe50503b138e99d2",
       "app_version": ">=12.10.6",
       "tags": [
         [
@@ -127,8 +85,53 @@
         },
         "1.8.3": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.8.3.plugin"
+        },
+        "1.8.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.8.4.plugin"
         }
       }
+    },
+    {
+      "id": "media_duration_sort",
+      "name": "Media Duration",
+      "author": "@mishabotov & @itskotovski",
+      "version": "3.0 [remaked]",
+      "icon": "Icon1_by_TgEmojis_bot/163",
+      "description": "добавляет в меню общих медиа сортировку видео по длительности",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/media_duration_sort.plugin",
+      "hash": "c61f875f6a3bc8bb20cca69a24d1b1325048d0c675d0465e5cdecdc1a54582bc",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_duration_sort/media_duration_v1.0.plugin"
+        },
+        "2.0 [dex]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_duration_sort/media_duration_sort_v2.0_[dex].plugin"
+        }
+      }
+    },
+    {
+      "id": "fast_crop",
+      "name": "FastCrop",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.0",
+      "icon": "pixelcamera/19",
+      "description": "Быстрый кроп фото\\видео\\гиф жестом зума в буфер обмена как в галерее на iOS",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fast_crop.plugin",
+      "hash": "1242459d24846b5ea0c77a8764774338f4a361cb4325efb606b46ae3a0e89080",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
     },
     {
       "id": "auto_marquee",
