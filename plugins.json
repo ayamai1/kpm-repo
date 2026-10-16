@@ -1,6 +1,72 @@
 {
   "plugins": [
     {
+      "id": "qr_gallery",
+      "name": "QR Gallery",
+      "author": "@huecoder",
+      "version": "1.1.0",
+      "icon": "qrgicon2_by_W1fmaSnc23f0akxcmbot/0",
+      "description": "Добавляет кнопку галереи во все QR-сканеры Telegram (устройства, вход по QR, веб-боты): можно выбрать фото с QR-кодом вместо съёмки камерой.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/qr_gallery.plugin",
+      "hash": "ae83f206b8d6ff3e776f64ee452d408eb14dd9a20eeb81cc2764e5cdb79286a0",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/qr_gallery/qr_gallery_v1.1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "miniapp_injector",
+      "name": "MiniApp Injector",
+      "author": "@huecoder",
+      "version": "1.0.1",
+      "icon": "bma_by_W1fmaSnc23f0akxcmbot/0",
+      "description": "DevTools-консоль прямо внутри Telegram мини-аппки + инъект своих JS-ссылок.\n\n• eruda-консоль поверх любой аппки — console/network/storage с телефона\n• Инъект своих ссылок: вставь любой JS/CDN — плагин докачает и внедрит в аппку\n• Работает даже при строгом CSP (канал evaluateJavascript). Всё выкл по умолчанию.\n\nby huecoder",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/miniapp_injector.plugin",
+      "hash": "9d80505488a8a4f8e58bac36551490f27d67c6c20be054f1eb1ee21682bb8c35",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/miniapp_injector/miniapp_injector_v1.0.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "spen_support",
+      "name": "Samsung S-Pen Support",
+      "author": "@huecoder",
+      "version": "1.6.0",
+      "icon": "5879841310902324730",
+      "description": "Поддержка кнопки S Pen в чатах.\n\n- Выделение текста пером с зажатой кнопкой\n- Выделение всего текста двойным касанием\n- Выбор сообщений свайпом по фону чата\n- Нажатие кнопкой над экраном вместо касания",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spen_support.plugin",
+      "hash": "c215b47868720dfc1367ed82d252c51b96a7c6e3aee58d0ddd789d7dbaa7ee17",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/spen_support/spen_support_v1.6.0.plugin"
+        }
+      }
+    },
+    {
       "id": "mute_ls",
       "name": "Мут в ЛС",
       "author": "@shit_plugins",
@@ -2121,23 +2187,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
         }
       }
-    },
-    {
-      "id": "spen_support",
-      "name": "Samsung S-Pen Support",
-      "author": "@huecoder",
-      "version": "1.6.0",
-      "icon": "5879841310902324730",
-      "description": "Поддержка кнопки S Pen в чатах.\n\n- Выделение текста пером с зажатой кнопкой\n- Выделение всего текста двойным касанием\n- Выбор сообщений свайпом по фону чата\n- Нажатие кнопкой над экраном вместо касания",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spen_support.plugin",
-      "hash": "c215b47868720dfc1367ed82d252c51b96a7c6e3aee58d0ddd789d7dbaa7ee17",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "bot_tags",
@@ -7335,23 +7384,6 @@
       ]
     },
     {
-      "id": "miniapp_injector",
-      "name": "MiniApp Injector",
-      "author": "@huecoder",
-      "version": "1.0.1",
-      "icon": "bma_by_W1fmaSnc23f0akxcmbot/0",
-      "description": "DevTools-консоль прямо внутри Telegram мини-аппки + инъект своих JS-ссылок.\n\n• eruda-консоль поверх любой аппки — console/network/storage с телефона\n• Инъект своих ссылок: вставь любой JS/CDN — плагин докачает и внедрит в аппку\n",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/miniapp_injector.plugin",
-      "hash": "9d80505488a8a4f8e58bac36551490f27d67c6c20be054f1eb1ee21682bb8c35",
-      "app_version": ">=11.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "ripple_actions",
       "name": "Ripple Actions",
       "author": "@mishabotov & @itskotovski",
@@ -7563,23 +7595,6 @@
       "description": "Установка .py модулей Heroku/Hikka прямо из Telegram с отображением метаданных и команд.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/py_module_installer.plugin",
       "hash": "cf115b2d64ee02420a2b80c000704a9312c503d0e495e369ef2d9e8c9ac61a2c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "qr_gallery",
-      "name": "QR Gallery",
-      "author": "@huecoder",
-      "version": "1.1.0",
-      "icon": "qrgicon2_by_W1fmaSnc23f0akxcmbot/0",
-      "description": "Добавляет кнопку галереи во все QR-сканеры Telegram (устройства, вход по QR, веб-боты): можно выбрать фото с QR-кодом вместо съёмки камерой.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/qr_gallery.plugin",
-      "hash": "ae83f206b8d6ff3e776f64ee452d408eb14dd9a20eeb81cc2764e5cdb79286a0",
       "app_version": ">=12.5.1",
       "tags": [
         [
