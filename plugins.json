@@ -1,6 +1,62 @@
 {
   "plugins": [
     {
+      "id": "ok_playlists",
+      "name": "OK Playlists",
+      "author": "@hi_hr_js",
+      "version": "1.1.0",
+      "icon": "AnimatedEmojies/335",
+      "description": "Fixes music playback:\n• progress is not preserved when switching tracks\n• only music from the current group topic is played",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ok_playlists.plugin",
+      "hash": "38af7ef867755d92f9c908c9d5ccc607a220eb51cc31be1f397e69eeae519fd7",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ok_playlists/ok_playlists_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "pill_labels",
+      "name": "Pill Labels",
+      "author": "@Persik_dll & claude",
+      "version": "2.3.4",
+      "icon": "kittysforlife_by_fStikBot/19",
+      "description": "Обводка вокруг подписей в профиле («О себе», «Имя пользователя», «Адрес»…)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pill_labels.plugin",
+      "hash": "2dabdc3573c0f8e833079415a63cd0a6b0a9dc9369e3e2ca239569f961e3fa52",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "smart_auto_archiver",
+      "name": "Auto Archive Chats",
+      "author": "@nainraft",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "Архивация неактивных чатов по таймеру",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/smart_auto_archiver.plugin",
+      "hash": "eada0864c833de9f766cd5f0daeac51667eb8258b77d95b8b8265d9c408ddcf9",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "qr_gallery",
       "name": "QR Gallery",
       "author": "@huecoder",
