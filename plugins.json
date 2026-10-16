@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "modular_sections",
+      "name": "Modular Sections",
+      "author": "@RnPlugins",
+      "version": "1.0.1",
+      "icon": "RnDev/14",
+      "description": "Преобразует элементы интерфейса в модульные секции Material 3.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/modular_sections.plugin",
+      "hash": "97872758f24243b49046e7ca0fd655394cb21ad1b63efab3906b00af2eeadd20",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/modular_sections/modular_sections_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "ok_playlists",
       "name": "OK Playlists",
       "author": "@hi_hr_js",
@@ -5714,23 +5736,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/commands/commands.plugin"
         }
       }
-    },
-    {
-      "id": "modular_sections",
-      "name": "Modular Sections",
-      "author": "@RnPlugins",
-      "version": "1.0.0",
-      "icon": "RnDev/14",
-      "description": "Преобразует элементы интерфейса в модульные секции (Material 3).\nStyles user interface elements into modular Material 3 sections.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/modular_sections.plugin",
-      "hash": "310ed6d0d9ad134c6514937bb0bd7c36d09ba77fd2ac9906a2f4b3336ae7c633",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "clearURLs",
