@@ -8,7 +8,30 @@
       "description": "Adds an account picker to the forward screen: forwarded content is sent from the selected logged-in account. Supports sending copy or sending restricted content and sending from where it's restricted",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/forward_pro.plugin",
       "hash": "65297316ef249de5cfecce971c217c7799b253974939ae5aff762eb9f2415e19",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "player_resume",
+      "name": "Player Resume",
+      "author": "@RnPlugins",
+      "version": "1.0.1",
+      "icon": "RnDev/8",
+      "description": "Сворачивание плеера в кнопку у FAB при закрытии",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/player_resume.plugin",
+      "hash": "1cb49de8131fcc6c12720c69788cb5a01c2d4633b92cd194cae7f8769beb9544",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "ping_all",
