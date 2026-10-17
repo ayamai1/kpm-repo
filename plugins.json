@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "smooth_animations",
+      "name": "Smooth Animations",
+      "author": "@ayamari_zxc",
+      "version": "1.0.0",
+      "description": "Плавнее анимации: включает все анимации, максимальную частоту экрана и скорость анимаций",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/smooth_animations.plugin",
+      "hash": "ce28b3028fe21531adc16be035fc1a34549156ff52aa5ac48b871c693d3412ac",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "header_call_button",
       "name": "Header Call Button",
       "author": "@l_limon_l",
