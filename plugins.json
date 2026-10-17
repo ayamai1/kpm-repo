@@ -1,6 +1,30 @@
 {
   "plugins": [
     {
+      "id": "header_call_button",
+      "name": "Header Call Button",
+      "author": "@l_limon_l",
+      "version": "1.3.0",
+      "description": "Кнопка звонка в шапке личного чата, как в официальном Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/header_call_button.plugin",
+      "hash": "a1b4b7d9af7f36b07899bc9a8e63106bae6fb73366760caa7c3379a9fce3c6b0",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/header_call_button/header_call_button_v1.2.0.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/header_call_button/header_call_button_v1.2.3.plugin"
+        }
+      }
+    },
+    {
       "id": "modular_sections",
       "name": "Modular Sections",
       "author": "@RnPlugins",
@@ -2356,27 +2380,6 @@
         },
         "4.2.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "header_call_button",
-      "name": "Header Call Button",
-      "author": "@l_limon_l",
-      "version": "1.2.3",
-      "description": "Кнопка звонка в шапке личного чата, как в официальном Telegram",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/header_call_button.plugin",
-      "hash": "2204d2d26ad9d4dbea7bfd4df1ecbc0fb1f0881c9a7fbdc9990015d005f57e06",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/header_call_button/header_call_button_v1.2.0.plugin"
         }
       }
     },
