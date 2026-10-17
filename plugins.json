@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "allleft",
+      "name": "AllLeft",
+      "author": "@limeplug",
+      "version": "2.0.11",
+      "icon": "masquernya/5",
+      "description": "Все сообщения слева: ник и аватарка, как в группе.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/allleft.plugin",
+      "hash": "f8fd17e64dd2e2c546e4ba1089c792087f3a42163df83e97ad89f1903ef027c9",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "forward_pro",
       "name": "Forward Pro",
       "author": "@chestertech & @useful_plugins",
