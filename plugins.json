@@ -1,6 +1,33 @@
 {
   "plugins": [
     {
+      "id": "forward_pro",
+      "name": "Forward Pro",
+      "author": "@chestertech & @useful_plugins",
+      "version": "1.0.16",
+      "description": "Adds an account picker to the forward screen: forwarded content is sent from the selected logged-in account. Supports sending copy or sending restricted content and sending from where it's restricted",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/forward_pro.plugin",
+      "hash": "65297316ef249de5cfecce971c217c7799b253974939ae5aff762eb9f2415e19",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "ping_all",
+      "name": "Ping All",
+      "author": "@nyashkazxcgram",
+      "version": "2.3.0",
+      "icon": "exteraPlugins/1",
+      "description": "Команда .все пингует всех участников группы одним сообщением, каждого по 3 раза. .стоп останавливает.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ping_all.plugin",
+      "hash": "1f8bda2e67926ac84bf957ecd1dd4b951824639f893b860972ca36218a57ce61",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "smooth_animations",
       "name": "Smooth Animations",
       "author": "@ayamari_zxc",
