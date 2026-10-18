@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "chat_summary",
+      "name": "Chat Summary",
+      "author": "@aaxnet",
+      "version": "3.2.1",
+      "icon": "KOSHAKIEBANIYE/44",
+      "description": "AI-саммари чата или темы: OpenAI, Claude, Gemini, Ollama и совместимые API.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_summary.plugin",
+      "hash": "d1116d56165af2c1c0cf06085a182a4d1bd60e5706435e66173f6bf0b9518b4a",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_summary/chat_summary_v1.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_summary/chat_summary_v2.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "mini_avatar",
       "name": "Mini Avatar",
       "author": "@KUNSESHBOY",
@@ -8360,28 +8385,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "chat_summary",
-      "name": "Chat Summary",
-      "author": "@aaxnet",
-      "version": "2.0.0",
-      "icon": "KOSHAKIEBANIYE/44",
-      "description": "Summarize any chat using AI — OpenAI, Anthropic, Gemini, Ollama or a custom endpoint.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_summary.plugin",
-      "hash": "1d9db08558285e909993fe600a67592f423744bdba7175a787e2ffcbf07d50bd",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_summary/chat_summary_v1.0.0.plugin"
-        }
-      }
     },
     {
       "id": "moonlib",
