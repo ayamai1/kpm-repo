@@ -1,6 +1,79 @@
 {
   "plugins": [
     {
+      "id": "lyu_mic_switch",
+      "name": "Запасной микрофон",
+      "author": "@lyuto_bor",
+      "version": "0.1.1.1",
+      "icon": "exteraPlugins/1",
+      "description": "Если во время кружка или голосового закрыть микрофон пальцем, запись сама продолжится с другого микрофона телефона, и вас будет слышно.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/lyu_mic_switch.plugin",
+      "hash": "c01640722960f8a41e5a1c746fd2672debcb5cb64600b757a9028b458bbf8249",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "service_cleaner",
+      "name": "Service Cleaner",
+      "author": "Автор: @PLOXOI_RRO",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "Массовое удаление служебных сообщений: «вошёл в чат», «добавил вариант в опрос» и других.\n\nМеню чата (⋮) → **Удалить служебные…**, либо долгое нажатие на служебное сообщение → **Удалить все такие же**.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/service_cleaner.plugin",
+      "hash": "0c0eff4a275ce73b6e9743e9e6e83963069fb2156a5b4589fab536c9f4fdcf20",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "screen_guard",
+      "name": "Screen Guard",
+      "author": "@nyashkazxcgram",
+      "version": "3.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "Скрывает содержимое exteraGram в списке недавних приложений, чтобы переписку не было видно на миниатюре. Работает на Android 13 и новее.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/screen_guard.plugin",
+      "hash": "db23c1d4cfff6ceff928000a4df631b231277899c54bbbae455cc740534485ff",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "mini_avatar",
+      "name": "Mini Avatar",
+      "author": "@KUNSESHBOY",
+      "version": "1.0",
+      "icon": "M_A665/0",
+      "description": "Заменяет стандартный аватар около сообщения на мини аватар\nКастомизация положения пузыря смс по горизонтали\nКастомизация размера мини аватара, положения по вертикали и горизонтали.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mini_avatar.plugin",
+      "hash": "b9cdc2aef5ad666d9e5020b593549d750e229ccdc4ad6cd98fec5dda002ba3a9",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/mini_avatar/mini_avatar_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "chat_summary",
       "name": "Chat Summary",
       "author": "@aaxnet",
@@ -24,23 +97,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_summary/chat_summary_v2.0.0.plugin"
         }
       }
-    },
-    {
-      "id": "mini_avatar",
-      "name": "Mini Avatar",
-      "author": "@KUNSESHBOY",
-      "version": "1.0",
-      "icon": "M_A665/0",
-      "description": "Заменяет стандартный аватар около сообщения на мини аватар\nКастомизация положения пузыря смс по горизонтали\nКастомизация размера мини аватара, положения по вертикали и горизонтали.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mini_avatar.plugin",
-      "hash": "141bcc1c57b6af6c1a1d9f9dfb52bcebfb1eac58a695be8870be688cf1660679",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "hide_attach_buttons",
