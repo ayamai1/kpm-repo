@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "nyashnosti",
+      "name": "Няшности",
+      "author": "@stdflush & @fergntye & @sheerboy",
+      "version": "3.0.0",
+      "icon": "forkozeki_by_fStikBot/4",
+      "description": "18+ плагин Няшности для @fergntye\nБыстрые команды: .nsfw .sfw .femboy .loli .lolisfw .tead\nBooru: .gelb .danb .r34 .yd .randb\nили @nya {Booru} влажные_(мечты)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/nyashnosti.plugin",
+      "hash": "6b62f2bb9ef6e4902b806d8351a99e613bce9cbd8da78ce3e169b5aa1604c50a",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/nyashnosti/nyashnosti_v2.1.0.plugin"
+        },
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/nyashnosti/nyashnosti_v2.1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "google_photo_picker",
       "name": "Google Фото picker",
       "author": "@varwqxddd",
@@ -10875,28 +10900,6 @@
       "versions": {
         "2.3.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/dont65_dice_roller/dont65_dice_roller_v2.3.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "nyashnosti",
-      "name": "Няшности",
-      "author": "@stdflush & @fergntye",
-      "version": "2.1.1",
-      "icon": "forkozeki_by_fStikBot/4",
-      "description": "18+ плагин Няшности для @fergntye\nБыстрые команды: .nsfw .sfw .femboy .loli .lolisfw .tead\nBooru: .gelb .danb .r34 .yd .randb\nПодсказки и оформление в настройках",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/nyashnosti.plugin",
-      "hash": "457ee6742b8aad3123c279cf9cdc1fa11e32ae514d536405a178a9fe95b729de",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/nyashnosti/nyashnosti_v2.1.0.plugin"
         }
       }
     },
