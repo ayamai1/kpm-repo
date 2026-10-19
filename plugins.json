@@ -1,6 +1,37 @@
 {
   "plugins": [
     {
+      "id": "google_photo_picker",
+      "name": "Google Фото picker",
+      "author": "@varwqxddd",
+      "version": "4.2.6",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» в меню вложений\\nДоступна возможность поиска фоток по тексту (как в приложении)\\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
+      "hash": "42f79ed26b00f5659480bafeb81909630e898eab35d75d3136886c77ed92276e",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
+        },
+        "4.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
+        },
+        "4.2.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
+        }
+      }
+    },
+    {
       "id": "text_animation",
       "name": "Text Animation",
       "author": "@itskotovski & @mishabotov",
@@ -2682,34 +2713,6 @@
         },
         "1.9.2.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.9.2.1.eaf"
-        }
-      }
-    },
-    {
-      "id": "google_photo_picker",
-      "name": "Google Фото picker",
-      "author": "@varwqxddd",
-      "version": "4.2.3",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» в меню вложений\\nДоступна возможность поиска фоток по тексту (как в приложении)\\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
-      "hash": "d5f90e3dc241b583e9ebcacfbfa8064ea24e8bc726cf4b7b3683c1e1cf4e46b7",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "3.7.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
-        },
-        "4.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
         }
       }
     },
