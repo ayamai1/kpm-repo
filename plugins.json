@@ -1,6 +1,46 @@
 {
   "plugins": [
     {
+      "id": "zwyCrossfade",
+      "name": "Crossfade",
+      "author": "@zwylair",
+      "version": "1.0.0",
+      "icon": "zwyPluginsIcons/9",
+      "description": "Smooth transition between music tracks: the ending track fades out while the next one fades in.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyCrossfade.plugin",
+      "hash": "08ebb035b30633264f052c6f37f4e70d7a0d55fb0e4510455afdde40ff629b02",
+      "app_version": ">=12.5.1",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "zwyVolumeNormalizer",
+      "name": "VolumeNormalizer",
+      "author": "@zwylair",
+      "version": "1.0.0",
+      "icon": "zwyPluginsIcons/10",
+      "description": "Evens out the loudness of music played in Telegram: loud tracks are made quieter, quiet ones louder.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyVolumeNormalizer.plugin",
+      "hash": "629223f2e8c8450b1c01e8ffed4a4bcdecea4921ca4788600f67606dff830355",
+      "app_version": ">=12.5.1",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "msg_stats",
       "name": "Message Stats",
       "author": "@metawkaPlugins • @metawka",
