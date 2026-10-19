@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "text_animation",
+      "name": "Text Animation",
+      "author": "@itskotovski & @mishabotov",
+      "version": "1.0 [reborn]",
+      "icon": "DateRegBot_by_MoiStikiBot/18",
+      "description": "оживляет набор текста",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/text_animation.plugin",
+      "hash": "f0149887cf95f3e701bfef1af876d74fcc07052a0dc9cd0c29550405d028040f",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "7.0.0 [Spoilers]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
+        },
+        "8.0 [back]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
+        },
+        "9.0 [beta]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0_[beta].plugin"
+        },
+        "10.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v10.0.plugin"
+        },
+        "11.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v11.0.plugin"
+        }
+      }
+    },
+    {
       "id": "zwyCrossfade",
       "name": "Crossfade",
       "author": "@zwylair",
@@ -1858,37 +1892,6 @@
         },
         "1.2.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1_1.eaf"
-        }
-      }
-    },
-    {
-      "id": "text_animation",
-      "name": "Text Animation",
-      "author": "@itskotovski & @mishabotov",
-      "version": "11.0",
-      "icon": "DateRegBot_by_MoiStikiBot/18",
-      "description": "оживляет набор текста: буквы мягко появляются, курсор плывёт, а стёртые символы красиво рассыпаются",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/text_animation.plugin",
-      "hash": "a4cc31ebf9976ad2fa889bc11db0eed916146276d65ef8e1fc6749f55f94d87a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "7.0.0 [Spoilers]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v8.0__back_.plugin"
-        },
-        "8.0 [back]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0__beta_.plugin"
-        },
-        "9.0 [beta]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v9.0_[beta].plugin"
-        },
-        "10.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/text_animation/text_animation_v10.0.plugin"
         }
       }
     },
