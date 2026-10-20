@@ -1,6 +1,51 @@
 {
   "plugins": [
     {
+      "id": "delete_gifts",
+      "name": "DeleteGifts",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "rei_plugins/3",
+      "description": "Перенос функции удаления подарков из нового обновления Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/delete_gifts.plugin",
+      "hash": "dc5288705d1642e240031881936cb91b5f1a5232a498505c57882e469ef74a94",
+      "app_version": ">=11.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "QPS",
+      "name": "QPS",
+      "author": "@senscoder",
+      "version": "5.1",
+      "icon": "AnimatedEmojies/404",
+      "description": "RU: Быстрое меню плагинов, бэкап плагинов .qps (IoE), защита QPS SAFITY CORE и карточки плагинов, QPSwipe (стереть мои сообщения).\nEN: Quick plugin menu, .qps backup plugins (IoE), QPS SAFITY CORE protection, plugin cards and QPSwipe (wipe own msgs).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/QPS.plugin",
+      "hash": "66fb4e54062a21e7ded8666153d9661368be6f6fe48eb8ffc6fda24a5c750599",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QPS/QPS_v4.0.plugin"
+        },
+        "4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QPS/QPS_v4.2.plugin"
+        },
+        "4.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QPS/QPS_v4.6.plugin"
+        }
+      }
+    },
+    {
       "id": "qeply",
       "name": "Qeply",
       "author": "@scvnms",
@@ -2081,31 +2126,6 @@
         },
         "1.3": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.3.plugin"
-        }
-      }
-    },
-    {
-      "id": "QPS",
-      "name": "QPS",
-      "author": "@senscoder feat. @bokudzhava(original idea)",
-      "version": "4.6",
-      "icon": "AnimatedEmojies/404",
-      "description": "Добавляет удобное шорткат меню для быстрого управления плагинами",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/QPS.plugin",
-      "hash": "51d0134a49c1e6165b82cc11f1d24651f58115a3344f0f1629efeb92e322616a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "4.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QPS/QPS_v4.0.plugin"
-        },
-        "4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QPS/QPS_v4.2.plugin"
         }
       }
     },
