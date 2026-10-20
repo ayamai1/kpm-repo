@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.0",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "2c0fc1cabc63899b34b86c0653be9fc03f6721983caeca8f16baad725ff4c5c1",
+      "app_version": ">=12.0.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "hide_system_bars",
       "name": "Hide System Bars",
       "author": "@NEBULASoftware @FrontendVSCode",
