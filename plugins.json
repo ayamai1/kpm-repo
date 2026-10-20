@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "qeply",
+      "name": "Qeply",
+      "author": "@scvnms",
+      "version": "1.0",
+      "icon": "TgAndroidIcons/15",
+      "description": "Реплай цитирует сообщение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/qeply.plugin",
+      "hash": "4f29e39bff89aa4e5b2a30914847f8ba4e17c8821ee9f7196612e3c41ca230ff",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "veil",
       "name": "VEIL",
       "author": "@NFModules",
