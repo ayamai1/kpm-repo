@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.1",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "8450acec6dd2473e6322f34fd2c3eb6f3844a36b44fb36103b2532e9a8a9c8f6",
+      "app_version": ">=12.0.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
+        }
+      }
+    },
+    {
       "id": "delete_gifts",
       "name": "DeleteGifts",
       "author": "@LuPlugins (@optimist_opti)",
@@ -55,23 +77,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/qeply.plugin",
       "hash": "4f29e39bff89aa4e5b2a30914847f8ba4e17c8821ee9f7196612e3c41ca230ff",
       "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ]
-    },
-    {
-      "id": "veil",
-      "name": "VEIL",
-      "author": "@NFModules",
-      "version": "1.0.0",
-      "icon": "veilplugin/0",
-      "description": "Плагин для шифрования всех ваших сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
-      "hash": "2c0fc1cabc63899b34b86c0653be9fc03f6721983caeca8f16baad725ff4c5c1",
-      "app_version": ">=12.0.0",
       "tags": [
         [
           "Messages",
