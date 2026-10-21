@@ -1,6 +1,73 @@
 {
   "plugins": [
     {
+      "id": "game_arcade",
+      "name": "Arcade Games",
+      "author": "@Art_727 & @lerowplug",
+      "version": "1.0",
+      "icon": "ArtPack99/34",
+      "description": "Легендарные игры 2048, Flappy Bird и Chrome Dino прямо в клиенте. Сделан на основе плагина Flappy Bird, автор данного плагина @hijut",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/game_arcade.plugin",
+      "hash": "4af1f3737c19c7e56edc65799e7a6a8cac228e059938f9e47b8e2f764d8d9a6c",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "chat_colors",
+      "name": "Chat Colors",
+      "author": "@lerowc & @lerowplug",
+      "version": "1.0",
+      "icon": "voodoo/5",
+      "description": "**Свой цвет для выбранных чатов** в списке чатов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_colors.plugin",
+      "hash": "cda6a79ad8d73d6b3218bb10a441624f39feeb0e39e7989d140a2f41a24916e8",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "camera_flip",
+      "name": "Camera Flip",
+      "author": "@its240hz",
+      "version": "0.2.0",
+      "description": "Переключение камеры в видеосообщении (кружке) свайпом или двойным тапом",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_flip.plugin",
+      "hash": "4400939311559e065c149191fcc71b7458f0d87d224f39d9c210c9b99c780ac8",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "bubble_pop",
+      "name": "Bubble Pop",
+      "author": "@the_kubicki",
+      "version": "1.0.0",
+      "icon": "EbuchieKoty4/9",
+      "description": "🫧 Лопай пузырьки прямо на экране!\n\n⚠️ ВАЖНО:\nДля работы требуется разрешение 'Наложение поверх других приложений'. ",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bubble_pop.plugin",
+      "hash": "6d7adedab128f35eca6dab926c84137a9f69e250629aae4aa51c0b6c8a61d580",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "downloader",
       "name": "Media Downloader",
       "author": "@itsv1eds",
