@@ -1,6 +1,56 @@
 {
   "plugins": [
     {
+      "id": "antispam",
+      "name": "Antispam",
+      "author": "@lisurgut",
+      "version": "2.3.30",
+      "icon": "SillyKittens6/1",
+      "description": "Сворачивает повторы и быстрый спам в выбранных чатах.\nFolds repeated messages and rapid spam in selected chats.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/antispam.eaf",
+      "hash": "12709675a11c7dc06292b7a1d6ebf1906da7e09b38b7ff168741c9887153974d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.3.15": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/antispam/antispam_v2.3.15.eaf"
+        },
+        "2.3.21": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/antispam/antispam_v2.3.21.eaf"
+        }
+      }
+    },
+    {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.5",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "bbc424dfbcf9131a11b322def284528fa50b15c432d7c63b88408fe8b5e5112b",
+      "app_version": ">=12.0.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
+        }
+      }
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
@@ -91,28 +141,6 @@
         },
         "1.8.5": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/culprit_detector/culprit_detector_v1.8.5.plugin"
-        }
-      }
-    },
-    {
-      "id": "veil",
-      "name": "VEIL",
-      "author": "@NFModules",
-      "version": "1.0.1",
-      "icon": "veilplugin/0",
-      "description": "Плагин для шифрования всех ваших сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
-      "hash": "8450acec6dd2473e6322f34fd2c3eb6f3844a36b44fb36103b2532e9a8a9c8f6",
-      "app_version": ">=12.0.0",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
         }
       }
     },
@@ -1825,28 +1853,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0_1.plugin"
-        }
-      }
-    },
-    {
-      "id": "antispam",
-      "name": "Antispam",
-      "author": "@lisurgut",
-      "version": "2.3.21",
-      "icon": "SillyKittens6/1",
-      "description": "Сворачивает повторы и быстрый спам в выбранных чатах.\nFolds repeated messages and rapid spam in selected chats.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/antispam.eaf",
-      "hash": "e7682bd76aa441e66e8d5ad3a4ec108f91a0665311c7e905b8a8deb24ff14f96",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.3.15": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/antispam/antispam_v2.3.15.eaf"
         }
       }
     },
