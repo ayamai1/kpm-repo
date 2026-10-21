@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "downloader",
+      "name": "Media Downloader",
+      "author": "@itsv1eds",
+      "version": "2.5",
+      "icon": "exteraPluginsSup/0",
+      "description": "Скачивание видео, фото и аудио по ссылке. Выбор сервиса, очередь и прогресс с отменой.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/downloader.plugin",
+      "hash": "39adc0258166a218803b25782507f2ebc9757ee18a85790ddcd407dbdc289352",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.9.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v1.9.2.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v2.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "antispam",
       "name": "Antispam",
       "author": "@lisurgut",
@@ -7682,28 +7707,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "downloader",
-      "name": "Media Downloader",
-      "author": "@itsv1eds",
-      "version": "2.0.0",
-      "icon": "exteraPluginsSup/0",
-      "description": "Download and send media (photo, video, audio, gif, albums, live photos) from supported services (check auto-download settings)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/downloader.plugin",
-      "hash": "61ff81b2f57b48e7f790ceca1fcacfac095504241bbaa2f350987c742297bd36",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.9.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v1.9.2.plugin"
-        }
-      }
     },
     {
       "id": "mute_person",
