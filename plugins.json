@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "bulk_react",
+      "name": "BulkReact",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "formyetgplugins_by_fStikBot/17",
+      "description": "Ставит реакцию на все выделенные сообщения.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bulk_react.plugin",
+      "hash": "24ceb0db537c3538790521b0ae909eb357f1566f08e89c06694ba073f00c8b86",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "plugin_guard",
       "name": "Plugin Guard",
       "author": "@dekma0091 && @DefinitelyNotDekma",
