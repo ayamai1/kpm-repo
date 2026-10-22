@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "temporary_messages",
+      "name": "TemporaryMessages",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "formyetgplugins_by_fStikBot/45",
+      "description": "Автоудаление сообщений по таймеру.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/temporary_messages.plugin",
+      "hash": "4ebed6cdf6416fc72a70eefe768af2b27cde6501f20320080cdf3ec10370b525",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
+      "id": "leet_speak",
+      "name": "LeetSpeak",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "formyetgplugins_by_fStikBot/8",
+      "description": "Переводит исходящие сообщения в стиль 1337 (leet speak). Поддерживает русский и английский язык. Настраиваемая интенсивность.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/leet_speak.plugin",
+      "hash": "ef5384a814fbf2aff9c043733574b3c89064a8dd9b956d43369a010257d1ffad",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
+      "id": "word_swap",
+      "name": "WordSwap",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "formyetgplugins_by_fStikBot/30",
+      "description": "Заменяет слова и фразы в исходящих сообщениях.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/word_swap.plugin",
+      "hash": "816d84bb5280737e51dae4bdc8b57592dad78ef2a313fbd29822010d23a1fc27",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
+      "id": "rp_actions_rei",
+      "name": "RP Actions",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "formyetgplugins_by_fStikBot/29",
+      "description": "РП действия как в Iris и других популярных ботах [.рпк]",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/rp_actions_rei.plugin",
+      "hash": "241d4a9bc9ab0b92cd0ece496e525d603921b75b97a74b2be2a5d6bcffafb8b8",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "bulk_react",
       "name": "BulkReact",
       "author": "@LuPlugins (@optimist_opti)",
