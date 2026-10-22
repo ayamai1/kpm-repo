@@ -1,6 +1,115 @@
 {
   "plugins": [
     {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.5.0",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "2924f26be480343c23062b06df92545d37ed41ae6ff384ab581403499408745d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
+        },
+        "1.4.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
+        },
+        "1.4.9": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.9.plugin"
+        }
+      }
+    },
+    {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.6",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "c98136ba5d816de7d118b2fa5066afa1655bd085bc293142630fdb58e518e215",
+      "app_version": ">=12.0.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
+        },
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
+        }
+      }
+    },
+    {
+      "id": "downloader",
+      "name": "Media Downloader",
+      "author": "@itsv1eds",
+      "version": "2.5.1",
+      "icon": "exteraPluginsSup/0",
+      "description": "Скачивание видео, фото и аудио по ссылке. Выбор сервиса, очередь и прогресс с отменой.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/downloader.plugin",
+      "hash": "d9c7b9ac85c47e5d18deee507310ff92ef3052c6ccd4f0138ddb36805c483002",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.9.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v1.9.2.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v2.0.0.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v2.5.plugin"
+        }
+      }
+    },
+    {
+      "id": "unlim_accounts",
+      "name": "Unlim Accounts",
+      "author": "@rezolvePlugins",
+      "version": "1.0",
+      "description": "Raises the account limit to 999. Only **12.10.6**.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlim_accounts.plugin",
+      "hash": "d5649ae3775730d9d05911fe0de637fe40bc7637840f2558e1d500384a62eb4a",
+      "app_version": "==12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "game_arcade",
       "name": "Arcade Games",
       "author": "@Art_727 & @lerowplug",
@@ -68,31 +177,6 @@
       ]
     },
     {
-      "id": "downloader",
-      "name": "Media Downloader",
-      "author": "@itsv1eds",
-      "version": "2.5",
-      "icon": "exteraPluginsSup/0",
-      "description": "Скачивание видео, фото и аудио по ссылке. Выбор сервиса, очередь и прогресс с отменой.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/downloader.plugin",
-      "hash": "39adc0258166a218803b25782507f2ebc9757ee18a85790ddcd407dbdc289352",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.9.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v1.9.2.plugin"
-        },
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v2.0.0.plugin"
-        }
-      }
-    },
-    {
       "id": "antispam",
       "name": "Antispam",
       "author": "@lisurgut",
@@ -114,31 +198,6 @@
         },
         "2.3.21": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/antispam/antispam_v2.3.21.eaf"
-        }
-      }
-    },
-    {
-      "id": "veil",
-      "name": "VEIL",
-      "author": "@NFModules",
-      "version": "1.0.5",
-      "icon": "veilplugin/0",
-      "description": "Плагин для шифрования всех ваших сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
-      "hash": "bbc424dfbcf9131a11b322def284528fa50b15c432d7c63b88408fe8b5e5112b",
-      "app_version": ">=12.0.0",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
         }
       }
     },
@@ -1821,40 +1880,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/spam_collapse/spam_collapse_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.4.9",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "d963e4cdfb628894ebe5ffa2e74c8052c787f1e9aeccf08ffec42e57f6f41e85",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
-        },
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
-        },
-        "1.4.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
-        },
-        "1.4.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
-        },
-        "1.4.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
         }
       }
     },
