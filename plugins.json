@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "game_arcade",
+      "name": "Arcade Games",
+      "author": "@Art_727 & @lerowplug",
+      "version": "1.1",
+      "icon": "ArtPack99/34",
+      "description": "Легендарные игры 2048, Flappy Bird и Chrome Dino прямо в клиенте. Сделан на основе плагина Flappy Bird, автор @hijut",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/game_arcade.plugin",
+      "hash": "d6ff8ce633b843844e9d07cb5b2992f5366bec58343cc65a1d67bcaff840f91b",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/game_arcade/game_arcade_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "mention_avatars",
       "name": "MentionAvatars",
       "author": "@limeplug",
@@ -213,23 +235,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "game_arcade",
-      "name": "Arcade Games",
-      "author": "@Art_727 & @lerowplug",
-      "version": "1.0",
-      "icon": "ArtPack99/34",
-      "description": "Легендарные игры 2048, Flappy Bird и Chrome Dino прямо в клиенте. Сделан на основе плагина Flappy Bird, автор данного плагина @hijut",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/game_arcade.plugin",
-      "hash": "4af1f3737c19c7e56edc65799e7a6a8cac228e059938f9e47b8e2f764d8d9a6c",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
