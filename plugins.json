@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "mention_avatars",
+      "name": "MentionAvatars",
+      "author": "@limeplug",
+      "version": "1.2.5",
+      "icon": "masquernya/13",
+      "description": "Добавляет аватар пользователя рядом с его ником при его @упоминании в сообщении",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mention_avatars.plugin",
+      "hash": "c19d5e89c6539cec2bede6dd89c094c2ec6534a7b00994f09773d233737ddf91",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/mention_avatars/mention_avatars_v1.0.4.plugin"
+        }
+      }
+    },
+    {
       "id": "temporary_messages",
       "name": "TemporaryMessages",
       "author": "@LuPlugins (@optimist_opti)",
@@ -3314,23 +3336,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/translatorplus/translatorplus_v1.4.5.plugin"
         }
       }
-    },
-    {
-      "id": "mention_avatars",
-      "name": "MentionAvatars",
-      "author": "@limeplug",
-      "version": "1.0.4",
-      "icon": "masquernya/13",
-      "description": "Shows the user's avatar next to an `@mention` in messages. ",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mention_avatars.plugin",
-      "hash": "9e37e96e24cc641ed189604302d21955c1bb0676b7e129ca34f24a4a5a06cb50",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "side_panel",
