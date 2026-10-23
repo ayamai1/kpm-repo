@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "acd",
+      "name": "Album Cover Downloader",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "ka1Plugins/0",
+      "description": "Сохраняет обложку трека в галерею\nSaves track cover to gallery",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/acd.plugin",
+      "hash": "06b55a5637e2f51f3128f8beac3980dffa48e1f2efbbcbcfee8f9c2f68ca1ae8",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "game_arcade",
       "name": "Arcade Games",
       "author": "@Art_727 & @lerowplug",
