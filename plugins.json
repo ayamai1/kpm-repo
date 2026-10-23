@@ -1,6 +1,57 @@
 {
   "plugins": [
     {
+      "id": "formatted_copy",
+      "name": "formatted copy",
+      "author": "@meatdisk",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "копирует выделенные сообщения с датой, временем, автором, медиа-маркерами и цитатами ответов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/formatted_copy.plugin",
+      "hash": "cb2d3b9e39a3c2aa39a80b822b8d8e3c6473593cf7a69c4f9b1348639b11f64f",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "plugins_menu",
+      "name": "Title Actions",
+      "author": "@RedPlugin",
+      "version": "1.0",
+      "icon": "alegquin108/14",
+      "description": "Действие по нажатию на заголовок exteraGram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugins_menu.plugin",
+      "hash": "eaa6a095e3f70171345719a1e9240b0a81c0555e5eb5aef7ca2761e1d116b11e",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "del_my_msgs",
+      "name": "Delete My Messages",
+      "author": "@akresik",
+      "version": "1.1.0",
+      "icon": "SpottyAndPersikAnimated/6",
+      "description": "Добавляет в меню чата кнопку, которая удаляет все ваши сообщения в текущем чате (с запросом подтверждения).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/del_my_msgs.plugin",
+      "hash": "7583f39da01111868ff78d6c5149d38a02a75fea6739e52e4b4ad9f64540dfea",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "zwylib",
       "name": "ZwyLib",
       "author": "@zwylair",
