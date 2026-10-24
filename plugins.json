@@ -1,6 +1,129 @@
 {
   "plugins": [
     {
+      "id": "material_expressive",
+      "name": "Material Expressive",
+      "author": "@itskotovski & @yzewe",
+      "version": "2.0",
+      "icon": "materialexpressive/0",
+      "description": "Движение и вибрация в духе Material 3 Expressive",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/material_expressive.plugin",
+      "hash": "e62e2ad7f8054a699ad36b440ddbdb5a5567fc2ca096c2f9a156830472e99fa6",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/material_expressive/material_expressive_v1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "liquid_glass",
+      "name": "Liquid Glass [Fork]",
+      "author": "@PluginProject · @w3b_0s1nt",
+      "version": "5.1.2",
+      "icon": "vkVSfmG_by_achestickbot/5",
+      "description": "Liquid Glass — плагин для exteraGram, который добавляет в интерфейс Telegram эффект матового и жидкого стекла: полупрозрачные шапки, размытые панели, тот же blur, что у закреплённых сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/liquid_glass.eaf",
+      "hash": "556037f03659ba1a5395ec5f023d677267a0fd47cecfa205ed1f159c32eb1928",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        " - [experiment maybe last]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
+        },
+        "2.1.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
+        },
+        "2.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
+        },
+        "2.3.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
+        },
+        "3.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
+        },
+        "3.6.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
+        },
+        "3.8.13": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
+        },
+        "4.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.0.0.plugin"
+        },
+        "4.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.1.1.plugin"
+        },
+        "5.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v5.0.2.eaf"
+        }
+      }
+    },
+    {
+      "id": "plugin_update_checker",
+      "name": "Plugin Update Checker",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "2.0",
+      "icon": "MaxExteraPluginsStickers/24",
+      "description": "Checking for updates for your installed plugins from multiple channels.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
+      "hash": "59311de6892e8567ab3abe5d3c9727dc359afd60565eff85d59e53295192fe51",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.4.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v2.0.plugin"
+        }
+      }
+    },
+    {
       "id": "formatted_copy",
       "name": "formatted copy",
       "author": "@meatdisk",
@@ -2228,70 +2351,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "liquid_glass",
-      "name": "Liquid Glass [Fork]",
-      "author": "@PluginProject · @w3b_0s1nt",
-      "version": "5.0.2",
-      "icon": "vkVSfmG_by_achestickbot/5",
-      "description": "Стеклянные шапки и панели для exteraGram.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/liquid_glass.eaf",
-      "hash": "fe12d2854a0639409370eb227a90118daa2ad417cb1b6cf4b8bef55fab5b4459",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        " - [experiment maybe last]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.0.1.plugin"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
-        },
-        "1.5.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
-        },
-        "1.6.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
-        },
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
-        },
-        "2.0.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
-        },
-        "2.1.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
-        },
-        "2.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
-        },
-        "2.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
-        },
-        "2.3.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
-        },
-        "3.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
-        },
-        "3.6.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
-        },
-        "3.8.13": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
-        },
-        "4.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.0.0.plugin"
-        },
-        "4.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.1.1.plugin"
-        }
-      }
     },
     {
       "id": "open_street_map",
@@ -5194,34 +5253,6 @@
       ]
     },
     {
-      "id": "plugin_update_checker",
-      "name": "Plugin Update Checker",
-      "author": "@itNotMax - @MaxExteraPlugins & @AlexeiCrystal",
-      "version": "1.4",
-      "icon": "MaxExteraPluginsStickers/24",
-      "description": "Checking for updates for your installed plugins from multiple channels.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
-      "hash": "47c2c1c5e34fdfa108a59d9696b0d12850546a25a79453038f17a9dfa24aac67",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
-        }
-      }
-    },
-    {
       "id": "AtmosFX",
       "name": "AtmosFX",
       "author": "~GRED~(@GREDpl)",
@@ -5765,23 +5796,6 @@
         [
           "Fun",
           "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
-      "id": "material_expressive",
-      "name": "Material Expressive",
-      "author": "@itskotovski & @yzewe",
-      "version": "1.0",
-      "icon": "materialexpressive/0",
-      "description": "плагин с тактильной анимацией нажатий, появления и прокрутки",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/material_expressive.plugin",
-      "hash": "9313f6eeed42f2a0428da98f9dd21b95e3b6d027fff25e297c41dc7c54e4ca43",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
