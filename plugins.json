@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "ExteraMax",
+      "name": "ExteraMax",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.5.0",
+      "icon": "MaxExteraPluginsStickers/30",
+      "description": "[EN]: Updated version of the «re:extera» plugin («ghost» mode, spy features, message filters, and much more).\n\n[RU]: Обновленная версия плагина «re:extera» (режим «призрака», функции шпиона, фильтры сообщений и многое другое).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ExteraMax.plugin",
+      "hash": "c771a79b33b721f25040a75be483afeb7e832ac735dfb4886fcb76d9e3f21d0a",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "story_scheduler",
       "name": "Story Scheduler",
       "author": "@Hikerys",
@@ -4372,23 +4394,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "ExteraMax",
-      "name": "ExteraMax",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0.0",
-      "icon": "MaxExteraPluginsStickers/30",
-      "description": "[EN]: Updated version of the «re:extera» plugin («ghost» mode, spy features, message filters, and much more).\n\n[RU]: Обновленная версия плагина «re:extera» (режим «призрака», функции шпиона, фильтры сообщений и многое другое).",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ExteraMax.plugin",
-      "hash": "09825fc11fe1945632f05924d79c077cf292d7067c5e4ea11570afdda0e0fb66",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
