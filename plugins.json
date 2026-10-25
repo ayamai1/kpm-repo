@@ -1,6 +1,59 @@
 {
   "plugins": [
     {
+      "id": "circlet",
+      "name": "Circlet",
+      "author": "@zxtoichi",
+      "version": "2.1",
+      "icon": "UtyaDuckFull/49",
+      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Если видео длиннее минуты, отправится выбранный кусок, а без обрезки — первая минута. Только потом отправка.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/circlet.plugin",
+      "hash": "5c09ad5f846727a7b41b773292a81304b6f3e9626a24fc8dfb699259292f735f",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "protect_filter",
+      "name": "Protect Filter",
+      "author": "@HzzzPlugins <- @exoseo",
+      "version": "1.2",
+      "icon": "UtyaDuckFull/25",
+      "description": "Автоматическая блокировка новых диалогов по ключевым словам. Например: угрозы/спам",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/protect_filter.plugin",
+      "hash": "126a2c62b4b8f5cacf43424cba53dae253bbc40aa6ffeed9427dd2be24f3f0ad",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/protect_filter/protect_filter.plugin"
+        },
+        "1.1.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/protect_filter/protect_filter_v1.1.6.plugin"
+        }
+      }
+    },
+    {
       "id": "culprit_detector",
       "name": "Culprit Detector",
       "author": "@chestertech & @useful_plugins",
@@ -3701,31 +3754,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "circlet",
-      "name": "Circlet",
-      "author": "@zxtoichi",
-      "version": "1.2",
-      "icon": "UtyaDuckFull/49",
-      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Если видео длиннее минуты, отправится выбранный кусок, а без обрезки — первая минута. Только потом отправка.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/circlet.plugin",
-      "hash": "61e6311f53be583266a1bc9623284b08663cf13d1cebb055894e21fde912bd57",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.0.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.1.plugin"
-        }
-      }
     },
     {
       "id": "bubble_chat_editor",
@@ -7478,28 +7506,6 @@
       "versions": {
         "1.7.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pack_cloner/pack_cloner-1.7.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "protect_filter",
-      "name": "Protect Filter",
-      "author": "@exoseo",
-      "version": "1.1.6",
-      "icon": "UtyaDuckFull/25",
-      "description": "Автоматическая блокировка новых диалогов по ключевым словам. Например: угрозы/спам",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/protect_filter.plugin",
-      "hash": "48a8ed3779cad30aab87bf7c778c6e8083898077f04ad692d1e985529881a144",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/protect_filter/protect_filter.plugin"
         }
       }
     },
