@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "exitFy_v2",
+      "name": "exitFy V2",
+      "author": "@exteraPluginsSup",
+      "version": "4.5.1",
+      "icon": "exitFy/1",
+      "description": "Application download speed optimization",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
+      "hash": "bfe00cd90abdbfe9d27e188069792d7c682a8c21712b54690e99b515506fe451",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "4.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
+        },
+        "4.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.1.0.plugin"
+        },
+        "4.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.2.1.plugin"
+        },
+        "4.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.5.plugin"
+        }
+      }
+    },
+    {
       "id": "direct_drop_send_fork",
       "name": "DragnDrop Send (Fork)",
       "author": "original @koshbko, fork by @qe4ank, Gemini Argon",
@@ -1880,37 +1914,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/NoColorButton/NoColorButton_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "exitFy_v2",
-      "name": "exitFy V2",
-      "author": "@exteraPluginsSup",
-      "version": "4.5",
-      "icon": "exitFy/1",
-      "description": "Application download speed optimization",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/exitFy_v2.plugin",
-      "hash": "c56128bbb54ec546fdc7a341ff3e42c40158996d4d6269138fca3f2eda70430c",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "4.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.1.plugin"
-        },
-        "4.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.0.2.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.1.0.plugin"
-        },
-        "4.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.2.1.plugin"
         }
       }
     },
