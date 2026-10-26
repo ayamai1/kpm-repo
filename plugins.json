@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "direct_drop_send_fork",
+      "name": "DragnDrop Send (Fork)",
+      "author": "original @koshbko, fork by @qe4ank, Gemini Argon",
+      "version": "2.0.23",
+      "description": "Двусторонний Drag&Drop: перетаскивание медиа и файлов (с открытием нативного меню файлов и редактора медиа), а также перенос выделенного текста (Форк).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/direct_drop_send_fork.plugin",
+      "hash": "b9ce36aaeb22699b25d0d8ebaa623b3eaf482599d51e68ede52cd1503aed348d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "search_plus",
       "name": "Search+",
       "author": "@SearchPlusss",
