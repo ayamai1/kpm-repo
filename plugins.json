@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "memory_monitor_pro",
+      "name": "Memory Monitor Pro",
+      "author": "@chestertech",
+      "version": "2.1.10",
+      "icon": "stypapypasasa/0",
+      "description": "Realtime memory monitor: all Android memory types (Java/Native heap, Code, Stack, Graphics, Private Other, System, PSS/RSS/Swap, RAM devices, smaps-groups, FD)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/memory_monitor_pro.plugin",
+      "hash": "72f2783abe13e8134bcc29028a30f5113b5537f2586b6d76155cc2197e9faa7c",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0.8": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/memory_monitor_pro/memory_monitor_pro.plugin"
+        },
+        "2.1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/memory_monitor_pro/memory_monitor_pro_v2.1.5.plugin"
+        }
+      }
+    },
+    {
       "id": "exitFy_v2",
       "name": "exitFy V2",
       "author": "@exteraPluginsSup",
@@ -7451,28 +7476,6 @@
       "versions": {
         "1.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/nxfch/nxfch.plugin"
-        }
-      }
-    },
-    {
-      "id": "memory_monitor_pro",
-      "name": "Memory Monitor Pro",
-      "author": "@chestertech",
-      "version": "2.1.5",
-      "icon": "stypapypasasa/0",
-      "description": "Realtime memory monitor: all Android memory types (Java/Native heap, Code, Stack, Graphics, Private Other, System, PSS/RSS/Swap, RAM devices, smaps-groups, FD)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/memory_monitor_pro.plugin",
-      "hash": "b6f8e07e14eb515791669605802a1218828ddc4a9d40f64f549473707037e35c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.0.8": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/memory_monitor_pro/memory_monitor_pro.plugin"
         }
       }
     },
