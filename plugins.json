@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "local_hidden_folder",
+      "name": "Hidden Folder",
+      "author": "@anivplugins",
+      "version": "1.0.0",
+      "icon": "anivdev/1",
+      "description": "Hide chats in a local folder with a passcode.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/local_hidden_folder.plugin",
+      "hash": "974a8dc32e10b77194bcde170d7ff9d61a5c881d38844e8577fdd78598524545",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "gift_scheduler",
+      "name": "Gift Scheduler",
+      "author": "@MicusYo",
+      "version": "1.4.3",
+      "icon": "Ie92iwue_by_fStikBot/0",
+      "description": "Отложенная отправка Telegram-подарков: выберите подарок, получателя и время, плагин отправит его сам. Быть в сети и держать Telegram открытым не обязательно: включите раздел «Работа в фоне» в настройках плагина.\n\nScheduled Telegram gifts: pick a gift, a recipient and a time, and the plugin sends it for you. You do not have to stay online or keep Telegram open: turn on the \\\"Background work\\\" section in plugin settings.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gift_scheduler.plugin",
+      "hash": "4136313f123c52385014391f7db759d0586a8d219002160b6444f8aa09c8f7a7",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "QPSwipe",
+      "name": "QPSwipe",
+      "author": "@senscoder",
+      "version": "1.0",
+      "icon": "AnimatedEmojies/404",
+      "description": "RU: Стирает все ваши сообщения в чате, группе или теме. Логика и тексты в проверяемом по SHA-256 dex-ядре.\nEN: Wipes all your own messages in a chat, group or topic. Logic and texts live in a SHA-256 verified dex core.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/QPSwipe.plugin",
+      "hash": "fa73fa141fb88b77f0b23b50ce2ed6b1f88cd3b79be2e3657561a95a9ac7205d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "turbo_lite",
+      "name": "Turbo Lite",
+      "author": "@lurix_angel",
+      "version": "1.0.0",
+      "icon": "UtyaDuck/29",
+      "description": "Умная оптимизация ExteraGram: лёгкий режим только в тяжёлых чатах (список пополняется сам), правила по сети, роумингу и времени суток, защита от флуда и автоочистка памяти.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/turbo_lite.eaf",
+      "hash": "f6bc13d4c8d693fc5c858d27998356dbe4c6c00a1a05f5a50e408dc991314ec0",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "plugin_guard",
       "name": "Plugin Guard",
       "author": "@dekma0091 && @DefinitelyNotDekma",
