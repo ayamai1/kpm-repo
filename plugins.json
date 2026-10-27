@@ -1,6 +1,46 @@
 {
   "plugins": [
     {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.5.1",
+      "icon": "pixelcamera/14",
+      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
+      "hash": "63389e4fd48f0e580fd3591a502ab747f3bffc27d84136185472a4a91d337241",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
+        },
+        "1.4.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
+        },
+        "1.4.9": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.9.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.5.0.plugin"
+        }
+      }
+    },
+    {
       "id": "jpeg_quality",
       "name": "JPEG Quality Slider",
       "author": "@dekma0091 && @DefinitelyNotDekma",
@@ -1003,43 +1043,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.5.0",
-      "icon": "pixelcamera/14",
-      "description": "Plugin security scanner. Detects hidden and malicious code via static and vector ML analysis. / Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.plugin",
-      "hash": "2924f26be480343c23062b06df92545d37ed41ae6ff384ab581403499408745d",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
-        },
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
-        },
-        "1.4.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
-        },
-        "1.4.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
-        },
-        "1.4.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
-        },
-        "1.4.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.9.plugin"
-        }
-      }
     },
     {
       "id": "veil",
