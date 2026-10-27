@@ -1,6 +1,244 @@
 {
   "plugins": [
     {
+      "id": "jpeg_quality",
+      "name": "JPEG Quality Slider",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.2",
+      "icon": "pixelcamera/10",
+      "description": "Добавляет слайдер регулировки качества JPEG в ползунки редактирования фото с real-time предпросмотром",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/jpeg_quality.plugin",
+      "hash": "98292175fecfcc43efd27fbf4bb8379454959a2cc0ca386b2e0e6931e9bb2ecb",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/jpeg_quality/jpeg_quality_v2.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "advanced_search",
+      "name": "Продвинутый поиск",
+      "author": "@dekma0091",
+      "version": "1.3",
+      "icon": "pixelcamera/16",
+      "description": "Продвинутый поиск по чатам, документам с различными фильтрами",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/advanced_search.plugin",
+      "hash": "21f77836e5c4611d1f84c2551005674e517623d63af61cd2a22306c827cf3190",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.3.plugin"
+        }
+      }
+    },
+    {
+      "id": "camera_enhancer",
+      "name": "RVCE",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.3",
+      "icon": "pixelcamera/17",
+      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
+      "hash": "5d38b937098e5ed6e49e6e7cc26dcbe4572ffb5609cb739c7609a6046aea7ee3",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_2.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.1.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "message_undo",
+      "name": "Message Undo",
+      "author": "@dekma0091",
+      "version": "1.3",
+      "icon": "pixelcamera/11",
+      "description": "Добавляет кнопку с таймером, которая позволяет удалить последнее отправленное сообщение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_undo.plugin",
+      "hash": "4eba44b7d32766c9ebcf2083b2147d19f0003b3e161637242af44495357431bc",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "spam_collapse",
+      "name": "Spam Collapse",
+      "author": "@dekma0091",
+      "version": "1.2",
+      "icon": "pixelcamera/18",
+      "description": "Сворачивает повторяющиеся спам-сообщения / Collapses repeated spam messages",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spam_collapse.plugin",
+      "hash": "b41541ce4255b89fb3347e4b4367da9f2fd7657521f790dffd128a93a8bc6c95",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/spam_collapse/spam_collapse_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/spam_collapse/spam_collapse_v1.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "photo_picker_plus",
+      "name": "Photo Picker Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.1",
+      "icon": "pixelcamera/15",
+      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
+      "hash": "7acdead0cb0ac1ac4589df353044a58722379bb595e954bcaaa09ffe90e53b6a",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0_2.plugin"
+        }
+      }
+    },
+    {
+      "id": "pill_mentions",
+      "name": "PillMentions",
+      "author": "@dekma0091",
+      "version": "2.1",
+      "icon": "pixelcamera/6",
+      "description": "Показывает в Pill Stack кто упомянул, в каком чате и когда с редиректом в чат по нажатию",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pill_mentions.plugin",
+      "hash": "6fe9340300aa5b2caea3be3abaf8e8e7b7948c831a8434b525d0f71d561a64e3",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "iphone_like_Portret",
+      "name": "iPhone Like Portret",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.3",
+      "icon": "pixelcamera/8",
+      "description": "Портретный режим аля Айфон на основе MLkit модели. Требуются сервисы Google. РАЗМЫТИЕ ВИДНО ТОЛЬКО ПОСЛЕ ОТПРАВКИ КРУЖКА!!!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/iphone_like_Portret.plugin",
+      "hash": "22522fa49c436a9ad9533b81dab45c74954f4d83bf823bf45e0eddc5b49ada17",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iphone_like_Portret_v1.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "fuck_now_playing",
+      "name": "Fuck Now Playing",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.1",
+      "icon": "pixelcamera/9",
+      "description": "Скрывает карточку с треком из профилей",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fuck_now_playing.plugin",
+      "hash": "cf6fe0e30ae1729411d7c2c5eb8b104c777edc5e06dfb5c00beb92ee035f5105",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fuck_now_playing/fuck_now_playing_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "stickerpack_author_fix",
       "name": "StickerPack Author Fix",
       "author": "@k9s1_plugins",
@@ -2366,118 +2604,6 @@
       }
     },
     {
-      "id": "spam_collapse",
-      "name": "Spam Collapse",
-      "author": "@dekma0091",
-      "version": "1.1",
-      "icon": "pixelcamera/18",
-      "description": "Сворачивает повторяющиеся спам-сообщения / Collapses repeated spam messages",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spam_collapse.plugin",
-      "hash": "9a109e881ec4c0ba48a594d7071a2179d742dfabd83a9669bd5daf3f653f10ff",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/spam_collapse/spam_collapse_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "camera_enhancer",
-      "name": "RVCE",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "2.2",
-      "icon": "pixelcamera/17",
-      "description": "Round videos camera enhancer. Кастомное разрешение, битрейт аудио и видео, HEVC, плавное переключение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/camera_enhancer.plugin",
-      "hash": "b5024a153b374e52f39e2ddd6e5aa325b5e9c201d47c5d210992e80149e0b69b",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.2.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v1.6.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.0_2.plugin"
-        },
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "message_undo",
-      "name": "Message Undo",
-      "author": "@dekma0091",
-      "version": "1.2",
-      "icon": "pixelcamera/11",
-      "description": "Добавляет кнопку с таймером, которая позволяет удалить последнее отправленное сообщение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_undo.plugin",
-      "hash": "c4cdeb52264eccc2f9e7594ba5a82c7605ff480b54fcc6cb4bdd934b7cb35106",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "photo_picker_plus",
-      "name": "Photo Picker Plus",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.0",
-      "icon": "pixelcamera/15",
-      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
-      "hash": "991ef053b4a97f0b8b5fa6e162837c0bf23fb5817af64156649f8be45ae82197",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0_1.plugin"
-        }
-      }
-    },
-    {
       "id": "monocolorui",
       "name": "MonoColor UI",
       "author": "@limeplug",
@@ -3228,70 +3354,6 @@
         },
         "1.3.23": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/sorter_plus/sorter_plus_v1.3.23.plugin"
-        }
-      }
-    },
-    {
-      "id": "jpeg_quality",
-      "name": "JPEG Quality Slider",
-      "author": "@dekma0091",
-      "version": "2.1",
-      "icon": "pixelcamera/10",
-      "description": "Добавляет слайдер регулировки качества JPEG в ползунки редактирования фото с real-time предпросмотром",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/jpeg_quality.plugin",
-      "hash": "b34d7ca3114625957e6d569bc003d912d93237966818a5b59ea3419a166ae0b7",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "advanced_search",
-      "name": "Продвинутый поиск",
-      "author": "@dekma0091",
-      "version": "1.2",
-      "icon": "pixelcamera/16",
-      "description": "Продвинутый поиск по чатам, документам с различными фильтрами",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/advanced_search.plugin",
-      "hash": "aee561b7e1a34ae719b567b9b41389f2e7141cf80ce4f81374b72901e7a9761c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.0.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/advanced_search/advanced_search_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "iphone_like_Portret",
-      "name": "iPhone Like Portret",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.2",
-      "icon": "pixelcamera/8",
-      "description": "Портретный режим аля Айфон на основе MLkit модели. Требуются сервисы Google. РАЗМЫТИЕ ВИДНО ТОЛЬКО ПОСЛЕ ОТПРАВКИ КРУЖКА!!!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/iphone_like_Portret.plugin",
-      "hash": "93e8616afcd951b104cdb45632287137d5b1dd0039abba2aa47f585b71e05727",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
         }
       }
     },
@@ -7342,23 +7404,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "fuck_now_playing",
-      "name": "Fuck Now Playing",
-      "author": "@dekma0091",
-      "version": "1.0",
-      "icon": "pixelcamera/9",
-      "description": "Скрывает карточку с треком из профилей",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fuck_now_playing.plugin",
-      "hash": "606cea90f8bbe2e62ece9b0009dc6fd128679a2789eb12280154de808af11f51",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
