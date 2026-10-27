@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "stickerpack_author_fix",
+      "name": "StickerPack Author Fix",
+      "author": "@k9s1_plugins",
+      "version": "1.0",
+      "icon": "msg_openprofile",
+      "description": "Открывает профиль автора стикерпака по нажатию на «Владелец» вместо копирования ID.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/stickerpack_author_fix.plugin",
+      "hash": "296e160c019ae0d399eb83a7f3eb1c8500ceeee2cefb5900fb199de3e742945f",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
       "id": "account_hider",
       "name": "AccountHider",
       "author": "@RnPlugins",
