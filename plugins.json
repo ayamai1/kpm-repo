@@ -1,6 +1,68 @@
 {
   "plugins": [
     {
+      "id": "msg_stats",
+      "name": "Message Stats",
+      "author": "@metawkaPlugins • @metawka",
+      "version": "1.11.0",
+      "icon": "metawkaPlugins/1",
+      "description": "Counts the messages you send and draws charts by chat, group and time. Opens from the side menu, the chat list header, the chat menu and a long press on Settings. History from before the install can be loaded.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/msg_stats.plugin",
+      "hash": "91ef069c55f383414f2ddb596d51af68b6ab2cb25029b7e572eef0e4ed169daf",
+      "app_version": ">=12.10.6",
+      "versions": {
+        "1.8.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/msg_stats/msg_stats_v1.8.0.plugin"
+        },
+        "1.9.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/msg_stats/msg_stats_v1.9.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "direct_drop_send_fork",
+      "name": "DragnDrop Send (Fork)",
+      "author": "original @koshbko, fork by @qe4ank, Gemini Argon",
+      "version": "2.0.24",
+      "description": "Двусторонний Drag&Drop: перетаскивание медиа и файлов (с открытием нативного меню файлов и редактора медиа), а также перенос выделенного текста (Форк).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/direct_drop_send_fork.plugin",
+      "hash": "42b98b2773b008966da706da9960613e28a50bf91e3ec27d1043b22ba166f019",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0.23": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/direct_drop_send_fork/direct_drop_send_fork_v2.0.23.plugin"
+        }
+      }
+    },
+    {
+      "id": "turbo_lite",
+      "name": "Turbo Lite",
+      "author": "@lurix_angel",
+      "version": "1.1.0",
+      "icon": "UtyaDuck/29",
+      "description": "Умная оптимизация ExteraGram: лёгкий режим только в тяжёлых чатах, любимые чаты, правила и расписание, защита от флуда, автоочистка памяти и тихий режим при спаме.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/turbo_lite.eaf",
+      "hash": "3bcc933a9339c1035314070124f3d02a5ec51eeee7f9e958f1cb65123953ec52",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/turbo_lite/turbo_lite_v1.0.0.eaf"
+        }
+      }
+    },
+    {
       "id": "plugin_update_checker",
       "name": "Plugin Update Checker",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -132,23 +194,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "turbo_lite",
-      "name": "Turbo Lite",
-      "author": "@lurix_angel",
-      "version": "1.0.0",
-      "icon": "UtyaDuck/29",
-      "description": "Умная оптимизация ExteraGram: лёгкий режим только в тяжёлых чатах (список пополняется сам), правила по сети, роумингу и времени суток, защита от флуда и автоочистка памяти.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/turbo_lite.eaf",
-      "hash": "f6bc13d4c8d693fc5c858d27998356dbe4c6c00a1a05f5a50e408dc991314ec0",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
         ]
       ]
     },
@@ -585,22 +630,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/exitFy_v2/exitFy_v2_v4.5.plugin"
         }
       }
-    },
-    {
-      "id": "direct_drop_send_fork",
-      "name": "DragnDrop Send (Fork)",
-      "author": "original @koshbko, fork by @qe4ank, Gemini Argon",
-      "version": "2.0.23",
-      "description": "Двусторонний Drag&Drop: перетаскивание медиа и файлов (с открытием нативного меню файлов и редактора медиа), а также перенос выделенного текста (Форк).",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/direct_drop_send_fork.plugin",
-      "hash": "b9ce36aaeb22699b25d0d8ebaa623b3eaf482599d51e68ede52cd1503aed348d",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "search_plus",
@@ -1470,22 +1499,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "msg_stats",
-      "name": "Message Stats",
-      "author": "@metawkaPlugins • @metawka",
-      "version": "1.9.2",
-      "icon": "metawkaPlugins/1",
-      "description": "Counts the messages you send and draws charts by chat, group and time. Opens from the side menu, the chat list header, the chat menu and a long press on Settings. History from before the install can be loaded.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/msg_stats.plugin",
-      "hash": "a8359890e827603ef131d6c8fbd96de54525255e808bd75cf7565060f7931eb0",
-      "app_version": ">=12.10.6",
-      "versions": {
-        "1.8.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/msg_stats/msg_stats_v1.8.0.plugin"
-        }
-      }
     },
     {
       "id": "GreenPass",
