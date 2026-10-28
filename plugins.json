@@ -1,6 +1,90 @@
 {
   "plugins": [
     {
+      "id": "plugin_update_checker",
+      "name": "Plugin Update Checker",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "3.3",
+      "icon": "MaxExteraPluginsStickers/24",
+      "description": "Checking for updates for your installed plugins from multiple channels.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
+      "hash": "133156d411176591f74a803789c61b540c8ea72ad8326de72690f512b81a68f8",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.4.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v2.0_1.plugin"
+        }
+      }
+    },
+    {
+      "id": "ExteraMax",
+      "name": "ExteraMax",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.5.6",
+      "icon": "MaxExteraPluginsStickers/30",
+      "description": "[EN]: Updated version of the «re:extera» plugin («ghost» mode, spy features, message filters, and much more).\n\n[RU]: Обновленная версия плагина «re:extera» (режим «призрака», функции шпиона, фильтры сообщений и многое другое).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ExteraMax.plugin",
+      "hash": "5315c896af80f0da95da4518a8085387deb61722d54bae9a3e99d98ef6fbda64",
+      "app_version": ">=12.8.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.0.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.5.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "custom_recent_reactions",
+      "name": "Custom Recent Reactions",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "2.4",
+      "icon": "MaxExteraPluginsStickers/25",
+      "description": "Replace the recent reactions in the message reaction panel with your own set.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
+      "hash": "8d9f075c8399c958b76a39371df6d300e0d9023832530bb84e62e9c95a102aec",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.2.plugin"
+        }
+      }
+    },
+    {
       "id": "local_hidden_folder",
       "name": "Hidden Folder",
       "author": "@anivplugins",
@@ -590,28 +674,6 @@
       }
     },
     {
-      "id": "ExteraMax",
-      "name": "ExteraMax",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.5.0",
-      "icon": "MaxExteraPluginsStickers/30",
-      "description": "[EN]: Updated version of the «re:extera» plugin («ghost» mode, spy features, message filters, and much more).\n\n[RU]: Обновленная версия плагина «re:extera» (режим «призрака», функции шпиона, фильтры сообщений и многое другое).",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ExteraMax.plugin",
-      "hash": "c771a79b33b721f25040a75be483afeb7e832ac735dfb4886fcb76d9e3f21d0a",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.0.0.plugin"
-        }
-      }
-    },
-    {
       "id": "story_scheduler",
       "name": "Story Scheduler",
       "author": "@Hikerys",
@@ -878,40 +940,6 @@
         },
         "5.0.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v5.0.2.eaf"
-        }
-      }
-    },
-    {
-      "id": "plugin_update_checker",
-      "name": "Plugin Update Checker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.0",
-      "icon": "MaxExteraPluginsStickers/24",
-      "description": "Checking for updates for your installed plugins from multiple channels.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
-      "hash": "59311de6892e8567ab3abe5d3c9727dc359afd60565eff85d59e53295192fe51",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.4.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v2.0.plugin"
         }
       }
     },
@@ -5892,28 +5920,6 @@
         },
         "6.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/utilities_pro/utilities_pro_v6.0.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "custom_recent_reactions",
-      "name": "Custom Recent Reactions",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.2",
-      "icon": "MaxExteraPluginsStickers/25",
-      "description": "Replace the recent reactions in the message reaction panel with your own set.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
-      "hash": "e7862027cb817cc77e83f50aa8b5f165c45eb5eafd448a0d66db229ed184ec69",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.1.plugin"
         }
       }
     },
