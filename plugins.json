@@ -1,6 +1,50 @@
 {
   "plugins": [
     {
+      "id": "attach_gallery_grid",
+      "name": "Attach Gallery Grid",
+      "author": "@qe4ank & Gemini Argon",
+      "version": "1.1.1",
+      "description": "Attachment gallery, stickers & GIF grids: pinch-to-zoom columns, square proportional cells, smooth zoom animations, and instant selection circle scaling without delays.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/attach_gallery_grid.plugin",
+      "hash": "df7b8575a293e9ce720428191a24e6619bab629c3f3b29b314cb49a8f504ba9d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "iphone_like_Portret",
+      "name": "iPhone Like Portret",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.4",
+      "icon": "pixelcamera/8",
+      "description": "Портретный режим аля Айфон на основе MLkit. РАЗМЫТИЕ ВИДНО ТОЛЬКО ПОСЛЕ ОТПРАВКИ КРУЖКА",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/iphone_like_Portret.plugin",
+      "hash": "0a00650971299750991e3a6d02ec082be6199445d4b7559dc2feb939c772c127",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iphone_like_Portret_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iphone_like_Portret_v1.3.plugin"
+        }
+      }
+    },
+    {
       "id": "aj_music_plus",
       "name": "Music +",
       "author": "@hesCalledAJ",
@@ -587,31 +631,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "iphone_like_Portret",
-      "name": "iPhone Like Portret",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.3",
-      "icon": "pixelcamera/8",
-      "description": "Портретный режим аля Айфон на основе MLkit модели. Требуются сервисы Google. РАЗМЫТИЕ ВИДНО ТОЛЬКО ПОСЛЕ ОТПРАВКИ КРУЖКА!!!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/iphone_like_Portret.plugin",
-      "hash": "22522fa49c436a9ad9533b81dab45c74954f4d83bf823bf45e0eddc5b49ada17",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iPhoneLikePortrait_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/iphone_like_Portret/iphone_like_Portret_v1.2.plugin"
-        }
-      }
     },
     {
       "id": "fuck_now_playing",
