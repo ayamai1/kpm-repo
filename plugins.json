@@ -1,6 +1,43 @@
 {
   "plugins": [
     {
+      "id": "zwyNoForwardLimit",
+      "name": "NoForwardLimit",
+      "author": "@zwylair",
+      "version": "2.0.4",
+      "icon": "zwyPluginsIcons/6",
+      "description": "Removes the limit of 100 forward and delete messages.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
+      "hash": "f610e65016cd335cf1e92f4233d3ccc8a440ec396b78c8976c1ca27537be0468",
+      "app_version": ">=12.10.6",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
+        },
+        "1.1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.5_1.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.0.plugin"
+        },
+        "2.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.1.plugin"
+        },
+        "2.0.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.3.plugin"
+        }
+      }
+    },
+    {
       "id": "msg_stats",
       "name": "Message Stats",
       "author": "@metawkaPlugins • @metawka",
@@ -2166,40 +2203,6 @@
       "versions": {
         "1.4.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.4.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwyNoForwardLimit",
-      "name": "NoForwardLimit",
-      "author": "@zwylair",
-      "version": "2.0.3",
-      "icon": "zwyPluginsIcons/6",
-      "description": "Removes the limit of 100 forward and delete messages.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
-      "hash": "2d5ca37e48563da6c4298c9db79feb98b0a2263af8ede6744e0df744257df9a1",
-      "app_version": ">=12.5.1",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.4.plugin"
-        },
-        "1.1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v1.1.5_1.plugin"
-        },
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.0.plugin"
-        },
-        "2.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyNoForwardLimit/zwyNoForwardLimit_v2.0.1.plugin"
         }
       }
     },
