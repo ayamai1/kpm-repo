@@ -1,6 +1,112 @@
 {
   "plugins": [
     {
+      "id": "collapse_drawer_plugins",
+      "name": "CollapseDrawerPlugins",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "rei_plugins/5",
+      "description": "Сворачивает плагины в боковом меню или собирает их в ряд иконок.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/collapse_drawer_plugins.plugin",
+      "hash": "e592c97c3db4bba1d80f2412366fe9e0ddb416fa06ab58cd30014f5eef9e0cde",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "zwylib",
+      "name": "ZwyLib",
+      "author": "@zwylair",
+      "version": "3.0.0",
+      "icon": "zwyPluginsIcons/11",
+      "description": "Zwylair's library with highly used things, used for other plugins. Documentation: https://zwylib-docs.vercel.app/",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwylib.eaf",
+      "hash": "67b78154080b694da91eb24fe8f7defc8e7989c8e3a1bd1c2257b57686e83c09",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Library",
+          "key_avatar_backgroundInProfileBlue"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
+        },
+        "1.2.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
+        },
+        "2.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
+        },
+        "2.0.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
+        },
+        "2.0.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
+        },
+        "2.0.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
+        },
+        "2.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.7.plugin"
+        },
+        "2.0.8": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.8.plugin"
+        },
+        "2.0.9": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.9.plugin"
+        },
+        "2.0.10": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.10.plugin"
+        },
+        "2.0.11": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.11.plugin"
+        },
+        "2.0.12": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.12.plugin"
+        }
+      }
+    },
+    {
+      "id": "zwyAdminTools",
+      "name": "AdminTools",
+      "author": "@zwylair",
+      "version": "3.0.1",
+      "icon": "zwyPluginsIcons/4",
+      "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\\"Help\\\" segment in the plugin settings).\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** 2.0.0 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyAdminTools.plugin",
+      "hash": "d01dc7e18cdee4ef8cd4510d3f1afef6c61ac048a64b9c9817b810b872c03f37",
+      "app_version": ">=12.10.6",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "3.0.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyAdminTools/admin_tools_v3.0.0.plugin"
+        },
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "zwyNoForwardLimit",
       "name": "NoForwardLimit",
       "author": "@zwylair",
@@ -551,61 +657,6 @@
         },
         "1.0.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/account_hider/account_hider_v1.0.1_1.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwylib",
-      "name": "ZwyLib",
-      "author": "@zwylair",
-      "version": "2.0.12",
-      "icon": "zwyPluginsIcons/0",
-      "description": "Zwylair's library with highly used things, used for other plugins.\nDocumentation: https://zwylib-docs.vercel.app/",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwylib.plugin",
-      "hash": "86d7b27e27b00ed6ed552b75759d15fc67b0c299bc2c721bed9a1676c434912c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Library",
-          "key_avatar_backgroundInProfileBlue"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.1.plugin"
-        },
-        "1.2.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.0.plugin"
-        },
-        "2.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.2.plugin"
-        },
-        "2.0.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib.plugin"
-        },
-        "2.0.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.4.plugin"
-        },
-        "2.0.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.5.plugin"
-        },
-        "2.0.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.6_1.plugin"
-        },
-        "2.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.7.plugin"
-        },
-        "2.0.8": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.8.plugin"
-        },
-        "2.0.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.9.plugin"
-        },
-        "2.0.10": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.10.plugin"
-        },
-        "2.0.11": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v2.0.11.plugin"
         }
       }
     },
@@ -5099,34 +5150,6 @@
         },
         "2.2.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/sticker_hints_ecubz/bind_sticker_v2.2.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "zwyAdminTools",
-      "name": "AdminTools",
-      "author": "@zwylair",
-      "version": "3.0.1",
-      "icon": "zwyPluginsIcons/4",
-      "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\\"Help\\\" segment in the plugin settings).\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** 2.0.0 or greater!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyAdminTools.plugin",
-      "hash": "43fe79ce0e81d2b331ac1274979018be74c86e5070facb6c334afa8cc151d688",
-      "app_version": ">=12.1.1",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "3.0.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyAdminTools/zwyAdminTools_v3.0.0.1.plugin"
-        },
-        "3.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyAdminTools/admin_tools_v3.0.0.plugin"
         }
       }
     },
