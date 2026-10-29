@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "aj_music_plus",
+      "name": "Music +",
+      "author": "@hesCalledAJ",
+      "version": "1.1.0",
+      "icon": "ajsplugins/1",
+      "description": "Reimagines Music Experience Inside Telegram, With Library , lyrics and Better Queue Management",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/aj_music_plus.plugin",
+      "hash": "a382a926ca9b8f9f6a345c99e513aaf79e1dc94318aff66a8d367b5e8cb8a716",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "collapse_drawer_plugins",
       "name": "CollapseDrawerPlugins",
       "author": "@LuPlugins (@optimist_opti)",
