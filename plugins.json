@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "templates",
+      "name": "Templates",
+      "author": "@mr_Vestr",
+      "version": "5.0",
+      "icon": "mr_vestr/7",
+      "description": "Плагин для создания, редактирования и быстрой отправки шаблонов сообщений.\n\nThe plugin for creating, editing, and quickly sending message templates.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/templates.plugin",
+      "hash": "44be2d3f172993b46af90e00ea8604dec5a3ced482b9b612fdc12c636ee1ec55",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/templates/templates_v4.0.plugin"
+        },
+        "4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/templates/templates_v4.1.plugin"
+        },
+        "4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/templates/templates_v4.2.plugin"
+        }
+      }
+    },
+    {
       "id": "custom_profile",
       "name": "Custom Profile",
       "author": "@RoflPlugins",
@@ -4408,31 +4436,6 @@
       "versions": {
         "1.0.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugins_command_scanner/plugins_command_scanner_v1.0.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "templates",
-      "name": "Templates",
-      "author": "@mr_Vestr",
-      "version": "4.2",
-      "icon": "mr_vestr/7",
-      "description": "A plugin for creating, editing, and quickly sending message templates.\n\nПлагин для создания, редактирования и быстрой отправки шаблонов сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/templates.plugin",
-      "hash": "cfec62bfdc6628d987bb2cbaec29a209866f75550c2a136efd1b461f3b0dd62f",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "4.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/templates/templates_v4.0.plugin"
-        },
-        "4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/templates/templates_v4.1.plugin"
         }
       }
     },
