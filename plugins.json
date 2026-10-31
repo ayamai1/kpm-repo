@@ -1,6 +1,70 @@
 {
   "plugins": [
     {
+      "id": "turbo_lite",
+      "name": "Turbo Lite",
+      "author": "@lurix_angel",
+      "version": "1.2.0",
+      "icon": "UtyaDuck/29",
+      "description": "Умная оптимизация ExteraGram: охрана памяти от вылетов, лёгкий режим только в тяжёлых чатах, любимые чаты, правила по сети и заряду, защита от флуда и автоочистка.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/turbo_lite.eaf",
+      "hash": "00028ebc982eac5f89a91b7a88a6a8c51c25e34cbac88e4b73e30fdbb74fd729",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/turbo_lite/turbo_lite_v1.0.0.eaf"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/turbo_lite/turbo_lite_v1.1.0.eaf"
+        }
+      }
+    },
+    {
+      "id": "swipe_status_bar",
+      "name": "Swipe Status Bar",
+      "author": "@RnPlugins",
+      "version": "1.0.0",
+      "icon": "RnDev/34",
+      "description": "Скрывает и возвращает статусбар свайпом по шапке",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/swipe_status_bar.plugin",
+      "hash": "fed28daa77a8f7b634898ca276147b97f1a45e388aa724d81df8fc60eda0e6a8",
+      "app_version": ">=12.10.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "clawd_pet",
+      "name": "Clawd (orginal creator itskotovski fork by @Skorvash)",
+      "author": "@Skorvash @itskotovski",
+      "version": "2.0",
+      "icon": "clawd_poop_5050_1783593604/0",
+      "description": "пиксельный питомец Claude, который живёт поверх интерфейса.\n\n**Тап** — ткнуть, **двойной тап** — прыжок, **удержание** — погладить (води пальцем туда-сюда), **перетаскивание** — перенести, **резкий бросок** — полёт.\n\nИногда съедает кнопки и иконки — тапни его, и он всё выплюнет обратно. Переевший Clawd оставляет кучку — тапни её, чтобы убрать.\n\nЗамечает новые сообщения и твои ответы, радуется «привет», «люблю» и «ахаха», комментирует открытые чаты и танцует под музыку.\n\n**Потряси телефон** — Clawd полетит кувырком. С гравитацией съезжает при наклоне, стоит на пузырях сообщений и поле ввода, а если подбросить к статус-бару — повиснет на руках.\n\n**Мозг** — Clawd помнит тебя: имя, привычки, любимые чаты и треки, что вы делали вместе, копит привязанность и сам запоминает новые факты. Память хранится на телефоне и подмешивается в реплики ИИ.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/clawd_pet.plugin",
+      "hash": "4ce9b1aa77968384496cf72f1c0e7d705e82a0185844aff1bb44aca1eb348466",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/clawd_pet/clawd_pet_v1.5.plugin"
+        }
+      }
+    },
+    {
       "id": "color_picker_plugin",
       "name": "Пипетка",
       "author": "@Y0uAreMyLove",
@@ -627,28 +691,6 @@
       "versions": {
         "2.0.23": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/direct_drop_send_fork/direct_drop_send_fork_v2.0.23.plugin"
-        }
-      }
-    },
-    {
-      "id": "turbo_lite",
-      "name": "Turbo Lite",
-      "author": "@lurix_angel",
-      "version": "1.1.0",
-      "icon": "UtyaDuck/29",
-      "description": "Умная оптимизация ExteraGram: лёгкий режим только в тяжёлых чатах, любимые чаты, правила и расписание, защита от флуда, автоочистка памяти и тихий режим при спаме.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/turbo_lite.eaf",
-      "hash": "3bcc933a9339c1035314070124f3d02a5ec51eeee7f9e958f1cb65123953ec52",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/turbo_lite/turbo_lite_v1.0.0.eaf"
         }
       }
     },
@@ -4030,23 +4072,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/petpet/petpet_v1.1.2_1.plugin"
         }
       }
-    },
-    {
-      "id": "clawd_pet",
-      "name": "Clawd",
-      "author": "@itskotovski",
-      "version": "1.5",
-      "icon": "clawd_poop_5050_1783593604/0",
-      "description": "пиксельный питомец Claude, который живёт поверх интерфейса.\n\n**Тап** — ткнуть, **двойной тап** — прыжок, **удержание** — погладить (води пальцем туда-сюда), **перетаскивание** — перенести, **резкий бросок** — полёт.\n\nИногда съедает кнопки и иконки — тапни его, и он всё выплюнет обратно. Переевший Clawd оставляет кучку — тапни её, чтобы убрать.\n\nЗамечает новые сообщения и твои ответы, радуется «привет», «люблю» и «ахаха», комментирует открытые чаты и танцует под музыку.\n\n**Потряси телефон** — Clawd полетит кувырком. С гравитацией съезжает при наклоне, стоит на пузырях сообщений и поле ввода, а если подбросить к статус-бару — повиснет на руках.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/clawd_pet.plugin",
-      "hash": "0eec2e4d540311fd447e018ebe8db7effd32ecb154e1f1273ecad1ccf8b82b1f",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ]
     },
     {
       "id": "animtou",
