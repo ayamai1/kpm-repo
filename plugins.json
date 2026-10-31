@@ -1,6 +1,57 @@
 {
   "plugins": [
     {
+      "id": "color_picker_plugin",
+      "name": "Пипетка",
+      "author": "@Y0uAreMyLove",
+      "version": "1.0.0",
+      "icon": "msg_theme",
+      "description": "Три точки в чате → Плагины → Пипетка: копирует HEX и RGB любого цвета с экрана",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/color_picker_plugin.plugin",
+      "hash": "afc1a6f4a901da38feab04476b400a23061363e9ddc48d15281d82b4cc71eddb",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
+      "id": "nomerkliker",
+      "name": "Генератор номеров",
+      "author": "@PLOXOI_RRO & @TimPlugins",
+      "version": "1.0",
+      "icon": "Homera_plugin/0",
+      "description": "Игра «Генератор номеров»: прокрут номеров России и Беларуси, 5 редкостей, коллекция, сейф, автопродажа, задания и каталог редкостей.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/nomerkliker.eaf",
+      "hash": "15d7771bed5145aecf7314ebf7784b38e7b598d3d77b07cebbf5d8e1ec63b6c2",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "selall",
+      "name": "Select All",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "ka1Plugins/2",
+      "description": "Выделение всех медиа, гифок, ссылок и т.д. в профиле\nSelect all Media, GIFs, links, etc. in profile",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/selall.plugin",
+      "hash": "612f2236454759c51d3925a42c5c21240f037da643002f100523349925bb5c06",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "kubick_packer",
       "name": "Упаковщик",
       "author": "@the_kubick",
