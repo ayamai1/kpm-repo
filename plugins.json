@@ -1,6 +1,37 @@
 {
   "plugins": [
     {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.7",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "55468ff7fafa94e5efc7625d0c8c066514d90182cf87f33ffd90d00540011f2f",
+      "app_version": ">=12.0.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
+        },
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
+        },
+        "1.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.6.eaf"
+        }
+      }
+    },
+    {
       "id": "max_music_stats",
       "name": "Max Music Stats",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -1607,34 +1638,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "veil",
-      "name": "VEIL",
-      "author": "@NFModules",
-      "version": "1.0.6",
-      "icon": "veilplugin/0",
-      "description": "Плагин для шифрования всех ваших сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
-      "hash": "c98136ba5d816de7d118b2fa5066afa1655bd085bc293142630fdb58e518e215",
-      "app_version": ">=12.0.0",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
-        },
-        "1.0.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
-        }
-      }
     },
     {
       "id": "downloader",
