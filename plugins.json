@@ -1,6 +1,54 @@
 {
   "plugins": [
     {
+      "id": "music_dl",
+      "name": "Music Downloader modded",
+      "author": "@s1mclick, @tefumu, codex(a bit)",
+      "version": "5.0.0-beta",
+      "icon": "IbukiMiodaOneLove/0",
+      "description": "Ищи, скачивай и получай рекомендованные треки.\nСервисы: SoundCloud | Spotify | Tidal \nАвтор: @s1mclick",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_dl.plugin",
+      "hash": "3dffa6519026a7d5ff805f233729061eb0bab476774a8230e653139edbaec698",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v1.2.0.plugin"
+        },
+        "3.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v3.1.0.plugin"
+        },
+        "4.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.0.0.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "avatar_in_dm_dex",
+      "name": "Avatar In DM dex",
+      "author": "@KUNSESHBOY",
+      "version": "1.0",
+      "icon": "M_A665/1",
+      "description": "Показывает аватар собеседника в личных чатах возле входящих сообщений, как в беседах, вместо стандартного аватара в actionbar",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/avatar_in_dm_dex.plugin",
+      "hash": "c335c05d4d6d3f18a97a87ba9d31915972a1304124468ba2f4c7fb6187a690af",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
@@ -8244,34 +8292,6 @@
       "versions": {
         "0.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/meow_react/meow_react_v0.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "music_dl",
-      "name": "Music Downloader",
-      "author": "@s1mclick",
-      "version": "4.1.0",
-      "icon": "IbukiMiodaOneLove/0",
-      "description": "Ищи, скачивай и получай рекомендованные треки.\nСервисы: SoundCloud | Spotify | Tidal \nАвтор: @s1mclick",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_dl.plugin",
-      "hash": "af587fb3516edc6c636348265b2025060530fb410871d736aed3e097714fc40f",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v1.2.0.plugin"
-        },
-        "3.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v3.1.0.plugin"
-        },
-        "4.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.0.0.plugin"
         }
       }
     },
