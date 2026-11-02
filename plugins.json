@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "melodic_piano_typing",
+      "name": "Melodic Piano Typing",
+      "author": "@itzMahmudj",
+      "version": "1.0.2",
+      "icon": "urphey/1",
+      "description": "Озвучка клавиш уникальными нотами пианино в гармоническом строе и аккордами на Пробел/Enter",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/melodic_piano_typing.plugin",
+      "hash": "5ec0dc1cde78e468ed7abe48a2caecb8c278a903427f438cd227cb2d23bae2bd",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "settings_wallpaper",
+      "name": "Settings Wallpaper",
+      "author": "@Kcharter",
+      "version": "1.0.7",
+      "icon": "Tagsforsaved_by_TgEmodziBot/36",
+      "description": "Фото на фоне настроек, затемнение и прозрачные блоки",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
+      "hash": "fdb8c5bd625dc25f5c48e3966daf86859ba89e795243630338002fd9f9776c2d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "channel_inspector",
+      "name": "Channel Inspector",
+      "author": "Daxo-Developer && @Daxo_OS",
+      "version": "2.2.0",
+      "icon": "DaxoOS/1",
+      "description": "Данные о закрытых и публичных чатах: сведения из приглашения, карусель участников, просмотр аватарок, статистика, команды .chinfo, .chstats и .avatars",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/channel_inspector.plugin",
+      "hash": "b212460915c2b7fff6e17f86f53ec99a2169240d08561f466f0d92396fc56f9a",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "GWS",
+      "name": "GIF with Sound",
+      "author": "@la_cringe | @dmkrjplug",
+      "version": "1.0",
+      "icon": "ZkrXOVX_by_sticbot/105",
+      "description": "Отправляет видео гифкой со звуком",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/GWS.plugin",
+      "hash": "fa7629c5ff6311a9fca0849771ffe609c8cba3cc50015ce5a5c0076d8a8dc8bf",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "ChatListBackground",
       "name": "ChatListBackground",
       "author": "@LuPlugins (@optimist_opti)",
