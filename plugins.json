@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "ChatListBackground",
+      "name": "ChatListBackground",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0-dex",
+      "icon": "LuPlugins/1",
+      "description": "Видео-фон в списке чатов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ChatListBackground.plugin",
+      "hash": "529d6b176c42cd35cdf92c771e4ae68707f51e51acc7ceac161dc070f8c73271",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "plugin_guard",
       "name": "Plugin Guard",
       "author": "@dekma0091 && @DefinitelyNotDekma",
