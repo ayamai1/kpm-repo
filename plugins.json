@@ -1,6 +1,74 @@
 {
   "plugins": [
     {
+      "id": "Combined_Custom_Banner",
+      "name": "Combined Custom Banner",
+      "author": "@KUNSESHBOY",
+      "version": "3.0.1",
+      "icon": "c420220972_1776124547_6jmoz/25",
+      "description": "Особенности плагина: прозрачные папки, кастомные баннеры чатов и профиля, дополненный вид каналов в профилях с помощью баннера из аватара канала, эффекты размытия, затемнения и прозрачности баннеров в чатах.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/Combined_Custom_Banner.plugin",
+      "hash": "9af35c4e78dea23312b9bf98fbc428f22792be45765636f74342e2d90b2e79d6",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
+        },
+        "2.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.2_1.plugin"
+        },
+        "2.9.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.0.plugin"
+        },
+        "2.9.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.1_1.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v3.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "QuickCloseButton",
+      "name": "QuickCloseButton",
+      "author": "@KUNSESHBOY",
+      "version": "1.3.5",
+      "icon": "lelelesky1337/3",
+      "description": "Кнопка закрытия\\перезагрузки в правом углу главного экрана и в боковом меню. Копирует функционал кнопки перезагрузки из AyuGram в exterаGram.\n\nТап — закрыть\nЗажатие — перезапустить",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/QuickCloseButton.plugin",
+      "hash": "489f4e980b0b2f42a9e0d43e07554305c23d6a9901747fe5e7597f728586d8bb",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.0.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.1.0.plugin"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton.plugin"
+        },
+        "1.2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.2.2.plugin"
+        },
+        "1.3.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.3.4.plugin"
+        }
+      }
+    },
+    {
       "id": "search_plus",
       "name": "Search+",
       "author": "@zxplugins",
@@ -3082,37 +3150,6 @@
       ]
     },
     {
-      "id": "Combined_Custom_Banner",
-      "name": "Combined Custom Banner",
-      "author": "@KUNSESHBOY & @chestertech",
-      "version": "3.0.0",
-      "icon": "c420220972_1776124547_6jmoz/25",
-      "description": "Особенности плагина: прозрачные папки, кастомные баннеры чатов и профиля, дополненный вид каналов в профилях с помощью баннера из аватара канала, эффекты размытия, затемнения и прозрачности баннеров в чатах.\n\n|Спасибо chestertetch за помощь в оптимизации|.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/Combined_Custom_Banner.plugin",
-      "hash": "eeb4a0ff654040c8922ab85d91d8b4f4a35cbf912555871aa9fdf0b15eaa33e4",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.1.plugin"
-        },
-        "2.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.1.2_1.plugin"
-        },
-        "2.9.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.0.plugin"
-        },
-        "2.9.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/Combined_Custom_Banner/Combined_Custom_Banner_v2.9.1_1.plugin"
-        }
-      }
-    },
-    {
       "id": "list_of_commands",
       "name": "Меню доступных команд",
       "author": "@bandaliyev",
@@ -5132,37 +5169,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "QuickCloseButton",
-      "name": "QuickCloseButton",
-      "author": "@KUNSESHBOY & @chestertech",
-      "version": "1.3.4",
-      "icon": "lelelesky1337/3",
-      "description": "Кнопка закрытия\\перезагрузки в правом углу главного экрана и в боковом меню. Копирует функционал кнопки перезагрузки из AyuGram в exterаGram.\n\nТап — закрыть\nЗажатие — перезапустить",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/QuickCloseButton.plugin",
-      "hash": "f46c9e2a2c2ab14ee7f9557efbbd23e54b6603b19f0d4e10b71ba58c684e895d",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.0.0.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.1.0.plugin"
-        },
-        "1.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton.plugin"
-        },
-        "1.2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/QuickCloseButton/QuickCloseButton_v1.2.2.plugin"
-        }
-      }
     },
     {
       "id": "plugin_settings_translate",
