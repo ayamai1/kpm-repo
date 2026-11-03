@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "archive_folders",
+      "name": "Archive Folders",
+      "author": "@tsarkei, @DudePlugins",
+      "version": "1.7.0",
+      "icon": "te4_lei3_xi1_ya4_by_fStikBot/15",
+      "description": "Плагин для добавления папок внутри архива. Переключатель в шапке архива (сверху справа), да и много чего полезного в настройках",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archive_folders.eaf",
+      "hash": "eb4c5116de1c982e2dc30456b31a7597db3da12ba542447dfbad9262234bfbb3",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.4.2.plugin"
+        },
+        "1.5.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.5.6.plugin"
+        }
+      }
+    },
+    {
       "id": "melodic_piano_typing",
       "name": "Melodic Piano Sequencer",
       "author": "@itzmahmudj",
@@ -2854,28 +2879,6 @@
         },
         "1.1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_marquee/auto_marquee_v1.1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "archive_folders",
-      "name": "Archive Folders",
-      "author": "@tsarkei",
-      "version": "1.5.6",
-      "icon": "te4_lei3_xi1_ya4_by_fStikBot/15",
-      "description": "Плагин для добавления папок внутри архива. Переключатель в шапке архива (сверху справа), да и много чего полезного в настройках",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archive_folders.plugin",
-      "hash": "c77fd922a40761e1f7de409eb6a37b952a0f1145d58ee97fa86a9f28ec3157dd",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.4.2.plugin"
         }
       }
     },
