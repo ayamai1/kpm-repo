@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "melodic_piano_typing",
+      "name": "Melodic Piano Sequencer",
+      "author": "@itzmahmudj",
+      "version": "1.8.0",
+      "icon": "urphey/1",
+      "description": "Пошаговая игра мелодий при печати + конструктор своей мелодии на 4 такта (4/4). Реалистичные тембры пианино, опциональные виолончель и скрипка",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/melodic_piano_typing.plugin",
+      "hash": "21111c56ad52c94d2682734f0604aad179bf51c1252a1ac7702c5328856540f7",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/melodic_piano_typing/melodic_piano_typing_v1.0.2.plugin"
+        }
+      }
+    },
+    {
       "id": "veil",
       "name": "VEIL",
       "author": "@NFModules",
@@ -55,23 +77,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/acd/acd_v1.0.plugin"
         }
       }
-    },
-    {
-      "id": "melodic_piano_typing",
-      "name": "Melodic Piano Typing",
-      "author": "@itzMahmudj",
-      "version": "1.0.2",
-      "icon": "urphey/1",
-      "description": "Озвучка клавиш уникальными нотами пианино в гармоническом строе и аккордами на Пробел/Enter",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/melodic_piano_typing.plugin",
-      "hash": "5ec0dc1cde78e468ed7abe48a2caecb8c278a903427f438cd227cb2d23bae2bd",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ]
     },
     {
       "id": "settings_wallpaper",
