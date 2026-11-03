@@ -1,6 +1,64 @@
 {
   "plugins": [
     {
+      "id": "search_plus",
+      "name": "Search+",
+      "author": "@zxplugins",
+      "version": "2.9.1",
+      "icon": "UtyaDuckFull/17",
+      "description": "Мультипоиск по нескольким словам через |, фильтр по типу сообщений, фильтры поиска по человеку, периоду и типу, поиск людей по ID, телефону или @username там, где Telegram это не умеет. Подробное описание всех функций — в настройках плагина.\n\nMulti-search for several words with |, message type filter, search filters by person, period and type, finding people by ID, phone or @username where Telegram can't. Full feature description is in the plugin settings.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/search_plus.plugin",
+      "hash": "09c5a45795278bdfa70355dfb3741dd69ca70507c8808cd59ca9c340b9e27d20",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.3.plugin"
+        },
+        "1.31": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.31.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.0.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.1.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.5.plugin"
+        },
+        "2.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.6.plugin"
+        },
+        "2.6.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.6.1.plugin"
+        },
+        "2.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.7.plugin"
+        },
+        "2.8": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.8.plugin"
+        },
+        "2.9": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.9.plugin"
+        }
+      }
+    },
+    {
       "id": "archive_folders",
       "name": "Archive Folders",
       "author": "@tsarkei, @DudePlugins",
@@ -8,7 +66,7 @@
       "icon": "te4_lei3_xi1_ya4_by_fStikBot/15",
       "description": "Плагин для добавления папок внутри архива. Переключатель в шапке архива (сверху справа), да и много чего полезного в настройках",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archive_folders.eaf",
-      "hash": "eb4c5116de1c982e2dc30456b31a7597db3da12ba542447dfbad9262234bfbb3",
+      "hash": "f76ee99d2723ce14e81b6297fdb3d632f9c623072d156195b11d7328e2e5f9a2",
       "app_version": ">=12.10.6",
       "tags": [
         [
@@ -22,6 +80,9 @@
         },
         "1.5.6": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.5.6.plugin"
+        },
+        "1.7.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archive_folders/archive_folders_v1.7.0.eaf"
         }
       }
     },
@@ -400,64 +461,6 @@
         },
         "2.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v2.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "search_plus",
-      "name": "Search+",
-      "author": "@zxplugins",
-      "version": "2.9",
-      "icon": "UtyaDuckFull/17",
-      "description": "Мультипоиск по нескольким словам через |, фильтр по типу сообщений, фильтры поиска по человеку, периоду и типу, поиск людей по ID, телефону или @username там, где Telegram это не умеет. Подробное описание всех функций — в настройках плагина.\n\nMulti-search for several words with |, message type filter, search filters by person, period and type, finding people by ID, phone or @username where Telegram can't. Full feature description is in the plugin settings.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/search_plus.plugin",
-      "hash": "8b89f945f2f60c1b3686ac1cdfcc15bfec2a225cd7b5b49272c9d625caf02f7c",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.3.plugin"
-        },
-        "1.31": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v1.31.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.0.plugin"
-        },
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.1.plugin"
-        },
-        "2.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.5.plugin"
-        },
-        "2.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.6.plugin"
-        },
-        "2.6.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.6.1.plugin"
-        },
-        "2.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.7.plugin"
-        },
-        "2.8": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.8.plugin"
-        },
-        "2.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.9.plugin"
         }
       }
     },
