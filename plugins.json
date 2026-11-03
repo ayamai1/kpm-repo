@@ -1,6 +1,62 @@
 {
   "plugins": [
     {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.8",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "46aefc6bf2fa9c364e27421f4949f0d0c3409461ecff0c80a178a5e060655521",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
+        },
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
+        },
+        "1.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.6.eaf"
+        },
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.7.eaf"
+        }
+      }
+    },
+    {
+      "id": "acd",
+      "name": "Album Cover Downloader",
+      "author": "@ka1Plugins",
+      "version": "1.1",
+      "icon": "ka1Plugins/0",
+      "description": "Сохраняет обложку трека в галерею\nSaves track cover to gallery",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/acd.plugin",
+      "hash": "73f8685da5e9cec2172b6d803deb49e30c5cb289fdb42fb13d72227da37b75f3",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/acd/acd_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "melodic_piano_typing",
       "name": "Melodic Piano Typing",
       "author": "@itzMahmudj",
@@ -372,37 +428,6 @@
         },
         "2.9": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_plus/search_plus_v2.9.plugin"
-        }
-      }
-    },
-    {
-      "id": "veil",
-      "name": "VEIL",
-      "author": "@NFModules",
-      "version": "1.0.7",
-      "icon": "veilplugin/0",
-      "description": "Плагин для шифрования всех ваших сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
-      "hash": "55468ff7fafa94e5efc7625d0c8c066514d90182cf87f33ffd90d00540011f2f",
-      "app_version": ">=12.0.0",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
-        },
-        "1.0.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
-        },
-        "1.0.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.6.eaf"
         }
       }
     },
@@ -1740,23 +1765,6 @@
       "description": "Добавляет в меню чата кнопку, которая удаляет все ваши сообщения в текущем чате (с запросом подтверждения).",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/del_my_msgs.plugin",
       "hash": "7583f39da01111868ff78d6c5149d38a02a75fea6739e52e4b4ad9f64540dfea",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "acd",
-      "name": "Album Cover Downloader",
-      "author": "@ka1Plugins",
-      "version": "1.0",
-      "icon": "ka1Plugins/0",
-      "description": "Сохраняет обложку трека в галерею\nSaves track cover to gallery",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/acd.plugin",
-      "hash": "06b55a5637e2f51f3128f8beac3980dffa48e1f2efbbcbcfee8f9c2f68ca1ae8",
       "app_version": ">=12.10.6",
       "tags": [
         [
