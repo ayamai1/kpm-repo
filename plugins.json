@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "nfl",
+      "name": "NoForwardLimit",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "ka1Plugins/3",
+      "description": "Полностью удаляет лимит в чате и профиле\nCompletely removes the chat and profile limit\n\nFORK: **[NoForwardLimit](https://t.me/zwyPlugins/53)** by @zwylair • @zwyPlugins",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/nfl.plugin",
+      "hash": "aa255fecf984386deadd633fd3c6e8f2d698242654ee0a781e82912c05c7e8e2",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "ndb",
+      "name": "NavDrawerBackground",
+      "author": "@ka1Plugins",
+      "version": "1.0",
+      "icon": "ka1Plugins/4",
+      "description": "Кастомный фон карточки аккаунта для **[бокового меню](https://t.me/exteraSettings?s=navigationDrawer)**\nCustom account card background for **[navigation drawer](https://t.me/exteraSettings?s=navigationDrawer)**",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ndb.plugin",
+      "hash": "51d7d185b741417980e2f21e0379b3043eab8bd5ed58d91e118bfde4df91a3fb",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "aj_music_plus",
       "name": "Music +",
       "author": "@AJ_Plugins",
