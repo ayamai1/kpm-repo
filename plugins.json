@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "folder_swipe",
+      "name": "Folder Swipe",
+      "author": "Irlandec",
+      "version": "1.0.0",
+      "icon": "FolderSwipeByIrlandec/0",
+      "description": "Переключение папок свайпом, как на iPhone: свайп из середины списка чатов листает папки, а свайп от правого края выполняет действие над чатом (прочитать, закрепить и т.д.)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/folder_swipe.plugin",
+      "hash": "e5e5b8889ca7f19ac8ed8cc9862e39f71ebaf98621639f69f03a1c02643ab10e",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "instant_tab_switch",
+      "name": "Instant Tab Switch",
+      "author": "@akresik",
+      "version": "1.0.0",
+      "icon": "Clawde/68",
+      "description": "Мгновенное переключение вкладки нижней панели при перетаскивании пальца, без ожидания отпускания.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/instant_tab_switch.plugin",
+      "hash": "06fd876e7ab27251a98f9239a8fd325816b58f7043aeeab27ff9541e09bf9268",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "telegram_jam",
       "name": "Telegram Jam",
       "author": "@shit_plugins",
