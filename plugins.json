@@ -1,6 +1,73 @@
 {
   "plugins": [
     {
+      "id": "liquid_glass",
+      "name": "Liquid Glass [Fork]",
+      "author": "@PluginProject · @w3b_0s1nt",
+      "version": "5.1.4",
+      "icon": "vkVSfmG_by_achestickbot/5",
+      "description": "Liquid Glass — плагин для exteraGram, который добавляет в интерфейс Telegram эффект матового и жидкого стекла: полупрозрачные шапки, размытые панели, тот же blur, что у закреплённых сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/liquid_glass.eaf",
+      "hash": "12477b063440b14d9b809c4ce952107241c8eab24fe5445d12946e0955f330b1",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
+        },
+        "1.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
+        },
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
+        },
+        "2.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
+        },
+        "2.1.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
+        },
+        "2.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
+        },
+        "2.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
+        },
+        "2.3.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
+        },
+        "3.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
+        },
+        "3.6.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
+        },
+        "3.8.13": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
+        },
+        "4.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.0.0.plugin"
+        },
+        "4.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.1.1.plugin"
+        },
+        "5.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v5.0.2.eaf"
+        },
+        "5.1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v5.1.2.eaf"
+        }
+      }
+    },
+    {
       "id": "folder_swipe",
       "name": "Folder Swipe",
       "author": "Irlandec",
@@ -2080,70 +2147,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/material_expressive/material_expressive_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "liquid_glass",
-      "name": "Liquid Glass [Fork]",
-      "author": "@PluginProject · @w3b_0s1nt",
-      "version": "5.1.2",
-      "icon": "vkVSfmG_by_achestickbot/5",
-      "description": "Liquid Glass — плагин для exteraGram, который добавляет в интерфейс Telegram эффект матового и жидкого стекла: полупрозрачные шапки, размытые панели, тот же blur, что у закреплённых сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/liquid_glass.eaf",
-      "hash": "556037f03659ba1a5395ec5f023d677267a0fd47cecfa205ed1f159c32eb1928",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.5.0.plugin"
-        },
-        "1.5.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v1.6.0.plugin"
-        },
-        "1.6.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.0.plugin"
-        },
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.0.6.plugin"
-        },
-        "2.0.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.1.7.plugin"
-        },
-        "2.1.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.2.1.plugin"
-        },
-        "2.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.0.plugin"
-        },
-        "2.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v2.3.4.plugin"
-        },
-        "2.3.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.0.plugin"
-        },
-        "3.1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v3.1.2.plugin"
-        },
-        "3.6.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass.plugin"
-        },
-        "3.8.13": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass 3.8.13_v3.8.13.plugin"
-        },
-        "4.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.0.0.plugin"
-        },
-        "4.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v4.1.1.plugin"
-        },
-        "5.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/liquid_glass/liquid_glass_v5.0.2.eaf"
         }
       }
     },
