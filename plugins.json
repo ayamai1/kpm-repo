@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "folder_swipe",
+      "name": "Folder Swipe",
+      "author": "Irlandec",
+      "version": "1.1.0",
+      "icon": "FolderSwipeByIrlandec/0",
+      "description": "Переключение папок свайпом, как на iPhone: свайп из середины списка чатов листает папки, а свайп от правого края выполняет действие над чатом (прочитать, закрепить и т.д.)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/folder_swipe.plugin",
+      "hash": "c4fc078d6e8a7aab1aa7265955de92b86487bc781f7ed211b1e5a1018b8ee59b",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/folder_swipe/folder_swipe_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "attach_gallery_grid",
       "name": "Attach Gallery Grid",
       "author": "@qe4ank & Gemini Argon",
@@ -51,23 +73,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.4.plugin"
         }
       }
-    },
-    {
-      "id": "folder_swipe",
-      "name": "Folder Swipe",
-      "author": "Irlandec",
-      "version": "1.0.0",
-      "icon": "FolderSwipeByIrlandec/0",
-      "description": "Переключение папок свайпом, как на iPhone: свайп из середины списка чатов листает папки, а свайп от правого края выполняет действие над чатом (прочитать, закрепить и т.д.)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/folder_swipe.plugin",
-      "hash": "e5e5b8889ca7f19ac8ed8cc9862e39f71ebaf98621639f69f03a1c02643ab10e",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "instant_tab_switch",
