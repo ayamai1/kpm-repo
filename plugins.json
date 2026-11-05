@@ -1,6 +1,27 @@
 {
   "plugins": [
     {
+      "id": "unlim_accounts",
+      "name": "Unlim Accounts",
+      "author": "@rezolvePlugins",
+      "version": "1.1",
+      "description": "Raises the account limit to 999. Only **13.1.1**.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlim_accounts.plugin",
+      "hash": "3d16398505e5f10ff7b4df95c68767b5c1f39cb28430220eed71414d0758d1f6",
+      "app_version": "==13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlim_accounts/unlim_accounts_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "pixel_eyes",
       "name": "Pixel Eyes",
       "author": "@van1lLove (идея: @psyhomane)",
@@ -2175,22 +2196,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/downloader/downloader_v2.5.plugin"
         }
       }
-    },
-    {
-      "id": "unlim_accounts",
-      "name": "Unlim Accounts",
-      "author": "@rezolvePlugins",
-      "version": "1.0",
-      "description": "Raises the account limit to 999. Only **12.10.6**.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlim_accounts.plugin",
-      "hash": "d5649ae3775730d9d05911fe0de637fe40bc7637840f2558e1d500384a62eb4a",
-      "app_version": "==12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "chat_colors",
