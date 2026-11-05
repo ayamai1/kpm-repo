@@ -1,6 +1,33 @@
 {
   "plugins": [
     {
+      "id": "attach_gallery_grid",
+      "name": "Attach Gallery Grid",
+      "author": "@qe4ank & Gemini Argon",
+      "version": "1.5.8",
+      "description": "Attachment gallery, stickers, GIF & emoji grids: pinch-to-zoom columns, square proportional cells, smooth zoom animations, swipe-up keyboard expansion, in-place gallery sorting, and instant selection circle scaling.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/attach_gallery_grid.plugin",
+      "hash": "da2725cba21cbf2dd9f00cfb5e15c8c277395c8e428e5956286f5961f3279c56",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.1.plugin"
+        },
+        "1.1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.4.plugin"
+        },
+        "1.5.8": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.5.8.plugin"
+        }
+      }
+    },
+    {
       "id": "liquid_glass",
       "name": "Liquid Glass [Fork]",
       "author": "@PluginProject · @w3b_0s1nt",
@@ -86,30 +113,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/folder_swipe/folder_swipe_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "attach_gallery_grid",
-      "name": "Attach Gallery Grid",
-      "author": "@qe4ank & Gemini Argon",
-      "version": "1.5.8",
-      "description": "Attachment gallery, stickers, GIF & emoji grids: pinch-to-zoom columns, square proportional cells, smooth zoom animations, swipe-up keyboard expansion, in-place gallery sorting, and instant selection circle scaling.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/attach_gallery_grid.plugin",
-      "hash": "79f9de3e75549ca8bf39ad6bc07b5e32578cdcc0fa37081b6e99ea2a8d508fd4",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.1.plugin"
-        },
-        "1.1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.4.plugin"
         }
       }
     },
