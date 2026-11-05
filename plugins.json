@@ -1,6 +1,58 @@
 {
   "plugins": [
     {
+      "id": "attach_gallery_grid",
+      "name": "Attach Gallery Grid",
+      "author": "@qe4ank & Gemini Argon",
+      "version": "1.5.8",
+      "description": "Attachment gallery, stickers, GIF & emoji grids: pinch-to-zoom columns, square proportional cells, smooth zoom animations, swipe-up keyboard expansion, in-place gallery sorting, and instant selection circle scaling.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/attach_gallery_grid.plugin",
+      "hash": "79f9de3e75549ca8bf39ad6bc07b5e32578cdcc0fa37081b6e99ea2a8d508fd4",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.1.plugin"
+        },
+        "1.1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.4.plugin"
+        }
+      }
+    },
+    {
+      "id": "shikimori_search",
+      "name": "Shikimori Search",
+      "author": "@obsidiphoria • @kaltsitu",
+      "version": "1.5",
+      "icon": "lidreron/1",
+      "description": "Поиск аниме, манги и статистики на Shikimori",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/shikimori_search.plugin",
+      "hash": "3b165115df8d8f9d3ee3eb1ecb39c8d5f72a6bce7c958ffd63c0f6d6ae18a414",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.4.plugin"
+        }
+      }
+    },
+    {
       "id": "folder_swipe",
       "name": "Folder Swipe",
       "author": "Irlandec",
@@ -1262,27 +1314,6 @@
           "key_color_lightblue"
         ]
       ]
-    },
-    {
-      "id": "attach_gallery_grid",
-      "name": "Attach Gallery Grid",
-      "author": "@qe4ank & Gemini Argon",
-      "version": "1.1.4",
-      "description": "Attachment gallery, stickers & GIF grids: pinch-to-zoom columns, square proportional cells, smooth zoom animations, and instant selection circle scaling without delays.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/attach_gallery_grid.plugin",
-      "hash": "02f595177a1e9b2d50f856dd3a221819122ea7c56a2eff87b767e6b88830468d",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.1.plugin"
-        }
-      }
     },
     {
       "id": "iphone_like_Portret",
@@ -3785,31 +3816,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/md3_navbars_everywhere/md3_navbars_everywhere_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "shikimori_search",
-      "name": "Shikimori Search",
-      "author": "@obsidiphoria • @kaltsitu",
-      "version": "1.4",
-      "icon": "lidreron/1",
-      "description": "inline-поиск аниме и манги на Shikimori, с карточками и личной статистикой.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/shikimori_search.plugin",
-      "hash": "37e8117d9093bd3124b192099b122e09242bc863d402940e2a5b35fd4b3e4b24",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.3.plugin"
         }
       }
     },
