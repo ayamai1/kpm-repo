@@ -1,6 +1,99 @@
 {
   "plugins": [
     {
+      "id": "telegram_jam",
+      "name": "Telegram Jam",
+      "author": "@shit_plugins",
+      "version": "0.11.1",
+      "icon": "exteraPlugins/1",
+      "description": "Совместное прослушивание музыки в Telegram, как Jam в Spotify / Listen to music together in sync, like Spotify Jam.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/telegram_jam.plugin",
+      "hash": "501b9320eccb605187baf500a48190b0c0ae66e9c755de2788ae8e38cd89f174",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "custom_emoji_nick",
+      "name": "Custom Emoji Nick",
+      "author": "@shit_plugins",
+      "version": "1.0",
+      "icon": "exteraPlugins/1",
+      "description": "Выбор кастомных эмодзи в имени контакта",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_emoji_nick.plugin",
+      "hash": "8a06b5736f7a97d6fbf13b30709a293caf16f45c429b2e253098a9e071a33063",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "player_clip",
+      "name": "Player Clip",
+      "author": "GPT-Sol-6.1, @OnlyOneShik, @Repentagon",
+      "version": "1.0.0",
+      "icon": "Zuioisus/31",
+      "description": "Клипы для песен как в Я.Музыке, загружаете самостоятельно из памяти, нажатие - добавить/начать видео, зажать кнопку при желании заменить/сбросить клип для песни.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/player_clip.plugin",
+      "hash": "3c8c44775c89b836d608bab8d60a8e6dc69911eb2a4e8b7da46fc7d72c544805",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "pinterest_pic",
+      "name": "Pinterest Pic",
+      "author": "@cmxjq",
+      "version": "2.5.0",
+      "icon": "Ronvn/9",
+      "description": "Replaces Yandex with Pinterest in the inline `@pic` search: same grid, endless scrolling, no API keys. The command name and tile size are configurable.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pinterest_pic.plugin",
+      "hash": "762e9b9d6530c4ef93dfea33dba18a7507492ec258b1cef8bfb7eab79227700e",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
+      "id": "aj_music_plus",
+      "name": "Music +",
+      "author": "@AJ_Plugins",
+      "version": "1.3.1",
+      "icon": "ajsplugins/1",
+      "description": "Reimagines Music Experience Inside Telegram, With Library , lyrics and Better Queue Management",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/aj_music_plus.eaf",
+      "hash": "69ff5aaba533979beb4b105372625aa239712e7eca59d22bd14f1e161847ac12",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/aj_music_plus/aj_music_plus_v1.1.0.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/aj_music_plus/aj_music_plus_v1.3.eaf"
+        }
+      }
+    },
+    {
       "id": "unlim_accounts",
       "name": "Unlim Accounts",
       "author": "@rezolvePlugins",
@@ -161,28 +254,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "aj_music_plus",
-      "name": "Music +",
-      "author": "@AJ_Plugins",
-      "version": "1.3",
-      "icon": "ajsplugins/1",
-      "description": "Reimagines Music Experience Inside Telegram, With Library , lyrics and Better Queue Management",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/aj_music_plus.eaf",
-      "hash": "1344aa02c487c70149f8ec2f50fb9306b1c157a60393ec84e1260e54878497d5",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/aj_music_plus/aj_music_plus_v1.1.0.plugin"
-        }
-      }
     },
     {
       "id": "kangel_plugins_manager",
