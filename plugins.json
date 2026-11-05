@@ -1,6 +1,44 @@
 {
   "plugins": [
     {
+      "id": "centered_header_fork",
+      "name": "Centered header (fork)",
+      "author": "@ScorpiOVN_sc",
+      "version": "2.0.0",
+      "icon": "PikselnyjPizdecBoychmoker/53",
+      "description": "Центрирует заголовок чата. Cherry Header fork, used DEX code from @anivPlugins's plugin",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/centered_header_fork.plugin",
+      "hash": "d0ac5651a5dc5c1d2003dd9e611775b7fa9a32ed58d9a68c8ceb2bba724eee78",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/centered_header_fork/centered_header_fork_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "catalog_corner",
+      "name": "CatalogCorner",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.1",
+      "description": "Переносит кнопку «Каталог плагинов» в правый верхний угол экрана «Плагины» и оставляет только иконку",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/catalog_corner.plugin",
+      "hash": "b1729769191a2b42f2ccfcdde850cd1e6829e52341d248a5d9141ce7a04e4fd5",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "ChatListBackground",
       "name": "ChatListBackground",
       "author": "@LuPlugins (@optimist_opti)",
@@ -4989,23 +5027,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "centered_header_fork",
-      "name": "Centered header (fork)",
-      "author": "@ScorpiOVN_sc (@n0white)",
-      "version": "1.0.0",
-      "icon": "VislBejbi9/17",
-      "description": "Centered header for chats",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/centered_header_fork.plugin",
-      "hash": "7eba3c1073c4c943bbf84540e96a964ffea648f420e942188bcac17b888cdb21",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
