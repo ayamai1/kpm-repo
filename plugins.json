@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "blur_bg_message",
+      "name": "BlurBGMessage",
+      "author": "@swagnonher",
+      "version": "1.0.0",
+      "icon": "aprelteamkontora/11",
+      "description": "Размытый полупрозрачный фон сообщений (Blur BG) с обводкой в стиле iOS.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/blur_bg_message.eaf",
+      "hash": "9309a503342c02e9ead16ab92632870ce7b994fe3d349b0feaf41b78946e4e00",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "attach_gallery_grid",
       "name": "Attach Gallery Grid",
       "author": "@qe4ank & Gemini Argon",
