@@ -1,6 +1,50 @@
 {
   "plugins": [
     {
+      "id": "settings_wallpaper",
+      "name": "Pro Wallpaper",
+      "author": "@Kcharter",
+      "version": "1.2.2",
+      "icon": "Tagsforsaved_by_TgEmodziBot/36",
+      "description": "Фото на фоне настроек и контактов, затемнение, размытие и прозрачные блоки",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
+      "hash": "fcdf3d0c3277d664c638d75fc360a46895e7d22a4de8d348040de43d36fa2ea7",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
+        }
+      }
+    },
+    {
+      "id": "pill_labels",
+      "name": "Pill Labels",
+      "author": "@Persik_dll & claude",
+      "version": "2.5.0",
+      "icon": "kittysforlife_by_fStikBot/19",
+      "description": "Adds outlines around profile elements",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pill_labels.plugin",
+      "hash": "983a3580b744a7781476a336a72ea83e976b4b5c27d228d4904b7820f0d04ce1",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "2.3.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pill_labels/pill_labels_v2.3.4.plugin"
+        }
+      }
+    },
+    {
       "id": "music_player_actions_cactus",
       "name": "Music Player Actions",
       "author": "@CactusPlugins | @exteraFeatures",
@@ -799,23 +843,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/acd/acd_v1.0.plugin"
         }
       }
-    },
-    {
-      "id": "settings_wallpaper",
-      "name": "Settings Wallpaper",
-      "author": "@Kcharter",
-      "version": "1.0.7",
-      "icon": "Tagsforsaved_by_TgEmodziBot/36",
-      "description": "Фото на фоне настроек, затемнение и прозрачные блоки",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
-      "hash": "fdb8c5bd625dc25f5c48e3966daf86859ba89e795243630338002fd9f9776c2d",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "channel_inspector",
@@ -3105,23 +3132,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ok_playlists/ok_playlists_v1.0.0.plugin"
         }
       }
-    },
-    {
-      "id": "pill_labels",
-      "name": "Pill Labels",
-      "author": "@Persik_dll & claude",
-      "version": "2.3.4",
-      "icon": "kittysforlife_by_fStikBot/19",
-      "description": "Обводка вокруг подписей в профиле («О себе», «Имя пользователя», «Адрес»…)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pill_labels.plugin",
-      "hash": "2dabdc3573c0f8e833079415a63cd0a6b0a9dc9369e3e2ca239569f961e3fa52",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "smart_auto_archiver",
