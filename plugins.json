@@ -1,6 +1,131 @@
 {
   "plugins": [
     {
+      "id": "scam_marker",
+      "name": "Scam Marker",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "2.3",
+      "icon": "MaxExteraPluginsStickers/18",
+      "description": "Помечает распространителей вредоносных плагинов: красная метка в профиле, красный ник в списке чатов и в чате.\n\nБаза автоматически загружается из @exteragram_pidors.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/scam_marker.plugin",
+      "hash": "0fea9f91f7662dd4f697735287a5da1fcf389e57d8b1e91016b9104987ff65a1",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/scam_marker/scam_marker_v2.0.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/scam_marker/scam_marker_v2.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "max_music_stats",
+      "name": "Max Music Stats",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.3.11",
+      "icon": "MaxExteraPluginsStickers/33",
+      "description": "[RU]: Подробная статистика прослушивания музыки в Telegram: общее время, количество треков, графики активности за неделю, месяц и год, рекорды и топ песен дня.\n\n[EN]: Detailed music playback statistics in Telegram: total listening time, track count, activity charts for week, month, and year, records, and top songs of the day.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/max_music_stats.plugin",
+      "hash": "7733fa5cd985e029409f0f6e127222521372550a11ed48e1edb163fd771d595d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_music_stats/max_music_stats_v1.1.0.plugin"
+        },
+        "1.3.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_music_stats/max_music_stats_v1.3.7.plugin"
+        }
+      }
+    },
+    {
+      "id": "custom_recent_reactions",
+      "name": "Custom Recent Reactions",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "3.0",
+      "icon": "MaxExteraPluginsStickers/25",
+      "description": "Replace the recent reactions in the message reaction panel with your own set.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
+      "hash": "c1f2ed19ac67064cebf141acf065c1059d0ee1611204da5e42e6119c36b61061",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.2.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v2.4.plugin"
+        }
+      }
+    },
+    {
+      "id": "archiver",
+      "name": "Archiver",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.2",
+      "icon": "MaxExteraPluginsStickers/31",
+      "description": "[EN]: Automatic chat archiver: archive bots, channels, groups and more.\n\n[RU]: Автоматический архиватор: архивируйте ботов, каналы, группы и другое.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archiver.plugin",
+      "hash": "38f5752bf7e002073f8b50b08e9246089082659100142ea5ee8079b354e6c4b4",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archiver/archiver_v1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "unlinked_stickers",
+      "name": "Unlinked Stickers",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.4",
+      "icon": "MaxExteraPluginsStickers/26",
+      "description": "Send stickers from any pack as your own uploaded documents, detached from the original sticker set. \n\nIdea's author: @mishabotov",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlinked_stickers.plugin",
+      "hash": "f79122ba1d4c6c77d89de0cf82aeaf10c0abbbdc020e40a8b636b6425610c6e2",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlinked_stickers/unlinked_stickers_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlinked_stickers/unlinked_stickers_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "music_speed",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_speed.plugin",
       "app_version": ">=11.12.0",
@@ -1184,28 +1309,6 @@
       }
     },
     {
-      "id": "max_music_stats",
-      "name": "Max Music Stats",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.3.7",
-      "icon": "MaxExteraPluginsStickers/33",
-      "description": "[RU]: Подробная статистика прослушивания музыки в Telegram: общее время, количество треков, графики активности за неделю, месяц и год, рекорды и топ песен дня.\n\n[EN]: Detailed music playback statistics in Telegram: total listening time, track count, activity charts for week, month, and year, records, and top songs of the day.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/max_music_stats.plugin",
-      "hash": "8bee58bbb7b2b3d3df5857a164cbe1b6c706113c52d3ae9a1251981072c7b91e",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_music_stats/max_music_stats_v1.1.0.plugin"
-        }
-      }
-    },
-    {
       "id": "mini_app_domain",
       "name": "Mini App Domain",
       "author": "@itsbodyq",
@@ -1790,31 +1893,6 @@
         },
         "1.5.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.5.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "custom_recent_reactions",
-      "name": "Custom Recent Reactions",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.4",
-      "icon": "MaxExteraPluginsStickers/25",
-      "description": "Replace the recent reactions in the message reaction panel with your own set.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
-      "hash": "8d9f075c8399c958b76a39371df6d300e0d9023832530bb84e62e9c95a102aec",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.2.plugin"
         }
       }
     },
@@ -5111,23 +5189,6 @@
       ]
     },
     {
-      "id": "archiver",
-      "name": "Archiver",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/31",
-      "description": "[EN]: Automatic chat archiver: archive bots, channels, groups and more.\n\n[RU]: Автоматический архиватор: архивируйте ботов, каналы, группы и другое.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archiver.plugin",
-      "hash": "f63969829db2669feb7fdfe1931a51a2afcdcac1c9c6d6edc247eaf0d236ea1b",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "notification_center",
       "name": "Notification Center",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -6052,28 +6113,6 @@
       }
     },
     {
-      "id": "unlinked_stickers",
-      "name": "Unlinked Stickers",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.1",
-      "icon": "MaxExteraPluginsStickers/26",
-      "description": "Send stickers from any pack as your own uploaded documents, detached from the original sticker set. \n\nIdea's author: @mishabotov",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlinked_stickers.plugin",
-      "hash": "54b61cd4e2c120db5cf9dea90b891cf25c54adefddc726961bcd46c0793a33e8",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlinked_stickers/unlinked_stickers_v1.0.plugin"
-        }
-      }
-    },
-    {
       "id": "translate_chat_fix",
       "name": "Translate Chat Fix",
       "author": "@RnPlugins",
@@ -6411,28 +6450,6 @@
       "versions": {
         "1.9": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shareui_dkta_fixed/shareui_dkta_fixed_v1.9.plugin"
-        }
-      }
-    },
-    {
-      "id": "scam_marker",
-      "name": "Scam Marker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.1",
-      "icon": "MaxExteraPluginsStickers/18",
-      "description": "Помечает распространителей вредоносных плагинов: красная метка в профиле, красный ник в списке чатов и в чате.\n\nБаза автоматически загружается из @exteragram_pidors.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/scam_marker.plugin",
-      "hash": "931d7f238f4f79e47948171173fc65e049f1b0ba711f059531b1f311048a6677",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/scam_marker/scam_marker_v2.0.plugin"
         }
       }
     },
