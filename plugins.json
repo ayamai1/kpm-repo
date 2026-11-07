@@ -9,7 +9,13 @@
       "description": "Свой фон для страницы вашего профиля: фото из галереи, размытие, затемнение и регулируемая прозрачность блоков.\nИсправлено: ошибка запуска «getName» на некоторых версиях exteraGram.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/profile_wallpaper.plugin",
       "hash": "2a23e126d38429aa5e6a72954aee583fe1a911d96101df46878795dec5bcd01d",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
     },
     {
       "id": "pictostories",
