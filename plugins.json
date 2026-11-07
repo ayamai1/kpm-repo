@@ -1,6 +1,50 @@
 {
   "plugins": [
     {
+      "id": "music_speed",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_speed.plugin",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.0.plugin"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.1.plugin"
+        },
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "music_player_actions_cactus",
+      "name": "Music Player Actions",
+      "author": "@CactusPlugins | @exteraFeatures",
+      "version": "1.4.0",
+      "icon": "CactusPlugins/1",
+      "description": "Actions for controlling the music player + control of music playing outside Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_player_actions_cactus.plugin",
+      "hash": "0e1fa53d4fd04aead6f536d6e93d169910e2671a64588b3d138efe16a9e39435",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_player_actions_cactus/music_player_actions_cactus_v1.3.0.plugin"
+        }
+      }
+    },
+    {
       "id": "profile_wallpaper",
       "name": "Profile Wallpaper",
       "author": "@JIl06uTeJIb_K0TuKoB",
@@ -131,22 +175,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pill_labels/pill_labels_v2.3.4.plugin"
         }
       }
-    },
-    {
-      "id": "music_player_actions_cactus",
-      "name": "Music Player Actions",
-      "author": "@CactusPlugins | @exteraFeatures",
-      "version": "1.3.0",
-      "description": "Actions for controlling the music player + control of music playing outside Telegram",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_player_actions_cactus.plugin",
-      "hash": "a4294f4faab36eb718b8c68d533a7bc82f934653ac158f74abc6b956e08a91bd",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ]
     },
     {
       "id": "kangel_plugins_manager",
@@ -4050,28 +4078,6 @@
           "key_color_lightblue"
         ]
       ]
-    },
-    {
-      "id": "music_speed",
-      "name": "Music Speed",
-      "author": "@binbash_0",
-      "version": "1.0.1",
-      "icon": "exteraPlugins/1",
-      "description": "Добавляет музыке штатную кнопку изменения скорости + дает возможность включать pitch и reverb",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_speed.plugin",
-      "hash": "c4a8e438da8394006d3605c046280c90c2b90864d143e233cd4d86fce6dba2b8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.0.plugin"
-        }
-      }
     },
     {
       "id": "save_selected_files",
