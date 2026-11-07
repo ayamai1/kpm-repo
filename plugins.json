@@ -1,14 +1,25 @@
 {
   "plugins": [
     {
+      "id": "profile_wallpaper",
+      "name": "Profile Wallpaper",
+      "author": "@JIl06uTeJIb_K0TuKoB",
+      "version": "1.4.4",
+      "icon": "exteraPlugins/1",
+      "description": "Свой фон для страницы вашего профиля: фото из галереи, размытие, затемнение и регулируемая прозрачность блоков.\nИсправлено: ошибка запуска «getName» на некоторых версиях exteraGram.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/profile_wallpaper.plugin",
+      "hash": "2a23e126d38429aa5e6a72954aee583fe1a911d96101df46878795dec5bcd01d",
+      "app_version": ">=12.10.6"
+    },
+    {
       "id": "pictostories",
       "name": "PicToStories",
-      "author": "@NFModules",
-      "version": "1.0.1",
+      "author": "@NFModules (idea: @gotwx)",
+      "version": "1.0.2",
       "icon": "ptsplugin/0",
       "description": "Нарезает фото и публикует историями в профиль. Для использования нажмите на фото, потом на три точки и потом выберите «Загрузить в профиль».",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pictostories.eaf",
-      "hash": "e0b56b187a185769e6164ecbc7e7fac08e3bf83bd238677a7834986cd6bd4afa",
+      "hash": "239d3291aba78525c6355e557a7b57dc7d3ba7919a53e6db3c43b44c3dbc8ad5",
       "app_version": ">=12.10.6",
       "tags": [
         [
@@ -19,6 +30,9 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.1.eaf"
         }
       }
     },
