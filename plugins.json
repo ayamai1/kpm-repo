@@ -1,6 +1,60 @@
 {
   "plugins": [
     {
+      "id": "quick_stickers",
+      "name": "QuickStickers",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.0",
+      "icon": "rei_plugins/5",
+      "description": "Долгое нажатие на кнопку стикеров раскрывает веер из стикеров: проведи пальцем, у края веер листается, отпусти, чтобы отправить",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quick_stickers.plugin",
+      "hash": "d08dce0ffc36e76353c52fa67aa61b8ed26af18246e27858dab09e6c54aa101d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "veil",
+      "name": "VEIL",
+      "author": "@NFModules",
+      "version": "1.0.9",
+      "icon": "veilplugin/0",
+      "description": "Плагин для шифрования всех ваших сообщений.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
+      "hash": "98279f3621c2ea56ea5beded17c9568ff9519c2a5f24033c96869d9e63bc7b4f",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
+        },
+        "1.0.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
+        },
+        "1.0.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.6.eaf"
+        },
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.7.eaf"
+        },
+        "1.0.8": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.8.eaf"
+        }
+      }
+    },
+    {
       "id": "chat_expand_animation",
       "name": "Chat Expand Animation",
       "author": "@Vernyak6",
@@ -1204,40 +1258,6 @@
       "versions": {
         "1.0.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/melodic_piano_typing/melodic_piano_typing_v1.0.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "veil",
-      "name": "VEIL",
-      "author": "@NFModules",
-      "version": "1.0.8",
-      "icon": "veilplugin/0",
-      "description": "Плагин для шифрования всех ваших сообщений.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/veil.eaf",
-      "hash": "46aefc6bf2fa9c364e27421f4949f0d0c3409461ecff0c80a178a5e060655521",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.0.eaf"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.1.eaf"
-        },
-        "1.0.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.5.eaf"
-        },
-        "1.0.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.6.eaf"
-        },
-        "1.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/veil/veil_v1.0.7.eaf"
         }
       }
     },
