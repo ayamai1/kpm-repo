@@ -4,18 +4,23 @@
       "id": "quick_stickers",
       "name": "QuickStickers",
       "author": "@LuPlugins (@optimist_opti)",
-      "version": "1.0",
+      "version": "1.1",
       "icon": "rei_plugins/5",
       "description": "Долгое нажатие на кнопку стикеров раскрывает веер из стикеров: проведи пальцем, у края веер листается, отпусти, чтобы отправить",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quick_stickers.plugin",
-      "hash": "d08dce0ffc36e76353c52fa67aa61b8ed26af18246e27858dab09e6c54aa101d",
+      "hash": "1501268a4cd180a1622dd928989fdda04b432f62aaa36b9a8b53e7c10c98d1a3",
       "app_version": ">=12.10.6",
       "tags": [
         [
           "Utilities",
           "key_avatar_background2Orange"
         ]
-      ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quick_stickers/quick_stickers_v1.0.plugin"
+        }
+      }
     },
     {
       "id": "veil",
