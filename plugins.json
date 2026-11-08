@@ -1,6 +1,147 @@
 {
   "plugins": [
     {
+      "id": "chat_expand_animation",
+      "name": "Chat Expand Animation",
+      "author": "@Vernyak6",
+      "version": "1.2",
+      "icon": "UtyaDuckFull/41",
+      "description": "Заменяет анимацию открытия чата на увеличение из карточки диалога и обратное сворачивание",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_expand_animation.plugin",
+      "hash": "72feedc819a2a4ba56cc3cb8a080b6302c697cee43c3168e35b6efd1fc921551",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "pictostories",
+      "name": "PicToStories",
+      "author": "@NFModules (idea: @gotwx)",
+      "version": "1.0.3",
+      "icon": "ptsplugin/0",
+      "description": "Нарезает фото и публикует историями в профиль. Для использования нажмите на фото, потом на три точки и потом выберите «Загрузить в профиль».",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pictostories.eaf",
+      "hash": "87311562fc3f4e853f76671f75efdc54c12c69d52b1cc6f9e53a7f0a921238a6",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.1.eaf"
+        },
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.2.eaf"
+        }
+      }
+    },
+    {
+      "id": "music_player_actions_cactus",
+      "name": "Music Player Actions",
+      "author": "@CactusPlugins | @exteraFeatures",
+      "version": "1.5.0",
+      "icon": "CactusPlugins/1",
+      "description": "Actions for controlling the music player + control of music playing outside Telegram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_player_actions_cactus.plugin",
+      "hash": "6b6ace5c75aa547318173f20b89fdbf13c7680d66488c091f020e1a541a27289",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_player_actions_cactus/music_player_actions_cactus_v1.3.0.plugin"
+        },
+        "1.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_player_actions_cactus/music_player_actions_cactus_v1.4.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "mini_app_float",
+      "name": "Mini App Float",
+      "author": "@PLOXOI_RRO & @TimPlugins",
+      "version": "1.1",
+      "icon": "NewsEmoji/53",
+      "description": "Сворачивает мини-аппы и сайты из браузера в плавующее окно",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mini_app_float.plugin",
+      "hash": "5db655285fc58f17e5f12237771e7c54dd50e5b05f185327943231d102195316",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "md3_loader",
+      "name": "MD3 Loader",
+      "author": "@jettaxp & @jettax_plugins",
+      "version": "1.0.0",
+      "icon": "jettaxpluginsicon/0",
+      "description": "Заменяет стандартный круговой прогресс загрузки фото и файлов на Material 3 Expressive индикатор с волной. В центре — крестик отмены во время загрузки и значок загрузки до её начала.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/md3_loader.plugin",
+      "hash": "7fc0d5a642328d4becf2e7072e1a0f67611adf6b224080816c934c5af6b876a0",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "music_tab",
+      "name": "Music Tab",
+      "author": "@akresik",
+      "version": "1.0.0",
+      "icon": "Ryzhij_kot95/0",
+      "description": "Заменяет кнопку «Контакты» на главном экране кнопкой «Музыка». По нажатию открывается последняя или первая музыка из Избранного или из выбранного чата.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_tab.plugin",
+      "hash": "374febeb26abac545d21fb2535a5ff0bc54ac21500ee05a8511e9cbb6eef9283",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "equalizer",
+      "name": "Эквалайзер 344",
+      "author": "@stemulator",
+      "version": "1.0.0",
+      "icon": "equalize344/1",
+      "description": "Эквалайзер для музыкального плеера: 5 полос, пресеты, усиление баса, виртуализатор и усиление громкости.\n\n> Требуется **[ZwyLib](https://t.me/zwyPlugins/48)** версии 2.0.6 или выше!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/equalizer.plugin",
+      "hash": "4ae525e4066a3efff5eec90467f77e1d0142ffabd1cc4eb8c43757e394bcfdd1",
+      "app_version": ">=12.10.6",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "music_editor",
       "name": "Music Editor",
       "author": "@ympuxyecoc",
@@ -232,28 +373,6 @@
       }
     },
     {
-      "id": "music_player_actions_cactus",
-      "name": "Music Player Actions",
-      "author": "@CactusPlugins | @exteraFeatures",
-      "version": "1.4.0",
-      "icon": "CactusPlugins/1",
-      "description": "Actions for controlling the music player + control of music playing outside Telegram",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_player_actions_cactus.plugin",
-      "hash": "0e1fa53d4fd04aead6f536d6e93d169910e2671a64588b3d138efe16a9e39435",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_player_actions_cactus/music_player_actions_cactus_v1.3.0.plugin"
-        }
-      }
-    },
-    {
       "id": "profile_wallpaper",
       "name": "Profile Wallpaper",
       "author": "@JIl06uTeJIb_K0TuKoB",
@@ -269,31 +388,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "pictostories",
-      "name": "PicToStories",
-      "author": "@NFModules (idea: @gotwx)",
-      "version": "1.0.2",
-      "icon": "ptsplugin/0",
-      "description": "Нарезает фото и публикует историями в профиль. Для использования нажмите на фото, потом на три точки и потом выберите «Загрузить в профиль».",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pictostories.eaf",
-      "hash": "239d3291aba78525c6355e557a7b57dc7d3ba7919a53e6db3c43b44c3dbc8ad5",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.0.eaf"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.1.eaf"
-        }
-      }
     },
     {
       "id": "plugin_guard",
