@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "sand_box",
+      "name": "SandBox",
+      "author": "@the_kubicki",
+      "version": "1.0.0",
+      "icon": "Kubick_Plugin_by_fStikBot/0",
+      "description": "Интерактивная песочница: рисуй элементы и наблюдай, как они горят, текут, взрываются и взаимодействуют друг с другом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/sand_box.plugin",
+      "hash": "09cd8b7ae640bd140d23953209b4cec2473c5c172c174e27e54e05b098f6e0f8",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "rule34_search",
       "name": "BooruSearch",
       "author": "@ArThirtyFour | @KangelPlugins",
