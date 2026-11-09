@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "quick_stickers",
+      "name": "QuickStickers",
+      "author": "@LuPlugins (@optimist_opti)",
+      "version": "1.2",
+      "icon": "rei_plugins/5",
+      "description": "Долгое нажатие на кнопку стикеров раскрывает веер из стикеров: проведи пальцем, у края веер листается, отпусти, чтобы отправить",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quick_stickers.plugin",
+      "hash": "b267ba6ce2460b3586273947d2efd75888b7ad8d78352aa04c2ae363c12b144d",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quick_stickers/quick_stickers_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quick_stickers/quick_stickers_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "rule34_search",
       "name": "BooruSearch",
       "author": "@ArThirtyFour | @KangelPlugins",
@@ -82,28 +107,6 @@
         },
         "1.2.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.2.1.eaf"
-        }
-      }
-    },
-    {
-      "id": "quick_stickers",
-      "name": "QuickStickers",
-      "author": "@LuPlugins (@optimist_opti)",
-      "version": "1.1",
-      "icon": "rei_plugins/5",
-      "description": "Долгое нажатие на кнопку стикеров раскрывает веер из стикеров: проведи пальцем, у края веер листается, отпусти, чтобы отправить",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quick_stickers.plugin",
-      "hash": "1501268a4cd180a1622dd928989fdda04b432f62aaa36b9a8b53e7c10c98d1a3",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quick_stickers/quick_stickers_v1.0.plugin"
         }
       }
     },
