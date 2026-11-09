@@ -1,23 +1,6 @@
 {
   "plugins": [
     {
-      "id": "sand_box",
-      "name": "SandBox",
-      "author": "@the_kubicki",
-      "version": "1.0.0",
-      "icon": "Kubick_Plugin_by_fStikBot/0",
-      "description": "Интерактивная песочница: рисуй элементы и наблюдай, как они горят, текут, взрываются и взаимодействуют друг с другом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/sand_box.plugin",
-      "hash": "09cd8b7ae640bd140d23953209b4cec2473c5c172c174e27e54e05b098f6e0f8",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
       "id": "rule34_search",
       "name": "BooruSearch",
       "author": "@ArThirtyFour | @KangelPlugins",
@@ -25,8 +8,8 @@
       "icon": "Kangelcons_by_fStikBot/2",
       "description": "Поиск изображений на booru-сайтах.\n\nПоддерживаемые источники:\n- rule34.xxx\n- yande.re\n- danbooru.donmai.us\n- safebooru.org\n- gelbooru.com\n- konachan.com\n- xbooru.com\n- e621.net\n\nИспользование:\n- .r34/yandere/danbooru/safebooru/gelbooru/konachan/xbooru/e621/random [теги] (кол-во)",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/rule34_search.eaf",
-      "hash": "6381c05fa578e065c5b4f2bf3eb651b668ac8b04a2b19761141a4f4a603e3434",
-      "app_version": ">=12.5.1",
+      "hash": "d1a024c3b3f159f98081df533876a26e4e177029c783a71a627121ca29416fed",
+      "app_version": ">=12.10.6",
       "tags": [
         [
           "Informational",
@@ -50,6 +33,23 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/rule34_search/rule34_search_v1.9.2.2.eaf"
         }
       }
+    },
+    {
+      "id": "sand_box",
+      "name": "SandBox",
+      "author": "@the_kubicki",
+      "version": "1.0.0",
+      "icon": "Kubick_Plugin_by_fStikBot/0",
+      "description": "Интерактивная песочница: рисуй элементы и наблюдай, как они горят, текут, взрываются и взаимодействуют друг с другом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/sand_box.plugin",
+      "hash": "09cd8b7ae640bd140d23953209b4cec2473c5c172c174e27e54e05b098f6e0f8",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
     },
     {
       "id": "pictostories",
