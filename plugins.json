@@ -417,8 +417,14 @@
     },
     {
       "id": "music_speed",
+      "name": "Music Speed",
+      "author": "@binbash_0",
+      "version": "1.0.2",
+      "icon": "binbashPlugins/4",
+      "description": "Добавляет музыке штатную кнопку изменения скорости + дает возможность включать pitch и reverb",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_speed.plugin",
-      "app_version": ">=11.12.0",
+      "hash": "c8140e84240519f867fee3d43d0519ea501df50a04b921f9a7729953ce499214",
+      "app_version": ">=12.5.1",
       "tags": [
         [
           "Utilities",
@@ -431,9 +437,6 @@
         },
         "1.0.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.1.plugin"
-        },
-        "1.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_speed/music_speed_v1.0.2.plugin"
         }
       }
     },
