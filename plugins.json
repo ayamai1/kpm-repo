@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "pictostories",
+      "name": "PicToStories",
+      "author": "@NFModules (idea: @gotwx)",
+      "version": "1.2.3",
+      "icon": "ptsplugin/0",
+      "description": "Нарезает фото и публикует историями в профиль. Для использования нажмите на фото, потом на три точки и потом выберите «Загрузить в профиль».",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pictostories.eaf",
+      "hash": "ac69bf77156804fa7dc90dd148d52a50a620855415fe6be1bef9160d55571916",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.0.eaf"
+        },
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.1.eaf"
+        },
+        "1.0.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.2.eaf"
+        },
+        "1.0.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.3.eaf"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.2.1.eaf"
+        }
+      }
+    },
+    {
       "id": "quick_stickers",
       "name": "QuickStickers",
       "author": "@LuPlugins (@optimist_opti)",
@@ -75,34 +109,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "pictostories",
-      "name": "PicToStories",
-      "author": "@NFModules (idea: @gotwx)",
-      "version": "1.0.3",
-      "icon": "ptsplugin/0",
-      "description": "Нарезает фото и публикует историями в профиль. Для использования нажмите на фото, потом на три точки и потом выберите «Загрузить в профиль».",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pictostories.eaf",
-      "hash": "87311562fc3f4e853f76671f75efdc54c12c69d52b1cc6f9e53a7f0a921238a6",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.0.eaf"
-        },
-        "1.0.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.1.eaf"
-        },
-        "1.0.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pictostories/pictostories_v1.0.2.eaf"
-        }
-      }
     },
     {
       "id": "music_player_actions_cactus",
