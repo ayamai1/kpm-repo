@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "ndb",
+      "name": "NavDrawerBackground",
+      "author": "@ka1Plugins",
+      "version": "1.1",
+      "icon": "ka1Plugins/4",
+      "description": "Кастомный фон карточки аккаунта для **[бокового меню](https://t.me/exteraSettings?s=navigationDrawer)**\nCustom account card background for **[navigation drawer](https://t.me/exteraSettings?s=navigationDrawer)**",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ndb.plugin",
+      "hash": "ab3d8bedbda13612f339a2880f225ea254f17fd9e7a5fc69bb9306160843f434",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ndb/ndb_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "quick_stickers",
       "name": "QuickStickers",
       "author": "@LuPlugins (@optimist_opti)",
@@ -1099,23 +1121,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "ndb",
-      "name": "NavDrawerBackground",
-      "author": "@ka1Plugins",
-      "version": "1.0",
-      "icon": "ka1Plugins/4",
-      "description": "Кастомный фон карточки аккаунта для **[бокового меню](https://t.me/exteraSettings?s=navigationDrawer)**\nCustom account card background for **[navigation drawer](https://t.me/exteraSettings?s=navigationDrawer)**",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ndb.plugin",
-      "hash": "51d7d185b741417980e2f21e0379b3043eab8bd5ed58d91e118bfde4df91a3fb",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
