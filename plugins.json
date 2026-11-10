@@ -1,6 +1,94 @@
 {
   "plugins": [
     {
+      "id": "re_extera_dex",
+      "name": "re:extera v2",
+      "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
+      "version": "3.0.0",
+      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
+      "description": "Enable ghost mode, save deleted messages and more!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/re_extera_dex.plugin",
+      "hash": "21ba53374fd323c5ec72dd5219e47dd79e0fbdd3abcc04cb2ca9a5eba6597c9a",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v2.4.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "plugin_guard",
+      "name": "Plugin Guard",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "2.2",
+      "icon": "pixelcamera/14",
+      "description": "Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.eaf",
+      "hash": "05f3aa3410683350ab5de03c9c8b5990931e428fe768eef8b25b0fee6f39fe8b",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.4.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
+        },
+        "1.4.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
+        },
+        "1.4.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
+        },
+        "1.4.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
+        },
+        "1.4.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
+        },
+        "1.4.9": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.9.plugin"
+        },
+        "1.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.5.0.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.5.1.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v2.0.eaf"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v2.1.eaf"
+        }
+      }
+    },
+    {
+      "id": "MaxTrace",
+      "name": "MaxTrace",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.1.4",
+      "icon": "chestertech/15",
+      "description": "MaxTrace — мощный детектор утечек, лагов и багов других плагинов (безопасная версия Culprit Detector [thx chestertech])",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/MaxTrace.plugin",
+      "hash": "504b2aa8882a15b4b01a357ef27fc963c276593c4b2fb897f6e8f50d378b1521",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "ndb",
       "name": "NavDrawerBackground",
       "author": "@ka1Plugins",
@@ -532,52 +620,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "plugin_guard",
-      "name": "Plugin Guard",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "2.1",
-      "icon": "pixelcamera/14",
-      "description": "Сканер безопасности плагинов с многоуровневым статическим и векторным ML-анализом.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_guard.eaf",
-      "hash": "595eb156d6ded439dc2a79d1d67cc5e603369a83c354fd470468ebacc7bdb812",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.1.plugin"
-        },
-        "1.4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.2.plugin"
-        },
-        "1.4.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.3.plugin"
-        },
-        "1.4.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.4.plugin"
-        },
-        "1.4.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.5.plugin"
-        },
-        "1.4.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.4.9.plugin"
-        },
-        "1.5.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.5.0.plugin"
-        },
-        "1.5.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v1.5.1.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_guard/plugin_guard_v2.0.eaf"
-        }
-      }
     },
     {
       "id": "settings_wallpaper",
@@ -13693,23 +13735,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "re_extera_dex",
-      "name": "re:extera v2",
-      "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
-      "version": "2.4.0",
-      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
-      "description": "Enable ghost mode, save deleted messages and more!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/re_extera_dex.plugin",
-      "hash": "5a695ad9aefe9155c910c11914065aa18a039884c2a6ba96647f848ae3553439",
-      "app_version": ">=12.2.3",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
