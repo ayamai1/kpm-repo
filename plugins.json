@@ -1,6 +1,268 @@
 {
   "plugins": [
     {
+      "id": "music_tab",
+      "name": "Music Tab",
+      "author": "@akresik",
+      "version": "1.1.0",
+      "icon": "Clawde/40",
+      "description": "Заменяет кнопку «Контакты» на главном экране кнопкой «Музыка». По нажатию открывается последняя или первая музыка из Избранного или из выбранного чата, либо трек из профиля.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_tab.plugin",
+      "hash": "9efb91906d808e41fe012d076a46cb93ddd923d98946804b5491f05fef087624",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_tab/music_tab_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "google_photo_picker",
+      "name": "Google Photo Picker",
+      "author": "@varwqxddd",
+      "version": "4.4.0",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» в меню вложений Доступна возможность поиска фоток по тексту (как в приложении) Доступны медиафайлы из облака (только гугл фото) и личного пространства! Adds a Google Photos item to the attachment menu Search photos by text is available (same as in the app) Media from the cloud (Google Photos only) and personal space is available!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
+      "hash": "17fbaccf43923c141776b2a92793b71c9cbe73731e32c4e2bf8a585aac3675e9",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
+        },
+        "4.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
+        },
+        "4.2.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
+        },
+        "4.2.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.6.eaf"
+        }
+      }
+    },
+    {
+      "id": "ayu_lyrics_sources",
+      "name": "Lyrics Sources",
+      "author": "@idkwhatlhavetodotobewithyou",
+      "version": "1.3.3",
+      "icon": "exteraPlugins/1",
+      "description": "Поиск текстов, караоке и эффекты / Lyrics lookup, karaoke and effects",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ayu_lyrics_sources.plugin",
+      "hash": "913fabf081c80c8087a091ac149ee6a42597a5c2dcf92369d671ab7c140e3108",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.3.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ayu_lyrics_sources/ayu_lyrics_sources_v1.3.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "subtitles_plus",
+      "name": "Subtitles+",
+      "author": "@kovidoff",
+      "version": "1.0.0",
+      "icon": "subtitles_plus_by_niko_ocbot/0",
+      "description": "Субтитры из MKV прямо во встроенном плеере Telegram — с полным сохранением стилей ASS: шрифты, позиционирование, караоке. Работает при стриминге, скачивать видео целиком не нужно.\n\n**Использование:** во время просмотра нажмите шестерёнку ⚙ вверху плеера → «Субтитры». Там можно выбрать встроенную дорожку или загрузить свой файл .ass / .ssa.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/subtitles_plus.plugin",
+      "hash": "1587ac095f2153074a4fee8fa135e4af135f6948935cd5172bff44aca5074d25",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
+      "id": "spekgram",
+      "name": "SpekGram",
+      "author": "SpekGram contributors",
+      "version": "0.4.1",
+      "icon": "exteraPlugins/1",
+      "description": "Понятная оценка аудио и спектрограмма / Audio insights and spectrogram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/spekgram.plugin",
+      "hash": "4535dc52fc4eb168757aa9bcd255574aadf8cc3d2e6e8dd613208f52675df0f1",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "profile_info",
+      "name": "Profile Info",
+      "author": "@akresik",
+      "version": "1.0.0",
+      "icon": "Clawde/65",
+      "description": "Информация о профиле по команде .pi и битва профилей .pb: ИИ оценивает участников и называет победителя. Работает по ответу, юзернейму или ID.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/profile_info.plugin",
+      "hash": "69076df05ba89c804d0b9e944c1ecc17ed6b69e9eb0f9051c7c57ffef6722792",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
+      "id": "chat_storage",
+      "name": "Chat Storage",
+      "author": "@Kcharter",
+      "version": "1.0.20",
+      "icon": "Tagsforsaved_by_TgEmodziBot/1",
+      "description": "Своя папка для файлов выбранных чатов: файлы скачиваются и читаются только оттуда, кеш Telegram не используется.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_storage.plugin",
+      "hash": "6c196b5b0b5094bf59c7b67054eb74f7609925643350ce2d0518feeed055fcc0",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "bot_sponsor_manager",
+      "name": "Bot Sponsor Manager",
+      "author": "@AJ_Plugins",
+      "version": "1.0",
+      "icon": "ajsplugins/5",
+      "description": "Автоматически вступает в каналы, необходимые для работы ботов, и управляет ими: отключает уведомления, архивирует и покидает их.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bot_sponsor_manager.eaf",
+      "hash": "dc17d6595aada6bc056686e3ae524e6ba638f484a59a14800616c1cfa15602c3",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "gift_stats",
+      "name": "Gift Stats",
+      "author": "@alexeykasp",
+      "version": "1.8.13",
+      "description": "Статистика подарков: топ дарителей в профиле/чате, анонимные отдельно, разбивка по подаркам",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gift_stats.plugin",
+      "hash": "09adfc7d992aaaaeec9be76039fdff014710085a3543a056c53cabb146233563",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.6.16": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/gift_stats/gift_stats_v1.6.16.plugin"
+        }
+      }
+    },
+    {
+      "id": "zwyVolumeNormalizer",
+      "name": "VolumeNormalizer",
+      "author": "@zwylair",
+      "version": "1.0.1",
+      "icon": "zwyPluginsIcons/10",
+      "description": "Evens out the loudness of music played in Telegram: loud tracks are made quieter, quiet ones louder.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyVolumeNormalizer.plugin",
+      "hash": "8b65d45af696d1bc432d1617072840b8c4abbf8480bbf0f328d3dc0b6d1aa8f0",
+      "app_version": ">=12.10.6",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwyVolumeNormalizer/zwyVolumeNormalizer_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "material_settings_list",
+      "name": "MaterialSettingsList",
+      "author": "@zwylair",
+      "version": "1.1.0",
+      "icon": "zwyPluginsIcons/8",
+      "description": "Redesigns main settings list to match material concepts.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/material_settings_list.plugin",
+      "hash": "20891f8b9a072e8a6de20a1b1706b8106ad51390386f4fe2dee57141589e5b12",
+      "app_version": ">=12.10.6",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/material_settings_list/material_settings_list_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "user_info_saver",
+      "name": "UserInfoSaver",
+      "author": "@zwylair",
+      "version": "1.1.1",
+      "icon": "zwyPluginsIcons/7",
+      "description": "Saves user's short info (phone country, registration date, etc) before server doesn't return it more.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/user_info_saver.plugin",
+      "hash": "5447169d75f63afd94cf9d1976d52d869992cd2af762f5c6621443ab9994c53f",
+      "app_version": ">=12.10.6",
+      "deps": [
+        "zwylib"
+      ],
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/user_info_saver/user_info_saver_v1.0.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/user_info_saver/user_info_saver_v1.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "re_extera_dex",
       "name": "re:extera v2",
       "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
@@ -330,23 +592,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "music_tab",
-      "name": "Music Tab",
-      "author": "@akresik",
-      "version": "1.0.0",
-      "icon": "Ryzhij_kot95/0",
-      "description": "Заменяет кнопку «Контакты» на главном экране кнопкой «Музыка». По нажатию открывается последняя или первая музыка из Избранного или из выбранного чата.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_tab.plugin",
-      "hash": "374febeb26abac545d21fb2535a5ff0bc54ac21500ee05a8511e9cbb6eef9283",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
@@ -771,10 +1016,11 @@
       "id": "attach_gallery_grid",
       "name": "Attach Gallery Grid",
       "author": "@qe4ank & Gemini Argon",
-      "version": "1.5.8",
-      "description": "Attachment gallery, stickers, GIF & emoji grids: pinch-to-zoom columns, square proportional cells, smooth zoom animations, swipe-up keyboard expansion, in-place gallery sorting, and instant selection circle scaling.",
+      "version": "1.4.46",
+      "icon": "animasha_emoji/16",
+      "description": "Сетка галереи вложений, стикеров, GIF и эмодзи: масштабирование колонок жестом щипка, квадратные ячейки, раскрытие клавиатуры свайпом вверх и сортировка медиа в скрепке.\n\nКак пользоваться:\n• Сведите или разведите два пальца (щипок) на сетке фото, стикеров, GIF или эмодзи для изменения количества колонок.\n• Проведите пальцем вверх у верхнего края клавиатуры, чтобы раскрыть её на весь экран (свайп вниз сворачивает обратно).\n• В меню скрепки (три точки) доступна быстрая сортировка фото по дате, размеру и типу.\n• Дополнительные параметры сетки и анимаций настраиваются в настройках плагина.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/attach_gallery_grid.plugin",
-      "hash": "da2725cba21cbf2dd9f00cfb5e15c8c277395c8e428e5956286f5961f3279c56",
+      "hash": "b1889b24c00eab821207bcf0de361862f6dd87f78474f7bcec8120c023cb9fa3",
       "app_version": ">=12.10.6",
       "tags": [
         [
@@ -788,9 +1034,6 @@
         },
         "1.1.4": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.1.4.plugin"
-        },
-        "1.5.8": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/attach_gallery_grid/attach_gallery_grid_v1.5.8.plugin"
         }
       }
     },
@@ -2050,8 +2293,8 @@
       "icon": "zwyPluginsIcons/4",
       "description": "Makes muting, kicking, banning and more admin things a way easier (see details in \\\"Help\\\" segment in the plugin settings).\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** 2.0.0 or greater!",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyAdminTools.plugin",
-      "hash": "d01dc7e18cdee4ef8cd4510d3f1afef6c61ac048a64b9c9817b810b872c03f37",
-      "app_version": ">=12.10.6",
+      "hash": "278b130eb431eeaca1d642c5e10afc13591cdd987ba973aa14c74695baac2783",
+      "app_version": ">=12.1.1",
       "deps": [
         "zwylib"
       ],
@@ -2081,8 +2324,8 @@
       "icon": "zwyPluginsIcons/6",
       "description": "Removes the limit of 100 forward and delete messages.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyNoForwardLimit.plugin",
-      "hash": "f610e65016cd335cf1e92f4233d3ccc8a440ec396b78c8976c1ca27537be0468",
-      "app_version": ">=12.10.6",
+      "hash": "85f6fd02406199b5d2db40c489aaa65daa12af9963920d918e31af42ede93749",
+      "app_version": ">=12.5.1",
       "deps": [
         "zwylib"
       ],
@@ -3023,37 +3266,6 @@
       ]
     },
     {
-      "id": "google_photo_picker",
-      "name": "Google Фото picker",
-      "author": "@varwqxddd",
-      "version": "4.2.6",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» в меню вложений\\nДоступна возможность поиска фоток по тексту (как в приложении)\\nДоступны медиафайлы из облака (только гугл фото) и личного пространства!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
-      "hash": "42f79ed26b00f5659480bafeb81909630e898eab35d75d3136886c77ed92276e",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "3.7.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
-        },
-        "4.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
-        },
-        "4.2.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
-        }
-      }
-    },
-    {
       "id": "text_animation",
       "name": "Text Animation",
       "author": "@itskotovski & @mishabotov",
@@ -3095,8 +3307,8 @@
       "icon": "zwyPluginsIcons/9",
       "description": "Smooth transition between music tracks: the ending track fades out while the next one fades in.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyCrossfade.plugin",
-      "hash": "08ebb035b30633264f052c6f37f4e70d7a0d55fb0e4510455afdde40ff629b02",
-      "app_version": ">=12.5.1",
+      "hash": "de4218fc3f7658cd3c7b21381c0ddaa1ae64d38aec9422364552e0a089d5a6cd",
+      "app_version": ">=12.10.6",
       "deps": [
         "zwylib"
       ],
@@ -3104,26 +3316,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "zwyVolumeNormalizer",
-      "name": "VolumeNormalizer",
-      "author": "@zwylair",
-      "version": "1.0.0",
-      "icon": "zwyPluginsIcons/10",
-      "description": "Evens out the loudness of music played in Telegram: loud tracks are made quieter, quiet ones louder.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyVolumeNormalizer.plugin",
-      "hash": "629223f2e8c8450b1c01e8ffed4a4bcdecea4921ca4788600f67606dff830355",
-      "app_version": ">=12.5.1",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
@@ -5778,22 +5970,6 @@
       }
     },
     {
-      "id": "gift_stats",
-      "name": "Gift Stats",
-      "author": "@alexeykasp",
-      "version": "1.6.16",
-      "description": "Статистика подарков: топ дарителей в профиле/чате, анонимные отдельно, разбивка по подаркам",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gift_stats.plugin",
-      "hash": "f714f090d6ccd85c66a32292f791092c6036bf02985da82a865963296454f4cf",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ]
-    },
-    {
       "id": "shortcuts",
       "name": "Shortcuts",
       "author": "@nonPlugins",
@@ -5933,31 +6109,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "user_info_saver",
-      "name": "UserInfoSaver",
-      "author": "@zwylair",
-      "version": "1.1.0",
-      "icon": "zwyPluginsIcons/7",
-      "description": "Saves user's short info (phone country, registration date, etc) before server doesn't return it more.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/user_info_saver.plugin",
-      "hash": "ea0f6a34ba34d48de1a9e2ed6ea39e70906b15c6af2d2d4cc05cb1768636404a",
-      "app_version": ">=12.1.1",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/user_info_saver/user_info_saver_v1.0.0.plugin"
-        }
-      }
     },
     {
       "id": "exitfy",
@@ -6465,26 +6616,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/gifter_avatar/gifter_avatar_v1.0.1.plugin"
         }
       }
-    },
-    {
-      "id": "material_settings_list",
-      "name": "MaterialSettingsList",
-      "author": "@zwylair",
-      "version": "1.0.0",
-      "icon": "zwyPluginsIcons/8",
-      "description": "Redesigns main settings list to match material concepts.\n\n> Requires **[ZwyLib](https://t.me/zwyPlugins/48)** v2.0.6 or greater!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/material_settings_list.plugin",
-      "hash": "b419e29c721da473a4a162f64e60da52e345a434f7909a2c4c6617eff4e71647",
-      "app_version": ">=12.4.0",
-      "deps": [
-        "zwylib"
-      ],
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "fast_answers",
@@ -11882,7 +12013,7 @@
       "icon": "zwyPluginsIcons/3",
       "description": "Send reply as a quote with a full text of the message.\n\n",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quoteReply.plugin",
-      "hash": "a6736f3d4d74f81342b03fc69e1d595237a4a0ed45b255ab1432549fd039b2b9",
+      "hash": "c62257281755774712cbda0c00e4fc9f107d5965be81d865bff4efd6a35cead6",
       "app_version": ">=12.0.1",
       "deps": [
         "zwylib"
