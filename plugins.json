@@ -1,6 +1,59 @@
 {
   "plugins": [
     {
+      "id": "shikimori_search",
+      "name": "Shikimori Search",
+      "author": "@obsidiphoria • @kaltsitu",
+      "version": "1.6",
+      "icon": "shikimorisearch/0",
+      "description": "Поиск аниме, манги и статистики на Shikimori",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/shikimori_search.plugin",
+      "hash": "d0f67490b2a461bdb024562e4f39cb3de4a535d8ead3153cae3fc32218efc53e",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.5.plugin"
+        }
+      }
+    },
+    {
+      "id": "pinterest_pic",
+      "name": "Pinterest Pic",
+      "author": "@cmxjq",
+      "version": "2.6.4",
+      "icon": "Ronvn/9",
+      "description": "Replaces Yandex with Pinterest in the inline `@pic` search: same grid, endless scrolling, no API keys. A picked photo opens the editor (edit / caption), a floating sticker button sends it as a sticker.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pinterest_pic.plugin",
+      "hash": "bb82fa63d4338a05db0502cb4a99a553ab70007f82b14fa86b4a6ae05ef55b53",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "2.5.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pinterest_pic/pinterest_pic_v2.5.0.plugin"
+        }
+      }
+    },
+    {
       "id": "music_tab",
       "name": "Music Tab",
       "author": "@akresik",
@@ -1127,34 +1180,6 @@
       }
     },
     {
-      "id": "shikimori_search",
-      "name": "Shikimori Search",
-      "author": "@obsidiphoria • @kaltsitu",
-      "version": "1.5",
-      "icon": "lidreron/1",
-      "description": "Поиск аниме, манги и статистики на Shikimori",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/shikimori_search.plugin",
-      "hash": "3b165115df8d8f9d3ee3eb1ecb39c8d5f72a6bce7c958ffd63c0f6d6ae18a414",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.2.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shikimori_search/shikimori_search_v1.4.plugin"
-        }
-      }
-    },
-    {
       "id": "instant_tab_switch",
       "name": "Instant Tab Switch",
       "author": "@akresik",
@@ -1219,23 +1244,6 @@
         [
           "Fun",
           "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
-      "id": "pinterest_pic",
-      "name": "Pinterest Pic",
-      "author": "@cmxjq",
-      "version": "2.5.0",
-      "icon": "Ronvn/9",
-      "description": "Replaces Yandex with Pinterest in the inline `@pic` search: same grid, endless scrolling, no API keys. The command name and tile size are configurable.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pinterest_pic.plugin",
-      "hash": "762e9b9d6530c4ef93dfea33dba18a7507492ec258b1cef8bfb7eab79227700e",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
         ]
       ]
     },
