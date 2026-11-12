@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "lang_maker",
+      "name": "Lang Maker",
+      "author": "@s1mclick",
+      "version": "1.1.2",
+      "icon": "Scittlescope_by_fStikBot/40",
+      "description": "Telegram language editor: XML import, AI progress, validation, backups, preview, statistics and creator support",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/lang_maker.eaf",
+      "hash": "b6815d2fd59ea9b1c0962451e3aad5b66666bd040329d3e7e8a611cf8db17a1c",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "steganography_tool",
+      "name": "Steganography Tool",
+      "author": "@the_kubick",
+      "version": "1.0.0",
+      "icon": "formyetgplugins_by_fStikBot/0",
+      "description": "LSB-стеганография: прячет текст в младших битах RGB-каналов изображения и достаёт его обратно.\n\n• При выборе фото/файла для отправки: долгое нажатие на кнопку «Отправить» -> «Скрыть текст в фото».\n• В чате нажать на > фото > плагины >: «Скрыть текст в этом фото» и «Расшифровать фото».\n\nКартинка уходит PNG-документом, иначе Telegram сожмёт её в JPEG и текст пропадёт.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/steganography_tool.plugin",
+      "hash": "0102860e554747b5cb02b1a1aedf8159d9da3e26e4e15f94179d97fdf4c846e6",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "shikimori_search",
       "name": "Shikimori Search",
       "author": "@obsidiphoria • @kaltsitu",
