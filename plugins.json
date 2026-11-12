@@ -1,6 +1,56 @@
 {
   "plugins": [
     {
+      "id": "my_wave",
+      "name": "Моя волна",
+      "author": "@floppamother, Claude opus5.5",
+      "version": "1.6.4",
+      "icon": "FloppatmotherSet/0",
+      "description": "Бесконечная персональная волна во встроенном плеере Telegram — как «Моя волна» в Яндекс Музыке.\n\n• Треки из выбранных вами каналов\n• Учится на прослушиваниях: дослушали — плюс, пропустили в начале — минус\n• Настроения: грустное, бодрое, спокойное, мрачное\n• Характер волны открывается, когда она узнает ваш вкус\n• Похожие исполнители из Last.fm (без ключа — Deezer)\n• Скробблинг в Last.fm\n\nЗапуск: три точки на экране чатов или боковое меню → «Моя волна», либо меню ⋮ плеера. Каналы добавляются в настройках плагина или через ⋮ в самом канале.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/my_wave.plugin",
+      "hash": "8e086bbfaa7e18c17c0934d830a02e6ff942c12018f75e6ae6933996d3462c44",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "voice_video_split",
+      "name": "Voice & Video Split",
+      "author": "@kirasinplugins",
+      "version": "1.0.3",
+      "description": "Разделяет голосовые сообщения и кружки по разным вкладкам",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/voice_video_split.plugin",
+      "hash": "525bc40bdb5f7146843233013ccd63deb8231e547b7e86ebfa8fc6eec7331667",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "message_cleaner",
+      "name": "Message Cleaner",
+      "author": "@zxplugins",
+      "version": "1.0",
+      "icon": "UtyaDuckFull/60",
+      "description": "Удаляет ваши сообщения в чате, группе или теме, а там, где есть права, — все сообщения. Сначала удаляет на сервере и только потом в приложении, поэтому сообщения не возвращаются.\n\nDeletes your messages in a chat, group or topic, or all messages where you have the rights. Deletes on the server first, so messages do not come back.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_cleaner.plugin",
+      "hash": "b6184e66f50857eba46c5c52ccc2b90f29be80c13ee1af70607534174d331d09",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "lang_maker",
       "name": "Lang Maker",
       "author": "@s1mclick",
