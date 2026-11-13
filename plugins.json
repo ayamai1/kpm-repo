@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "screenshot_privacy",
+      "name": "Screenshot Privacy",
+      "author": "@idkwhatlhavetodotobewithyou & @meeownnews",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/3",
+      "description": "Скрытие ников, аватарок, времени и шапки на скриншотах / Mask nicknames, avatars, timestamps & header on screenshots",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/screenshot_privacy.plugin",
+      "hash": "a86debd8790d2e0fb1ee5ce312bbf983ae9e37effc358978d41fd2afdcedb80e",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "message_cleaner",
       "name": "Message Cleaner",
       "author": "@zxplugins",
