@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "re_extera_dex",
+      "name": "re:extera v2",
+      "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
+      "version": "3.0.2",
+      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
+      "description": "Enable ghost mode, save deleted messages and more!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/re_extera_dex.plugin",
+      "hash": "61e197352d37b80f9db39b52ccff966f5ac007e94e90b30098f1a82d377c48ec",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v2.4.0.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v3.0.0.plugin"
+        },
+        "3.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v3.0.1.plugin"
+        }
+      }
+    },
+    {
       "id": "screenshot_privacy",
       "name": "Screenshot Privacy",
       "author": "@idkwhatlhavetodotobewithyou & @meeownnews",
@@ -129,31 +157,6 @@
         },
         "4.4.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.4.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "re_extera_dex",
-      "name": "re:extera v2",
-      "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
-      "version": "3.0.1",
-      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
-      "description": "Enable ghost mode, save deleted messages and more!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/re_extera_dex.plugin",
-      "hash": "083a70c8600e997e0a03dd3fe465edcb8e48bb5d4a6965728097a55bea66edba",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.4.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v2.4.0.plugin"
-        },
-        "3.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v3.0.0.plugin"
         }
       }
     },
