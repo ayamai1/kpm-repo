@@ -1,6 +1,62 @@
 {
   "plugins": [
     {
+      "id": "message_cleaner",
+      "name": "Message Cleaner",
+      "author": "@zxplugins",
+      "version": "1.1",
+      "icon": "UtyaDuckFull/60",
+      "description": "Удаляет ваши сообщения в чатах. Откройте настройки плагина — там список всех чатов, разделённых на «есть сообщения» и «нет», с выбором одного или нескольких.\n\nDeletes your messages in chats. Open the plugin settings — there you will find all chats split into 'has messages' and 'none', with single or multi-select.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_cleaner.plugin",
+      "hash": "d27680c6f381480589b7312c45bc0c33c258e9746daf8a54cff3cb30d9c5a510",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_cleaner/message_cleaner_v1.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "wiki_search",
+      "name": "Wikipedia Search",
+      "author": "@exteraDev, fixed by @Slowmyy",
+      "version": "2.9",
+      "icon": "exteraDevPlugins/1",
+      "description": "Поиск .wiki [term] с выбором языка из списка",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/wiki_search.eaf",
+      "hash": "6d79b61a3536e079cef4a180ba63d75f610f511ebb77c8559d89bd66da946778",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "unknown": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
+        },
+        "2.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.4.plugin"
+        },
+        "2.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.5.plugin"
+        },
+        "2.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.6.eaf"
+        }
+      }
+    },
+    {
       "id": "my_wave",
       "name": "Моя волна",
       "author": "@floppamother, Claude opus5.5",
@@ -232,23 +288,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "message_cleaner",
-      "name": "Message Cleaner",
-      "author": "@zxplugins",
-      "version": "1.0",
-      "icon": "UtyaDuckFull/60",
-      "description": "Удаляет ваши сообщения в чате, группе или теме, а там, где есть права, — все сообщения. Сначала удаляет на сервере и только потом в приложении, поэтому сообщения не возвращаются.\n\nDeletes your messages in a chat, group or topic, or all messages where you have the rights. Deletes on the server first, so messages do not come back.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_cleaner.plugin",
-      "hash": "b6184e66f50857eba46c5c52ccc2b90f29be80c13ee1af70607534174d331d09",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
         ]
       ]
     },
@@ -4114,37 +4153,6 @@
         },
         "1.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/compact_plugin_list/compact_plugin_list_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "wiki_search",
-      "name": "Wikipedia Search",
-      "author": "@exteraDev, fixed by @Slowmyy",
-      "version": "2.6",
-      "icon": "exteraDevPlugins/1",
-      "description": "Поиск .wiki [term] с выбором языка из списка",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/wiki_search.eaf",
-      "hash": "f5f387737c64e522576c91e0d07fa2a2a9197b5d7c9c68c6212b5e2913380ded",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ],
-      "versions": {
-        "unknown": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v1.2.plugin"
-        },
-        "2.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.4.plugin"
-        },
-        "2.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.5.plugin"
         }
       }
     },
