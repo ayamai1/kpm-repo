@@ -1,6 +1,90 @@
 {
   "plugins": [
     {
+      "id": "my_wave",
+      "name": "Моя волна",
+      "author": "@floppamother, Claude opus5.5",
+      "version": "1.6.10",
+      "icon": "FloppatmotherSet/0",
+      "description": "Бесконечная персональная волна во встроенном плеере Telegram — как «Моя волна» в Яндекс Музыке.\n\n• Треки из выбранных вами каналов и из Избранного\n• Учится на прослушиваниях: дослушали — плюс, пропустили в начале — минус\n• Настроения: грустное, бодрое, спокойное, мрачное\n• Характер волны открывается, когда она узнает ваш вкус\n• Похожие исполнители из Deezer, по желанию из Last.fm\n• Скробблинг в Last.fm (включается в настройках)\n\nЗапуск: три точки на экране чатов или боковое меню → «Моя волна», либо меню ⋮ плеера. Каналы добавляются в настройках плагина или через ⋮ в самом канале.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/my_wave.plugin",
+      "hash": "0a20e8953927cf204bc05c359f85a5f2a213d46f0b8a21e18642ca7686f3d90b",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.6.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/my_wave/my_wave_v1.6.4.plugin"
+        }
+      }
+    },
+    {
+      "id": "google_photo_picker",
+      "name": "Google Photo Picker",
+      "author": "@varwqxddd",
+      "version": "4.5.1",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Фото» в меню вложений Доступна возможность поиска фоток по тексту (как в приложении) Доступны медиафайлы из облака (только гугл фото) и личного пространства! Adds a Google Photos item to the attachment menu Search photos by text is available (same as in the app) Media from the cloud (Google Photos only) and personal space is available!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
+      "hash": "1012a6f13f3e58aecd3a46dfa1e881fc02ab6118ae5beffad99a9bb9df3c8ca9",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
+        },
+        "4.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
+        },
+        "4.2.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
+        },
+        "4.2.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.6.eaf"
+        },
+        "4.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.4.0.eaf"
+        }
+      }
+    },
+    {
+      "id": "re_extera_dex",
+      "name": "re:extera v2",
+      "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
+      "version": "3.0.1",
+      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
+      "description": "Enable ghost mode, save deleted messages and more!",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/re_extera_dex.plugin",
+      "hash": "083a70c8600e997e0a03dd3fe465edcb8e48bb5d4a6965728097a55bea66edba",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v2.4.0.plugin"
+        },
+        "3.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v3.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "zwyNoForwardLimit",
       "name": "NoForwardLimit",
       "author": "@zwylair",
@@ -134,23 +218,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.2.eaf"
         }
       }
-    },
-    {
-      "id": "my_wave",
-      "name": "Моя волна",
-      "author": "@floppamother, Claude opus5.5",
-      "version": "1.6.4",
-      "icon": "FloppatmotherSet/0",
-      "description": "Бесконечная персональная волна во встроенном плеере Telegram — как «Моя волна» в Яндекс Музыке.\n\n• Треки из выбранных вами каналов\n• Учится на прослушиваниях: дослушали — плюс, пропустили в начале — минус\n• Настроения: грустное, бодрое, спокойное, мрачное\n• Характер волны открывается, когда она узнает ваш вкус\n• Похожие исполнители из Last.fm (без ключа — Deezer)\n• Скробблинг в Last.fm\n\nЗапуск: три точки на экране чатов или боковое меню → «Моя волна», либо меню ⋮ плеера. Каналы добавляются в настройках плагина или через ⋮ в самом канале.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/my_wave.plugin",
-      "hash": "8e086bbfaa7e18c17c0934d830a02e6ff942c12018f75e6ae6933996d3462c44",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "voice_video_split",
@@ -291,40 +358,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_tab/music_tab_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "google_photo_picker",
-      "name": "Google Photo Picker",
-      "author": "@varwqxddd",
-      "version": "4.4.0",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» в меню вложений Доступна возможность поиска фоток по тексту (как в приложении) Доступны медиафайлы из облака (только гугл фото) и личного пространства! Adds a Google Photos item to the attachment menu Search photos by text is available (same as in the app) Media from the cloud (Google Photos only) and personal space is available!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
-      "hash": "17fbaccf43923c141776b2a92793b71c9cbe73731e32c4e2bf8a585aac3675e9",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "3.7.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
-        },
-        "4.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
-        },
-        "4.2.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
-        },
-        "4.2.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.6.eaf"
         }
       }
     },
@@ -531,28 +564,6 @@
         },
         "1.1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/user_info_saver/user_info_saver_v1.1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "re_extera_dex",
-      "name": "re:extera v2",
-      "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
-      "version": "3.0.0",
-      "icon": "myadestes_1_amashiro_natsuki_plus_nacho_neko/30",
-      "description": "Enable ghost mode, save deleted messages and more!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/re_extera_dex.plugin",
-      "hash": "21ba53374fd323c5ec72dd5219e47dd79e0fbdd3abcc04cb2ca9a5eba6597c9a",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.4.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v2.4.0.plugin"
         }
       }
     },
