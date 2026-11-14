@@ -1,6 +1,45 @@
 {
   "plugins": [
     {
+      "id": "passguard",
+      "name": "Security Manager",
+      "author": "@xeate, @xeplagin",
+      "version": "1.1.0",
+      "icon": "zamokdliamoegoebanogonikomunenujnogoplagina/0",
+      "description": "Скрытые чаты: исчезают из общего списка и открываются только по секретному паролю в поиске. Экстренный выход из аккаунта по коду-приманке. Тихие уведомления с фото при неверном пароле.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/passguard.plugin",
+      "hash": "fb4c2a342d71c9cfce8994be64dc2147cc721f50fdd1a15b23a659c327000563",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/passguard/passguard_v1.0.7.plugin"
+        }
+      }
+    },
+    {
+      "id": "pills_row",
+      "name": "Search Pills",
+      "author": "@huecoder",
+      "version": "1.4.1",
+      "icon": "pillsrow_by_W1fmaSnc23f0akxcmbot/0",
+      "description": "Lays the search bar pills out in one smooth scrollable row with faded edges, adds a search pill, and can collapse them into a single pill that unfolds on swipe. Works on exteraGram and exteraless",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pills_row.plugin",
+      "hash": "c6503720c1c79d1a36bc6098b572adcc660d368ad1ed313f1f48bdcab0030c1e",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "antimat_plugin",
       "name": "Антимат+",
       "author": "@syspz",
@@ -93,23 +132,6 @@
         [
           "Fun",
           "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
-      "id": "passguard",
-      "name": "Security Manager",
-      "author": "@xeate, @xeplagin",
-      "version": "1.0.7",
-      "icon": "zamokdliamoegoebanogonikomunenujnogoplagina/0",
-      "description": "Скрытые чаты: исчезают из общего списка и открываются только по секретному паролю в поиске. Экстренный выход из аккаунта по коду-приманке. Тихие уведомления с фото при неверном пароле.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/passguard.plugin",
-      "hash": "eb18d3bf71ac08c99574bf6c326fbf7ffda5aa1c9179a2da886648f988c2dd33",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
