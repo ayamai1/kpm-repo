@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "antimat_plugin",
+      "name": "Антимат+",
+      "author": "@syspz",
+      "version": "3.0",
+      "description": "Заменяет мат и грубые слова на цензурные аналоги: склонения, латиница, цифры и символы-подмены.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/antimat_plugin.plugin",
+      "hash": "884ede10f9d2c1165041ff903518fbcdccb63c6fb30934ad897b14bdf27b5c3d",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
+    },
+    {
       "id": "screenshot_privacy",
       "name": "Screenshot Privacy",
       "author": "@idkwhatlhavetodotobewithyou & @meeownnews",
