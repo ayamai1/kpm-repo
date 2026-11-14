@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "settings_wallpaper",
+      "name": "Pro Wallpaper",
+      "author": "@Kcharter",
+      "version": "1.3.38",
+      "icon": "Tagsforsaved_by_TgEmodziBot/36",
+      "description": "Фото или видео на фоне списка чатов, настроек и контактов, затемнение, размытие и прозрачные блоки",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
+      "hash": "f14b85cf66fbc01ec8423be0bf42faffae7506f6cd9eae311e538703f27eb1c9",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
+        },
+        "1.2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.2.2.plugin"
+        }
+      }
+    },
+    {
       "id": "re_extera_dex",
       "name": "re:extera v2",
       "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
@@ -1207,28 +1232,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "settings_wallpaper",
-      "name": "Pro Wallpaper",
-      "author": "@Kcharter",
-      "version": "1.2.2",
-      "icon": "Tagsforsaved_by_TgEmodziBot/36",
-      "description": "Фото на фоне настроек и контактов, затемнение, размытие и прозрачные блоки",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
-      "hash": "fcdf3d0c3277d664c638d75fc360a46895e7d22a4de8d348040de43d36fa2ea7",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
-        }
-      }
     },
     {
       "id": "pill_labels",
