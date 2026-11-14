@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "tower_defense",
+      "name": "Tower Defense",
+      "author": "@the_kubicki",
+      "version": "1.0.0",
+      "icon": "Kubick_Plugin_by_fStikBot/2",
+      "description": "Tower Defense с 5 уникальными башнями (конус-яда, поле-тесла, ледяной луч), 5 типами врагов, боссами и бесконечным режимом с прокачкой башен до 50 уровня.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/tower_defense.eaf",
+      "hash": "38083c094f98a5f6102dd9fc7abe2bbbe1b88c380c37370aa78242fa4d0e4fb5",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "auto_proxy_collector",
       "name": "Proxy Collector",
       "author": "@EvilHotDead",
