@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "auto_proxy_collector",
+      "name": "Proxy Collector",
+      "author": "@EvilHotDead",
+      "version": "1.0.0",
+      "icon": "pk_5199573_by_Ctikerubot/65",
+      "description": "Сбор и менеджер MTProto, SOCKS5 и WEB-прокси из чатов, топиков, файлов и подписок. GeoIP-флаги, DPI-инспектор, Failover при смене сети и умная очистка.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/auto_proxy_collector.plugin",
+      "hash": "6ff3028cd18497bd94bf3242fe4bf3256b21accb8e0051afea808273f51836d4",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "settings_wallpaper",
       "name": "Pro Wallpaper",
       "author": "@Kcharter",
