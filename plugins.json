@@ -1,6 +1,50 @@
 {
   "plugins": [
     {
+      "id": "groq_transcriber_dop",
+      "name": "Groq Transcriber 2",
+      "author": "@n0white (Fork) | rebild by @Dkaq1",
+      "version": "3.3",
+      "icon": "aisdhjaiosdhoiuashd/0",
+      "description": "Расшифровка голосовых и кружков через Groq Whisper: кнопка под сообщением + авто-цитата для своих ГС/кружков.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/groq_transcriber_dop.plugin",
+      "hash": "54a8cfa58cb04536ef5e579a33cd7df6c216de660e94a4d15c1b018e46b13df2",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/groq_transcriber_dop/groq_transcriber_dop_v2.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "local_chat_archive",
+      "name": "Локальный архив чатов",
+      "author": "@my_hinodere",
+      "version": "0.4.6",
+      "icon": "exteraPlugins/1",
+      "description": "Автосохранение выбранных чатов и вложений для просмотра офлайн. Сохранённые копии остаются после удаления в Telegram.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/local_chat_archive.plugin",
+      "hash": "eec9a132595171f861376e02b2e9a791a825f493576bf921df154662e91beabe",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "0.3.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/local_chat_archive/local_chat_archive_v0.3.3.plugin"
+        }
+      }
+    },
+    {
       "id": "side_panel",
       "name": "Chats Menu",
       "author": "@d1zzy412",
@@ -114,22 +158,6 @@
       }
     },
     {
-      "id": "local_chat_archive",
-      "name": "Локальный архив чатов",
-      "author": "@my_hinodere",
-      "version": "0.3.3",
-      "description": "Архив выбранных чатов с перепиской и вложениями офлайн. Сохранённые копии остаются после удаления в Telegram.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/local_chat_archive.plugin",
-      "hash": "c76d06407364627d82481ef5758576813ccc8b9a9f4db5308f56b63d6090e97d",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "player_skins",
       "name": "Скины плеера",
       "author": "@floppamother, Claude",
@@ -223,23 +251,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pull_next_chat.plugin",
       "hash": "69975fd768369d2a46d28dbe87f8c580f772d0f974ce8434fca58f65babed709",
       "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "groq_transcriber_dop",
-      "name": "Groq Transcriber 2",
-      "author": "@n0white (Fork) | rebild by @Dkaq1",
-      "version": "2.1",
-      "icon": "aisdhjaiosdhoiuashd/0",
-      "description": "Расшифровка голосовых и кружков через Groq Whisper: кнопка под сообщением + авто-цитата для своих ГС/кружков.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/groq_transcriber_dop.plugin",
-      "hash": "a81a743750fe8f034aa73f68b13f79588113c37b7595abc6634b551b8841776d",
-      "app_version": ">=12.10.6",
       "tags": [
         [
           "Utilities",
