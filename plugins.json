@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "session_hider",
+      "name": "Скрытие сессий",
+      "author": "@syspz",
+      "version": "1.2",
+      "description": "Локально скрывает сессию (кроме текущей) в «Устройства» долгим нажатием, с возможностью отмены.\nLocally hides a session (except the current one) in «Devices» with a long press, with the option to undo.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/session_hider.plugin",
+      "hash": "2b3db8d95b722c43b7d66fc44545b3505e10ca74657f9b6479f623e4a8712951",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "atmospheric_snow",
       "name": "NewYear Interface",
       "author": "@coshize",
