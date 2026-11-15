@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "moonwebview",
+      "name": "MoonWebView",
+      "author": "@pyginx & @MLPlugins",
+      "version": "2.0.0",
+      "description": "A plugin for replace Telegram browser to WebView",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/moonwebview.plugin",
+      "hash": "df6476a068d1eac786aa1fdeafb817962629039ef54914facaa9788dfa3573ed",
+      "app_version": ">=12.9.0",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "session_hider",
       "name": "Скрытие сессий",
       "author": "@syspz",
