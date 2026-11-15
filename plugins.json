@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "atmospheric_snow",
+      "name": "NewYear Interface",
+      "author": "@coshize",
+      "version": "1.0.1",
+      "icon": "Snowflake/1",
+      "description": "Новогодний снег, гирлянды и морозная обводка для панели, кнопок, вкладок и профиля.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/atmospheric_snow.plugin",
+      "hash": "24dc75b8cde7e81d9c3673f2a437505732edb1f06fd1c5e23cb8157e6a1bc4c6",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/atmospheric_snow/atmospheric_snow_v1.0.0.plugin"
+        }
+      }
+    },
+    {
       "id": "side_panel",
       "name": "Chats Menu",
       "author": "@d1zzy412 • @d1zplug",
@@ -177,23 +199,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "atmospheric_snow",
-      "name": "NewYear Interface",
-      "author": "coshize",
-      "version": "1.0.0",
-      "icon": "Snowflake/1",
-      "description": "Новогодний снег, гирлянды и морозная обводка для панели, кнопок, вкладок и профиля.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/atmospheric_snow.plugin",
-      "hash": "0392d81177bd9a16e1beaa2e21fcd1c2f04aebabd8ec1f29a058467e3168c65f",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
         ]
       ]
     },
