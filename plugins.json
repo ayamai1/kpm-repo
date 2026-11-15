@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "side_panel",
+      "name": "Chats Menu",
+      "author": "@d1zzy412",
+      "version": "2.9.1",
+      "icon": "madokamoustache_by_fStikBot/0",
+      "description": "RU: быстрый доступ к чатам через боковую панель/плавающую кнопку.\nENG: quick access to chats through the side panel/floating button.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/side_panel.plugin",
+      "hash": "ed46978ee0f329cc85ed2fbaea551200c1a80409df945dd4c7c0d15d3fecf576",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v1.0.0.plugin"
+        },
+        "2.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v2.1.0.plugin"
+        },
+        "2.5.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v2.5.3.plugin"
+        }
+      }
+    },
+    {
       "id": "passguard",
       "name": "Security Manager",
       "author": "@xeate, @xeplagin",
@@ -1933,31 +1961,6 @@
       "versions": {
         "1.0-dex": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ChatListBackground/ChatListBackground_v1.0-dex.plugin"
-        }
-      }
-    },
-    {
-      "id": "side_panel",
-      "name": "Меню чатов",
-      "author": "@d1zzy412",
-      "version": "2.5.3",
-      "icon": "madokamoustache_by_fStikBot/0",
-      "description": "быстрый доступ к чатам: в боковом меню или плавающей кнопкой, по категориям или по выбранным",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/side_panel.plugin",
-      "hash": "7637ca9e2a6165b11b184a0996fcbf0687e5c09e987cd6ff95f1a9edd9b22ccb",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v1.0.0.plugin"
-        },
-        "2.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v2.1.0.plugin"
         }
       }
     },
