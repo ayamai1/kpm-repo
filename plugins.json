@@ -1,6 +1,27 @@
 {
   "plugins": [
     {
+      "id": "ios_overscroll",
+      "name": "iOS Overscroll",
+      "author": "@nlvxm",
+      "version": "2.0",
+      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
+      "hash": "6e96f618b72515eef27fc4185561a14297548628976389d6634f1d279df40e34",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "litegram",
       "name": "LiteGram",
       "author": "fork: @nonPlugins, origin author: @wepinek",
@@ -120,22 +141,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/theme_per_account.plugin",
       "hash": "b9f2165a87a4140db947bc3ace304ebf088854b45f35a303437837d532da2f02",
       "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "ios_overscroll",
-      "name": "iOS Overscroll",
-      "author": "@nlvxm",
-      "version": "1.0",
-      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
-      "hash": "0ca2354e365fe7cddf2d3bd29663f4f7e0e798c22330b82abb9731cb70c88732",
-      "app_version": ">=12.10.6",
       "tags": [
         [
           "Customization",
