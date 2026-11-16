@@ -1,6 +1,149 @@
 {
   "plugins": [
     {
+      "id": "litegram",
+      "name": "LiteGram",
+      "author": "fork: @nonPlugins, origin author: @wepinek",
+      "version": "2.0",
+      "icon": "feature_plugins/8",
+      "description": "A highly customizable plugin to **remove paid and bloated features** from Telegram.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/litegram.plugin",
+      "hash": "66e03180eeb129d1a4abef2803ead2ae6a51540aa696f1bdcf2f83a69b21fc71",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.3.1.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.4.1.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.5.plugin"
+        },
+        "1.5.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/LiteGram.plugin"
+        },
+        "1.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/LiteGram_v1.6.plugin"
+        },
+        "1.6.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/LiteGram_v1.6.1.plugin"
+        },
+        "1.6.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.6.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "voicer",
+      "name": "Voicer",
+      "author": "@amercats",
+      "version": "1.0.0",
+      "icon": "exteraPlugins/1",
+      "description": "Voicer — плагин, расширяющий возможности Telegram в сфере голосовых сообщений: локальная офлайн-транскрибация, поиск по словам, перевод и многое другое.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/voicer.eaf",
+      "hash": "f3affb6c113ecaf6d0f7c55189c0296f79b437947761e1fc2df7776f6f85cfa3",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "music_bridge",
+      "name": "MusicBridge",
+      "author": "@em_apbyz, Gemini 4 Argon High",
+      "version": "1.0.0",
+      "description": "Открывает и конвертирует ссылки на треки между Яндекс Музыкой, Spotify, Apple Music, YouTube / YouTube Music, SoundCloud и Deezer. (справка: .mb help).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_bridge.plugin",
+      "hash": "7e7dd825824f3d0160e730b0638ac4d993b7e225029c3305d274951b3fd6a58c",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
+    },
+    {
+      "id": "player_below",
+      "name": "Player+",
+      "author": "@Kcharter",
+      "version": "1.0.100",
+      "icon": "Tagsforsaved_by_TgEmodziBot/33",
+      "description": "Новый вид мини плеера:\nMD3 и расположение в списке чатов",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/player_below.plugin",
+      "hash": "0377db8d472fb40a3f34fecb80fa5e02bb2fb95b134ec447ef2d95d2f740bd8c",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "ym_to_channel",
+      "name": "Y.m download",
+      "author": "@floppamother, Claude opus5.5",
+      "version": "1.0.1",
+      "icon": "FloppatmotherSet/1",
+      "description": "Выгружает треки из Яндекс Музыки в ваш Telegram-канал.\n\n• «Мне нравится» и выбранные плейлисты\n• mp3 с названием, исполнителем, альбомом и обложкой\n• Повторный запуск докачивает только новые треки\n• Файлы удаляются с телефона после отправки\n\nНужен OAuth-токен Яндекс Музыки, как его получить — в настройках плагина. Канал выбирается через ⋮ внутри канала → «Яндекс Музыка: выгружать сюда».",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ym_to_channel.plugin",
+      "hash": "730a00567143780be475266ff24afff690705a5e311d096fc19e8d1717698e97",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "theme_per_account",
+      "name": "Theme per Account",
+      "author": "@limeplug",
+      "version": "1.0.5",
+      "icon": "atb_pack_by_fStikBot/4",
+      "description": "Отдельная тема приложения и цветовой вариант для каждого аккаунта",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/theme_per_account.plugin",
+      "hash": "b9f2165a87a4140db947bc3ace304ebf088854b45f35a303437837d532da2f02",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
+      "id": "ios_overscroll",
+      "name": "iOS Overscroll",
+      "author": "@nlvxm",
+      "version": "1.0",
+      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
+      "hash": "0ca2354e365fe7cddf2d3bd29663f4f7e0e798c22330b82abb9731cb70c88732",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "reaction_finder",
       "name": "Top Reaction Finder",
       "author": "@MKC_KOCMOC",
@@ -7857,46 +8000,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "litegram",
-      "name": "LiteGram",
-      "author": "fork: @nonPlugins, origin author: @wepinek",
-      "version": "1.6.2",
-      "icon": "feature_plugins/8",
-      "description": "A highly customizable plugin to **remove paid and bloated features** from Telegram.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/litegram.plugin",
-      "hash": "a1489da341347ede7e12a53d04f8281653c89b4d7d431f41f618d2201d078be4",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.3.1.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.4.1.plugin"
-        },
-        "1.3.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/litegram_v1.5.plugin"
-        },
-        "1.5.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/LiteGram.plugin"
-        },
-        "1.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/LiteGram_v1.6.plugin"
-        },
-        "1.6.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/litegram/LiteGram_v1.6.1.plugin"
-        }
-      }
     },
     {
       "id": "temp_sub",
