@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "auto_proxy_collector",
+      "name": "Proxy Collector",
+      "author": "@EvilHotDead",
+      "version": "1.2",
+      "icon": "pk_5199573_by_Ctikerubot/65",
+      "description": "Сбор и менеджер MTProto, SOCKS5 и WEB-прокси из чатов, топиков, файлов и подписок. GeoIP-флаги, DPI-инспектор, Failover при смене сети и умная очистка.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/auto_proxy_collector.plugin",
+      "hash": "bd99222eee56f9072d2b4b6910df0872a0bab2093391bcdfb8854ff0dd06a9eb",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_proxy_collector/auto_proxy_collector_v1.0.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_proxy_collector/auto_proxy_collector_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "ios_overscroll",
       "name": "iOS Overscroll",
       "author": "@nlvxm",
@@ -192,28 +217,6 @@
         },
         "1.1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "auto_proxy_collector",
-      "name": "Proxy Collector",
-      "author": "@EvilHotDead",
-      "version": "1.1",
-      "icon": "pk_5199573_by_Ctikerubot/65",
-      "description": "Сбор и менеджер MTProto, SOCKS5 и WEB-прокси из чатов, топиков, файлов и подписок. GeoIP-флаги, DPI-инспектор, Failover при смене сети и умная очистка.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/auto_proxy_collector.plugin",
-      "hash": "83637c92656deb0ed666594f480d10076cffe0dc022624206ff998745eaee0a9",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_proxy_collector/auto_proxy_collector_v1.0.0.plugin"
         }
       }
     },
