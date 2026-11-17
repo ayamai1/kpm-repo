@@ -1,6 +1,71 @@
 {
   "plugins": [
     {
+      "id": "google_photo_picker",
+      "name": "Google Photo Picker",
+      "author": "@varwqxddd",
+      "version": "4.6.0",
+      "icon": "pixelcamera/15",
+      "description": "Добавляет пункт «Google Photo» в меню вложений Adds a Google Photo item to the attachment menu",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
+      "hash": "08817176b7e1fe11c2dc8708dadccb94b5bd268eb28ae211935cfa4ebcb99c08",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "3.7.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
+        },
+        "4.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
+        },
+        "4.2.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
+        },
+        "4.2.6": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.6.eaf"
+        },
+        "4.4.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.4.0.eaf"
+        },
+        "4.5.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.5.1.eaf"
+        }
+      }
+    },
+    {
+      "id": "fake_username",
+      "name": "Fake Username",
+      "author": "@MKC_KOCMOC",
+      "version": "1.2",
+      "icon": "msg_edit",
+      "description": "Визуально меняет ваш юзернейм и номер телефона",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fake_username.plugin",
+      "hash": "2103fd39bd82aba8d1b4688dcda1699304244f6c36a5ec44a62dff5a60db7f59",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fake_username/fake_username_v1.0.7.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fake_username/fake_username_v1.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "auto_proxy_collector",
       "name": "Proxy Collector",
       "author": "@EvilHotDead",
@@ -699,43 +764,6 @@
       "versions": {
         "1.6.4": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/my_wave/my_wave_v1.6.4.plugin"
-        }
-      }
-    },
-    {
-      "id": "google_photo_picker",
-      "name": "Google Photo Picker",
-      "author": "@varwqxddd",
-      "version": "4.5.1",
-      "icon": "pixelcamera/15",
-      "description": "Добавляет пункт «Google Фото» в меню вложений Доступна возможность поиска фоток по тексту (как в приложении) Доступны медиафайлы из облака (только гугл фото) и личного пространства! Adds a Google Photos item to the attachment menu Search photos by text is available (same as in the app) Media from the cloud (Google Photos only) and personal space is available!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
-      "hash": "1012a6f13f3e58aecd3a46dfa1e881fc02ab6118ae5beffad99a9bb9df3c8ca9",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "3.7.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v3.7.1.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.1.0.plugin"
-        },
-        "4.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.0.plugin"
-        },
-        "4.2.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.3.eaf"
-        },
-        "4.2.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.2.6.eaf"
-        },
-        "4.4.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.4.0.eaf"
         }
       }
     },
@@ -16953,28 +16981,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "fake_username",
-      "name": "Fake Username",
-      "author": "@MKC_KOCMOC",
-      "version": "1.1.0",
-      "icon": "msg_edit",
-      "description": "Визуально меняет ваш юзернейм только у вас на экране (профиль + боковое меню)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fake_username.plugin",
-      "hash": "1cf133b42e0ee4f4b96dcae28c3724dd4cfd3baf181956e2c81fa9d3cd3338e5",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/fake_username/fake_username_v1.0.7.plugin"
-        }
-      }
     },
     {
       "id": "log_overlay_by_rn",
