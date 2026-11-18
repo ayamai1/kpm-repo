@@ -1,6 +1,43 @@
 {
   "plugins": [
     {
+      "id": "air_raid_alert",
+      "name": "Air Raid Alert",
+      "author": "@cobra_S0FT | @excess_plugins",
+      "version": "1.3.1",
+      "icon": "excess_icon/5",
+      "description": "Автоматически уведомляет о воздушных тревогах в Украине\\nexteraGram/AyuGram 12.10.6+\\nGithub: https://github.com/cobra-soft/Air-Raid-Alert",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
+      "hash": "af12fe5235a26d29875d7bf7f78375e251397b1e58a9ccea661c876d2a6374cf",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.1.eaf"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0_1.eaf"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1_1.eaf"
+        },
+        "1.2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.2.eaf"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.3.0.eaf"
+        }
+      }
+    },
+    {
       "id": "zwyBirthdaysPill",
       "name": "BirthdaysPill",
       "author": "@zwylair",
@@ -971,40 +1008,6 @@
         },
         "3.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/zwylib/zwylib_v3.0.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "air_raid_alert",
-      "name": "Air Raid Alert",
-      "author": "@cobra_S0FT | @excess_plugins",
-      "version": "1.3.0",
-      "icon": "excess_icon/5",
-      "description": "Уведомляет о воздушной тревоге для выбранной области/района.\\n exteraGram 12.9.0+\\nGithub\\nhttps://github.com/cobra-soft/Air-Raid-Alert",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
-      "hash": "5736c5f32e6e1f8e2a041b30dc03fd358b333720448f23b766dea1d713e40ed5",
-      "app_version": ">=12.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
-        },
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.1.eaf"
-        },
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0_1.eaf"
-        },
-        "1.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1_1.eaf"
-        },
-        "1.2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.2.eaf"
         }
       }
     },
