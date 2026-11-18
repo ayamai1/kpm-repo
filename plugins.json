@@ -1,14 +1,64 @@
 {
   "plugins": [
     {
+      "id": "bot_sponsor_manager",
+      "name": "Bot Sponsor Manager",
+      "author": "@AJ_Plugins",
+      "version": "1.4",
+      "icon": "ajsplugins/5",
+      "description": "Автоматически вступает в каналы, необходимые для работы ботов, и управляет ими: отключает уведомления, архивирует и покидает их.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bot_sponsor_manager.eaf",
+      "hash": "9858c67618e7996d0b46b5e7b8f51faf345495b8fa21fc03857357d073ff8ad5",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/bot_sponsor_manager/bot_sponsor_manager_v1.0.eaf"
+        }
+      }
+    },
+    {
+      "id": "chat_stats",
+      "name": "Chat_Stats",
+      "author": "@MKC_KOCMOC",
+      "version": "1.2.2",
+      "icon": "msg_list",
+      "description": "Полная статистика личных чатов и групп",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_stats.plugin",
+      "hash": "e9ec890afd2ff22a78427e9e63d8f398b6ea3e8f088cdec355a993cd3455a347",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.0.0.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.1.0.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.2.plugin"
+        }
+      }
+    },
+    {
       "id": "google_photo_picker",
       "name": "Google Photo Picker",
       "author": "@varwqxddd",
-      "version": "4.6.0",
+      "version": "4.6.1",
       "icon": "pixelcamera/15",
       "description": "Добавляет пункт «Google Photo» в меню вложений Adds a Google Photo item to the attachment menu",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/google_photo_picker.eaf",
-      "hash": "08817176b7e1fe11c2dc8708dadccb94b5bd268eb28ae211935cfa4ebcb99c08",
+      "hash": "e2f04b63506972474f78e8375d73279f82a16e22334c0468616053caa8027342",
       "app_version": ">=12.10.6",
       "tags": [
         [
@@ -37,6 +87,9 @@
         },
         "4.5.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.5.1.eaf"
+        },
+        "4.6.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/google_photo_picker/google_photo_picker_v4.6.0.eaf"
         }
       }
     },
@@ -257,31 +310,6 @@
       "versions": {
         "1.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/reaction_finder/reaction_finder_v1.0.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "chat_stats",
-      "name": "Статистика чата",
-      "author": "@MKC_KOCMOC",
-      "version": "1.2",
-      "icon": "msg_stats",
-      "description": "Статистика сообщений в чате с человеком, группе или канале",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_stats.plugin",
-      "hash": "82c987fae99c25234f8c64e904bbe5b899837cfff640b0a523cf5fe25024e010",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.0.0.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_stats/chat_stats_v1.1.0.plugin"
         }
       }
     },
@@ -1110,23 +1138,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_storage.plugin",
       "hash": "6c196b5b0b5094bf59c7b67054eb74f7609925643350ce2d0518feeed055fcc0",
       "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "bot_sponsor_manager",
-      "name": "Bot Sponsor Manager",
-      "author": "@AJ_Plugins",
-      "version": "1.0",
-      "icon": "ajsplugins/5",
-      "description": "Автоматически вступает в каналы, необходимые для работы ботов, и управляет ими: отключает уведомления, архивирует и покидает их.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bot_sponsor_manager.eaf",
-      "hash": "dc17d6595aada6bc056686e3ae524e6ba638f484a59a14800616c1cfa15602c3",
-      "app_version": ">=12.10.6",
       "tags": [
         [
           "Utilities",
