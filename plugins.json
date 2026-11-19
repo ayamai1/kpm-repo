@@ -1,6 +1,56 @@
 {
   "plugins": [
     {
+      "id": "settings_wallpaper",
+      "name": "Pro Wallpaper",
+      "author": "@Kcharter",
+      "version": "1.3.44",
+      "icon": "Tagsforsaved_by_TgEmodziBot/36",
+      "description": "Фото или видео на фоне списка чатов, настроек и контактов, затемнение, размытие и прозрачные блоки",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
+      "hash": "b9da709dbcd31668eb8c6869e27d19977cfee9cf43f4a79777a62cb19b124e23",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
+        },
+        "1.2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.2.2.plugin"
+        },
+        "1.3.38": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.3.38.plugin"
+        }
+      }
+    },
+    {
+      "id": "chat_storage",
+      "name": "Chat Storage",
+      "author": "@Kcharter",
+      "version": "1.0.25",
+      "icon": "Tagsforsaved_by_TgEmodziBot/1",
+      "description": "Своя папка для файлов выбранных чатов: файлы скачиваются и читаются только оттуда, кеш Telegram не используется.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_storage.plugin",
+      "hash": "ad5115adf97c5a72613b752c5ecea4134c1f20ebb5e7dab7ef4749bedfe9aae3",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.20": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_storage/chat_storage_v1.0.20.plugin"
+        }
+      }
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert",
       "author": "@cobra_S0FT | @excess_plugins",
@@ -780,31 +830,6 @@
       ]
     },
     {
-      "id": "settings_wallpaper",
-      "name": "Pro Wallpaper",
-      "author": "@Kcharter",
-      "version": "1.3.38",
-      "icon": "Tagsforsaved_by_TgEmodziBot/36",
-      "description": "Фото или видео на фоне списка чатов, настроек и контактов, затемнение, размытие и прозрачные блоки",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
-      "hash": "f14b85cf66fbc01ec8423be0bf42faffae7506f6cd9eae311e538703f27eb1c9",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
-        },
-        "1.2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.2.2.plugin"
-        }
-      }
-    },
-    {
       "id": "re_extera_dex",
       "name": "re:extera v2",
       "author": "@shiawasez | @shikaatuxplugins \noriginal author: @bleizixPlugins",
@@ -1206,23 +1231,6 @@
         [
           "Fun",
           "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
-      "id": "chat_storage",
-      "name": "Chat Storage",
-      "author": "@Kcharter",
-      "version": "1.0.20",
-      "icon": "Tagsforsaved_by_TgEmodziBot/1",
-      "description": "Своя папка для файлов выбранных чатов: файлы скачиваются и читаются только оттуда, кеш Telegram не используется.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_storage.plugin",
-      "hash": "6c196b5b0b5094bf59c7b67054eb74f7609925643350ce2d0518feeed055fcc0",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
