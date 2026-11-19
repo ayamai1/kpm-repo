@@ -1,6 +1,46 @@
 {
   "plugins": [
     {
+      "id": "air_raid_alert",
+      "name": "Air Raid Alert",
+      "author": "@cobra_S0FT | @excess_plugins",
+      "version": "1.3.2",
+      "icon": "excess_icon/5",
+      "description": "Автоматически уведомляет о воздушных тревогах в Украине\\nexteraGram/AyuGram 12.10.6+\\nGithub: https://github.com/cobra-soft/Air-Raid-Alert",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
+      "hash": "f5b964f1b6a778ea9bd54e804e8652dc8c98bff930e08cdee4a3b79c322e0951",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
+        },
+        "1.1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.1.eaf"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0_1.eaf"
+        },
+        "1.2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1_1.eaf"
+        },
+        "1.2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.2.eaf"
+        },
+        "1.3.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.3.0.eaf"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.3.1.eaf"
+        }
+      }
+    },
+    {
       "id": "settings_wallpaper",
       "name": "Pro Wallpaper",
       "author": "@Kcharter",
@@ -47,43 +87,6 @@
       "versions": {
         "1.0.20": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/chat_storage/chat_storage_v1.0.20.plugin"
-        }
-      }
-    },
-    {
-      "id": "air_raid_alert",
-      "name": "Air Raid Alert",
-      "author": "@cobra_S0FT | @excess_plugins",
-      "version": "1.3.1",
-      "icon": "excess_icon/5",
-      "description": "Автоматически уведомляет о воздушных тревогах в Украине\\nexteraGram/AyuGram 12.10.6+\\nGithub: https://github.com/cobra-soft/Air-Raid-Alert",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/air_raid_alert.eaf",
-      "hash": "af12fe5235a26d29875d7bf7f78375e251397b1e58a9ccea661c876d2a6374cf",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.0.eaf"
-        },
-        "1.1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.1.1.eaf"
-        },
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.0_1.eaf"
-        },
-        "1.2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.1_1.eaf"
-        },
-        "1.2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.2.2.eaf"
-        },
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.3.0.eaf"
         }
       }
     },
