@@ -1,6 +1,76 @@
 {
   "plugins": [
     {
+      "id": "quotecreate",
+      "name": "Quote",
+      "author": "@mihailkotovski & @JasonVurhyz",
+      "version": "1.1 [gallery]",
+      "icon": "DateRegBot_by_MoiStikiBot/16",
+      "description": "Цитаты из сообщений с нативным рендером",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quotecreate.plugin",
+      "hash": "7572711dc094cd8f7e15e225ace68dae6ce95909b1646e1ba8557ceded53f8de",
+      "app_version": ">=12.2.10",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "4.1 [bug fix]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.2__anonymize_.plugin"
+        },
+        "4.2 [anonymize]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.3__bug_fix___effect_.plugin"
+        },
+        "4.3 [bug fix + effect]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.4__bug_fix_.plugin"
+        },
+        "4.4 [bug fix]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v5.0__experiment_.plugin"
+        },
+        "5.0 [experiment]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.0__bug_fixes_.plugin"
+        },
+        "6.0 [bug fixes]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.1__avatar_.plugin"
+        },
+        "6.1 [avatar]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.2__a-c_.plugin"
+        },
+        "6.2 [a-c]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.0__re-dsn_.plugin"
+        },
+        "7.0 [re-dsn]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.2__re-dsn_.plugin"
+        },
+        "7.2 [re-dsn]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.3__color_fix___anon_.plugin"
+        },
+        "8.0 [redsgn+render]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__color_oxy_fix_.plugin"
+        },
+        "7.3 [color fix + anon]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__redsgn_render_.plugin"
+        },
+        "8.0 [color/oxy fix]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5__anon_fix___new_buttons_.plugin"
+        },
+        "8.5 [anon fix + new buttons]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5_[anon_fix_+_new_buttons].plugin"
+        },
+        "10.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v10.0.plugin"
+        },
+        "11.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v11.0.plugin"
+        },
+        "1.0 [reborn]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v1.0_[reborn].plugin"
+        }
+      }
+    },
+    {
       "id": "air_raid_alert",
       "name": "Air Raid Alert",
       "author": "@cobra_S0FT | @excess_plugins",
@@ -4435,73 +4505,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "quotecreate",
-      "name": "Quote",
-      "author": "@mihailkotovski & @JasonVurhyz",
-      "version": "1.0 [reborn]",
-      "icon": "DateRegBot_by_MoiStikiBot/16",
-      "description": "Цитаты из сообщений с нативным рендером",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/quotecreate.plugin",
-      "hash": "f72944356ca5a6454014075be05dde3d334b3b75b592e912142f0c7805b0c125",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "4.1 [bug fix]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.2__anonymize_.plugin"
-        },
-        "4.2 [anonymize]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.3__bug_fix___effect_.plugin"
-        },
-        "4.3 [bug fix + effect]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v4.4__bug_fix_.plugin"
-        },
-        "4.4 [bug fix]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v5.0__experiment_.plugin"
-        },
-        "5.0 [experiment]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.0__bug_fixes_.plugin"
-        },
-        "6.0 [bug fixes]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.1__avatar_.plugin"
-        },
-        "6.1 [avatar]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v6.2__a-c_.plugin"
-        },
-        "6.2 [a-c]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.0__re-dsn_.plugin"
-        },
-        "7.0 [re-dsn]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.2__re-dsn_.plugin"
-        },
-        "7.2 [re-dsn]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v7.3__color_fix___anon_.plugin"
-        },
-        "8.0 [redsgn+render]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__color_oxy_fix_.plugin"
-        },
-        "7.3 [color fix + anon]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.0__redsgn_render_.plugin"
-        },
-        "8.0 [color/oxy fix]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5__anon_fix___new_buttons_.plugin"
-        },
-        "8.5 [anon fix + new buttons]": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v8.5_[anon_fix_+_new_buttons].plugin"
-        },
-        "10.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v10.0.plugin"
-        },
-        "11.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/quotecreate/quotecreate_v11.0.plugin"
-        }
-      }
     },
     {
       "id": "allleft",
