@@ -1,6 +1,65 @@
 {
   "plugins": [
     {
+      "id": "passguard",
+      "name": "Security Manager",
+      "author": "@xeate, @xeplagin",
+      "version": "1.3.0",
+      "icon": "zamokdliamoegoebanogonikomunenujnogoplagina/0",
+      "description": "Скрытые чаты: исчезают из общего списка и открываются только по секретному паролю в поиске. Динамический пароль приложения по времени телефона. Экстренный выход из аккаунта по коду-приманке. Тихие уведомления с фото при неверном пароле.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/passguard.plugin",
+      "hash": "d161e81b25f4863d0a374f56f39c5a565f84b0743b55925acb1b3573d23458c8",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/passguard/passguard_v1.0.7.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/passguard/passguard_v1.1.0.plugin"
+        },
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/passguard/passguard_v1.2.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "settings_wallpaper",
+      "name": "Pro Wallpaper",
+      "author": "@Kcharter",
+      "version": "1.3.45",
+      "icon": "Tagsforsaved_by_TgEmodziBot/36",
+      "description": "Фото или видео на фоне списка чатов, настроек и контактов, затемнение, размытие и прозрачные блоки",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
+      "hash": "ad940deb6225fa5690895fb7b977a8a32cc7dc0def8dca465fc32abe8729ecea",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0.7": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
+        },
+        "1.2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.2.2.plugin"
+        },
+        "1.3.38": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.3.38.plugin"
+        },
+        "1.3.44": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.3.44.plugin"
+        }
+      }
+    },
+    {
       "id": "filter_info",
       "name": "Filter Info",
       "author": "@etodsk & Claude",
@@ -281,34 +340,6 @@
         },
         "1.3.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/air_raid_alert/air_raid_alert_v1.3.1.eaf"
-        }
-      }
-    },
-    {
-      "id": "settings_wallpaper",
-      "name": "Pro Wallpaper",
-      "author": "@Kcharter",
-      "version": "1.3.44",
-      "icon": "Tagsforsaved_by_TgEmodziBot/36",
-      "description": "Фото или видео на фоне списка чатов, настроек и контактов, затемнение, размытие и прозрачные блоки",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_wallpaper.plugin",
-      "hash": "b9da709dbcd31668eb8c6869e27d19977cfee9cf43f4a79777a62cb19b124e23",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.0.7.plugin"
-        },
-        "1.2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.2.2.plugin"
-        },
-        "1.3.38": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_wallpaper/settings_wallpaper_v1.3.38.plugin"
         }
       }
     },
@@ -790,31 +821,6 @@
         },
         "2.9.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/side_panel/side_panel_v2.9.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "passguard",
-      "name": "Security Manager",
-      "author": "@xeate, @xeplagin",
-      "version": "1.2.0",
-      "icon": "zamokdliamoegoebanogonikomunenujnogoplagina/0",
-      "description": "Скрытые чаты: исчезают из общего списка и открываются только по секретному паролю в поиске. Динамический пароль приложения по времени телефона. Экстренный выход из аккаунта по коду-приманке. Тихие уведомления с фото при неверном пароле.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/passguard.plugin",
-      "hash": "b55dbae8319c6498a0335989c77c0399ffdebb9ae2e8658231a1184a72f87a0a",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/passguard/passguard_v1.0.7.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/passguard/passguard_v1.1.0.plugin"
         }
       }
     },
