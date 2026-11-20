@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "filter_info",
+      "name": "Filter Info",
+      "author": "@etodsk & Claude",
+      "version": "1.3",
+      "icon": "vdyrky/12",
+      "description": "Кнопка «Что отфильтровано» в меню отфильтрованных сообщений: показывает, какие фильтры AyuGram (regex, общие и по чатам) сработали.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/filter_info.plugin",
+      "hash": "33966ab154a4616555d2b86ec81cba323ecbe6c85ba8eb9aadb3afe650544f53",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "shikimori_search",
       "name": "Shikimori Search",
       "author": "@obsidiphoria • @kaltsitu",
