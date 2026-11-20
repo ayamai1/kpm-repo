@@ -1,6 +1,82 @@
 {
   "plugins": [
     {
+      "id": "circlet",
+      "name": "Circlet",
+      "author": "@zxplugins",
+      "version": "2.3",
+      "icon": "UtyaDuckFull/49",
+      "description": "Отправка видео кружком и аудио голосовым сообщением с живым превью и обрезкой.\n\n• Видео → кружок: полноэкранное превью кадрирования (перемещение одним пальцем, масштаб двумя), обрезка до 60 с, поворот, отражение, «без звука», перенос правок редактора Telegram.\n• Аудио → голосовое: выбор отрезка по волне с прослушиванием и конвертацией в Opus.\n• Одноразовые кружки и голосовые в личных чатах.\n• Настройки разрешения кружка (240–640), битрейта ГС (64–160 кбит/с), очистки кэша и статуса отправки видеосообщения в чате (TL_messages_setTyping, можно отключить).\n\nSend videos as round video messages and audio files as voice messages with live preview, crop, trim, view-once support, resolution/bitrate settings, cache cleanup, and optional chat upload activity.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/circlet.plugin",
+      "hash": "eacfa0850e06b01ff595c6e213ab5d6377f1a11fb597442c228812616dd44345",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.2.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v2.1.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v2.2.plugin"
+        }
+      }
+    },
+    {
+      "id": "message_cleaner",
+      "name": "Message Cleaner",
+      "author": "@zxplugins",
+      "version": "1.2",
+      "icon": "UtyaDuckFull/60",
+      "description": "Массовая очистка ваших сообщений в чатах. В настройках плагина — список чатов, разделённых на «есть сообщения» и «нет», с поиском, фильтрами, мультивыбором, выходом из групп и каналов, удалением пустых личных чатов (у себя или у обоих) и блокировкой ботов. Также доступно в меню ⋮ открытого чата.\n\nBulk-deletes your messages across chats. Open plugin settings for a searchable list split into 'has messages' and 'none' with multi-select, leaving groups/channels, deleting empty private chats (for me or for both), and blocking bots. Also available in the ⋮ menu of an open chat.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_cleaner.plugin",
+      "hash": "0c8ef27f742af17837b5db494d3d73a784544f42fc3acb0bd7210f9315b8f788",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_cleaner/message_cleaner_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_cleaner/message_cleaner_v1.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "in_app_video_files",
+      "name": "In-App Video",
+      "author": "@Dkaq1",
+      "version": "0.3",
+      "icon": "Ciehwjsoufhwns/0",
+      "description": "Показывает видео, которые отправлены файлом в встроенном плеере. Кнопка в троеточии или на файл (.mp4, .mov, .webm, .mkv, .avi, .m4v, .3gp, .flv, .ts)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/in_app_video_files.plugin",
+      "hash": "99af8df64b2b77e31e2399d3131fada19057540a02ce8a7627f8838230ca6523",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "round_face_blur",
       "name": "Round Face Blur",
       "author": "@Dkaq1",
@@ -935,28 +1011,6 @@
         },
         "3.0.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/re_extera_dex/re_extera_dex_v3.0.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "message_cleaner",
-      "name": "Message Cleaner",
-      "author": "@zxplugins",
-      "version": "1.1",
-      "icon": "UtyaDuckFull/60",
-      "description": "Удаляет ваши сообщения в чатах. Откройте настройки плагина — там список всех чатов, разделённых на «есть сообщения» и «нет», с выбором одного или нескольких.\n\nDeletes your messages in chats. Open the plugin settings — there you will find all chats split into 'has messages' and 'none', with single or multi-select.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_cleaner.plugin",
-      "hash": "d27680c6f381480589b7312c45bc0c33c258e9746daf8a54cff3cb30d9c5a510",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Messages",
-          "key_avatar_backgroundGreen"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_cleaner/message_cleaner_v1.0.plugin"
         }
       }
     },
@@ -2865,40 +2919,6 @@
         },
         "1.8.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/subfolders/subfolders_v1.8.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "circlet",
-      "name": "Circlet",
-      "author": "@zxplugins",
-      "version": "2.2",
-      "icon": "UtyaDuckFull/49",
-      "description": "Отправка видео кружком с превью обрезки.\n\nВыбираете видео, видите живое превью круга на весь экран. Один палец двигает круг, два пальца меняют его размер. Поворот, отражение, «без звука» и кадрирование из редактора Telegram сохраняются, а в превью их можно поменять кнопками. Если видео длиннее минуты, отправится выбранный кусок, а без обрезки — первая минута. Только потом отправка.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/circlet.plugin",
-      "hash": "6d072d378f3f20304af4b4bda68ffeb261a7ffc0eab7c5b3437befa99a384731",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.0.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v1.2.plugin"
-        },
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v2.1.plugin"
-        },
-        "2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/circlet/circlet_v2.2.plugin"
         }
       }
     },
