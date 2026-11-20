@@ -1,6 +1,40 @@
 {
   "plugins": [
     {
+      "id": "music_dl",
+      "name": "Music Downloader",
+      "author": "@s1mclick, codex(a bit)",
+      "version": "6.0.0",
+      "icon": "IbukiMiodaOneLove/0",
+      "description": "Ищи, скачивай и получай рекомендованные треки.\n6.0 · настройки, звук и метаданные\nСервисы: SoundCloud | Spotify | Tidal | Яндекс Музыка \nАвтор: @s1mclick",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_dl.plugin",
+      "hash": "4aca185bd10f906fb841df04d777f5df483b21b6569f1e5a509eac588d494cb2",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v1.2.0.plugin"
+        },
+        "3.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v3.1.0.plugin"
+        },
+        "4.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.0.0.plugin"
+        },
+        "4.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.1.0.plugin"
+        },
+        "5.0.0-beta": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v5.0.0-beta.plugin"
+        }
+      }
+    },
+    {
       "id": "passguard",
       "name": "Security Manager",
       "author": "@xeate, @xeplagin",
@@ -2792,37 +2826,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "music_dl",
-      "name": "Music Downloader modded",
-      "author": "@s1mclick, @tefumu, codex(a bit)",
-      "version": "5.0.0-beta",
-      "icon": "IbukiMiodaOneLove/0",
-      "description": "Ищи, скачивай и получай рекомендованные треки.\nСервисы: SoundCloud | Spotify | Tidal \nАвтор: @s1mclick",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/music_dl.plugin",
-      "hash": "3dffa6519026a7d5ff805f233729061eb0bab476774a8230e653139edbaec698",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v1.2.0.plugin"
-        },
-        "3.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v3.1.0.plugin"
-        },
-        "4.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.0.0.plugin"
-        },
-        "4.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_dl/music_dl_v4.1.0.plugin"
-        }
-      }
     },
     {
       "id": "avatar_in_dm_dex",
