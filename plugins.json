@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "my_wave",
+      "name": "Моя волна · My Wave",
+      "author": "@floppamother, Claude opus5.5",
+      "version": "1.6.12",
+      "icon": "FloppatmotherSet/0",
+      "description": "Бесконечная персональная волна во встроенном плеере Telegram — как «Моя волна» в Яндекс Музыке.\n\n• Треки из выбранных вами каналов и из Избранного\n• Учится на прослушиваниях: дослушали — плюс, пропустили в начале — минус\n• Настроения: грустное, бодрое, спокойное, мрачное\n• Характер волны открывается, когда она узнает ваш вкус\n• Похожие исполнители из Deezer, по желанию из Last.fm\n• Скробблинг в Last.fm (включается в настройках)\n\nЗапуск: три точки на экране чатов или боковое меню → «Моя волна», либо меню ⋮ плеера. Каналы добавляются в настройках плагина или через ⋮ в самом канале. Интерфейс подстраивается под язык приложения или системы (русский или английский).\n\n———\n\nAn endless personal wave in Telegram's built-in player, inspired by My Vibe in Yandex Music.\n\n• Tracks from channels you choose and from Saved Messages\n• Learns from your listening: a track played to the end is a plus, a track skipped early is a minus\n• Moods: sad, energetic, calm, dark\n• Wave characters unlock once the wave learns your taste\n• Similar artists from Deezer, or from Last.fm if you want\n• Last.fm scrobbling (turn it on in the settings)\n\nTo start: the three dots on the chats screen or the side menu → “My Wave”, or the player's ⋮ menu. Add channels in the plugin settings or via ⋮ inside the channel. The interface follows the app or system language (Russian or English).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/my_wave.plugin",
+      "hash": "bf83bf6323677c2ed2462235e06c5815416f028eede4663da7f985751d95a271",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.6.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/my_wave/my_wave_v1.6.4.plugin"
+        },
+        "1.6.10": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/my_wave/my_wave_v1.6.10.plugin"
+        }
+      }
+    },
+    {
       "id": "music_dl",
       "name": "Music Downloader",
       "author": "@s1mclick, codex(a bit)",
@@ -1136,28 +1161,6 @@
         },
         "2.6": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wiki_search/wiki_search_v2.6.eaf"
-        }
-      }
-    },
-    {
-      "id": "my_wave",
-      "name": "Моя волна",
-      "author": "@floppamother, Claude opus5.5",
-      "version": "1.6.10",
-      "icon": "FloppatmotherSet/0",
-      "description": "Бесконечная персональная волна во встроенном плеере Telegram — как «Моя волна» в Яндекс Музыке.\n\n• Треки из выбранных вами каналов и из Избранного\n• Учится на прослушиваниях: дослушали — плюс, пропустили в начале — минус\n• Настроения: грустное, бодрое, спокойное, мрачное\n• Характер волны открывается, когда она узнает ваш вкус\n• Похожие исполнители из Deezer, по желанию из Last.fm\n• Скробблинг в Last.fm (включается в настройках)\n\nЗапуск: три точки на экране чатов или боковое меню → «Моя волна», либо меню ⋮ плеера. Каналы добавляются в настройках плагина или через ⋮ в самом канале.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/my_wave.plugin",
-      "hash": "0a20e8953927cf204bc05c359f85a5f2a213d46f0b8a21e18642ca7686f3d90b",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.6.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/my_wave/my_wave_v1.6.4.plugin"
         }
       }
     },
