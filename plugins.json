@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "custom_badges",
+      "name": "ExteraBadge",
+      "author": "Mostmenderi",
+      "version": "7.2-local",
+      "icon": "exteraBadges/0",
+      "description": "3DTextBadge, NumberText, CustomText и FastTest: свои тексты на значке, подсказка и бейджи для других. Всё локально, без сервера.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_badges.plugin",
+      "hash": "f249d58963c6e966758e4e7eb75b33ae99805dd80f9c9397831782499fc190f9",
+      "app_version": ">=12.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "settings_tweaker",
       "name": "Settings Tweaker",
       "author": "@shaeply",
