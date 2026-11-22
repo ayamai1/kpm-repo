@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "settings_tweaker",
+      "name": "Settings Tweaker",
+      "author": "@shaeply",
+      "version": "2.1",
+      "icon": "tgmacicons/14",
+      "description": "Скрытие пунктов настроек, графическое меню отладки.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_tweaker.plugin",
+      "hash": "4ffa55ab3e084fbefd7ee75ac8b490f02c53d364c513db1920967f2c8d5ee17a",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "quotecreate",
       "name": "Quote",
       "author": "@itskotovski & @JasonVurhyz",
