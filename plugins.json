@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "plugin_exporter",
+      "name": "Plugin Exporter",
+      "author": "@itNotMax - @MaxExteraPlugins",
+      "version": "1.0.7",
+      "icon": "MaxExteraPluginsStickers/34",
+      "description": "Thanks: @chillden4ik, @oodze. Credits: @Playerqwe, @ArThirtyFour\n\n[EN]: A plugin for a quick, complete export of plugins and their data\nUsage: send the command .export in the chat, or go to: three dots -> Plugins -> Export plugins\n\n[RU]: Плагин для быстрого полного экспорта плагинов и их данных\nИспользование: отправьте команду .export в чате / в чате: три точки -> Плагины -> Экспорт плагинов",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_exporter.plugin",
+      "hash": "83e69b60e1957334481d2ee34c6df4ee52c29c11b7e31bd66e5de549e17b2034",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "pixel_eyes",
       "name": "Pixel Eyes",
       "author": "@van1lLove (идея: @psyhomane)",
