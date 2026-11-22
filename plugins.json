@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "pixel_eyes",
+      "name": "Pixel Eyes",
+      "author": "@van1lLove (идея: @psyhomane)",
+      "version": "1.4.0",
+      "icon": "VanilPluginIcons/0",
+      "description": "Пиксельные глаза поверх приложения. Следят за пальцем и за тем, что вы печатаете, а когда перестаёте, смотрят прямо на вас. Понимают текст сообщений: пугаются гадостей, влюбляются от признаний, смеются над смешным. В списке чатов смотрят на того, кто печатает. Кружатся от тряски, засыпают без дела. 14 наборов от милых аниме до жутких, свой редактор и каталог глаз с поиском, тегами и публикацией своих наборов через проверяемые заявки.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pixel_eyes.plugin",
+      "hash": "55eadea9e32656fbd073e42bdbfd28c0ee6f895f9c6a58e602d938b12d1b252f",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pixel_eyes/pixel_eyes_v1.2.plugin"
+        },
+        "1.3.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pixel_eyes/pixel_eyes_v1.3.1.plugin"
+        }
+      }
+    },
+    {
       "id": "chat_storage",
       "name": "Chat Storage",
       "author": "@Kcharter",
@@ -2484,28 +2509,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlim_accounts/unlim_accounts_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "pixel_eyes",
-      "name": "Pixel Eyes",
-      "author": "@van1lLove (идея: @psyhomane)",
-      "version": "1.3.1",
-      "icon": "exteraPlugins/1",
-      "description": "Пиксельные глаза поверх приложения. Следят за пальцем и за тем, что вы печатаете, а когда перестаёте, смотрят прямо на вас. Понимают текст сообщений: пугаются гадостей, влюбляются от признаний, смеются над смешным. В списке чатов смотрят на того, кто печатает. Кружатся от тряски, засыпают без дела. 14 наборов от милых аниме до жутких, свой редактор и каталог глаз с поиском, тегами и публикацией своих наборов через проверяемые заявки.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pixel_eyes.plugin",
-      "hash": "379da80623890d37d8f7cd116f4ae87df00963056b50eea890b21b1df7e85bce",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pixel_eyes/pixel_eyes_v1.2.plugin"
         }
       }
     },
