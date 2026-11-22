@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "commands",
+      "name": "Commands",
+      "author": "@d1zzy412 • @d1zplug",
+      "version": "2.4.0",
+      "icon": "Konataizumi0_by_fStikBot/6",
+      "description": "свои команды: ии, интернет, фото, сайты, магазин команд (.chelp - помощь)",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/commands.plugin",
+      "hash": "af959239195a9f5d6772ecc03c06e15f33b031814fe444cb4609984c50982e07",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/commands/commands.plugin"
+        },
+        "1.1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/commands/commands_v1.1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "plugin_exporter",
       "name": "Plugin Exporter",
       "author": "@itNotMax - @MaxExteraPlugins",
@@ -8572,28 +8597,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "commands",
-      "name": "команды",
-      "author": "@d1zzy412",
-      "version": "1.1.0",
-      "icon": "Melscher5/4",
-      "description": "команды в чате (.help - подробнее)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/commands.plugin",
-      "hash": "cb99602dde32e4bb621df1dd15914032348680af7bcb27d7a597cd91de7136e8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/commands/commands.plugin"
-        }
-      }
     },
     {
       "id": "clearURLs",
