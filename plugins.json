@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "lastfm",
+      "name": "ScrobblerFM",
+      "author": "@ArThirtyFour | @KangelPlugins",
+      "version": "1.8.0",
+      "icon": "OMGKAWAIIANGELGOD/0",
+      "description": "Shows the current song from last.fm/SelfHosted Koito [.np]",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/lastfm.plugin",
+      "hash": "87627f4141bff5e8d450f6ae7075655e655909871de1f164d87c7df9c21e32c5",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ],
+      "versions": {
+        "1.7.0 [Release]": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/lastfm/lastfm_v1.7.0_[Release].plugin"
+        }
+      }
+    },
+    {
       "id": "ym_to_channel",
       "name": "MP port",
       "author": "@floppamother, Claude opus5.5",
@@ -14123,23 +14145,6 @@
       "description": "Adjusts max lines of the chat input field",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/chat_input_lines.plugin",
       "hash": "02f88ea6dcf6bc4c16e1c7824a7694af69711e36d61707596df16c6731fd1eb4",
-      "app_version": ">=11.9.0",
-      "tags": [
-        [
-          "Informational",
-          "key_color_lightblue"
-        ]
-      ]
-    },
-    {
-      "id": "lastfm",
-      "name": "LastFM",
-      "author": "@ArThirtyFour | @KangelPlugins",
-      "version": "1.7.0 [Release]",
-      "icon": "OMGKAWAIIANGELGOD/0",
-      "description": "Shows the current song from LastFM. [.np]",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/lastfm.plugin",
-      "hash": "e4139a75048aed8159bfa1d61128c767e865b18165a21f5a410284ec3d24e5e7",
       "app_version": ">=11.9.0",
       "tags": [
         [
