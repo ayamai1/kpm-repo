@@ -31,7 +31,13 @@
       "description": "SoundGram music - плагин, рассчитанный на меломанов, который добавляет музыкальный раздел в телеграмм, является наследием моего телеграмм клиента SoundGram. Плагин включает в себя полноценный раздел музыки с плейлистами, библиотекой, моей волной, альбомами, поиском, стримингом и профилями исполнителей, эквалайзером. Музыка никак не связана с ТГ, стримится через сторонний сервис. Какие изменения плагин вносит в элементы экстераграма? Добавлен эквалайзер, который можно открыть через плеер возле кнопки изменения скорости, расписывать можно много, но лучше посмотреть самим.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/soundgram.eaf",
       "hash": "ac2b59ed5249b5edb5bde8b5ef3a713de00b7c46e30821c1992215f5bc8ca219",
-      "app_version": ">=13.1.1"
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "okgram",
@@ -42,7 +48,13 @@
       "description": "Sharpen images, loop status animations, lock sticker and emoji grids to 5 and 8 columns, force forum tabs, open profiles from join requests, split shared media tabs, and fix music playback.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/okgram.plugin",
       "hash": "2d9b69c7c2665750100946dc565ac5a5e6136e1bf9a7f3727ea0c677f6e16dfb",
-      "app_version": ">=13.1.1"
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "voice_chapters",
@@ -53,7 +65,13 @@
       "description": "Закладки на нужных секундах голосовых сообщений Telegram. Быстрый переход по меткам над звуковой волной, каталог сохранённых голосовых по чатам, настройка оформления и резервные копии JSON.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/voice_chapters.plugin",
       "hash": "9140137c83668f426b1c9875df504f6451f595551c21f766a018631ea1f68a20",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
     },
     {
       "id": "owed_plugin",
@@ -63,7 +81,13 @@
       "description": "**Кольцо вокруг аватарки показывает, кому ты ещё не ответил и как давно.**\n\nПрочитал, отвлёкся, забыл ответить: для Telegram такое сообщение уже «обработано». owed его отмечает: кольцо идёт от зелёного к красному и дальше к тёмному, дуга заполняется по кругу, а значок показывает время ожидания: 40м, 3ч, 2д, 2н (недели), 1мес. Ответил или поставил реакцию, и кольцо гаснет.\n\n**Что умеет**\n• Умная срочность: вопрос и «срочно» краснеют быстрее, стикеры и «лол» почти нет.\n• «Ждут ответа» в боковом меню: самые давние сверху, из списка можно открыть чат.\n• «Ответ: действия» в меню чата: ответ не нужен, отложить, важный контакт, не отслеживать.\n• Тихие часы: ночь не считается ожиданием.\n• 5 стилей кольца, предпросмотр, обмен настройками.\n\nВсё работает на телефоне: тексты сообщений не сохраняются, ничего не отправляется, фоновой работы нет.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/owed_plugin.plugin",
       "hash": "d3f3b04466fd640ba57e35121a4c6230a9de065ee7dc23ff77ec723a8a167df8",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
     },
     {
       "id": "x_pins",
@@ -74,7 +98,13 @@
       "description": "Локальные закреплённые чаты сверх лимита Telegram.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/x_pins.plugin",
       "hash": "e5d45d51548405fed4c3b1d5648758bc5d6b51e7a0ea38adeff1b4e6e14a99c7",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
     },
     {
       "id": "one_line_chats",
@@ -85,7 +115,13 @@
       "description": "Однострочный список чатов: скрывает превью сообщения, время и галочки, по желанию центрирует название, время, значки и кнопку «Открыть», уменьшает аватарки и высоту строк. Как пользоваться: включите плагин и откройте Настройки exteraGram → Плагины → One Line Chats.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/one_line_chats.plugin",
       "hash": "340be5b681ca39f7f4101a818b5b91109b8cb5f044a3c483137fd14596806cfa",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
     },
     {
       "id": "unlimited_rounds",
@@ -96,7 +132,13 @@
       "description": "Убирает ограничение на длительность кружка, а затем отправляет его несколькими частями",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlimited_rounds.plugin",
       "hash": "214569834ba0826f704ff01677954c2a98ef3b6f30664093f8f31c0be41e4cfa",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "ultimate_sticker_architect",
@@ -107,7 +149,13 @@
       "description": "Мощный клонер и анализатор паков.\n\n.copy [ссылка] — скопировать стикерпак или эмодзи-пак.\n.copya [ссылка] — скопировать с адаптивными цветами (только для эмодзи).\n.stats [ссылка] — показать инфу о паке.\n\nВы можете его редактировать и отображаетесь его автором.\nРедактирование клонированного пака доступно в @Stickers.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ultimate_sticker_architect.plugin",
       "hash": "635ce99733dea957da2ce6160bcba689adc3e3c839939f043f69dbb56ecde1b1",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "animation_speed",
@@ -118,7 +166,13 @@
       "description": "Меняет скорость всех анимаций в Telegram: от 0.5x до 2x.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animation_speed.plugin",
       "hash": "4021af6e10bf04b54676f200db1d8ed4d3b8c912b6efdc21f564a400f9eedb8a",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
     },
     {
       "id": "tab_order",
@@ -128,7 +182,13 @@
       "description": "Порядок и состав вкладок в профиле (Публикации, Подарки, Медиа и т.д.): общий или отдельный для людей, групп и каналов.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/tab_order.plugin",
       "hash": "2b746c96541591c4b49ce20c62433bb07a546280101d03e7e8e9bd16f1ca1d72",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
     },
     {
       "id": "animatiiion",
@@ -139,7 +199,13 @@
       "description": "все эмодзи в сообщениях отправляются с анимэйтед эффектом | нужен тг прем",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animatiiion.plugin",
       "hash": "8c8720958a7a7452426e5ca19f5eaa40e6531d705e745ba10649f9e2ac841955",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
+        ]
+      ]
     },
     {
       "id": "blackjack_vip",
@@ -149,7 +215,13 @@
       "description": "|- Classic Blackjack — добор, сплит, удвоение. Офлайн-блэкджек с виртуальными фишками. В чате откройте ⋮ → Плагины → blackjack. Пополните баланс через DEP, выберите номинал фишки, поставьте на свободные места и нажмите «Раздать». За одним столом можно играть до семи мест, набирать ставки из нескольких фишек и делать дополнительные ставки Perfect Pairs и 21+3.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/blackjack_vip.eaf",
       "hash": "e5861735109eaff62951af14348b796b0d454ff0f1eea7b89e00a23cdd1ea8cb",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
     },
     {
       "id": "proxy_header",
@@ -284,7 +356,13 @@
       "description": "Dev Tool: тапни любой UI-элемент — класс, ключи редактора тем, хуки, атрибуты View. Theme.getColor() с live-цветами и свотчами.",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hook_inspector.plugin",
       "hash": "f4f9bdfbe991153b9dfdc6c424e94b830218253bf8a153672cba1a402e308807",
-      "app_version": ">=12.5.1"
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Informational",
+          "key_color_lightblue"
+        ]
+      ]
     },
     {
       "id": "settings_tweaker",
@@ -480,7 +558,13 @@
       "description": "点击外部链接自动转为谷歌网页翻译（支持全部谷歌翻译目标语言），自由选择内置浏览器或应用内悬浮窗打开，支持强制翻译白名单与免翻译黑名单。",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/translate_search_float.plugin",
       "hash": "3f7c966b2805f4010d93b8c8f658f8cfe49be3176c324bc43c9ac757296ef314",
-      "app_version": ">=11.12.0"
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "my_wave",
@@ -784,7 +868,13 @@
       "description": "Показывает ближайший день рождения среди контактов в стеке пиллов строки поиска.\\n\\n> Требуется **[ZwyLib](https://t.me/zwyPlugins/141)** версии 2.0.6 или выше!",
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zwyBirthdaysPill.eaf",
       "hash": "1a3ac21cf219369f3c4a2aaf191d3fde95768adcb720ad9a17a050bc8c3178f7",
-      "app_version": ">=12.10.6"
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
     },
     {
       "id": "session_authkey_transfer",
@@ -3649,6 +3739,12 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/msg_stats.plugin",
       "hash": "91ef069c55f383414f2ddb596d51af68b6ab2cb25029b7e572eef0e4ed169daf",
       "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
       "versions": {
         "1.8.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/msg_stats/msg_stats_v1.8.0.plugin"
