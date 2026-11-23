@@ -1,6 +1,16 @@
 {
   "plugins": [
     {
+      "id": "blackjack_vip",
+      "name": "blackjack",
+      "author": "@lunaref1337",
+      "version": "1.0",
+      "description": "|- Classic Blackjack — добор, сплит, удвоение. Офлайн-блэкджек с виртуальными фишками. В чате откройте ⋮ → Плагины → blackjack. Пополните баланс через DEP, выберите номинал фишки, поставьте на свободные места и нажмите «Раздать». За одним столом можно играть до семи мест, набирать ставки из нескольких фишек и делать дополнительные ставки Perfect Pairs и 21+3.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/blackjack_vip.eaf",
+      "hash": "e5861735109eaff62951af14348b796b0d454ff0f1eea7b89e00a23cdd1ea8cb",
+      "app_version": ">=12.10.6"
+    },
+    {
       "id": "proxy_header",
       "name": "Proxy Header",
       "author": "@vivanko",
