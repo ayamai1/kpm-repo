@@ -1,6 +1,47 @@
 {
   "plugins": [
     {
+      "id": "ios_overscroll",
+      "name": "iOS Overscroll",
+      "author": "@nlvxm",
+      "version": "2.2",
+      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
+      "hash": "1462af05a038b86a1c2e3cdb5d0f46995f27ae0ea07fc9c446295caef2b89304",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v1.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v2.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "yandex_pogoda",
+      "name": "Яндекс Погода",
+      "author": "@Dkaq1",
+      "version": "0.10",
+      "icon": "Idushwkdojrje/0",
+      "description": "Подробный прогноз Яндекс Погоды прямо в чате: сейчас, на завтра или на неделю. Отправляет информативные карточки-виджеты с графиком температуры и развёрнутый текстовый отчёт, поддерживает быстрое переключение периода из меню чата.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/yandex_pogoda.plugin",
+      "hash": "3a8d16b7f9f4e76862c426f0eb3db7f1055378b4ae05acd9c502176e9c67e4db",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "round_face_blur",
       "name": "Round Face Blur",
       "author": "@Dkaq1",
@@ -768,27 +809,6 @@
         },
         "1.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_proxy_collector/auto_proxy_collector_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "ios_overscroll",
-      "name": "iOS Overscroll",
-      "author": "@nlvxm",
-      "version": "2.0",
-      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
-      "hash": "6e96f618b72515eef27fc4185561a14297548628976389d6634f1d279df40e34",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v1.0.plugin"
         }
       }
     },
