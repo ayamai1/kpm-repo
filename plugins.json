@@ -1,6 +1,34 @@
 {
   "plugins": [
     {
+      "id": "auto_read",
+      "name": "Auto Read",
+      "author": "~GRED~(@GREDpl) модификацияот @l_Nuril_l",
+      "version": "2.2",
+      "icon": "exteraPlugins/0",
+      "description": "Авто-чтение выбранных чатов, папок и тем форумов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/auto_read.plugin",
+      "hash": "f6d27ea04d4fe37acb92b2712929fce17c76a18d1d60124c63e44fb089696a78",
+      "app_version": ">=11.12.0",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_read/auto_read.plugin"
+        },
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_read/auto_read_v1.0.0.plugin"
+        },
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_read/auto_read_v2.1.plugin"
+        }
+      }
+    },
+    {
       "id": "lastfm",
       "name": "ScrobblerFM",
       "author": "@ArThirtyFour | @KangelPlugins",
@@ -9975,31 +10003,6 @@
       "versions": {
         "1.7.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pack_cloner/pack_cloner-1.7.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "auto_read",
-      "name": "Auto Read",
-      "author": "~GRED~(@GREDpl)",
-      "version": "2.1",
-      "icon": "exteraPlugins/0",
-      "description": "Авто-чтение выбранных чатов.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/auto_read.plugin",
-      "hash": "f9639cfa99ebc7d948bff28518a7c1cc47eff7ba5162d65e4d12420b9c069a56",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_read/auto_read.plugin"
-        },
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/auto_read/auto_read_v1.0.0.plugin"
         }
       }
     },
