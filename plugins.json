@@ -1,6 +1,147 @@
 {
   "plugins": [
     {
+      "id": "ym_to_channel",
+      "name": "MP port",
+      "author": "@floppamother, Claude opus5.5",
+      "version": "1.3.2",
+      "icon": "FloppatmotherSet/1",
+      "description": "Выгружает музыку в ваш Telegram-канал: Яндекс Музыка (лайки и плейлисты), Spotify, YouTube Music и SoundCloud (плейлисты, альбомы и треки по ссылке). У каждого сервиса свои настройки, своя кнопка выгрузки и при желании свой канал. Всё приходит как музыка с названием, исполнителем и обложкой. Канал выбирается через ⋮ внутри канала → «MP port: выгружать сюда».\n\nExports music to your Telegram channel: Yandex Music (likes and playlists), Spotify, YouTube Music and SoundCloud (playlists, albums and tracks by link). Every service has its own settings, its own export button and, if you like, its own channel. Everything arrives as music with title, artist and cover. Pick the channel with ⋮ inside the channel → «MP port: export here».",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ym_to_channel.plugin",
+      "hash": "1421a7fd444e32671078f3e229022be5f63171144f7e94d8a173a92b900a6088",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ym_to_channel/ym_to_channel_v1.0.1.plugin"
+        }
+      }
+    },
+    {
+      "id": "soundgram",
+      "name": "SoundGram Music",
+      "author": "@im3ff_plugin",
+      "version": "1.3",
+      "icon": "assets/icon.png",
+      "description": "SoundGram music - плагин, рассчитанный на меломанов, который добавляет музыкальный раздел в телеграмм, является наследием моего телеграмм клиента SoundGram. Плагин включает в себя полноценный раздел музыки с плейлистами, библиотекой, моей волной, альбомами, поиском, стримингом и профилями исполнителей, эквалайзером. Музыка никак не связана с ТГ, стримится через сторонний сервис. Какие изменения плагин вносит в элементы экстераграма? Добавлен эквалайзер, который можно открыть через плеер возле кнопки изменения скорости, расписывать можно много, но лучше посмотреть самим.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/soundgram.eaf",
+      "hash": "ac2b59ed5249b5edb5bde8b5ef3a713de00b7c46e30821c1992215f5bc8ca219",
+      "app_version": ">=13.1.1"
+    },
+    {
+      "id": "okgram",
+      "name": "OkGram",
+      "author": "@hi_hr_js & @kirasinplugins",
+      "version": "1.0.0",
+      "icon": "AnimatedEmojies/519",
+      "description": "Sharpen images, loop status animations, lock sticker and emoji grids to 5 and 8 columns, force forum tabs, open profiles from join requests, split shared media tabs, and fix music playback.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/okgram.plugin",
+      "hash": "2d9b69c7c2665750100946dc565ac5a5e6136e1bf9a7f3727ea0c677f6e16dfb",
+      "app_version": ">=13.1.1"
+    },
+    {
+      "id": "voice_chapters",
+      "name": "Voice Message Bookmarks",
+      "author": "@ghoulbananarank",
+      "version": "0.2.16",
+      "icon": "pluginiconssss/1",
+      "description": "Закладки на нужных секундах голосовых сообщений Telegram. Быстрый переход по меткам над звуковой волной, каталог сохранённых голосовых по чатам, настройка оформления и резервные копии JSON.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/voice_chapters.plugin",
+      "hash": "9140137c83668f426b1c9875df504f6451f595551c21f766a018631ea1f68a20",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "owed_plugin",
+      "name": "owed",
+      "author": "@raznosing",
+      "version": "1.10.1",
+      "description": "**Кольцо вокруг аватарки показывает, кому ты ещё не ответил и как давно.**\n\nПрочитал, отвлёкся, забыл ответить: для Telegram такое сообщение уже «обработано». owed его отмечает: кольцо идёт от зелёного к красному и дальше к тёмному, дуга заполняется по кругу, а значок показывает время ожидания: 40м, 3ч, 2д, 2н (недели), 1мес. Ответил или поставил реакцию, и кольцо гаснет.\n\n**Что умеет**\n• Умная срочность: вопрос и «срочно» краснеют быстрее, стикеры и «лол» почти нет.\n• «Ждут ответа» в боковом меню: самые давние сверху, из списка можно открыть чат.\n• «Ответ: действия» в меню чата: ответ не нужен, отложить, важный контакт, не отслеживать.\n• Тихие часы: ночь не считается ожиданием.\n• 5 стилей кольца, предпросмотр, обмен настройками.\n\nВсё работает на телефоне: тексты сообщений не сохраняются, ничего не отправляется, фоновой работы нет.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/owed_plugin.plugin",
+      "hash": "d3f3b04466fd640ba57e35121a4c6230a9de065ee7dc23ff77ec723a8a167df8",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "x_pins",
+      "name": "X-Pins",
+      "author": "@Somewhat_empty",
+      "version": "1.0",
+      "icon": "Remilia_Scarlet_by_fStikBot/16",
+      "description": "Локальные закреплённые чаты сверх лимита Telegram.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/x_pins.plugin",
+      "hash": "e5d45d51548405fed4c3b1d5648758bc5d6b51e7a0ea38adeff1b4e6e14a99c7",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "one_line_chats",
+      "name": "One Line Chats",
+      "author": "@ExtraFoxyplugins",
+      "version": "2.5.1",
+      "icon": "ExtraFoxyplugins/0",
+      "description": "Однострочный список чатов: скрывает превью сообщения, время и галочки, по желанию центрирует название, время, значки и кнопку «Открыть», уменьшает аватарки и высоту строк. Как пользоваться: включите плагин и откройте Настройки exteraGram → Плагины → One Line Chats.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/one_line_chats.plugin",
+      "hash": "340be5b681ca39f7f4101a818b5b91109b8cb5f044a3c483137fd14596806cfa",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "unlimited_rounds",
+      "name": "Unlimited Rounds",
+      "author": "@Vernyak6",
+      "version": "1.0",
+      "icon": "UtyaDuckFull/21",
+      "description": "Убирает ограничение на длительность кружка, а затем отправляет его несколькими частями",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlimited_rounds.plugin",
+      "hash": "214569834ba0826f704ff01677954c2a98ef3b6f30664093f8f31c0be41e4cfa",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "ultimate_sticker_architect",
+      "name": "Ultimate Sticker Architect",
+      "author": "@ebciot",
+      "version": "8.1.2",
+      "icon": "MaxExteraPluginsStickers/26",
+      "description": "Мощный клонер и анализатор паков.\n\n.copy [ссылка] — скопировать стикерпак или эмодзи-пак.\n.copya [ссылка] — скопировать с адаптивными цветами (только для эмодзи).\n.stats [ссылка] — показать инфу о паке.\n\nВы можете его редактировать и отображаетесь его автором.\nРедактирование клонированного пака доступно в @Stickers.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ultimate_sticker_architect.plugin",
+      "hash": "635ce99733dea957da2ce6160bcba689adc3e3c839939f043f69dbb56ecde1b1",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "animation_speed",
+      "name": "Animation Speed",
+      "author": "@qwukato",
+      "version": "3.1",
+      "icon": "materialexpressive/55",
+      "description": "Меняет скорость всех анимаций в Telegram: от 0.5x до 2x.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animation_speed.plugin",
+      "hash": "4021af6e10bf04b54676f200db1d8ed4d3b8c912b6efdc21f564a400f9eedb8a",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "tab_order",
+      "name": "Tab Order",
+      "author": "@kirasinplugins",
+      "version": "2.0",
+      "description": "Порядок и состав вкладок в профиле (Публикации, Подарки, Медиа и т.д.): общий или отдельный для людей, групп и каналов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/tab_order.plugin",
+      "hash": "2b746c96541591c4b49ce20c62433bb07a546280101d03e7e8e9bd16f1ca1d72",
+      "app_version": ">=12.10.6"
+    },
+    {
+      "id": "animatiiion",
+      "name": "animat i i i on",
+      "author": "@HzzzPlugins <- @exoseo",
+      "version": "1",
+      "icon": "HzzzIcons/11",
+      "description": "все эмодзи в сообщениях отправляются с анимэйтед эффектом | нужен тг прем",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/animatiiion.plugin",
+      "hash": "8c8720958a7a7452426e5ca19f5eaa40e6531d705e745ba10649f9e2ac841955",
+      "app_version": ">=12.10.6"
+    },
+    {
       "id": "blackjack_vip",
       "name": "blackjack",
       "author": "@lunaref1337",
@@ -928,23 +1069,6 @@
         [
           "Customization",
           "key_avatar_backgroundViolet"
-        ]
-      ]
-    },
-    {
-      "id": "ym_to_channel",
-      "name": "Y.m download",
-      "author": "@floppamother, Claude opus5.5",
-      "version": "1.0.1",
-      "icon": "FloppatmotherSet/1",
-      "description": "Выгружает треки из Яндекс Музыки в ваш Telegram-канал.\n\n• «Мне нравится» и выбранные плейлисты\n• mp3 с названием, исполнителем, альбомом и обложкой\n• Повторный запуск докачивает только новые треки\n• Файлы удаляются с телефона после отправки\n\nНужен OAuth-токен Яндекс Музыки, как его получить — в настройках плагина. Канал выбирается через ⋮ внутри канала → «Яндекс Музыка: выгружать сюда».",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ym_to_channel.plugin",
-      "hash": "730a00567143780be475266ff24afff690705a5e311d096fc19e8d1717698e97",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
