@@ -1,6 +1,22 @@
 {
   "plugins": [
     {
+      "id": "proxy_header",
+      "name": "Proxy Header",
+      "author": "@vivanko",
+      "version": "1.0.0",
+      "description": "Открывает меню прокси тапом по шапке | Opens the proxy menu with tap on the header",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/proxy_header.plugin",
+      "hash": "c32a71255656ca55b4a57adda7158a337123b0826dcd96db788d64d1eba65a48",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "ios_overscroll",
       "name": "iOS Overscroll",
       "author": "@nlvxm",
