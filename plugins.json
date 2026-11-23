@@ -1,21 +1,82 @@
 {
   "plugins": [
     {
-      "id": "custom_badges",
-      "name": "ExteraBadge",
-      "author": "Mostmenderi",
-      "version": "7.2-local",
-      "icon": "exteraBadges/0",
-      "description": "3DTextBadge, NumberText, CustomText и FastTest: свои тексты на значке, подсказка и бейджи для других. Всё локально, без сервера.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_badges.plugin",
-      "hash": "f249d58963c6e966758e4e7eb75b33ae99805dd80f9c9397831782499fc190f9",
-      "app_version": ">=12.1.1",
+      "id": "round_face_blur",
+      "name": "Round Face Blur",
+      "author": "@Dkaq1",
+      "version": "1.4",
+      "icon": "hfglhjkfgopkhjfgikoph/0",
+      "description": "Скрывает лица пиксельной мозаикой в видеокружках перед отправкой.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/round_face_blur.plugin",
+      "hash": "ef42742b040cac457ab7a8abf5bfa2da01bdef29d93c735c0246068b141a8f1d",
+      "app_version": ">=12.10.6",
       "tags": [
         [
-          "Customization",
-          "key_avatar_backgroundViolet"
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.1.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.3.plugin"
+        }
+      }
+    },
+    {
+      "id": "draft_shelf",
+      "name": "Второй черновик",
+      "author": "@rz3nx | @Sub5Plugins",
+      "version": "66.77.4",
+      "icon": "sub5plugins/0",
+      "description": "Добавляет отдельную строку для черновиков в каждом чате или теме. Чтобы включить функцию, активируйте «Второй черновик» в разделе «Плагины». Откройте чат и потяните вверх за полоску над полем сообщения. Нажмите карандаш, чтобы редактировать черновик. Кнопка со стрелками меняет местами текст черновика и текст сообщения, а её удержание создаёт новый черновик.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/draft_shelf.plugin",
+      "hash": "53f292345b3c0d237eba500c0c3cbc678adb914a7b629497d03dc40c3ef6b214",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Messages",
+          "key_avatar_backgroundGreen"
         ]
       ]
+    },
+    {
+      "id": "in_app_video_files",
+      "name": "In-App Video",
+      "author": "@Dkaq1",
+      "version": "0.7",
+      "icon": "Ciehwjsoufhwns/0",
+      "description": "Открывает видео, отправленные файлом, во встроенном плеере. Доступно через меню чата или контекстное меню файла (.mp4, .mov, .webm, .mkv, .avi, .m4v, .3gp, .flv, .ts).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/in_app_video_files.plugin",
+      "hash": "dfb6e9cfe713a78085039a528c7d632c645d5f6d5dfa9dc691e19114557b4794",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "0.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/in_app_video_files/in_app_video_files_v0.3.plugin"
+        },
+        "0.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/in_app_video_files/in_app_video_files_v0.4.plugin"
+        }
+      }
+    },
+    {
+      "id": "hook_inspector",
+      "name": "Hook Inspector",
+      "author": "@LuPlugins (@lyzos)",
+      "version": "1.0",
+      "icon": "formyetgplugins_by_fStikBot/16",
+      "description": "Dev Tool: тапни любой UI-элемент — класс, ключи редактора тем, хуки, атрибуты View. Theme.getColor() с live-цветами и свотчами.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hook_inspector.plugin",
+      "hash": "f4f9bdfbe991153b9dfdc6c424e94b830218253bf8a153672cba1a402e308807",
+      "app_version": ">=12.5.1"
     },
     {
       "id": "settings_tweaker",
@@ -212,28 +273,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/translate_search_float.plugin",
       "hash": "3f7c966b2805f4010d93b8c8f658f8cfe49be3176c324bc43c9ac757296ef314",
       "app_version": ">=11.12.0"
-    },
-    {
-      "id": "in_app_video_files",
-      "name": "In-App Video",
-      "author": "@Dkaq1",
-      "version": "0.4",
-      "icon": "Ciehwjsoufhwns/0",
-      "description": "Показывает видео, которые отправлены файлом в встроенном плеере. Кнопка в троеточии или на файл (.mp4, .mov, .webm, .mkv, .avi, .m4v, .3gp, .flv, .ts)",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/in_app_video_files.plugin",
-      "hash": "91757eac319ade6c50e7dc4a1d9a5d60d8f6c256b3b66be4bc236779b9c4536a",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "0.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/in_app_video_files/in_app_video_files_v0.3.plugin"
-        }
-      }
     },
     {
       "id": "my_wave",
@@ -460,28 +499,6 @@
         },
         "1.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_cleaner/message_cleaner_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "round_face_blur",
-      "name": "Round Face Blur",
-      "author": "@Dkaq1",
-      "version": "1.3",
-      "icon": "hfglhjkfgopkhjfgikoph/0",
-      "description": "Скрывает лица пиксельной мозаикой в видеокружках перед отправкой.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/round_face_blur.plugin",
-      "hash": "ffefbd8c11fe284fb8f932fd503b77af30fc70b3c5bdbf5a2726fb01755cdec7",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.1.plugin"
         }
       }
     },
@@ -13049,28 +13066,6 @@
       "versions": {
         "1.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/gift_hider/gift_hider_v1.1__show_.plugin"
-        }
-      }
-    },
-    {
-      "id": "hook_inspector",
-      "name": "Hook Inspector",
-      "author": "@lyzos",
-      "version": "12.0.0",
-      "icon": "formyetgplugins_by_fStikBot/16",
-      "description": "Dev Tool: тапни любой UI-элемент — класс, ключи редактора тем, хуки, атрибуты View. Theme.getColor() с live-цветами и свотчами.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hook_inspector.plugin",
-      "hash": "f676ec6df105a3413091922af62a2d89cc3f5a57eeb2c6fd55e43e31c765a3d0",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "9.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/hook_inspector/hook_inspector_v9.0.0.plugin"
         }
       }
     },
