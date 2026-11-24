@@ -1,6 +1,101 @@
 {
   "plugins": [
     {
+      "id": "groq_transcriber_dop",
+      "name": "Groq Transcriber 2",
+      "author": "@n0white (Fork) | rebild by @Dkaq1",
+      "version": "4.11",
+      "icon": "aisdhjaiosdhoiuashd/0",
+      "description": "Расшифровывает голосовые, видеокружки и аудио- или видеофайлы через Groq Whisper. Результат показывается в окне; есть автоцитата для своих записей.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/groq_transcriber_dop.plugin",
+      "hash": "cd9832cdda04408aa755e11ed56ae7815dc065b69014f594e33205b6bf94de0e",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "2.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/groq_transcriber_dop/groq_transcriber_dop_v2.1.plugin"
+        },
+        "3.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/groq_transcriber_dop/groq_transcriber_dop_v3.3.plugin"
+        },
+        "4.10": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/groq_transcriber_dop/groq_transcriber_dop_v4.10.plugin"
+        }
+      }
+    },
+    {
+      "id": "zapret_pp_alpha",
+      "name": "Zapret ++",
+      "author": "@Dkaq1",
+      "version": "2.4",
+      "icon": "akisdhaoisjdha/0",
+      "description": "Zapret ++ ускоряет и восстанавливает Telegram без VPN на Android: MTProto WebSocket (прямой канал, Cloudflare TLS/HTTP2 и порт 80), быстрый автоподбор маршрута, свои SOCKS5-прокси с логином и паролем для плагинов и сервисов, вкладка «Прокси» в нижней панели и корректная проверка VPN.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/zapret_pp_alpha.eaf",
+      "hash": "0607d379a51486a0551c64c6158b6dad7b7c852e310424cbc4610e6131198696",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
+      "id": "pull_next_chat",
+      "name": "Pull to Next Chat",
+      "author": "@dtfserega, Claude, Gemini",
+      "version": "1.1",
+      "icon": "Ff_t1/0",
+      "description": "Жест «потяни вверх — следующий чат» для каналов, групп, личных чатов и ботов / Pull-up gesture to the next unread chat",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pull_next_chat.plugin",
+      "hash": "9b3687954a45e8cb49ba52fc3418905854abd3d255313829e43e0bd86626dc81",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pull_next_chat/pull_next_chat_v1.0.0.plugin"
+        }
+      }
+    },
+    {
+      "id": "round_face_blur",
+      "name": "Round Face Blur",
+      "author": "@Dkaq1",
+      "version": "1.5",
+      "icon": "hfglhjkfgopkhjfgikoph/0",
+      "description": "Скрывает лица пиксельной мозаикой в видеокружках перед отправкой.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/round_face_blur.plugin",
+      "hash": "02ba7e57203dd4b2281d3059f03e3ff09ba7bca43988d691b5493dfba3393fc8",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.1.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.3.plugin"
+        },
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.4.plugin"
+        }
+      }
+    },
+    {
       "id": "settings_links",
       "name": "Settings Links",
       "author": "@shaeply",
@@ -382,31 +477,6 @@
       ]
     },
     {
-      "id": "round_face_blur",
-      "name": "Round Face Blur",
-      "author": "@Dkaq1",
-      "version": "1.4",
-      "icon": "hfglhjkfgopkhjfgikoph/0",
-      "description": "Скрывает лица пиксельной мозаикой в видеокружках перед отправкой.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/round_face_blur.plugin",
-      "hash": "ef42742b040cac457ab7a8abf5bfa2da01bdef29d93c735c0246068b141a8f1d",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.1.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.3.plugin"
-        }
-      }
-    },
-    {
       "id": "draft_shelf",
       "name": "Второй черновик",
       "author": "@rz3nx | @Sub5Plugins",
@@ -582,23 +652,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/commands/commands_v1.1.0.plugin"
         }
       }
-    },
-    {
-      "id": "plugin_exporter",
-      "name": "Plugin Exporter",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0.7",
-      "icon": "MaxExteraPluginsStickers/34",
-      "description": "Thanks: @chillden4ik, @oodze. Credits: @Playerqwe, @ArThirtyFour\n\n[EN]: A plugin for a quick, complete export of plugins and their data\nUsage: send the command .export in the chat, or go to: three dots -> Plugins -> Export plugins\n\n[RU]: Плагин для быстрого полного экспорта плагинов и их данных\nИспользование: отправьте команду .export в чате / в чате: три точки -> Плагины -> Экспорт плагинов",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_exporter.plugin",
-      "hash": "83e69b60e1957334481d2ee34c6df4ee52c29c11b7e31bd66e5de549e17b2034",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "pixel_eyes",
@@ -892,31 +945,6 @@
         },
         "1.1": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_cleaner/message_cleaner_v1.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "groq_transcriber_dop",
-      "name": "Groq Transcriber 2",
-      "author": "@n0white (Fork) | rebild by @Dkaq1",
-      "version": "4.10",
-      "icon": "aisdhjaiosdhoiuashd/0",
-      "description": "Расшифровывает голосовые, видеокружки и аудио- или видеофайлы через Groq Whisper. Результат показывается в окне; есть автоцитата для своих записей.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/groq_transcriber_dop.plugin",
-      "hash": "77d252c1c4d06098de660f83ace5a202e53faf72bde36e466d97bea6eb737b3b",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/groq_transcriber_dop/groq_transcriber_dop_v2.1.plugin"
-        },
-        "3.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/groq_transcriber_dop/groq_transcriber_dop_v3.3.plugin"
         }
       }
     },
@@ -1540,23 +1568,6 @@
       ]
     },
     {
-      "id": "pull_next_chat",
-      "name": "Pull to Next Chat",
-      "author": "@dtfserega Claude",
-      "version": "1.0.0",
-      "icon": "exteraPlugins/1",
-      "description": "Жест «потяни вверх — следующий чат» для каналов, групп, личных чатов и ботов / Pull-up gesture to the next unread chat",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pull_next_chat.plugin",
-      "hash": "69975fd768369d2a46d28dbe87f8c580f772d0f974ce8434fca58f65babed709",
-      "app_version": ">=13.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "ball",
       "name": "Ball",
       "author": "@RedPlugin",
@@ -2085,23 +2096,6 @@
       }
     },
     {
-      "id": "MaxTrace",
-      "name": "MaxTrace",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.1.4",
-      "icon": "chestertech/15",
-      "description": "MaxTrace — мощный детектор утечек, лагов и багов других плагинов (безопасная версия Culprit Detector [thx chestertech])",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/MaxTrace.plugin",
-      "hash": "504b2aa8882a15b4b01a357ef27fc963c276593c4b2fb897f6e8f50d378b1521",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "ndb",
       "name": "NavDrawerBackground",
       "author": "@ka1Plugins",
@@ -2449,131 +2443,6 @@
           "key_avatar_backgroundGreen"
         ]
       ]
-    },
-    {
-      "id": "scam_marker",
-      "name": "Scam Marker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.3",
-      "icon": "MaxExteraPluginsStickers/18",
-      "description": "Помечает распространителей вредоносных плагинов: красная метка в профиле, красный ник в списке чатов и в чате.\n\nБаза автоматически загружается из @exteragram_pidors.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/scam_marker.plugin",
-      "hash": "0fea9f91f7662dd4f697735287a5da1fcf389e57d8b1e91016b9104987ff65a1",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/scam_marker/scam_marker_v2.0.plugin"
-        },
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/scam_marker/scam_marker_v2.1.plugin"
-        }
-      }
-    },
-    {
-      "id": "max_music_stats",
-      "name": "Max Music Stats",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.3.11",
-      "icon": "MaxExteraPluginsStickers/33",
-      "description": "[RU]: Подробная статистика прослушивания музыки в Telegram: общее время, количество треков, графики активности за неделю, месяц и год, рекорды и топ песен дня.\n\n[EN]: Detailed music playback statistics in Telegram: total listening time, track count, activity charts for week, month, and year, records, and top songs of the day.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/max_music_stats.plugin",
-      "hash": "7733fa5cd985e029409f0f6e127222521372550a11ed48e1edb163fd771d595d",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_music_stats/max_music_stats_v1.1.0.plugin"
-        },
-        "1.3.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_music_stats/max_music_stats_v1.3.7.plugin"
-        }
-      }
-    },
-    {
-      "id": "custom_recent_reactions",
-      "name": "Custom Recent Reactions",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "3.0",
-      "icon": "MaxExteraPluginsStickers/25",
-      "description": "Replace the recent reactions in the message reaction panel with your own set.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_recent_reactions.plugin",
-      "hash": "c1f2ed19ac67064cebf141acf065c1059d0ee1611204da5e42e6119c36b61061",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v1.2.plugin"
-        },
-        "2.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/custom_recent_reactions/custom_recent_reactions_v2.4.plugin"
-        }
-      }
-    },
-    {
-      "id": "archiver",
-      "name": "Archiver",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.2",
-      "icon": "MaxExteraPluginsStickers/31",
-      "description": "[EN]: Automatic chat archiver: archive bots, channels, groups and more.\n\n[RU]: Автоматический архиватор: архивируйте ботов, каналы, группы и другое.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/archiver.plugin",
-      "hash": "38f5752bf7e002073f8b50b08e9246089082659100142ea5ee8079b354e6c4b4",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/archiver/archiver_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "unlinked_stickers",
-      "name": "Unlinked Stickers",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.4",
-      "icon": "MaxExteraPluginsStickers/26",
-      "description": "Send stickers from any pack as your own uploaded documents, detached from the original sticker set. \n\nIdea's author: @mishabotov",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/unlinked_stickers.plugin",
-      "hash": "f79122ba1d4c6c77d89de0cf82aeaf10c0abbbdc020e40a8b636b6425610c6e2",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlinked_stickers/unlinked_stickers_v1.0.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/unlinked_stickers/unlinked_stickers_v1.1.plugin"
-        }
-      }
     },
     {
       "id": "music_speed",
@@ -3045,40 +2914,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "participants_channels",
-      "name": "Participants Channels",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "5.2",
-      "icon": "MaxExteraPluginsStickers/19",
-      "description": "Adds a native Channels tab to group and channel profiles showing participants' personal channels.\n\nTap a channel = open channel.\nLong press = open owner profile.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/participants_channels.plugin",
-      "hash": "c49cbd1ba149e0b8fd0eb8406fb2091423fa0997c45cce4d98aea5912ae8ffe9",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.2.plugin"
-        },
-        "3.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.3.plugin"
-        },
-        "3.20": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v3.20_1.plugin"
-        },
-        "4.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v4.2.plugin"
-        },
-        "4.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/participants_channels/participants_channels_v4.4.plugin"
-        }
-      }
     },
     {
       "id": "Combined_Custom_Banner",
@@ -3873,65 +3708,6 @@
       "versions": {
         "2.0.23": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/direct_drop_send_fork/direct_drop_send_fork_v2.0.23.plugin"
-        }
-      }
-    },
-    {
-      "id": "plugin_update_checker",
-      "name": "Plugin Update Checker",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "3.3",
-      "icon": "MaxExteraPluginsStickers/24",
-      "description": "Checking for updates for your installed plugins from multiple channels.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_update_checker.plugin",
-      "hash": "133156d411176591f74a803789c61b540c8ea72ad8326de72690f512b81a68f8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.2.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v1.4.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/plugin_update_checker/plugin_update_checker_v2.0_1.plugin"
-        }
-      }
-    },
-    {
-      "id": "ExteraMax",
-      "name": "ExteraMax",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.5.6",
-      "icon": "MaxExteraPluginsStickers/30",
-      "description": "[EN]: Updated version of the «re:extera» plugin («ghost» mode, spy features, message filters, and much more).\n\n[RU]: Обновленная версия плагина «re:extera» (режим «призрака», функции шпиона, фильтры сообщений и многое другое).",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ExteraMax.plugin",
-      "hash": "5315c896af80f0da95da4518a8085387deb61722d54bae9a3e99d98ef6fbda64",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.0.0.plugin"
-        },
-        "1.5.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ExteraMax/ExteraMax_v1.5.0.plugin"
         }
       }
     },
@@ -7017,40 +6793,6 @@
       ]
     },
     {
-      "id": "notification_center",
-      "name": "Notification Center",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "4.6",
-      "icon": "MaxExteraPluginsStickers/10",
-      "description": "Discord-style notification center: saves replies to your messages and mentions of you.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/notification_center.plugin",
-      "hash": "aba9d4a22244b8f552b0e5f574e397b513cbe5161a4d287855e3fa0e29a0d3b9",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v1.9.plugin"
-        },
-        "1.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v3.6.plugin"
-        },
-        "3.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v3.8.plugin"
-        },
-        "4.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v4.3.plugin"
-        },
-        "4.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/notification_center/notification_center_v4.5.plugin"
-        }
-      }
-    },
-    {
       "id": "stars_unlock_rub",
       "name": "Stars Unlock & RUB",
       "author": "Kyle @NextTheFox (@Fox_Plugin)",
@@ -7356,23 +7098,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shortcuts/shortcuts_v1.3.1.plugin"
         }
       }
-    },
-    {
-      "id": "pause_voices",
-      "name": "Pause Voices",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/29",
-      "description": "[EN]: Tapping the (X) on a voice or video message (video note) no longer deletes it permanently; you can now save the message, cancel it, or pause sending. \n\n[RU]: Нажатие на крестик у голосового или видео сообщения (кружка) больше не удаляет его безвозвратно — сообщение можно сохранить, отменить или поставить отправку на паузу.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pause_voices.plugin",
-      "hash": "32594d237f97a2b7e143f3074eba86dcf35b48588dd5c47d8cda9a4702ecee6a",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "plugin_settings_translate",
@@ -7710,23 +7435,6 @@
       }
     },
     {
-      "id": "add_to_folder",
-      "name": "Add to Folder in Folders",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/14",
-      "description": "Shows the \\\"Add to folder\\\" button when selecting chats inside a folder, not only on the main screen.\n\nПоказывает кнопку «Добавить в папку» при выборе чатов внутри папки, а не только на главном экране.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/add_to_folder.plugin",
-      "hash": "e58bad5e0fd3b637d343a1f3a20e45155f2b260da7d9f95087ee18a1edc1c1de",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "personal_quick_reactions",
       "name": "Personal Quick Reactions",
       "author": "@itsbodyq",
@@ -7780,49 +7488,6 @@
         },
         "1.7": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/anixart_plugin/anixart_plugin_v1.7.plugin"
-        }
-      }
-    },
-    {
-      "id": "max_reextera",
-      "name": "MAX re:extera",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.4.0",
-      "icon": "MaxExteraPluginsStickers/22",
-      "description": "Ghost mode, spy features, message filters and more! Fork of famous plugin re:extera",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/max_reextera.plugin",
-      "hash": "40befa7e69a6d15edec968253c3c419e515cdfad11791a29207872ed1cc514e0",
-      "app_version": ">=12.8.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera.plugin"
-        },
-        "1.1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.1.0.plugin"
-        },
-        "1.3.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.0.plugin"
-        },
-        "1.3.13": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.13.plugin"
-        },
-        "1.3.14": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.14.plugin"
-        },
-        "1.3.25": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.25.plugin"
-        },
-        "1.3.52": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.52.plugin"
-        },
-        "1.3.54": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/max_reextera/max_reextera_v1.3.54.plugin"
         }
       }
     },
@@ -7970,23 +7635,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/gifter_avatar/gifter_avatar_v1.0.1.plugin"
         }
       }
-    },
-    {
-      "id": "fast_answers",
-      "name": "Fast Answers",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/28",
-      "description": "Fast answers for chats: start typing a message and a panel with ready answers appears above the keyboard.\n\nБыстрые ответы в чате: начните писать сообщение — над клавиатурой появится панель с готовыми ответами.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/fast_answers.plugin",
-      "hash": "04be09635431647ac191937cb9e9a325319563fa07d8339942212aca1f77970c",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "browser_shortcut",
@@ -8199,28 +7847,6 @@
       }
     },
     {
-      "id": "shareui_dkta_fixed",
-      "name": "Don't kill the download! [fixed]",
-      "author": "@itNotMax - @MaxExteraPlugins, original: @shareui",
-      "version": "1.10",
-      "icon": "MaxExteraPluginsStickers/27",
-      "description": "[fixed by @maxExteraPlugins] Continues downloading files in the background when exiting the chat.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/shareui_dkta_fixed.plugin",
-      "hash": "fe3e38f7941932f7c7806e5f704cc2c152764b94d2ac1067f6ec58e479119dd7",
-      "app_version": ">=12.2.10",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/shareui_dkta_fixed/shareui_dkta_fixed_v1.9.plugin"
-        }
-      }
-    },
-    {
       "id": "tgws",
       "name": "TG-WS",
       "author": "@la_cringe | @dmkrjplug",
@@ -8308,37 +7934,6 @@
         },
         "2.0.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/music_uploader/music_uploader_v2.0.0.eaf"
-        }
-      }
-    },
-    {
-      "id": "read_all",
-      "name": "Read All",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.10",
-      "icon": "MaxExteraPluginsStickers/0",
-      "description": "Добавляет кнопку «Прочитать всё»: по нажатию все сообщения помечаются как прочитанные.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/read_all.plugin",
-      "hash": "c8922a3ff706473dc71422a48c6e849c6d024ec4013f28dd608e0fb90e584670",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.0.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.2_1.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.4.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/read_all/read_all_v1.5.plugin"
         }
       }
     },
@@ -8692,40 +8287,6 @@
       ]
     },
     {
-      "id": "temp_sub",
-      "name": "TempSub",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "3.1.0",
-      "icon": "MaxExteraPluginsStickers/5",
-      "description": "Временные подписки на каналы с автоматической отпиской по расписанию.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/temp_sub.plugin",
-      "hash": "6e69e7ca25fe383a0cebb8c9baed9cd270b77ffe77280aa6e71f898d977781d0",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.3.plugin"
-        },
-        "1.3": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.4.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v1.5.plugin"
-        },
-        "2.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.2.plugin"
-        },
-        "2.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/temp_sub/temp_sub_v2.4_1.plugin"
-        }
-      }
-    },
-    {
       "id": "RGBD",
       "name": "RGBD",
       "author": "@RoflPlugins",
@@ -8744,62 +8305,6 @@
       "versions": {
         "1.0.4": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/RGBD/RGBD_v1.0.4.plugin"
-        }
-      }
-    },
-    {
-      "id": "pill_stack_to_header",
-      "name": "Pill Stack to Header",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "3.0",
-      "icon": "MaxExteraPluginsStickers/18",
-      "description": "Перемещает Pill Stack из строки поиска на панель главного экрана.\n\n**Ссылка на документацию в настройках плагина!**",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/pill_stack_to_header.plugin",
-      "hash": "15171b7ee086117f946741b541721e54e7bb080ca4278ec47a4ccde0074d050a",
-      "app_version": ">=12.1.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.1.plugin"
-        },
-        "2.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header.plugin"
-        },
-        "2.13": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/pill_stack_to_header/pill_stack_to_header_v2.13.plugin"
-        }
-      }
-    },
-    {
-      "id": "media_folders",
-      "name": "Media Folders",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "3.0",
-      "icon": "MaxExteraPluginsStickers/20",
-      "description": "Adds folder tabs to GIF, Sticker, and Emoji panels for organizing your media into custom categories.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/media_folders.plugin",
-      "hash": "19d020c447a03edd803779aaf58196feb373a48b9a10760d50c1912314774f77",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v1.0.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v2.0_1.plugin"
-        },
-        "2.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_folders/media_folders_v2.1.plugin"
         }
       }
     },
@@ -9390,37 +8895,6 @@
       }
     },
     {
-      "id": "wide_messages",
-      "name": "Wide Messages",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.2",
-      "icon": "MaxExteraPluginsStickers/6",
-      "description": "Attempts to expand messages to fill the entire chat.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/wide_messages.plugin",
-      "hash": "3f01dcdac477b9ea5a32e0b9bacda831cf17031a5dcc632ffd3a518c679eb7e1",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v1.9.plugin"
-        },
-        "1.12": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v1.12.plugin"
-        },
-        "1.13": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/wide_messages/wide_messages_v2.0.plugin"
-        }
-      }
-    },
-    {
       "id": "voice_changer_rt",
       "name": "Voice Changer RT",
       "author": "@mraniv & @anivplugins",
@@ -9514,23 +8988,6 @@
       "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/device_music_controller.plugin",
       "hash": "280f7fde5701d5330254b00638f73b92fec9f7a723704c0f04164266095d1c69",
       "app_version": ">=11.9.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "delete_from_gallery",
-      "name": "Delete From Gallery",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/23",
-      "description": "Adds a Delete button to the attachment media picker menu.\nPermanently removes selected photos/videos from the device gallery.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/delete_from_gallery.plugin",
-      "hash": "6e326405033853d1cf113f005388e66a1379c38b7c926a5f4aa2b171a0e815fb",
-      "app_version": ">=12.0.1",
       "tags": [
         [
           "Utilities",
@@ -10189,28 +9646,6 @@
       ]
     },
     {
-      "id": "todo_list",
-      "name": "Todo List",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.4",
-      "icon": "MaxExteraPluginsStickers/21",
-      "description": "[eng] Interactive task lists in chat. Create: attachment menu → Todo List. Toggle: tap task in card. Edit: tap Edit button or long-press message → Todo List. Customize done/pending markers in settings.\n[ru] Интерактивные списки задач в чате. Создать: три точки в чате → Todo List. Отметить: нажать на задачу в карточке. Редактировать: кнопка Edit или зажать сообщение → Todo List. Маркеры настраиваются в настройках.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/todo_list.plugin",
-      "hash": "47ef89f299400b81694f2f36112c323e5942ca8abebbb5c814ee99bd629384eb",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/todo_list/todo_list_v1.2.plugin"
-        }
-      }
-    },
-    {
       "id": "floating_attach_button",
       "name": "Floating Attach Button",
       "author": "@anivplugins",
@@ -10226,43 +9661,6 @@
           "key_avatar_backgroundViolet"
         ]
       ]
-    },
-    {
-      "id": "search_bar_control",
-      "name": "Search Bar Control",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "4.0",
-      "icon": "MaxExteraPluginsStickers/3",
-      "description": "Pins the search bar on the main page and helps collapse stories.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/search_bar_control.plugin",
-      "hash": "01d5600f8bb691d5d4ad166b372e94d744f8d7464d79295ac2f0e3b97604b8d8",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v1.5.plugin"
-        },
-        "1.5": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v2.0.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.2.plugin"
-        },
-        "3.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.6.plugin"
-        },
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v1.0.plugin"
-        },
-        "3.9": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/search_bar_control/search_bar_control_v3.9.plugin"
-        }
-      }
     },
     {
       "id": "card_reading",
@@ -10340,28 +9738,6 @@
           "key_avatar_background2Cyan"
         ]
       ]
-    },
-    {
-      "id": "read_any",
-      "name": "Read Any",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.8",
-      "icon": "MaxExteraPluginsStickers/13",
-      "description": "Позволяет прочитать выбранные чаты одной кнопкой или автоматически. Добавляйте чаты через меню трех точек в чате (⋮ → Плагины). Управляйте через настройки плагина.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/read_any.plugin",
-      "hash": "147386d8e2692da8f50270e94b392e0efb8203cfdeedbc99c4655866b0fd1b3e",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/read_any/read_any_v1.4.plugin"
-        }
-      }
     },
     {
       "id": "ayu_rofls",
@@ -10447,28 +9823,6 @@
       ]
     },
     {
-      "id": "gif_folders",
-      "name": "GIF Folders",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.1",
-      "icon": "MaxExteraPluginsStickers/20",
-      "description": "Adds folder tabs to the GIF panel for organizing your GIFs into custom categories.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/gif_folders.plugin",
-      "hash": "412f7d3d4d888b7c0a170794c8bb3b8832c486ab441322d1cafdb039376d06c3",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/gif_folders/gif_folders_v2.0.plugin"
-        }
-      }
-    },
-    {
       "id": "big_reactions",
       "name": "Big Reactions",
       "author": "@huecoder",
@@ -10523,31 +9877,6 @@
       "versions": {
         "2.0": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/smart_sender/smart_sender_v2.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "folder_control",
-      "name": "Folder Control",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.8",
-      "icon": "MaxExteraPluginsStickers/14",
-      "description": "Управление скрытием/отображением папок",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/folder_control.plugin",
-      "hash": "b6b9005d632382100b8b3f51a2db6ec3bdd4b1c3957102a893d79c30b5259cae",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "2.7": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/folder_control/folder_control_v2.6.plugin"
-        },
-        "2.6": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/folder_control/folder_control_v2.7.plugin"
         }
       }
     },
@@ -10651,28 +9980,6 @@
         },
         "1.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/media_glow/media_glow_v1.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "status_adder",
-      "name": "Status Adder",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.9",
-      "icon": "MaxExteraPluginsStickers/16",
-      "description": "Позволяет добавлять кастомные статусы в стиле Discord в качестве имени и быстро переключаться между ними. \n\nСсылка на документацию в настройках плагина!",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/status_adder.plugin",
-      "hash": "014f699a089c5ff57a8cab23477041b4b40ede37bb68c54cadfa1cb281901de5",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/status_adder/status_adder_v1.0.plugin"
         }
       }
     },
@@ -10938,23 +10245,6 @@
       }
     },
     {
-      "id": "auto_scroll",
-      "name": "Auto Scroll",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.2",
-      "icon": "MaxExteraPluginsStickers/17",
-      "description": "Автоматическая прокрутка сообщений в чатах.\n\nАктивация: (⋮) → Плагины → Auto Scroll в любом чате.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/auto_scroll.plugin",
-      "hash": "8f4fcf9170ed1861f6d466c599b512a209c010ad6267b41e48903fdf8c25c196",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Fun",
-          "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
       "id": "tg_linkkit",
       "name": "TG LinkKit",
       "author": "@qzy_moderator",
@@ -10970,37 +10260,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "audio_router",
-      "name": "Audio Router",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.8",
-      "icon": "MaxExteraPluginsStickers/1",
-      "description": "Принудительно устанавливает раздельные устройства звука и гибко управляет тишиной.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/audio_router.plugin",
-      "hash": "bfbde58729ebf9ad4d4df19dec3dca115a8bc040a859cda3c941d86ef5a04a67",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.1.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.2.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.3.plugin"
-        },
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/audio_router/audio_router_v1.4.plugin"
-        }
-      }
     },
     {
       "id": "chat_member_parser",
@@ -11384,23 +10643,6 @@
       }
     },
     {
-      "id": "plugin_share",
-      "name": "Plugin Share",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "2.0",
-      "icon": "MaxExteraPluginsStickers/12",
-      "description": "Share all installed plugins at once to any chat.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/plugin_share.plugin",
-      "hash": "84ec09b1bf6d0f71ecb65455c07e3087064b244a9a48ce4e98325be4159991d9",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
       "id": "nes_emulator",
       "name": "NesEMU",
       "author": "@binbash_0",
@@ -11448,23 +10690,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "custom_shortcuts",
-      "name": "Custom Shortcuts",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/8",
-      "description": "Create a client shortcut with a custom name and icon",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/custom_shortcuts.plugin",
-      "hash": "4b2bde2f9eaa6b89b3ae5e0020465007d9f087cf41a53f1c6bdaa4db317d72b0",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
@@ -11537,45 +10762,6 @@
         [
           "Fun",
           "key_avatar_background2Cyan"
-        ]
-      ]
-    },
-    {
-      "id": "ege_trainer",
-      "name": "ЕГЭ Тренер",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.4",
-      "icon": "MaxExteraPluginsStickers/4",
-      "description": "Решение заданий для подготовки к ЕГЭ с ege.sdamgia.ru, а также статистика",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ege_trainer.plugin",
-      "hash": "4e4863fbbaab34fa7247b52d656dbaba65cbefe1fe95a5587dac7b4e3e48f56a",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ege_trainer/ege_trainer_v1.0.plugin"
-        }
-      }
-    },
-    {
-      "id": "mute_master",
-      "name": "Mute Master",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/7",
-      "description": "Глобальное отключение/включение **всех** уведомлений одним переключателем.\n\nСохраняет ваши текущие настройки и восстанавливает их при выключении.\n\nНе требует фоновой работы.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/mute_master.plugin",
-      "hash": "dd423cef01d7f35a6a1fccf30ce7e065ec8e69ee7205457e5c09d5325f162ed4",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
         ]
       ]
     },
@@ -11693,23 +10879,6 @@
         [
           "Utilities",
           "key_avatar_background2Orange"
-        ]
-      ]
-    },
-    {
-      "id": "hide_pinned_messages",
-      "name": "HidePins",
-      "author": "@itNotMax - @MaxExteraPlugins",
-      "version": "1.0",
-      "icon": "MaxExteraPluginsStickers/2",
-      "description": "Скрывает панель закреплённых сообщений в чатах",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/hide_pinned_messages.plugin",
-      "hash": "35014278b925416fc2e2a222b8da65cff2ff51560b3a815b9c8d0919e381e864",
-      "app_version": ">=11.12.0",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
         ]
       ]
     },
