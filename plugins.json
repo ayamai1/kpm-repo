@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "soundpad",
+      "name": "Soundpad",
+      "author": "@van1lLove",
+      "version": "0.3.9",
+      "icon": "VanilPluginIcons/1",
+      "description": "Панель звуков во время записи голосового, кружка и в звонке.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/soundpad.plugin",
+      "hash": "ac93bb74c2e59fb9cd0015a816adc694f40943c23c947db57e51de5c9890e35d",
+      "app_version": ">=12.5.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ]
+    },
+    {
       "id": "auto_read",
       "name": "Auto Read",
       "author": "~GRED~(@GREDpl) модификацияот @l_Nuril_l",
