@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "water_sort_get_color",
+      "name": "Пробирки: Get Color 🧪",
+      "author": "@the_kubicki",
+      "version": "1.2.0",
+      "icon": "Kubick_Plugin_by_fStikBot/4",
+      "description": "Головоломка «пробирки колбочки»:",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/water_sort_get_color.plugin",
+      "hash": "5a1dd2ff28e4fec2d9b5a11e1b059fadd070fc1f6bf9fbb63c8732404fece6d4",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Fun",
+          "key_avatar_background2Cyan"
+        ]
+      ]
+    },
+    {
       "id": "soundpad",
       "name": "Soundpad",
       "author": "@van1lLove",
