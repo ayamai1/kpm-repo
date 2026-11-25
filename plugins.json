@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "settings_links",
+      "name": "Settings Links",
+      "author": "@shaeply",
+      "version": "1.1",
+      "icon": "TgAndroidIcons/37",
+      "description": "Поддержка отправки и копирования ссылок tg://settings как у exteraGram",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_links.plugin",
+      "hash": "54658d9a82bc0c7322887399928f30515936d8977565cccf44ee7fdd03d5c1d9",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/settings_links/settings_links_v1.0.plugin"
+        }
+      }
+    },
+    {
       "id": "SearchID",
       "name": "SearchID",
       "author": "@jxbplug",
@@ -116,23 +138,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/round_face_blur/round_face_blur_v1.4.plugin"
         }
       }
-    },
-    {
-      "id": "settings_links",
-      "name": "Settings Links",
-      "author": "@shaeply",
-      "version": "1.0",
-      "icon": "TgAndroidIcons/37",
-      "description": "Поддержка отправки и копирования ссылок tg://settings как у exteraGram",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/settings_links.plugin",
-      "hash": "fbfacba3c025d11c002de43c2c27ecca80ee68a996ec9f6af93752b1974129f6",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ]
     },
     {
       "id": "water_sort_get_color",
