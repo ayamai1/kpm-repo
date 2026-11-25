@@ -1,6 +1,31 @@
 {
   "plugins": [
     {
+      "id": "visual_ecstasy",
+      "name": "Visual Ecstasy",
+      "author": "@exoseo -> @HzzzPlugins",
+      "version": "1.6",
+      "icon": "HzzzIcons/7",
+      "description": "Различная визуальная кастомизация: разноцветный liquid glass, виньетка и тд",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/visual_ecstasy.plugin",
+      "hash": "f42e81ea1e1716b8f12b8005afe5cb692c930b8de38cc62a0a520b91968d4264",
+      "app_version": ">=12.10.6",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.4": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/visual_ecstasy/visual_ecstasy_v1.4.plugin"
+        },
+        "1.5": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/visual_ecstasy/visual_ecstasy_v1.5.plugin"
+        }
+      }
+    },
+    {
       "id": "translate_search_float",
       "name": "外语链接网页翻译",
       "author": "作者 @ZephyrsPath @Mkataba @dQvQp",
@@ -6259,28 +6284,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "visual_ecstasy",
-      "name": "Visual Ecstasy",
-      "author": "@exoseo -> @HzzzPlugins",
-      "version": "1.5",
-      "icon": "HzzzIcons/7",
-      "description": "Различная визуальная кастомизация: разноцветный liquid glass, виньетка и тд..",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/visual_ecstasy.plugin",
-      "hash": "434d48caffe2bc5d016e8a716493dd32e58283191e1b0551bbd0b4a1fb62ee3c",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.4": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/visual_ecstasy/visual_ecstasy_v1.4.plugin"
-        }
-      }
     },
     {
       "id": "panic_passcode_pro",
