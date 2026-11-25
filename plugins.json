@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "ios_profile_v2",
+      "name": "iOS Profile V2",
+      "author": "@nufxa",
+      "version": "7.14.0",
+      "icon": "exteraPlugins/1",
+      "description": "Дизайн профилей в стиле Telegram для iOS: единый фон с цветами профиля и аватарки, нативное размытие и блики, круглые кнопки действий, интерактивные 3D-пузыри подарков и анимация под музыку. GPU-размытие работает на Android 12+, преломление — на Android 13+ (на более старых версиях Android автоматически используется упрощённый режим).",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_profile_v2.plugin",
+      "hash": "24d80d0e5bba2800abd7a1de826e62a2c242cc056fabd4b074911351ef137633",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "7.13.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_profile_v2/ios_profile_v2_v7.13.0.plugin"
+        }
+      }
+    },
+    {
       "id": "tg-streaks",
       "name": "Streaks",
       "author": "@n08i40k_extera & @RoflPlugins",
@@ -81,23 +103,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.22.0.plugin"
         }
       }
-    },
-    {
-      "id": "ios_profile_v2",
-      "name": "iOS Profile V2",
-      "author": "@nufxa",
-      "version": "7.13.0",
-      "icon": "exteraPlugins/1",
-      "description": "Дизайн профилей в стиле Telegram для iOS: единый фон с цветами профиля и аватарки, нативное размытие и блики, круглые кнопки действий, интерактивные 3D-пузыри подарков и анимация под музыку. GPU-размытие работает на Android 12+, преломление — на Android 13+ (на более старых версиях Android автоматически используется упрощённый режим).",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_profile_v2.plugin",
-      "hash": "99298d8f13014d4afd0e89822104f5d0012a6f18ee0068182a7c7c1ee4584865",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "bottom_bar_customizer",
