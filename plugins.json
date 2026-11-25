@@ -1,6 +1,28 @@
 {
   "plugins": [
     {
+      "id": "bottom_bar_customizer",
+      "name": "Bottom Bar Customizer",
+      "author": "@nufxa",
+      "version": "1.9.1",
+      "icon": "exteraPlugins/1",
+      "description": "Настройка нижней панели Telegram: выбор и порядок вкладок, пресеты, стиль капсулы и живой предпросмотр поверх чатов.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bottom_bar_customizer.plugin",
+      "hash": "c27b92bb6ec2d5d927d69b4039028acce6f020feedd6b4aa942c2228ee916db0",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.9.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/bottom_bar_customizer/bottom_bar_customizer_v1.9.0.plugin"
+        }
+      }
+    },
+    {
       "id": "ios_profile_v2",
       "name": "iOS Profile V2",
       "author": "@nufxa",
@@ -103,23 +125,6 @@
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/tg-streaks/tg-streaks_v2.22.0.plugin"
         }
       }
-    },
-    {
-      "id": "bottom_bar_customizer",
-      "name": "Bottom Bar Customizer",
-      "author": "@nufxa",
-      "version": "1.9.0",
-      "icon": "exteraPlugins/1",
-      "description": "Настройка нижней панели Telegram: выбор и порядок вкладок, пресеты, стиль капсулы и живой предпросмотр поверх чатов.",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/bottom_bar_customizer.plugin",
-      "hash": "b446c4247ec9d1244793c8938ef036e26d2e0ff1576941bc595b3ac31c37e042",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ]
     },
     {
       "id": "download_eta",
