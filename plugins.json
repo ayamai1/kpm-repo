@@ -1,6 +1,23 @@
 {
   "plugins": [
     {
+      "id": "wallet_bank_cards",
+      "name": "Wallet Bank Cards",
+      "author": "@nufxa",
+      "version": "2.0.3",
+      "icon": "exteraPlugins/1",
+      "description": "Оформление 3D-карты баланса в профиле под банковские карты России, Украины, Латвии и мира. Выбор дизайна прямо под картой, настройка эффектов и сохранение вашей карты в боте @exterawalletcardsbot, чтобы её видели другие пользователи плагина.",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/wallet_bank_cards.plugin",
+      "hash": "53e3e5c20d2110563bf765a09f58aada26d64d10c3ea182d6a6be1f2ece6d405",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ]
+    },
+    {
       "id": "liquid_glass",
       "name": "Liquid Glass [Fork]",
       "author": "@PluginProject · @w3b_0s1nt",
