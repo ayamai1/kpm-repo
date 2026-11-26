@@ -1,6 +1,62 @@
 {
   "plugins": [
     {
+      "id": "message_undo",
+      "name": "Message Undo",
+      "author": "@dekma0091",
+      "version": "1.4",
+      "icon": "pixelcamera/11",
+      "description": "Добавляет кнопку с таймером, которая позволяет удалить последнее отправленное сообщение",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_undo.plugin",
+      "hash": "375678d47b4142298e89683cf7ac27d43c6eaa0664105680edfdb56b27380b49",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Utilities",
+          "key_avatar_background2Orange"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.1.plugin"
+        },
+        "1.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.2.plugin"
+        },
+        "1.3": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.3.plugin"
+        }
+      }
+    },
+    {
+      "id": "photo_picker_plus",
+      "name": "Photo Picker Plus",
+      "author": "@dekma0091 && @DefinitelyNotDekma",
+      "version": "1.2",
+      "icon": "pixelcamera/15",
+      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
+      "hash": "8af0e1cb2c0be30e10d509431e091638f4907813c86ba27841701a6f1d7ebf15",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0_2.plugin"
+        },
+        "1.1": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.1.plugin"
+        }
+      }
+    },
+    {
       "id": "spam_collapse",
       "name": "Spam Collapse",
       "author": "@dekma0091",
@@ -4138,56 +4194,6 @@
         },
         "2.2": {
           "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/camera_enhancer/camera_enhancer_v2.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "message_undo",
-      "name": "Message Undo",
-      "author": "@dekma0091",
-      "version": "1.3",
-      "icon": "pixelcamera/11",
-      "description": "Добавляет кнопку с таймером, которая позволяет удалить последнее отправленное сообщение",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/message_undo.plugin",
-      "hash": "4eba44b7d32766c9ebcf2083b2147d19f0003b3e161637242af44495357431bc",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Utilities",
-          "key_avatar_background2Orange"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/Message undo_v1.0.plugin"
-        },
-        "1.1": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.1.plugin"
-        },
-        "1.2": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/message_undo/message_undo_v1.2.plugin"
-        }
-      }
-    },
-    {
-      "id": "photo_picker_plus",
-      "name": "Photo Picker Plus",
-      "author": "@dekma0091 && @DefinitelyNotDekma",
-      "version": "1.1",
-      "icon": "pixelcamera/15",
-      "description": "Улучшает офф ТГ фотопикер, добавляет информативные пиллы, даты, тулбар с кастомными папками",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/photo_picker_plus.plugin",
-      "hash": "7acdead0cb0ac1ac4589df353044a58722379bb595e954bcaaa09ffe90e53b6a",
-      "app_version": ">=12.5.1",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/photo_picker_plus/photo_picker_plus_v1.0_2.plugin"
         }
       }
     },
