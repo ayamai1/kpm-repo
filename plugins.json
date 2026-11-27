@@ -1,6 +1,33 @@
 {
   "plugins": [
     {
+      "id": "ios_overscroll",
+      "name": "iOS Overscroll",
+      "author": "@nlvxm",
+      "version": "2.3",
+      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
+      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
+      "hash": "9bb30affdb87881d65c04695f0561b17c358aeba483655f537b5d9262bf52fcf",
+      "app_version": ">=13.1.1",
+      "tags": [
+        [
+          "Customization",
+          "key_avatar_backgroundViolet"
+        ]
+      ],
+      "versions": {
+        "1.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v1.0.plugin"
+        },
+        "2.0": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v2.0.plugin"
+        },
+        "2.2": {
+          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v2.2.plugin"
+        }
+      }
+    },
+    {
       "id": "md3_navbars_everywhere",
       "name": "MD3 Navbars Everywhere",
       "author": "@Slucket",
@@ -1069,30 +1096,6 @@
           "key_avatar_background2Orange"
         ]
       ]
-    },
-    {
-      "id": "ios_overscroll",
-      "name": "iOS Overscroll",
-      "author": "@nlvxm",
-      "version": "2.2",
-      "description": "плавный и пружинистый скроллинг списков как в iOS, добавляет rubberband эффект при оверскроллинге\n\nsmooth and springy iOS-like list scrolling, adds rubberband effect on overscrolling",
-      "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/Plugins/ios_overscroll.plugin",
-      "hash": "1462af05a038b86a1c2e3cdb5d0f46995f27ae0ea07fc9c446295caef2b89304",
-      "app_version": ">=12.10.6",
-      "tags": [
-        [
-          "Customization",
-          "key_avatar_backgroundViolet"
-        ]
-      ],
-      "versions": {
-        "1.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v1.0.plugin"
-        },
-        "2.0": {
-          "link": "https://raw.githubusercontent.com/Kangel-Plugins/Plugins-Store/main/legacy_versions/ios_overscroll/ios_overscroll_v2.0.plugin"
-        }
-      }
     },
     {
       "id": "yandex_pogoda",
